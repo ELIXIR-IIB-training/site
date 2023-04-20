@@ -1,6 +1,15 @@
 ---
-title: Index page
+search_exclude: true
+layout: none
 ---
 
+<!doctype html>
+<html lang="en">
+{% include head.html %}
 
-This page serves as a landing page.
+<body id="main">
+    {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
+    {% include topnav.html search=false %}
+</body>
+
+</html>
