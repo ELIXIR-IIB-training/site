@@ -22,7 +22,14 @@ defaults:
       permalink: /:basename
       layout: "page"
       sidebar: main
-
+      
+  - 
+   scope:
+    path: "events"
+    type: "pages"
+   values:
+    type: events
+    
 plugins:
   - jemoji
   - jekyll-sitemap
