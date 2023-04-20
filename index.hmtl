@@ -5,11 +5,21 @@ layout: none
 
 <!doctype html>
 <html lang="en">
-{% include head.html %}
 
-<body id="main">
-    {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
-    {% include topnav.html search=false %}
+
+<body>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </body>
 
 </html>
