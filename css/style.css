@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.panel{
+    width:30%;
+    margin: 4px;
+    background-color: orange;
+    color:white;
+    padding: 10px;
+    border: 4px solid black;
+    box-sizing: border-box;
+}
