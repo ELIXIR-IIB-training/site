@@ -22,7 +22,7 @@ section {
 header nav {
   background-color: #333;
   display: flex;
-  justify-content: space-between;
+  justify-content: right;
   padding: 10px;
 }
 nav a {
