@@ -11,7 +11,11 @@ remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
 
 exclude:
   - README.md
+  - .gitignore
+  - var/
   - vendor
+  - Gemfile*
+  - LICENSE
 
 defaults:
   -
