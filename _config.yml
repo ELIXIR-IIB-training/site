@@ -1,7 +1,7 @@
-title: Try&error
+title: Try&error1
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title:Try&error2
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
 description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
