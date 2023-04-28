@@ -16,8 +16,24 @@ exclude:
   - vendor
   - Gemfile*
   - LICENSE
-  
-  
+
+permalink: /:categories/:year/:month/:day/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      sidebar: main
+      
+      
+  -
+    scope:
+      path: "training_courses"
+      type: "pages"
+    values:
+      type: training_courses  
 
     
 plugins:
