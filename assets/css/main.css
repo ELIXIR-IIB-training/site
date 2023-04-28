@@ -96,14 +96,6 @@ body {
     -webkit-tap-highlight-color: transparent
 }
 
-.red {
-
-  background-color: red;
-  display: flex;
-  justify-content: space-between;
-  padding: 10px;
-}
-
 hr {
     margin: 1rem 0;
     color: inherit;
