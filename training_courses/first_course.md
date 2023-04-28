@@ -1,1 +1,1 @@
-This page contains all the courses!
+This site is under construction!
