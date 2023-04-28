@@ -1,0 +1,42 @@
+---
+search_exclude: true
+layout: none
+---
+
+<!doctype html>
+<html lang="en">
+{% include head.html %}    
+
+<body>
+ <section class="container mb-5">
+        <div class="card border border-primary text-primary text-center">
+            <div class="card-body">
+                <h5 class="card-title fs-3">This website is under construction</h5>
+                
+            </div>
+        </div>
+    </section>
+  
+  <br>
+  <br>
+    <div class="landingpage">
+     <section class="container mb-5">
+      <div class="card border border-primary text-primary text-center">
+                Roma
+      </div>
+        
+     </section>
+    </div>
+    
+    
+<div class="red">
+    
+  <button>Puh!</button>
+ </div>
+    
+    
+{% include footer.html %}    
+    
+</body>
+
+</html>
