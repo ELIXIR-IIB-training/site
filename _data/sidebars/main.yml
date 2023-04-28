@@ -3,5 +3,8 @@ title_url: /index
 subitems:
   - title: Training Courses
     url: /training_courses/
+    
+  - title: Events
+    url: /events/
 
   
