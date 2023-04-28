@@ -4,7 +4,7 @@ title: Try&error1
 topnav_title: Try&error2
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "Italian elixir platform of training"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
