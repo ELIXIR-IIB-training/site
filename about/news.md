@@ -3,4 +3,4 @@ title: News
 custom_editme: _data/news.yml
 ---
 
-{% include news.html %}
+/*{% include news.html %}*/
