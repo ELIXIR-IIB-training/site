@@ -1,5 +1,5 @@
 ---
-title: Example page
+title: about us
 ---
 
-This page serves as an example page.
+This page is under construction.
