@@ -7,7 +7,7 @@ topnav_title: Try&error21
 description: "Italian elixir platform of training zazan!"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
 
 exclude:
   - README.md
