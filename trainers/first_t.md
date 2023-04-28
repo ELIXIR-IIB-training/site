@@ -1,1 +1,1 @@
-This page contains all the trainers!
+This site is under construction!
