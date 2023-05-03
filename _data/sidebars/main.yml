@@ -3,6 +3,7 @@ title_url: /index
 subitems:
   - title: Training Courses
     url: /training_courses/
+    image_url: /assets/img/section-icons/training_courses.png
     
   - title: Events
     url: /events/
