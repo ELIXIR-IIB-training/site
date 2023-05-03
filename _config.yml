@@ -41,7 +41,25 @@ defaults:
       type: "pages"
     values:
       type: events  
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 plugins:
   - jemoji
   - jekyll-sitemap
