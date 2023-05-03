@@ -3,7 +3,7 @@ $font-family-theme: 'IBM Plex Sans', sans-serif;
 $h2-color: $primary;
 
 /*-----Top navigation-----*/
-$topnav-title-color: $black;
+$topnav-title-color: $dark;
 $topnav-brand-height: 50px;
 
 /*-----Sidebar-----*/
