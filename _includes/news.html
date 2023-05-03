@@ -1,0 +1,37 @@
+<div class="news">
+  {%- if include.title == true %}
+  <h2>What's new?</h2>
+  {%- endif %}
+  {%- assign news = site.data.news | sort: "date" %}
+  {%- assign count = 0 %}
+  <ul class="list-unstyled mt-3">
+    {%- for new in news reversed%}
+    <li>
+      <span class="title mb-1">{{ new.name | escape }}</span>
+      <p class="text-muted"><i class="far fa-calendar me-2"></i><time>{{ new.date | date_to_long_string }}</time>{% if new.linked_pr %} - <i class="fa-solid fa-code-branch"></i><a href="{{ site.github.repository_url | append: '/pull/' | append: new.linked_pr }}">{{new.linked_pr }}</a>{% endif %}</p>
+      {%- if new.description %}
+      {%- assign word_count = new.description | split: " " | size %}
+      {%- if include.truncate == true and word_count > 40 %}
+      <p class="mb-0"><a data-bs-toggle="collapse" href="#collapse-{{count}}" role="button" aria-expanded="false" aria-controls="collapse-{{count}}">
+        View description
+      </a>
+      </p>
+      <div class="full-description collapse" id="collapse-{{count}}">
+        {{ new.description | markdownify }}
+      </div>
+      {%- else %}
+      {{ new.description | markdownify }}
+      {%- endif %}
+      {%- endif %}
+    </li>
+    {%- assign count = count | plus: 1 %}
+    {%- if include.limit and count == include.limit %}
+    {%- break %}
+    {%- endif %}
+    {%- endfor %}
+  </ul>
+  {%- if include.caption == true %}
+  {%- assign caption_url = include.caption_url | default: "/news" %}
+  <small>For more news please visit our <a href="{{ caption_url | relative_url }}">news page</a>.</small>
+  {%- endif %}
+</div>
