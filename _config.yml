@@ -33,8 +33,14 @@ defaults:
       path: "training_courses"
       type: "pages"
     values:
-      type: training_courses  
-
+      type: training_courses 
+      
+  -
+    scope:
+      path: "events"
+      type: "pages"
+    values:
+      type: events  
     
 plugins:
   - jemoji
