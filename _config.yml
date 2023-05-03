@@ -41,6 +41,12 @@ defaults:
       type: "pages"
     values:
       type: events  
+  -   
+    scope:
+      path: "trainers"
+      type: "pages"
+    values:
+      type: trainers
 
 
 
