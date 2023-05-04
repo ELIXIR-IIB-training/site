@@ -14,7 +14,7 @@ columns:
   - type: links
     width: 3
     children: 
-      - url_text: About us
+      - url_text: About
         url: /about
   - type: image
     image_width: 88px
