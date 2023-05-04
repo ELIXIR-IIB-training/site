@@ -3,6 +3,7 @@ title: Gene Ontology
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 contributors: []
 page_id: go_2023
+sort: 3
 ---
 
 
