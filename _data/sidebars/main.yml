@@ -4,6 +4,9 @@ subitems:
   - title: Training Courses
     url: /training_courses/
     image_url: /assets/img/section-icons/training_courses.svg
+    subitems: 
+      - title: Gene Ontology
+        url: /training_courses/2023-05-03-Gene_Ontology
     
   - title: Events
     url: /events/
