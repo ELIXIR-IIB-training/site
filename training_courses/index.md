@@ -2,7 +2,7 @@
 title: Training Courses
 ---
 
-{% include section-navigation-tiles.html type="training_courses" search="true" %}
+{% include section-navigation-tiles.html type="socioeconomic_data" search="true" except="index.md" %}
 
 
 prova
