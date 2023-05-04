@@ -2,9 +2,7 @@
 title: About
 ---
 
-
-![ELIXIR logo](assets/img/elixir_logo.svg)
-<br><br>
+{% include image.html file="infrastructures/ELIXIR-logo.svg" alt="ELIXIR logo" max-width="3em" %}
 
 The ELIXIR-IIB Training Platform is building a thriving community who strongly believes that quality training in bioinformatics is essential to achieve excellence in life science research. Thanks to a very motivated group of people, our programme is engaging an increasing number of passionate scientists interested in taking part in our training initiatives, activities and discussions.
 <br>
