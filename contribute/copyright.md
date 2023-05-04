@@ -30,3 +30,4 @@ You are welcome to create the images yourself, but please follow the [site style
 
 If you think an image would be helpful to explain your content but you cannot find the right one, then [create a new issue](https://github.com/elixir-europe/Infectious Diseases Toolkit/issues) to suggest a new image.
 
+
