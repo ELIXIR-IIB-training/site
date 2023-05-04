@@ -7,6 +7,8 @@ subitems:
     subitems: 
       - title: Gene Ontology
         url: /training_courses/2023-05-03-Gene_Ontology
+      - title: Test course
+        url: /training_courses/test-course
     
   - title: Events
     url: /events/
