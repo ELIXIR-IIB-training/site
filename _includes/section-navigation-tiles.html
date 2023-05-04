@@ -1,6 +1,6 @@
 {%- unless include.affiliations == nil and include.search == nil %}
 {%- assign allcountries = site.data.countries %}
-{%- for current_page in site.pages | sorted %}
+{%- for current_page in site.pages | sort: 'title' | reverse -%}
 {%- if current_page.affiliations and current_page.search_exclude != true and current_page.type == include.type %}
 {%- assign pageaffiliations = current_page.affiliations | join: ", " %}
 {%- if allaffiliations %}
@@ -47,7 +47,7 @@
 </div>
 {%- endunless %}
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-5 navigation-tiles">
-    {%- for current_page in site.pages | sorted %}
+    {%- for current_page in site.pages | sort: 'title' | reverse -%}
     {%- assign affiliations_classes = "" %}
     {%- assign related_pages_classes = "" %}
     {%- assign except = include.except | split: ", " %}
