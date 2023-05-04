@@ -1,11 +1,8 @@
 ---
-layout: post
-title: "Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools."
-date_start: 2023-05-03
-date_end: 2023-05-04
-venue: Rome, Italy
-description: Two-day workshop to boost your understanding of bioinformatics resources and their use - you will learn about the key data resources available and how to use functional analysis tools.
-
+title: Gene Ontology
+description: The course will provide information about Gene Ontology (GO) and molecular interaction
+contributors: []
+page_id: go_2023
 ---
 
 
