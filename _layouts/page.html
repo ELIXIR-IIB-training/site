@@ -9,9 +9,11 @@ layout: default
     {%- else %}
     <h1>{{ page.title }}
     {%- endif %}
+    {% comment %}
     {%- if site.theme_variables.github_buttons.position == "top" or site.theme_variables.github_buttons.position == nil %}
     {% include github-buttons.html %}
     {%- endif %}
+    {% endcomment %}
     </h1>
     {%- endif %}
     {%- if page.summary %}
@@ -29,10 +31,12 @@ layout: default
     {%- endif %}
     {% include affiliation-tiles-page.html %}
     {% include contributor-minitiles-page.html %}
+    {% comment %}
     {%- if site.theme_variables.github_buttons.position == "bottom" %}
     <div id="github-buttons-wrapper" class="d-flex mt-5">
     {% include github-buttons.html %}
     </div>
     {%- endif %}
+    {% endcomment %}
 </main>
 
