@@ -1,7 +1,7 @@
 {%- assign allcountries = site.data.countries %}
 {%- assign except = include.except | split: ", " %}
 <div class="row row-cols-1 row-cols-md-2 g-3 my-4 navigation-tiles">
-    {%- for current_page in site.pages | sort="sort" %}
+    {%- for current_page in site.pages | sort="title" %}
     {%- if current_page.title and current_page.search_exclude != true and current_page.type == include.type %}
     {%- unless except contains current_page.name %}
     <div class="col d-grid">
