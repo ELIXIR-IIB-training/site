@@ -7,7 +7,7 @@ topnav_title: ELIXIR IT Training Platform
 description: "Italian elixir platform of training!"
 # Metadata description of the website
 
-theme: my-theme
+
 
 sass:
   style: compressed
