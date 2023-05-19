@@ -1,7 +1,8 @@
 ---
 title: <div align=center>Training Course in Computational Methods for Epitranscriptomics.</div>
-page_id: Epitranscriptomics2023
 description: This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis.
+date: 2023-04-26
+page_id: Epitranscriptomics2023
 ---
 
 
