@@ -9,7 +9,7 @@ description: "Italian elixir platform of training!"
 
 jekyll:
   watch: true
- 
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme 
 
 
 sass:
