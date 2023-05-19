@@ -6,13 +6,9 @@ page_id: go_2023
 order: 3
 ---
 
+{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
 
-<table border="0">
-  <tr>
- <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="150"></a></td>
-  </tr>
-</table>
-<br>
+
 <br>
 
 ## Important Dates
