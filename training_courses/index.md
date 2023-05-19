@@ -2,7 +2,7 @@
 title: Training Courses
 ---
 corso
-{% include section-navigation-tiles.html type="training_courses" search="true" except="index.md" %}
+{% include section-navigation-tiles.html type="training_courses" except="index.md" %}
 
 
 
