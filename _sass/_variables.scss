@@ -29,7 +29,7 @@ $toc-bg: $light;
 
 /*-----Section navigation tiles-----*/
 $nav-card-bg: $light;
-$nav-card-header-bg: $footerb;
+$nav-card-header-bg: $primary;
 $nav-card-header-color: $white;
 $nav-card-badge-color: $body-color;
 $nav-card-badge-bg: $white;
@@ -38,8 +38,8 @@ $nav-card-badge-bg-hover: $primary;
 
 /*-----More information tiles-----*/
 $info-card-bg: $light;
-$info-card-header-bg: $footerb;
-$info-card-header-color: $white;
+$info-card-header-bg: $primary;
+$info-card-header-color: $secondary;
 
 /*-----Contributors-cards-----*/
 $contr-card-bg: $light;
