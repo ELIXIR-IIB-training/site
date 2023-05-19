@@ -1,9 +1,8 @@
 ---
 title: Gene Ontology
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
-contributors: []
 page_id: go_2023
-order: 3
+
 ---
 
 {% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
@@ -103,12 +102,12 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <br>
 
-### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
+## [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
 <br>
 <br>
 <br>
 
-### Programme
+## Programme
 <table border="1" width="700">
   <tr>
     <td colspan="4" align=center><h3> Wednesday - 3 May</h3></td>
