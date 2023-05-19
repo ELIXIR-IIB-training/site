@@ -6,13 +6,8 @@ description: This course will provide a foundation on the experimental planning,
 
 
 
-<table border="0">
-<tr>
-	<td>
-	<img src="../../../img/Logo_Computational_Methods_Bari.png" height="380" width="800">
-	</td>	
-</tr>	
-</table>
+{% include image.html file="/2023_events/Logo_Computational_Methods_Bari.png" caption="Training Course in Computational Methods for Epitranscriptomics." alt="Epitranscriptomics2023" max-width="10" %}
+
 
 
 <br>
