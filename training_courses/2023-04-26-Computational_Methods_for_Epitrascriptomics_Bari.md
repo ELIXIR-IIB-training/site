@@ -16,7 +16,7 @@ description: This course will provide a foundation on the experimental planning,
 ## Important Dates 
 - Deadline for applications: **15 April, 2023**
 - Course date: **26-28 April, 2023** 
-- 
+
 ### Venue
 Area della Ricerca del CNR di Bari<br>
 [Dove Siamo](https://www.ba.cnr.it/dovesiamo.html)<br>
