@@ -45,7 +45,7 @@ $info-card-header-color: $secondary;
 $contr-card-bg: $dark;
 
 /*-----Page contributors-----*/
-$contr-bg: $light;
+$contr-bg: $secondary;
 $contr-link-bg: $white;
 $contr-crown-bg: $dark;
 $contr-crown-color: $white;
@@ -53,7 +53,7 @@ $contr-popover-bg: $white;
 
 /*-----Events & news-----*/
 $news-title-bg: $primary;
-$news-border-color: $light;
+$news-border-color: $secondary;
 $news-title-color: $white;
 
 /*-----Default badge-----*/
@@ -68,4 +68,4 @@ $footer-color: $secondary;
 $footer-link-color: $secondary;
 $footer-link-color-hover: $light;
 $footer-copyright-bg: $gray-200;
-$footer-ett: $dark;
+$footer-ett: $light;
