@@ -11,7 +11,7 @@ layout: none
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html search=false %}
  <section class="container mb-5">
-        <div class="card border border-primary text-primary text-center">
+        <div class="card border border-primary text-secondary text-center">
             <div class="card-body">
                 <h5 class="card-title fs-3">This website is under construction!</h5> 
             </div>
@@ -25,7 +25,7 @@ layout: none
                </p>
            </div>
        </section>
-       <section id="search-section" class="bg-light py-5 card border border-primary">
+       <section id="search-section" class="bg-dark py-5 card border border-secondary">
            <div class="container">
                 <div class="row">
                     <h2 class="no-anchor text-center mb-3">What can we help you find?</h2>
@@ -42,7 +42,7 @@ layout: none
                 </div>
            </div>
        </section>
-       <section class="bg-light pb-5 card border border-primary">
+       <section class="bg-dark pb-5 card border border-secondary">
             <div class="container">
                 <h2 class="no-anchor text-center mb-3">Browse all topics by</h2>
                 {%- assign sidebar = site.data.sidebars[page.sidebar] %}
@@ -55,7 +55,7 @@ layout: none
                                 {%- endif %}
                                 <div class="card-body text-center">
                                     <a href="{{ folder.url | relative_url }}" class="stretched-link">
-                                        <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                        <h3 class="card-title no-anchor text-secondary">{{folder.title}}</h3>
                                     </a>
                                     <p class="card-text">{{folder.description}}</p>
                                 </div>
@@ -95,7 +95,7 @@ layout: none
     <div class="landingpage">
      <section class="container mb-5">
       <div class="card border border-primary text-primary text-center">
-                Last update: Arancia
+                Last update: Papaya
       </div>
         
      </section>
