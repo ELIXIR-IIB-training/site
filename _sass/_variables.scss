@@ -1,6 +1,6 @@
 /*-----General styling-----*/
 $font-family-theme: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$h2-color: $light-x;
+$h2-color: $secondary;
 
 /*-----Buttons hover style-----*/
 $btn-primary-bg-hover: $primary;
@@ -8,15 +8,15 @@ $btn-primary-color-hover: $secondary;
 
 /*-----Top navigation-----*/
 $topnav-bg: $dark;
-$topnav-title-color: $light-x;
+$topnav-title-color: $secondary;
 $topnav-brand-height: 44px;
 
 /*-----Search-----*/
 $search-result-color: $primary;
 
 /*-----Sidebar-----*/
-$sidebar-bg: $dark;
-$sidebar-color: $dark;
+$sidebar-bg: $primary;
+$sidebar-color: $secondary;
 $sidebar-lvl2-bg: $white;
 $sidebar-lvl2-color: $secondary;
 $sidebar-lvl3-bg: $white;
