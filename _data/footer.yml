@@ -4,7 +4,7 @@ columns:
   - type: image
     image_width: 88px
     width: 2
-    src: 'assets/logos/elixir_itt_nob.png'
+    src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Jekyll Bootstrap theme logo
   - type: links
     width: 3
@@ -19,6 +19,6 @@ columns:
   - type: image
     image_width: 88px
     width: 2
-    src: 'assets/logos/elixir_itt_nob.png'
+    src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Jekyll Bootstrap theme logo
 
