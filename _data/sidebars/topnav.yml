@@ -1,0 +1,5 @@
+subitems:
+  - title: Main
+    url: /index
+  - title: About
+    url: /about

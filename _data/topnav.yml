@@ -3,4 +3,11 @@
 subitems:
 - title: Home
   url: /index
+-
+  title: About
+  url: /about
+  
+-
+  title: Archive
+  url: https://elixir-iib-training.github.io/website/courses/
     

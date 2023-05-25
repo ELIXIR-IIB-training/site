@@ -1,7 +1,22 @@
+title: Main
+title_url: /index
 subitems:
-  - title: Home
-    url: /index
-  - title: Example page
-    url: /example_page
+  - title: Training Courses
+    url: /training_courses/
+    image_url: /assets/img/section-icons/training_courses.svg
+    subitems: 
+      - title: Gene Ontology
+        url: /training_courses/2023-05-03-Gene-Ontology-TorVergata
+      - title: Test course
+        url: /training_courses/test-course
+    
+  - title: Events
+    url: /events/
+    image_url: /assets/img/section-icons/events.svg
+    description: Check all ours events!
+    
+  - title: Trainers
+    url: /trainers/
+    image_url: /assets/img/section-icons/trainers.svg
 
   
