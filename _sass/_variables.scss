@@ -39,7 +39,7 @@ $nav-card-badge-bg-hover: $primary;
 /*-----More information tiles-----*/
 $info-card-bg: $dark;
 $info-card-header-bg: $primary;
-$info-card-header-color: $light;
+$info-card-header-color: $secondary;
 
 /*-----Contributors-cards-----*/
 $contr-card-bg: $dark;
@@ -53,11 +53,11 @@ $contr-popover-bg: $white;
 
 /*-----Events & news-----*/
 $news-title-bg: $primary;
-$news-border-color: $light;
-$news-title-color: $white;
+$news-border-color: $secondary;
+$news-title-color: $secondary;
 
 /*-----Default badge-----*/
-$badge-color: $secondary;
+$badge-color: $light;
 $badge-bg: $primary;
 $badge-color-hover: $white;
 $badge-bg-hover: $primary;
