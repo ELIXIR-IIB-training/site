@@ -1,27 +1,77 @@
-title: Website title
+title: ELIXIR IT Training Platform
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title: ELIXIR IT Training Platform
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "Italian elixir platform of training!"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
+jekyll:
+  watch: true
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme 
+
+
+sass:
+  style: compressed
+  sourcemap: never
 
 exclude:
   - README.md
+  - .gitignore
+  - var/
   - vendor
+  - Gemfile*
+  - LICENSE
+
+permalink: /:categories/:year/:month/:day/:title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
-      permalink: /:basename
       layout: "page"
       sidebar: main
+      
+      
+  -
+    scope:
+      path: "training_courses"
+      type: "pages"
+    values:
+      type: training_courses 
+      
+  -
+    scope:
+      path: "events"
+      type: "pages"
+    values:
+      type: events  
+  -   
+    scope:
+      path: "trainers"
+      type: "pages"
+    values:
+      type: trainers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 plugins:
   - jemoji
