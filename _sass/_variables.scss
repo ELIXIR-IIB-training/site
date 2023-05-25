@@ -16,7 +16,7 @@ $search-result-color: $primary;
 
 /*-----Sidebar-----*/
 $sidebar-bg: $primary;
-$sidebar-color: $light;
+$sidebar-color: $secondary;
 $sidebar-lvl2-bg: $white;
 $sidebar-lvl2-color: $secondary;
 $sidebar-lvl3-bg: $white;
@@ -30,10 +30,10 @@ $toc-bg: $primary;
 /*-----Section navigation tiles-----*/
 $nav-card-bg: $white;
 $nav-card-header-bg: $primary;
-$nav-card-header-color: $light;
+$nav-card-header-color: $secondary;
 $nav-card-badge-color: $body-color;
-$nav-card-badge-bg: $light;
-$nav-card-badge-color-hover: $light;
+$nav-card-badge-bg: $secondary;
+$nav-card-badge-color-hover: $secondary;
 $nav-card-badge-bg-hover: $primary;
 
 /*-----More information tiles-----*/
@@ -53,7 +53,7 @@ $contr-popover-bg: $white;
 
 /*-----Events & news-----*/
 $news-title-bg: $primary;
-$news-border-color: $secondary;
+$news-border-color: $light;
 $news-title-color: $white;
 
 /*-----Default badge-----*/
