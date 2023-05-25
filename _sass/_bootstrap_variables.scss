@@ -12,7 +12,7 @@ $light-x: #ef7500;
 /*-----Custom values for Bootstrap variables-----*/
 $component-active-bg: $primary;
 $box-shadow: rgba(0, 0, 0, 0.19) 0px 3px 8px;
-$navbar-light-color: $secondary;
+$navbar-light-color: $light;
 $card-border-width: 0;
 $alert-border-width: 0;
 $navbar-dark-toggler-border-color: transparent;
@@ -22,7 +22,7 @@ $navbar-light-hover-color: $dark;
 $nav-link-hover-color: $dark;
 $navbar-brand-font-size: 1.7rem;
 $card-cap-bg: $dark;
-$input-group-addon-bg: $secondary;
+$input-group-addon-bg: $light;
 $link-color: $secondary;
 $link-decoration: none;
 $body-bg: $white;
