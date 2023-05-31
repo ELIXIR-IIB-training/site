@@ -9,7 +9,7 @@ description: "Italian elixir platform of training!"
 
 jekyll:
   watch: true
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme 
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@toc-side 
 
 
 sass:
@@ -24,7 +24,7 @@ exclude:
   - Gemfile*
   - LICENSE
 
-permalink: /:categories/:year/:month/:day/:title
+
 
 defaults:
   -
@@ -53,7 +53,6 @@ defaults:
   -   
     scope:
       path: "trainers"
-      type: "pages"
     values:
       type: trainers
 
