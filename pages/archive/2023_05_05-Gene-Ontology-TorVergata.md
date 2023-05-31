@@ -1,5 +1,5 @@
 ---
-title: Gene Ontology
+title: <div align=center>Gene Ontology</div>
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 page_id: go_2023
 

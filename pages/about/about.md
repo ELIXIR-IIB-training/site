@@ -2,16 +2,14 @@
 title: About
 ---
 
-This project started when we wanted to make a static website that is deployed using GitHub pages that is 
+{% include image.html file="infrastructures/ELIXIR-logo.svg" alt="ELIXIR logo" max-width="3em" %}
 
-- modern looking
-- lightweight
-- flexible when it comes to branding
-- has a collapsible sidebar to handle a lot of content
-- a robust search function 
-
-and this offered trough a Jekyll theme that is actively maintained. Apparently we where asking to much, since none of the themes that we found checked all of these boxes.
-
-
-We at ELIXIR Belgium had experience using the commonly used [Jekyll Documentation Theme](https://idratherbewriting.com/documentation-theme-jekyll/) and [Just the docs](https://github.com/just-the-docs/just-the-docs), and used this experience for the development of our own theme to check all the boxes we needed. 
+The ELIXIR-IIB Training Platform is building a thriving community who strongly believes that quality training in bioinformatics is essential to achieve excellence in life science research. Thanks to a very motivated group of people, our programme is engaging an increasing number of passionate scientists interested in taking part in our training initiatives, activities and discussions.
+<br>
+Courses are mostly organised in collaboration with ELIXIR-IIB institutions and, whenever possible, in regions in need of a given expertise. They<!-- ,which are free,--> are limited to <b>20-30</b> participants to allow high interactivity and intensive practical work. Priority is given to candidates from ELIXIR-IIB institutions and other ELIXIR nodes. Instructors are selected among experts in the course's topic with experience in the application of advanced training practices and techniques.
+<br>
+We collaborate with other ELIXIR nodes in activities such as Train the Trainer, eLearning, EXCELERATE use cases' training support and we have a pilot to provide training support to extra-European countries.
+<br>
+<br>
+If you want to be involved in our initiatives, collaborate with us or need more information about our training activities, you can contact someone from the <a href="https://elixir-iib-training.github.io/website/contacts/"><b>ELIXIR-IIB Training Team</b></a>.
 

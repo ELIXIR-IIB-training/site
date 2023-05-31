@@ -1,5 +1,5 @@
 ---
-title: Bridging the gap between experimentalists biocurators and analysis tool providers.
+title: <div align=center>Bridging the gap between experimentalists biocurators and analysis tool providers.</div>
 description: []
 contributors: []
 page_id: Bridging2023

@@ -1,7 +1,7 @@
-title: ELIXIR IT-Training Platform
+title: ELIXIR IT Training Platform
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: ELIXIR-IT Training Platform
+topnav_title: ELIXIR IT Training Platform
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
 description: "Italian elixir platform of training!"
@@ -24,34 +24,47 @@ exclude:
   - Gemfile*
   - LICENSE
 
-permalink: /:categories/:year/:month/:day/:title
+
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: "pages"
     values:
+      permalink: /:basename
       layout: "page"
-      sidebar: main
-      
-      
+      sidebar: elixir_it_training
+      search_exclude: false
   -
     scope:
-      path: "training_courses"
+      path: "pages/training_courses/TEMPLATE_training_courses.md"
       type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true 
+  -
+    scope:
+      path: "pages/trainers/TEMPLATE_trainers.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true       
+  -
+    scope:
+      path: "pages/training_courses"
     values:
       type: training_courses 
-      
   -
     scope:
-      path: "events"
-      type: "pages"
+      path: "pages/archive"
     values:
-      type: events  
+      type: archive      
   -   
     scope:
-      path: "trainers"
-      type: "pages"
+      path: "PAGES/trainers"
     values:
       type: trainers
 
