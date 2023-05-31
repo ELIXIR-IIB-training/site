@@ -2,7 +2,7 @@ title: Home
 title_url: /index
 subitems:
   - title: Training Courses
-    url: /training_courses/
+    url: /training_courses
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
       - title: Gene Ontology
@@ -11,12 +11,12 @@ subitems:
         url: /training_courses/test-course
     
   - title: Events
-    url: /events/
+    url: /events
     image_url: /assets/img/section-icons/events.svg
     description: Check all ours events!
     
   - title: Trainers
-    url: /trainers/
+    url: /trainers
     image_url: /assets/img/section-icons/trainers.svg
 
   
