@@ -6,9 +6,9 @@ subitems:
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
       - title: Gene Ontology
-        url: /training_courses/2023-05-03-Gene-Ontology-TorVergata
+        url: /pages/training_courses/2023-05-03-Gene-Ontology-TorVergata
       - title: Test course
-        url: /training_courses/test-course
+        url: /pages/training_courses/test-course
     
   - title: Events
     url: /events
