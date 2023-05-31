@@ -3,8 +3,8 @@ $font-family-theme: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neu
 $h2-color: $secondary;
 
 /*-----Buttons hover style-----*/
-$btn-primary-bg-hover: $primary;
-$btn-primary-color-hover: $secondary;
+$btn-primary-bg-hover: $secondary;
+$btn-primary-color-hover: $white;
 
 /*-----Top navigation-----*/
 $topnav-bg: $dark;
@@ -16,7 +16,7 @@ $search-result-color: $primary;
 
 /*-----Sidebar-----*/
 $sidebar-bg: $primary;
-$sidebar-color: $secondary;
+$sidebar-color: $white;
 $sidebar-lvl2-bg: $white;
 $sidebar-lvl2-color: $secondary;
 $sidebar-lvl3-bg: $white;
@@ -25,21 +25,21 @@ $sidebar-bg-active: $primary;
 $sidebar-color-active: $white;
 
 /*-----TOC-----*/
-$toc-bg: $primary;
+$toc-bg: $dark;
 
 /*-----Section navigation tiles-----*/
 $nav-card-bg: $white;
 $nav-card-header-bg: $primary;
-$nav-card-header-color: $secondary;
+$nav-card-header-color: $white;
 $nav-card-badge-color: $body-color;
-$nav-card-badge-bg: $secondary;
+$nav-card-badge-bg: $white;
 $nav-card-badge-color-hover: $secondary;
 $nav-card-badge-bg-hover: $primary;
 
 /*-----More information tiles-----*/
 $info-card-bg: $dark;
 $info-card-header-bg: $primary;
-$info-card-header-color: $secondary;
+$info-card-header-color: $light-x;
 
 /*-----Contributors-cards-----*/
 $contr-card-bg: $dark;
