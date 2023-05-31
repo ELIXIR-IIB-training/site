@@ -6,7 +6,9 @@ subitems:
 -
   title: ABOUT
   url: /about
-  
+-
+ title:{% include image.html file="assets/flags/it.svg" alt="Italy flag" max-width="3em" %}
+- 
   title: ARCHIVE
   url: https://elixir-iib-training.github.io/website/courses/
     
