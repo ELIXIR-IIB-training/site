@@ -1,12 +1,12 @@
 /*-----Theme colors-----*/
 $white: #fff;
 $primary: #023456;
-$secondary: #fff;
+$secondary: #ef7500;
 $blue: #0274b7;
 $light: #0274b7;
 $dark: #023456;
 $footerb: #cc00cc;
-$light-x: #ef7500;
+$light-x: #fff00;
 
 
 /*-----Custom values for Bootstrap variables-----*/
@@ -23,7 +23,7 @@ $nav-link-hover-color: $light-x;
 $navbar-brand-font-size: 1.7rem;
 $card-cap-bg: $secondary;
 $input-group-addon-bg: $secondary;
-$link-color: $secondary;
+$link-color: $light-x;
 $link-decoration: none;
 $body-bg: $white;
 $body-color: $primary;
