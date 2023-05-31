@@ -7,7 +7,7 @@ subitems:
   title: ABOUT
   url: /about
 -
- title: {% include image.html file="assets/flags/it.svg" alt="Italy flag" max-width="3em" %}
+  title: {% include image.html file="assets/flags/it.svg" alt="Italy flag" max-width="3em" %}
  
  -
   title: {% raw %}![Italy]({{ "/assets/flags/it.svg" | relative_url }}){% endraw %}
