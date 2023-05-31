@@ -1,32 +1,35 @@
 /*-----Theme colors-----*/
 $white: #fff;
-$primary: #c23669;
-$gray-600: #73757d;
-$blue: #376ac3;
-$light: #f3f1f2;
-$light-x: #e3e1e4;
-$dark: #2a2e3d;
+$primary: #023456;
+$secondary: #ef7500;
+$blue: #0274b7;
+$light: #0274b7;
+$dark: #023456;
+$footerb: #cc00cc;
+$light-x: #fff000;
+
 
 /*-----Custom values for Bootstrap variables-----*/
 $component-active-bg: $primary;
-$navbar-dark-color: $white;
-$navbar-dark-hover-color: $primary;
-$navbar-dark-toggler-border-color: transparent;
-$border-radius: 0.3rem;
-$btn-border-radius-sm: $border-radius;
+$box-shadow: rgba(0, 0, 0, 0.19) 0px 3px 8px;
+$navbar-light-color: $white;
 $card-border-width: 0;
-$card-cap-bg: $light-x;
-$link-color: $blue;
-$info: $blue;
+$alert-border-width: 0;
+$navbar-dark-toggler-border-color: transparent;
+$border-radius: 0.6rem;
+$btn-border-radius-sm: $border-radius;
+$navbar-light-hover-color: $secondary;
+$nav-link-hover-color: $secondary;
+$navbar-brand-font-size: 1.7rem;
+$card-cap-bg: $secondary;
+$input-group-addon-bg: $secondary;
+$link-color: $secondary;
 $link-decoration: none;
 $body-bg: $white;
-$body-color: $dark;
-$font-family-sans-serif: "Open Sans", sans-serif;
-$alert-border-width: 0;
-$input-group-addon-bg: $light-x;
-$input-bg: $light;
-$input-border-width: 0;
-$h1-font-size: 1rem * 3.5 !default;
+$body-color: $primary;
+$font-family-sans-serif: 'IBM Plex Sans', sans-serif;
+$h1-font-size: 1rem * 4 !default;
+$h2-font-size: 1rem * 2 !default;
 $h3-font-size: 1rem * 1.5 !default;
 $h4-font-size: 1rem * 1.1 !default;
 $h5-font-size: 1rem !default;
