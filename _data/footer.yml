@@ -9,13 +9,13 @@ columns:
   - type: links
     width: 3
     children: 
-      - url_text: Home
-        url: /
+      - url_text: Elixir Europe
+        url: https://elixir-europe.org/
   - type: links
     width: 3
     children: 
-      - url_text: About
-        url: /about
+      - url_text: Elixir Italy
+        url: https://elixir-italy.org/
   - type: image
     image_width: 88px
     width: 2
