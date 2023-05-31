@@ -6,9 +6,9 @@ subitems:
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
       - title: 2023
-        url: /training_courses/2023
-      - title: Test course
-        url: /training_courses/test-course
+        url: /training_courses
+      - title: 2022
+        url: /training_courses/2022
     
   - title: Events
     url: /events

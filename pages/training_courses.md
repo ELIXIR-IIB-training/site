@@ -3,8 +3,4 @@ title: Training Courses
 ---
 
 
-2023
-
-
-
-prova
+{% include section-navigation-tiles.html type="training_courses" except="index.md" %}
