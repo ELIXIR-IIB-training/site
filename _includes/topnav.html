@@ -9,6 +9,7 @@
                 <i title="navbar-toggler" class="fa-solid fa-bars"></i>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+			    {% include image.html file="/assets/flags/it.svg" alt="Italy flag" max-width="2em" %}
                 <ul class="navbar-nav gap-2">
                     <!-- navigation entries -->
                     {%- assign topnav = site.data.topnav %}
@@ -58,7 +59,7 @@
                     {%- endif %}
 
                     
-					{% include image.html file="/assets/flags/it.svg" alt="Italy flag" max-width="2em" %}
+					
                     {%- unless include.search == false %}
                     <!--start search-->
                     <li class="nav-item">
