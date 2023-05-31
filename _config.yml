@@ -1,4 +1,4 @@
-title: ELIXIR {% include image.html file="assets/flags/it.svg" alt="Italy flag" max-width="3em" %} Training Platform
+title: ELIXIR IT Training Platform
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 topnav_title: ELIXIR {% include image.html file="assets/flags/it.svg" alt="Italy flag" max-width="3em" %} Training Platform
