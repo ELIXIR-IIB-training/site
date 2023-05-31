@@ -1,0 +1,182 @@
+/*-----General styling-----*/
+
+main {
+    h1 {
+        margin-bottom: 0.5em;
+        font-weight: 600;
+    }
+    h2, .h2-like {
+        color: $primary;
+        font-weight: 500;
+    }
+}
+
+/*-----More information tiles-----*/
+
+.info-card {
+    border: 1px $card-border-color solid;
+    .card-header {
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+
+    a {
+        border: 1px $card-border-color solid;
+    }
+    ul {
+        margin-bottom: 0;
+    }
+}
+
+/*-----------Social icons----------*/
+
+.social-icons {
+    border: 1px solid $card-border-color;
+}
+
+/*-----Sidebar-----*/
+#side-nav .btn.sidebar-title {
+    border-bottom: 0.25rem solid $primary;
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding-bottom: $input-btn-padding-y - 0.25rem;
+}
+
+#side-nav > ul {
+    margin-top: $spacer;
+}
+
+/*-----Selection color-----*/
+
+::-moz-selection {
+    -moz-text-fill-color: $white;
+}
+
+::selection {
+    -webkit-text-fill-color: $white;
+}
+
+/*-----Section navigation tiles-----*/
+
+.navigation-tiles {
+    .card {
+        border-width: 1px;
+    }
+    .card:hover {
+        box-shadow: $box-shadow;
+    }
+
+    .card-header {
+        padding-bottom: 1;
+        a:hover {
+            text-decoration: none;
+        }
+        h3 {
+            font-size: 1.2rem;
+        }
+        
+    }
+    .card button {
+        border: 1px $card-border-color solid;
+        background-color: $white;
+    }
+}
+
+/*-----Contributors tiles -----*/
+
+.contributor-cards .card {
+    border: 1px $card-border-color solid; 
+}
+
+.page-contributors {
+    border: 1px $card-border-color solid;
+    .contributor-link {
+        border: 1px $card-border-color solid;
+    }
+}
+
+/*-----Box shadows-----*/
+
+.navbar,
+#toc,
+#side-nav > ul > li > a,
+.sidebar-collapse,
+#footer {
+    box-shadow: $box-shadow;
+}
+
+/*-----Custom primary button-----*/
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active {
+    color: $white;
+}
+
+/*-----Top navigation-----*/
+
+.navbar-nav .nav-item > a.active {
+    color: $white !important;
+    background-color: $secondary;
+    border-radius: $border-radius;
+}
+
+nav .navbar-brand {
+    font-size: calc(1rem + 0.54vw);
+}
+
+/* -----Homepage----- */
+
+.landingpage {
+    .h-icon-6 {
+        height: 6em;
+    }
+    .h-icon-5 {
+        height: 5em;
+    }
+    .h-icon-4 {
+        height: 4em;
+    }
+
+    .card {
+        &:hover {
+            box-shadow: $box-shadow;
+        }
+
+        .card-img-top {
+            width: unset;
+            padding: $card-spacer-x $card-spacer-x 0 $card-spacer-x;
+        }
+    }
+
+    h1 {
+        font-size: 2.2rem;
+        font-weight: 200;
+        text-align: center;
+    }
+
+    h2 {
+        font-weight: 700;
+        font-family: $font-family-theme;
+    }
+
+    h3 {
+        font-weight: 600;
+        font-family: $font-family-theme;
+    }
+}
+
+// Search box
+
+section#search-section {
+    form {
+        max-width: 600px;
+    }
+
+    #search-results {
+        right: unset;
+    }
+    .input-group-text {
+        font-size: 1.5rem;
+    }
+}
