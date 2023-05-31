@@ -61,7 +61,7 @@ defaults:
     scope:
       path: "pages/training_courses/2022"
     values:
-      type: training_courses_2022      
+      type: 2022      
   -   
     scope:
       path: "PAGES/trainers"
