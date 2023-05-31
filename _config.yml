@@ -44,7 +44,14 @@ defaults:
       sitemap: false
       search_exclude: true
       no_robots: true 
-      
+  -
+    scope:
+      path: "pages/trainers/TEMPLATE_trainers.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true       
   -
     scope:
       path: "pages/training_courses"
@@ -52,7 +59,7 @@ defaults:
       type: training_courses  
   -   
     scope:
-      path: "trainers"
+      path: "PAGES/trainers"
     values:
       type: trainers
 
