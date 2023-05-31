@@ -1,0 +1,13 @@
+## 
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+subitems:
+- title: HOME
+  url: /index
+-
+  title: ABOUT
+  url: /about
+  
+-
+  title: ARCHIVE
+  url: https://elixir-iib-training.github.io/website/courses/
+    
