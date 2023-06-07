@@ -1,0 +1,13 @@
+- title:
+
+    
+    
+- description: Bioconda is a bioinformatics channel for the Conda package manager
+  url: https://bioconda.github.io/
+  name: Bioconda
+  registry:
+    biotools: bioconda
+    tess: Bioconda
+  related_pages:
+    - gp1
+    - gp2
