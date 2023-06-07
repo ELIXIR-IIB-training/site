@@ -3,10 +3,11 @@ title: Events
 datatable: true
 custom_editme: pages/events/events.md
 ---
-{% include section-navigation-tiles.html type="events" search="false" except="index.md" %}
 
 
- class="visually-hidden-focusable" href='#skip-tool-table'>Skip tool table</a>
+
+<a class="visually-hidden-focusable" href='#skip-tool-table'>Skip tool table</a>
+
 <div class="table-responsive mt-4 mb-5">
     <table class="tooltable table display">
         <thead>
