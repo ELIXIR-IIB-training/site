@@ -4,10 +4,10 @@ title: Events
 {% include section-navigation-tiles.html type="events" search="false" except="index.md" %}
 
 
-<table class="btn text-start d-block mb-1">
+<table class="btn text-start d-block mb-4">
   
   <thread>
-    <tr>prove3
+   
       <th>prova4</th> <th>prova2</th>
   
   
@@ -20,6 +20,6 @@ title: Events
   
   
   
-    </tr>
+ 
    </thread>
   </table>
