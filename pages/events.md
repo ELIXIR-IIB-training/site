@@ -28,15 +28,15 @@ custom_editme: pages/events/events.md
       {%- if page.event %}
       {%- assign actual_event = nil %}
       {%- for event in page.event %}
-      {%- if training.name %}
+      {%- if event.name %}
       {%- assign actual_name = 1 %}
       {%- endif %}
       {%- endfor %}
       {%- endif %}
-      {%- if actual_training %}
-      {%- for training in page.training %}
+      {%- if actual_event %}
+      {%- for event in page.event %}
       <tr>
-        <td><a href="{{training.url | relative_url }}">{{training.name}}{%- if training.name == 'Training in TeSS'%} about {{page.title}}{%- endif %}</a></td>
+        <td><a href="{{event.url | relative_url }}">{{event.name}}{%- if event.name == 'event in TeSS'%} about {{page.title}}{%- endif %}</a></td>
         <td><a href="{{page.url | relative_url }}"><span class="badge default-badge">{{page.title}}</span></a></td>
       </tr>
       {%- endfor %}
