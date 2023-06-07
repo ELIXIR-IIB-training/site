@@ -4,14 +4,13 @@
   registry:
     biotools: bioconda
     tess: Bioconda
-  related_pages:
-    - gp1
-    - gp2
+  date:
+    2023-05-22
 - description: Git based code hosting and collaboration tool, built for teams.
   url: https://bitbucket.org/
   name: Bitbucket
-  related_pages:
-    - gp2
+  date:
+    2022-05-22
 - description:
     Versioning system, used for sharing code, as well as for sharing of
     small data
@@ -21,8 +20,8 @@
     fairsharing-coll: bsg-d001160
     tess: GitHub
   how_to_access: Zenodo
-  related_pages:
-    - gp1
+  date:
+    2023-02-22
 - description:
     GitLab is an open source end-to-end software development platform with
     built-in version control, issue tracking, code review, CI/CD, and more. Self-host
@@ -31,8 +30,8 @@
   name: GitLab
   registry:
     tess: GitLab
-  related_pages:
-    - gp1
+  date:
+    2023-05-12
 - description:
     Generalist research data repository built and developed by OpenAIRE
     and CERN
@@ -42,4 +41,5 @@
   registry:
     fairsharing: wy4egf
     tess: Zenodo
-  related_pages:
+  date:
+    2023-01-22
