@@ -66,7 +66,7 @@ title: Events
    <td>Les Berges de Seine, France <font color="orange">hybrid</font></td>
    <td>Nov 7-11 2022</td>
    <td><font color="grey"><b>closed</b></font></td>
-</tr>
+</tr class="collapse">
 <tr>
    <td>ELIXIR IIB Training Course</td>
    <td><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
