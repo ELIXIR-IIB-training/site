@@ -3,7 +3,7 @@ title: Gene Ontology.
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 page_id: go_2023
 event:
-  - name: Gene Ontology.
+  - name: Gene Ontology!
     organisers: mino
     teachers: mino ugo
     venue: rome
