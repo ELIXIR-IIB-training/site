@@ -13,13 +13,14 @@ main {
 
 /*-----Table-----*/
 
-.table{
+.table {
     background-color: $primary;
     color: $white;
     border-radius: 5px;
-    
-    
-    
+    padding-bottom: 8;
+    border-bottom: 8;
+}
+
 /*-----More information tiles-----*/
 
 .info-card {
