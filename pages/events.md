@@ -23,25 +23,27 @@ custom_editme: pages/events/events.md
       </tr>
     </thead>
     <tbody>
+      {%- for page in site.pages %}
+      {%- unless page.search_exclude == true %}
+      {%- if page.event %}
+      {%- assign actual_event = nil %}
+      {%- for event in page.event %}
+      {%- if training.name %}
+      {%- assign actual_name = 1 %}
+      {%- endif %}
+      {%- endfor %}
+      {%- endif %}
+      {%- if actual_training %}
+      {%- for training in page.training %}
       <tr>
-        <td>ELIXIR Italy All Hands Meeting 2023</td>
-        <td> <a href="/2023-04-26-Computational_Methods_for_Epitrascriptomics_Bari">Bringing together Communities and Platforms</a></td>
-        <td>C. Bruno (IBIOM-CNR) C. Carta (ISS)  B. Carulli (ITB-CNR) L. Le Pera (ISS) L. Licata (Tor Vergata Univ.) A. Marabotti (Salerno univ.) P. Mauri (ITB-CNR) A. Via (Sapienza Univ.)</td>
-        <td>-</td>
-        <td>Sala Marconi, CNR Headquarters Rome,Italy hybrid</td>
-        <td>Sept 25-26 2023</td>
-        <td>-</td>
+        <td><a href="{{training.url | relative_url }}">{{training.name}}{%- if training.name == 'Training in TeSS'%} about {{page.title}}{%- endif %}</a></td>
+        <td><a href="{{page.url | relative_url }}"><span class="badge default-badge">{{page.title}}</span></a></td>
       </tr>
-      <tr>
-        <td>ELIXIR Europe Training Platform hackathon</td>
-        <td><a href="">Hacking to FAIRify your training materials</a></td> 
-        <td>L. Le Pera (ISS) A. Via (Sapienza Univ.) Patricia Palagi (ELIXIR-CH)</td>
-        <td></td>
-        <td>Casa dell'Aviatore Rome,Italy <font color="orange">hybrid</font></td>
-        <td>Mar 09-10 2023</td>
-        <td><font color="red"><b>closed</b></font></td>
-      </tr>
-        </tbody>
-    </table>
+      {%- endfor %}
+      {%- endif %}
+      {%- endunless %}
+      {%- endfor %}      
+    </tbody>
+  </table>
 </div>
 <div id="skip-tool-table"></div>
