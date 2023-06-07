@@ -17,8 +17,8 @@ title: Events
         <td> <a href="/2023-04-26-Computational_Methods_for_Epitrascriptomics_Bari">Bringing together Communities and Platforms</a></td>
         <td>C. Bruno (IBIOM-CNR) C. Carta (ISS)  B. Carulli (ITB-CNR) L. Le Pera (ISS) L. Licata (Tor Vergata Univ.) A. Marabotti (Salerno univ.) P. Mauri (ITB-CNR) A. Via (Sapienza Univ.)</td>
         <td>-</td>
-        <td>Sept 25-26 2023</td>
         <td>Sala Marconi, CNR Headquarters Rome,Italy hybrid</td>
+        <td>Sept 25-26 2023</td>
         <td>-</td>
 
   </tr>
