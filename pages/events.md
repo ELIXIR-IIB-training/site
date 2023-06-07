@@ -5,10 +5,10 @@ title: Events
 
 
 <table class="card-header card h100">
-  prova
-  <thread>prova2
+  
+  <thread>
     <tr>prove3
-      <th>prova4</th>
+      <th>prova4</th> <th>prova2</th>
   
   
   
