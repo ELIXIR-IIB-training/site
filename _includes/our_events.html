@@ -29,7 +29,7 @@
       {%- for event in page.event %}
       <tr>
         <td>{{ page.title }}</td>
-        <td><a href="{% for site_page in site.pages %}{% if site_page.title == page.title %}{{ site_page.url }}{% endif %}{% endfor %}">{{ event.name }}</a></td>
+        <td><a href="{% for site_page in site.pages %}{% if site_page.title == event.name %}{{ site_page.url }}{% endif %}{% endfor %}">{{ event.name }}</a></td>
         <td>{{ event.organisers }}</td>
         <td>{{ event.teachers }}</td>
         <td>{{ event.venue }}</td>
@@ -44,3 +44,4 @@
   </table>
 </div>
 <div id="skip-tool-table"></div>
+
