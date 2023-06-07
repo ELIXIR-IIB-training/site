@@ -8,7 +8,7 @@ title: Events
   
   <thread>
    
-      <th>prova4</th> <th>prova2</th>
+      <th>Event</th> <th>Title</th> <th>Organisers</th> <th>Teachers/Helpers</th> <th>Venue</th> <th>Date</th> <th>State</th>
   
   
   
