@@ -1,45 +1,9 @@
-<a class="visually-hidden-focusable" href='#skip-tool-table'>Skip tool table</a>
-<div class="table-responsive mt-4 mb-5">
-  <table class="tooltable table display">
-    <thead>
-      <tr class="text-nowrap">
-        <th>Event
-          <a data-bs-toggle="tooltip"></a>
-        </th>
-        <th>Title</th>
-        <th>Organisers</th>
-        <th>Teachers</th>
-        <th>Venue</th>
-        <th>Date</th>
-        <th>State</th>
-      </tr>
-    </thead>
-    <tbody>
-      {%- for page in site.pages %}
-      {%- unless page.search_exclude == true %}
-      {%- if page.event %}
-      {%- assign actual_event = nil %}
-      {%- for event in page.event %}
-      {%- if event.name %}
-      {%- assign actual_name = 1 %}
-      {%- endif %}
-      {%- endfor %}
-      {%- endif %}
-      {%- if actual_event %}
-      {%- for event in page.event %}
-      <tr>
-        <td>{{event.name}}</td>
-        <td>{{event.organisers}}</td>
-        <td>{{event.teachers}}</td>
-        <td>{{event.venue}}</td>
-        <td>{{event.event_date}}</td>
-        <td>{{event.state}}</td>
-      </tr>
-      {%- endfor %}
-      {%- endif %}
-      {%- endunless %}
-      {%- endfor %}      
-    </tbody>
-  </table>
-</div>
-<div id="skip-tool-table"></div>
+---
+title: Events
+datatable: true
+custom_editme: pages/events/events.md
+---
+
+
+
+{% include our_events.html %}
