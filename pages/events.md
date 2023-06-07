@@ -4,7 +4,7 @@ title: Events
 {% include section-navigation-tiles.html type="events" search="false" except="index.md" %}
 
 
-<table class="btn text-start d-block mb-4">
+<table class="title mb-1">
   
   <thread>
    
