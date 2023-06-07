@@ -22,12 +22,15 @@ main {
         text-align: center;
         border-bottom: 2px $secondary;
         right: 2px $secondary;
-    
-}
-.table tbody{
-    background-color: $white;
-    color: $primary;
-    a: $secondary
+    }
+
+    tbody {
+        background-color: $white;
+        color: $primary;
+    }
+    a {
+        $secondary
+    } 
 }
 /*-----More information tiles-----*/
 
