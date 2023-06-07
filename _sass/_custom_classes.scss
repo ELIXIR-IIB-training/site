@@ -14,7 +14,7 @@ main {
 /*-----Table-----*/
 
 .table {
-    border-bottom: 2px $secondary;
+    border-bottom: 2px solid $secondary;
     border-radius: 6px;
     padding-bottom: 8px;
     text-align: center;
@@ -24,7 +24,7 @@ main {
     thead {
         background-color: $primary;
         color: $white;
-        
+
         
 
     }
