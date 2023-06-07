@@ -1,11 +1,3 @@
----
-title: Events
-datatable: true
-custom_editme: pages/events/events.md
----
-
-
-
 <a class="visually-hidden-focusable" href='#skip-tool-table'>Skip tool table</a>
 <div class="table-responsive mt-4 mb-5">
   <table class="tooltable table display">
@@ -36,7 +28,7 @@ custom_editme: pages/events/events.md
       {%- if actual_event %}
       {%- for event in page.event %}
       <tr>
-        <td><a href="{{event.url | relative_url }}">{{event.name}}{%- if event.name == 'event in TeSS'%} about {{page.title}}{%- endif %}</a></td>
+        <td><a href="{{event.url | relative_url }}">{{event.name}}{%- endif %}</a></td>
         <td><a href="{{page.url | relative_url }}"><span class="badge default-badge">{{page.title}}</span></a></td>
       </tr>
       {%- endfor %}
