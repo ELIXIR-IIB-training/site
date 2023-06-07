@@ -7,6 +7,8 @@ title: Events
 <table class="card-header card h100">
   prova
   <thread>prova2
+    <tr>prove3
+      <th>prova4</th>
   
   
   
@@ -18,6 +20,6 @@ title: Events
   
   
   
-  
+    </tr>
    </thread>
   </table>
