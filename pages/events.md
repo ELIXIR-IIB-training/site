@@ -28,11 +28,11 @@
       {%- if actual_event %}
       {%- for event in page.event %}
       <tr>
-        <td>{{event.title}}</td>
+        <td>{{event.name}}</td>
         <td>{{event.organisers}}</td>
         <td>{{event.teachers}}</td>
         <td>{{event.venue}}</td>
-        <td>{{event.date}}</td>
+        <td>{{event.event_date}}</td>
         <td>{{event.state}}</td>
       </tr>
       {%- endfor %}
