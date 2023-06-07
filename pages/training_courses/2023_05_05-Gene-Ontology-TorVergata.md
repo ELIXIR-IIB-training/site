@@ -7,7 +7,7 @@ event:
     organisers: mino
     teachers: mino ugo
     venue: rome
-    date: 2022-02-22
+    event_date: 2022-02-22
     state:on
 ---
 
