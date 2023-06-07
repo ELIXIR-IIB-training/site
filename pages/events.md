@@ -32,7 +32,7 @@ title: Events
    <td><font color="grey"><b>closed</b></font></td>
 </tr> 
 <tr>
-   <td>ELIXIR Europe Training GH Platform event</td>
+   <td>ELIXIR Europe Training Platform event</td>
    <td><a href= "https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform F2F Hybrid Meeting</a></td> 
    <td>ELIXIR Hub L. Le Pera (ISS) A. Via (Sapienza Univ.)</td>
    <td></td>
