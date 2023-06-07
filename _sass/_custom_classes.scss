@@ -36,11 +36,12 @@ main {
     }
 
     a {
-        text: $secondary
+        text: $secondary;
+        hyphens: none;
  
     }
 
-     
+
 }
 
 
