@@ -19,14 +19,14 @@ main {
     border-radius: 5px;
     padding-bottom: 8;
     text-align: center;
-
+    word-break: keep-all;
         
 
     thead {
         background-color: $primary;
         color: $white;
         border: 2px $secondary;
-        word-break: keep-all;
+
 }
 
     }
