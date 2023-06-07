@@ -16,13 +16,14 @@ main {
 .table {
     border-bottom: 2px $secondary;
     right: 2px $secondary;
+    border-radius: 5px;
+    padding-bottom: 8;
+    text-align: center;    
     
     thead {
         background-color: $primary;
         color: $white;
-        border-radius: 5px;
-        padding-bottom: 8;
-        text-align: center;
+
     }
 
     tbody {
