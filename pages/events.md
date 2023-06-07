@@ -4,7 +4,7 @@ title: Events
 {% include section-navigation-tiles.html type="events" search="false" except="index.md" %}
 
 
-<table class="title mb-1">
+<table class="table">
   
   <thread>
    
