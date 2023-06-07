@@ -19,9 +19,10 @@
       {%- unless page.search_exclude == true %}
       {%- if page.event %}
       {%- for event in page.event %}
+        {%- assign training_page = site.pages | where: "title", event.name | where_exp: "page", "page.dir == '/pages/training_courses'" | first %}
       <tr>
-        <td>{{event.name}}</td>
         <td>{{ page.title }}</td>
+        <td>{% if training_page %}<a href="{{ training_page.url | relative_url }}">{{ training_page.title }}</a>{% else %}{{ event.name }}{% endif %}</td>
         <td>{{event.organisers}}</td>
         <td>{{event.teachers}}</td>
         <td>{{event.venue}}</td>
