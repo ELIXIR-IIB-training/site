@@ -20,7 +20,11 @@ main {
     padding-bottom: 8;
     border-bottom: 8 2px solid orange;
 }
-
+.table tr{
+    background-color: $white;
+    color: $primary;
+    link: $secondary
+}
 /*-----More information tiles-----*/
 
 .info-card {
