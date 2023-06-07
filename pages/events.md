@@ -20,7 +20,7 @@ title: Events
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>-</td>
+
       </tr>
   
   
