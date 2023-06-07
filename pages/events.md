@@ -49,6 +49,7 @@ title: Events
    <td>Feb - Oct 2023</td>
    <td><font color="grey"><b>closed</b></font></td>
 </tr>
+<button class="button"> 2022 and older events</button>
 <tr>
    <td>ELIXIR IIB Training Course</td>
    <td><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics. Basic module: Introduction to Python programming</a></td> 
