@@ -39,7 +39,7 @@ custom_editme: pages/events/events.md
         <td></td>
         <td>Casa dell'Aviatore Rome,Italy <font color="orange">hybrid</font></td>
         <td>Mar 09-10 2023</td>
-        <td><font color="grey"><b>closed</b></font></td>
+        <td><font color="red"><b>closed</b></font></td>
       </tr>
         </tbody>
     </table>
