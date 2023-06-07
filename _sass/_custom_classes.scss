@@ -34,10 +34,16 @@ main {
     tbody {
         background-color: $white;
         color: $primary;
+        
+
     }
 
     a {
         text: $secondary
+        -webkit-hyphens: none;
+        -moz-hyphens: none;
+        -ms-hyphens: none;
+        hyphens: none;
     } 
 }
 
