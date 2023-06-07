@@ -15,10 +15,14 @@ title: Events
       <tr>
         <td>ELIXIR Italy All Hands Meeting 2023</td>
         <td a href="/training_courses/2023-04-26-Computational_Methods_for_Epitrascriptomics_Bari.md">Bringing together Communities and Platforms</td>
+        <td>C. Bruno (IBIOM-CNR) C. Carta (ISS)  B. Carulli (ITB-CNR) L. Le Pera (ISS)
+L. Licata (Tor Vergata Univ.)
+A. Marabotti (Salerno Univ.)
+P. Mauri (ITB-CNR)
+A. Via (Sapienza Univ.)</td>
         <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Sept 25-26 2023</td>
+        <td>Sala Marconi, CNR Headquarters Rome,Italy hybrid</td>
         <td>-</td>
 
       </tr>
