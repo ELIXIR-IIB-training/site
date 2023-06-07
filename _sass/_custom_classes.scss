@@ -14,24 +14,29 @@ main {
 /*-----Table-----*/
 
 .table {
+    border-bottom: 2px $secondary;
+    right: 2px $secondary;
+    
     thead {
         background-color: $primary;
         color: $white;
         border-radius: 5px;
         padding-bottom: 8;
         text-align: center;
-        border-bottom: 2px $secondary;
-        right: 2px $secondary;
     }
 
     tbody {
         background-color: $white;
         color: $primary;
     }
+
     a {
-        href: $secondary
+        text: $secondary
     } 
 }
+
+
+
 /*-----More information tiles-----*/
 
 .info-card {
