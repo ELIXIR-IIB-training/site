@@ -19,24 +19,30 @@ main {
   padding-bottom: 8px;
   text-align: center;
   hyphens: none;
-}
 
-.table thead {
-  background-color: $primary;
-  color: $white;
 
-}
+    thead {
+        background-color: $primary;
+        color: $white;
 
-.table tbody {
-  background-color: $white;
-  color: $primary;
-}
+    }
 
-.table a {
-  color: $secondary;
+    tbody {
+        background-color: $white;
+        color: $primary;
+    }
+
+    a {
+        color: $secondary;
   
-}
+    }
 
+    tr {
+
+    vertical-align: middle;
+    }
+
+}
 
 
 
