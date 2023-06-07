@@ -8,7 +8,7 @@ event:
     teachers: mino ugo
     venue: rome
     event_date: 2022-02-22
-    state:on
+    state: open
 ---
 
 {% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
