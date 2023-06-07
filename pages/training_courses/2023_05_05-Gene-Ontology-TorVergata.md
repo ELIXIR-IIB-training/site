@@ -3,9 +3,9 @@ title: Gene Ontology.
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 page_id: go_2023
 event:
-  -name: Gene Ontology.
-  -registry: go
-  -url:http://www.google.it
+  - name: Gene Ontology.
+    registry: go
+    url: http://www.google.it
 
 
 ---
