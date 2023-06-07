@@ -18,18 +18,17 @@
       {%- for page in site.pages %}
       {%- unless page.search_exclude == true %}
       {%- if page.event %}
-      {%- assign actual_event = nil %}
-      {%- for event in page.event %}
-      {%- if event.name %}
-      {%- assign actual_name = 1 %}
-      {%- endif %}
-      {%- endfor %}
-      {%- endif %}
-      {%- if actual_event %}
       {%- for event in page.event %}
       <tr>
-        <td>{{ page.title }}</td>
-        <td><a href="{% for site_page in site.pages %}{% if site_page.title == event.name %}{{ site_page.url }}{% endif %}{% endfor %}">{{ event.name }}</a></td>
+        <td>{{ event.name }}</td>
+        <td>
+          {%- assign page_title = event.name %}
+          {%- for site_page in site.pages %}
+          {%- if site_page.title == page_title %}
+          <a href="{{ site_page.url }}">{{ site_page.title }}</a>
+          {%- endif %}
+          {%- endfor %}
+        </td>
         <td>{{ event.organisers }}</td>
         <td>{{ event.teachers }}</td>
         <td>{{ event.venue }}</td>
@@ -39,9 +38,8 @@
       {%- endfor %}
       {%- endif %}
       {%- endunless %}
-      {%- endfor %}      
+      {%- endfor %}
     </tbody>
   </table>
 </div>
 <div id="skip-tool-table"></div>
-
