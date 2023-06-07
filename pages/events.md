@@ -28,8 +28,12 @@
       {%- if actual_event %}
       {%- for event in page.event %}
       <tr>
-        <td><a href="{{event.url | relative_url }}">{{event.name}}{%- endif %}</a></td>
-        <td><a href="{{page.url | relative_url }}"><span class="badge default-badge">{{page.title}}</span></a></td>
+        <td>{{event.title}}</td>
+        <td>{{event.organisers}}</td>
+        <td>{{event.teachers}}</td>
+        <td>{{event.venue}}</td>
+        <td>{{event.date}}</td>
+        <td>{{event.state}}</td>
       </tr>
       {%- endfor %}
       {%- endif %}
