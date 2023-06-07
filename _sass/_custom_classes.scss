@@ -14,14 +14,15 @@ main {
 /*-----Table-----*/
 
 .table {
-    background-color: $primary;
-    color: $white;
-    border-radius: 5px;
-    padding-bottom: 8;
+    thead {
+        background-color: $primary;
+        color: $white;
+        border-radius: 5px;
+        padding-bottom: 8;
+        text-align: center;
+        border-bottom: 2px $secondary;
+        right: 2px $secondary;
     
-    border-bottom: 2px $secondary;
-    border-right: 2px $secondary;
-    text-align: justify;
 }
 .table tbody{
     background-color: $white;
