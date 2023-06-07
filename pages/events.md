@@ -11,7 +11,7 @@ title: Events
   <th>Event</th> <th>Title</th> <th>Organisers</th> <th>Teachers/Helpers</th> <th>Venue</th> <th>Date</th> <th>State</th>
   </thead>    
 
-  <tbody class="collapse">
+  <tbody>
     <tr>
         <td>ELIXIR Italy All Hands Meeting 2023</td>
         <td> <a href="/2023-04-26-Computational_Methods_for_Epitrascriptomics_Bari">Bringing together Communities and Platforms</a></td>
@@ -66,8 +66,8 @@ title: Events
    <td>Les Berges de Seine, France <font color="orange">hybrid</font></td>
    <td>Nov 7-11 2022</td>
    <td><font color="grey"><b>closed</b></font></td>
-</tr class="collapse">
-<tr>
+</tr>
+<tr class="collapse">
    <td>ELIXIR IIB Training Course</td>
    <td><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
    <td>R. Calogero (Univ. of Torino) M. Beccuti (Univ. of Torino) L. Le Pera (ISS)  A. Via (CNR-IBPM)</td>
