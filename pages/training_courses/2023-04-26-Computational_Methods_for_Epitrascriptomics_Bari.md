@@ -8,7 +8,7 @@ event:
     organisers: Ernesto Picardi (UNIBA, IT) Francesca De Leo (CNR-IBIOM, IT) Francesco Nicassio (IIT, IT) Tommaso Leonardi (IIT, IT) Bruno Fosso (UNIBA, IT) Graziano Pesole (UNIBA, IT) Allegra Via (Sapienza, IT)
     teachers: Adriano Fonzino (UNIBA, IT) Claudio Lo Giudice (UNIBA, IT) Alessandro Silvestris (UNIBA, IT) Francesco Nicassio (IIT, IT) Ernesto Picardi (UNIBA, IT) Tommaso Leonardi (IIT, IT) Camilla Ugolini (IIT, IT) Logan Mulroney (IIT, IT)
     venue: Area della Ricerca del CNR di Bari
-    event_date: 04 26-28 2023 
+    event_date: 04/26-28/2023 
     state: closed
 ---
 
