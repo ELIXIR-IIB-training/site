@@ -25,7 +25,11 @@
           {%- assign page_title = event.name %}
           {%- assign page_url = "" %}
           {%- if event.url %}
-            {%- assign page_url = event.url %}
+            {%- if event.url contains '://' %}
+              {%- assign page_url = event.url %}
+            {%- else %}
+              {%- assign page_url = site.baseurl | append: event.url %}
+            {%- endif %}
           {%- else %}
             {%- for site_page in site.pages %}
               {%- if site_page.title == page_title %}
