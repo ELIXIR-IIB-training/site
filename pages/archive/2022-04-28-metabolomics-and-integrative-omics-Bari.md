@@ -9,7 +9,7 @@ description: 28-29 April 2022 <br> Bari, Italy
 </tr>	
 <tr>
 	<td>
-	<img align="left" height="70" width="150" src="../../../img/logo_SIB.jpeg">
+	<img align="left" height="70" width="150" src="/2022_and_older/logo_SIB.jpeg">
 	</td>
 </tr>
 </table>

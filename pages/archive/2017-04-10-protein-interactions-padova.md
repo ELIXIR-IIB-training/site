@@ -1,5 +1,5 @@
 ---
-title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design"
+title:  "Workshop on Computational approaches to the study of protein interactions and rational drug design"
 description: 10-13 April 2017 <br> Padova, Italy
 ---
 
