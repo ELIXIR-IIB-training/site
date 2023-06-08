@@ -13,4 +13,4 @@ event:
 
 
 
-[{% include image.html file="/2023_events/logo_2023_RDTC.jpg" alt="Logo_IIB" max-width="10" %}](https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/)
+[{% include image.html file="/2023_events/logo_2023_RDTC.jpg" alt="Logo_RDTC" max-width="10" %}](https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/)
