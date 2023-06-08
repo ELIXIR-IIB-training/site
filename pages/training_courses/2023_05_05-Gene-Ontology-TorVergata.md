@@ -3,7 +3,7 @@ title: Gene Ontology.
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 page_id: go_2023
 event:
-  - name: Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools.
+  - name: Gene Ontology and Bioinformatic data Resources Workshop. Data Annotation and functional analysis tools.
     organisers: Luana Licata (University of Rome Tor Vergata, ELIXIR-IT)
     teachers: Ruth Lovering Luana Licata
     venue: University of Rome Tor Vergata
