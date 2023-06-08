@@ -22,17 +22,18 @@
       <tr>
         <td>{{ page.title }}</td>
         <td>
+          {%- assign page_title = event.name %}
+          {%- assign page_url = "" %}
           {%- if event.url %}
             {%- assign page_url = event.url %}
-            <a href="{{ page_url }}">{{ event.name }}</a>
           {%- else %}
-            {%- assign page_title = event.name %}
             {%- for site_page in site.pages %}
-            {%- if site_page.title == page_title %}
-            <a href="{{ site.baseurl }}{{ site_page.url }}">{{ event.name }}</a>
-            {%- endif %}
+              {%- if site_page.title == page_title %}
+                {%- assign page_url = site_page.url %}
+              {%- endif %}
             {%- endfor %}
           {%- endif %}
+          <a href="{{ page_url }}">{{ event.name }}</a>
         </td>
         <td>{{ event.organisers }}</td>
         <td>{{ event.teachers }}</td>
@@ -48,3 +49,4 @@
   </table>
 </div>
 <div id="skip-tool-table"></div>
+
