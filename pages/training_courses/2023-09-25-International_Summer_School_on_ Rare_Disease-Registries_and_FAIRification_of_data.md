@@ -1,6 +1,6 @@
 ---
 title: International Summer School on Rare Disease Registries and FAIRification of data
-description: The course will provide information about Gene Ontology (GO) and molecular interaction
+description: []
 page_id: 2023_intern_summer_school
 event:
   - name: International Summer School on Rare Disease Registries and FAIRification of data
