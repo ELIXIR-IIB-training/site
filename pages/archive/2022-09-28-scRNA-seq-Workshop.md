@@ -1,39 +1,27 @@
 ---
-layout: post
-title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis.<font color='black'>[closed]</font>"
-date_start: 2022-09-28
-date_end: 2022-09-30   
-venue: Torino, Italy
-description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (rCASC). This course is suitable for biologists who are new to single cell gene expression technology. Knowledge of statistics as well as computing skills are not necessary prior to attending the course.
-
+title: scRNA-seq Workshop
+description: 28-30 September 2022 <br> Turin, Italy
+page_id: go_2023
+event:
+  - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis."
+    organisers: Raffaele Calogero Marco Beccuti Loredana Le Pera Allegra Via
+    teachers: Marco Beccuti Raffaele Calogero Francesca Cordero
+    venue: University of Turin, Italy
+    event_date: 09/28-30/2022
+    state: closed
 ---
 
 
-<table border="0" width="600">
-<tr>
-   <td><img src="../../../img/Logo_B_and_Gu.jpg" height="80"></td>
-   <td width="30"></td>
-    <td><img src="../../../img/logo_mbc_torino.jpeg" height="80"></td>
-   <td width="30"></td>
-   <td><img src="../../../img/logo_bits.png" height="80"></td>
-   </tr>
-   <tr width="20"></tr>
-   <tr>
-   <td><img src="../../../img/logo_hpc4ai.png" height="80"></td>
-      <td width="20"></td>
-   <td><img src="../../../img/logo_10xgenomics.png" height="80"></td>
-      <td width="20"></td>
-      <td><img src="../../../img/logo_euroclone.png" height="110"></td> 
-      <td width="20"></td>
-      <td><img src="../../../img/Logo_InfoLife.png" height="80"></td>
-      </tr>
-   <tr width="40"></tr>
-   <tr>
-      <td><img src="../../../img/logo_iib.png" height="80"></td>
-</tr> 
-</table>
-<br>
-<br>
+{% include image.html file="/2022_and_older/Logo_B_and_Gu.jpg" alt="Logo_B_and_Gu" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_mbc_torino.jpeg" alt="logo_mbc_torino" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_bits.png" alt="logo_bits" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_hpc4ai.png" alt="logo_hpc4ai" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_10xgenomics.png" alt="logo_10xgenomics" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_euroclone.png" alt="logo_euroclone" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_InfoLife.png" alt="Logo_InfoLife" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+
+
 
 ### Important Dates
 - Course date: **28-30 September 2022**

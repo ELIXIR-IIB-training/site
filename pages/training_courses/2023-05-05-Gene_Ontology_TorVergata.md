@@ -1,6 +1,6 @@
 ---
-title: Gene Ontology.
-description: 03/04 May 2023 <br> Rome, Italy
+title: Gene Ontology
+description: 03-04 May 2023 <br> Rome, Italy
 page_id: go_2023
 event:
   - name: Gene Ontology and Bioinformatic data Resources Workshop. Data Annotation and functional analysis tools.

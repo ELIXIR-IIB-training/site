@@ -1,11 +1,14 @@
 ---
-layout: post
-title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='black'>[closed]</font>"
-date_start: 2022-11-22
-date_end: 2022-11-25   
-venue: Rome, Italy
-description: With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analyzed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create specific scripts/software to deepen and extend the analysis. This Basic Module aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. No programming experience is required.
-
+title: "School of Python for genomics. Basic module: Introduction to Python programming"
+description: 22-23 November 2022 <br> Rome, Italy
+page_id: python_school_2022
+event:
+  - name: "School of Python for genomics. Basic module: Introduction to Python programming"
+    organisers: []
+    teachers: **Luca De Sabato Arnold Knijn Loredana Le Pera Massimiliano Orsini Allegra Via
+    venue: Italian National Institute of Health (ISS) - Rome, Italy
+    event_date: 11/22-23/2022
+    state: closed
 ---
 
 [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/)
