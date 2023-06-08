@@ -7,7 +7,7 @@ event:
     organisers: []
     teachers: []
     venue: Mediterranean Institute for Life Sciences, Split, Croatia
-    event_date: Aug 21-25 2023 <br> Oct 16-20 2023
+    event_date: 08 21-25 2023 <br> Oct 16-20 2023
     state: open
 ---
 
