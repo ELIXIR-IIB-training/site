@@ -1,22 +1,17 @@
 ---
-layout: post
-title:  "Workshop + Summer School in Advanced Computational Metagenomics <font color='black'>[closed]</font>"
-date_start:   2017-06-19
-date_end:   2017-06-23
-venue: Bari, Italy
-description: Two connected events on Advanced Computational Metagenomics - a 2-day workshop followed by a three-day intensive practical school - will take place on 19-23 June 2017 in Bari, Italy. Both the workshop and the school will focus on the computational aspects of metagenomics analysis including reference databases, software and data retrieval and submission. The investigation of microbial communities will be discussed with an overview on real projects cases, both in ecological, clinical and nutrition fields. During the practical sessions students will experience how to analyze meta-barcoding and shotgun data from Next Generation Sequencing and to perform statistical inference on them. 
-
+title:  "Workshop + Summer School in Advanced Computational Metagenomics"
+description: 19-23 June 2017 <br> bari, Italy
 ---
 
 For any tweet use <font color="#FF9633"><b>#BariSchool2017</b></font> <br> 
 <br>
 <table border="0" width="600">
   <tr>
-    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
+    <td><img src="/2022_and_older/logo_elixir_italy.jpg" height="100"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="../../../img/Logo_ibiom.jpeg" height="90" width="150"></td>
-    <td><img src="../../../img/Logo_dsb_cnr.jpg" height="80" width="80"></td>
-    <td><img src="../../../img/Logo_illumina.jpg" height="100" width="130"></td>
+    <td><img src="/2022_and_older/Logo_ibiom.jpeg" height="90" width="150"></td>
+    <td><img src="/2022_and_older/Logo_dsb_cnr.jpg" height="80" width="80"></td>
+    <td><img src="/2022_and_older/Logo_illumina.jpg" height="100" width="130"></td>
   </tr>
 </table>
 

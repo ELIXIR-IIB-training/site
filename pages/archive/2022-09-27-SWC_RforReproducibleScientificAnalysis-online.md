@@ -1,16 +1,12 @@
 ---
 layout: post
-title:  "R for Reproducible Scientific Analysis <font color='black'>[closed]</font>"
-date_start:   2022-09-27
-date_end:   2022-09-30
-venue: online
-description: Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic computing concepts and tools, including program design, data management, data visualization, and task automation using R and RStudio software environment. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
-
+title:  "R for Reproducible Scientific Analysis"
+description: 27-30 September 2022 <br> online
 ---
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/2022-09-27-SWC-R-online/"><img src="../../../img/Logo_SWC_Elixir.png" height="150" width="600"></a>
+	<td><a href="https://elixir-iib-training.github.io/2022-09-27-SWC-R-online/"><img src="/2022_and_older/Logo_SWC_Elixir.png" height="150" width="600"></a>
 	</td>
 </tr>
 </table>
