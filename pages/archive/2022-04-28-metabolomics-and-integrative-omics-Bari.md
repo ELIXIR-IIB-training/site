@@ -2,34 +2,13 @@
 title: "Metabolomics and Integrative omics: from data production to analysis <font color='black'>[closed]</font>"
 description: 28-29 April 2022 <br> Bari, Italy
 ---
-<table border="0">
-<tr>
-	<td><img src="/2022_and_older/banner_metabolomics2022.png" height="380" width="800">
-	</td>	
-</tr>	
-<tr>
-	<td>
-	<img align="left" height="70" width="150" src="/2022_and_older/logo_SIB.jpeg">
-	</td>
-</tr>
-</table>
+
+{% include image.html file="/2022_and_older/banner_metabolomics2022.png" alt="banner_metabolomics2022" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_SIB.jpeg" alt="logo_SIB" max-width="10" %}
+
 <br>
 
-<!---
-<table border="0">
-        <tr>
-        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="60" width="200"></a>
-        </td>
-        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="65" width="200"></a>
-        </td>
-        <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="110" width="200"></a>
-        </td>
-	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="50" width="200"></a>
-        </td>
-        </tr>
-        </table>
-<br>
--->
+Logo_SWC_Elixir
 
 ## Important Dates 
 - Deadline for applications: **Registration closed**

@@ -3,12 +3,8 @@ title:  "R for Reproducible Scientific Analysis"
 description: 27-30 September 2022 <br> online
 ---
 
-<table border="0">
-<tr>
-	<td><a href="https://elixir-iib-training.github.io/2022-09-27-SWC-R-online/"><img src="/2022_and_older/Logo_SWC_Elixir.png" height="150" width="600"></a>
-	</td>
-</tr>
-</table>
+
+[{% include image.html file="/2022_and_older/Logo_SWC_Elixir.png" alt="Logo_SWC_Elixir" max-width="10" %}](https://elixir-iib-training.github.io/2022-09-27-SWC-R-online/)
 
 <br>
 The course webpage with all the information and the link to submit your application can be found at:<br>

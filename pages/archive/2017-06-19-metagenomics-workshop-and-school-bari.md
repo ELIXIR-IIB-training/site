@@ -4,18 +4,16 @@ description: 19-23 June 2017 <br> bari, Italy
 ---
 
 For any tweet use <font color="#FF9633"><b>#BariSchool2017</b></font> <br> 
-<br>
-<table border="0" width="600">
-  <tr>
-    <td><img src="/2022_and_older/logo_elixir_italy.jpg" height="100"></td>
+
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_ibiom.jpeg" alt="Logo_ibiom" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_dsb_cnr.jpg" alt="Logo_dsb_cnr" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_illumina.jpg" alt="Logo_illumina" max-width="10" %}
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="/2022_and_older/Logo_ibiom.jpeg" height="90" width="150"></td>
     <td><img src="/2022_and_older/Logo_dsb_cnr.jpg" height="80" width="80"></td>
     <td><img src="/2022_and_older/Logo_illumina.jpg" height="100" width="130"></td>
-  </tr>
-</table>
 
-<br>
 
 ELIXIR-IIB is glad to announce a week-long Workshop & Summer School events in Advanced Computational Metagenomics.<br> 
 
