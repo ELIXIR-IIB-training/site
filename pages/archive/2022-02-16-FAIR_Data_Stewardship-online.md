@@ -8,26 +8,7 @@ description: 02-11 March 2022 <br> online
 [{% include image.html file="/2022_and_older/Logo_EOSC_pillar.png" alt="Logo_EOSC_pillar" max-width="10" %}](https://www.eosc-pillar.eu/)
 [{% include image.html file="/2022_and_older/Logo_ELIXIR_Netherlands.jpeg" alt="Logo_ELIXIR_Netherlands" max-width="10" %}](https://elixir-europe.org/about-us/who-we-are/nodes/netherlands)
 [{% include image.html file="/2022_and_older/Logo_EOSC_Life.png" alt="Logo_EOSC_Life" max-width="10" %}](https://www.eosc-life.eu/)
-<table border="0">
-        <tr>
-        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
-        </td>
-        <td width="30"></td>
-        <td><a href="https://www.icdi.it/it/"><img src="../../../img/Logo_ICDI.png" height="110" width="110"></a>
-        </td>
-        <td width="10"></td>
-        <td><a href="https://www.eosc-pillar.eu/"><img src="../../../img/Logo_EOSC_pillar.png" height="160" width="200"></a>
-        </td>
-        </tr>
-        <tr>
-        <td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="210"></a>
-        </td>
-        <td width="20"></td>
-        <td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="150" width="200"></a>
-        </td>
-        </tr>
-        </table>
-<br>
+
 <br>
 
 ### Important Dates 

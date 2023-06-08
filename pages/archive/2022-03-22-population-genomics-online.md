@@ -7,7 +7,7 @@ event:
     organisers: []
     teachers: []
     venue: online
-    event_date: 03/22-30/2022
+    event_date: 2022/03/22-30
     state: closed
 ---
 
