@@ -30,9 +30,9 @@
             {%- assign page_title = event.name %}
             {%- for site_page in site.pages %}
             {%- if site_page.title == page_title %}
-              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
+            <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
             {%- else %}
-              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
+            <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
             {%- endif %}
             {%- endfor %}
           {%- endif %}
