@@ -8,7 +8,7 @@ event:
     organisers: ELIXIR Hub L. Le Pera (ISS) A. Via (Sapienza Univ.)
     teachers: []
     venue: Casa dell'Aviatore Rome,Italy
-    event_date: 03/07/2023 - 03/09/2023
+    event_date: 2023/03/07 - 2023/03/09
     state: closed
 ---
 

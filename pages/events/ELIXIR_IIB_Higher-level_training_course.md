@@ -8,7 +8,7 @@ event:
     organisers: Sapienza CNR-IBPM ELIXIR-IIB
     teachers: S. Pascarella (Director) A. Via (Deputy Director) L. Le Pera (scient. comm.)
     venue: University of Rome Sapienza
-    event_date: 02/15/2023 - 09/29/2023
+    event_date: 2023/02/15 - 2023/09/29
     state: closed
 ---
 

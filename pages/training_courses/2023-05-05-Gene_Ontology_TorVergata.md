@@ -7,7 +7,7 @@ event:
     organisers: Luana Licata (University of Rome Tor Vergata, ELIXIR-IT)
     teachers: Ruth Lovering Luana Licata
     venue: University of Rome Tor Vergata
-    event_date: 05/03-04/2023 
+    event_date: 2023/05/03-04
     state: closed
 ---
 
