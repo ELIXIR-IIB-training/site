@@ -19,6 +19,6 @@ columns:
   - type: image
     image_width: 88px
     width: 2
-    src: 'assets/flags/it.svg'
+    src: 'assets/img/italy.png'
     alt: Jekyll Bootstrap theme logo
 
