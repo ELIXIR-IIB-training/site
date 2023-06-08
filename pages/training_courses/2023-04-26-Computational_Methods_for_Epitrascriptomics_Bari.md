@@ -2,11 +2,11 @@
 title: Training Course in Computational Methods for Epitranscriptomics.
 description: 26-28 April, 2023 <br>Bari, Italy
 Summary: This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis.
-page_id: Epitranscriptomics2023
+page_id: 2023_Epitranscriptomics
 event:
   - name: Training Course in Computational Methods for Epitranscriptomics.
     organisers: Ernesto Picardi (UNIBA, IT) Francesca De Leo (CNR-IBIOM, IT) Francesco Nicassio (IIT, IT) Tommaso Leonardi (IIT, IT) Bruno Fosso (UNIBA, IT) Graziano Pesole (UNIBA, IT) Allegra Via (Sapienza, IT)
-    teachers: Adriano Fonzino (UNIBA, IT) Claudio Lo Giudice (UNIBA, IT) Alessandro Silvestris (UNIBA, IT) Francesco Nicassio (IIT, IT) Ernesto Picardi (UNIBA, IT) Tommaso Leonardi (IIT, IT) Camilla Ugolini (IIT, IT) Logan Mulroney** (IIT, IT)
+    teachers: Adriano Fonzino (UNIBA, IT) Claudio Lo Giudice (UNIBA, IT) Alessandro Silvestris (UNIBA, IT) Francesco Nicassio (IIT, IT) Ernesto Picardi (UNIBA, IT) Tommaso Leonardi (IIT, IT) Camilla Ugolini (IIT, IT) Logan Mulroney (IIT, IT)
     venue: Area della Ricerca del CNR di Bari
     event_date: Apr 26-28 2023 
     state: closed
