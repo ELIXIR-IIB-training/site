@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "R for Reproducible Scientific Analysis"
 description: 27-30 September 2022 <br> online
 ---
