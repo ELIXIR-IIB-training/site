@@ -4,8 +4,8 @@ description: The course will provide information about Gene Ontology (GO) and mo
 page_id: 2023_intern_summer_school
 event:
   - name: International Summer School on Rare Disease Registries and FAIRification of data
-    organisers: -
-    teachers: -
+    organisers: []
+    teachers: []
     venue: Istituto Superiore di Sanità - Rome, Italy
     event_date: Sep 25-29 2023 
     state: open
