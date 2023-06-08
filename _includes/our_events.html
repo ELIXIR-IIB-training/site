@@ -30,11 +30,11 @@
             {%- for site_page in site.pages %}
             
               {%- assign page_url = site_page.url %}
-            <a href="{{ site.baseurl }}{{ page_url }}">{{ event.name }}</a>
+            
             
             {%- endfor %}
           {%- endif %}
-          
+          <a href="{{ site.baseurl }}{{ page_url }}">{{ event.name }}</a>
         </td>
         <td>{{ event.organisers }}</td>
         <td>{{ event.teachers }}</td>
