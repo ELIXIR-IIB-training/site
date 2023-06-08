@@ -7,7 +7,7 @@ event:
     organisers: []
     teachers: []
     venue: Istituto Superiore di Sanità - Rome, Italy
-    event_date: 09 25-29 2023 
+    event_date: 09/25-29/2023 
     state: open
 ---
 
