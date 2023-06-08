@@ -25,15 +25,11 @@
           {%- assign page_title = event.name %}
           {%- assign page_url = "" %}
           {%- if event.url %}
-            {%- if event.url contains '://' %}
-              {%- assign page_url = event.url %}
-            {%- else %}
-              {%- assign page_url = site.baseurl | append: event.url %}
-            {%- endif %}
+            {%- assign page_url = event.url | prepend: site.baseurl %}
           {%- else %}
             {%- for site_page in site.pages %}
               {%- if site_page.title == page_title %}
-                {%- assign page_url = site_page.url %}
+                {%- assign page_url = site_page.url | prepend: site.baseurl %}
               {%- endif %}
             {%- endfor %}
           {%- endif %}          
@@ -53,3 +49,4 @@
   </table>
 </div>
 <div id="skip-tool-table"></div>
+
