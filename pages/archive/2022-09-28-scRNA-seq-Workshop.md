@@ -7,7 +7,7 @@ event:
     organisers: Raffaele Calogero Marco Beccuti Loredana Le Pera Allegra Via
     teachers: Marco Beccuti Raffaele Calogero Francesca Cordero
     venue: University of Turin, Italy
-    event_date: 09/28-30/2022
+    event_date: 2022/09/28-30
     state: closed
 ---
 

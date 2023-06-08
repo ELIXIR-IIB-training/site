@@ -7,7 +7,7 @@ event:
     organisers: []
     teachers: **Luca De Sabato Arnold Knijn Loredana Le Pera Massimiliano Orsini Allegra Via
     venue: Italian National Institute of Health (ISS) - Rome, Italy
-    event_date: 11/22-23/2022
+    event_date: 2022/11/22-23
     state: closed
 ---
 
