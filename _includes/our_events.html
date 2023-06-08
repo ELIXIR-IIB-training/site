@@ -31,7 +31,7 @@
               {%- if site_page.title %}
                 {%- assign page_url = site_page.url %}
                 <a href="{{ site.baseurl }}{{ page_url }}">{{ event.name }}</a>
-            
+                {%- endif %}
             {%- endfor %}
           {%- endif %}
           
