@@ -1,21 +1,13 @@
 ---
-layout: post
-title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design" <font color='black'>[closed]</font>
-date_start:   2017-04-10
-date_end:   2017-04-13
-venue: Padova, Italy
-description: This workshop is aimed at students in master degree courses, PhD students and post-doctoral researchers who are working or planning to work in the field of protein interactions from a molecular and structural point of view. In this workshop, participants will familiarise with docking approaches to the study of protein-protein interactions (PPIs) and protein-small molecule interactions. Irreversible binders design using molecular docking and computational methods to rational drug design will be also described, as well as the functional role of the intrinsically disordered proteins.
-
+title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design"
+description: 10-13 April 2017 <br> Padova, Italy
 ---
 
-<table border="0" width="600">
-  <tr>
-    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    <td><img src="../../../img/logo_uni_padova.png" height="100"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="../../../img/logo_rsg_italy.jpg" height="100"></td>
-  </tr>
-</table>
+
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_uni_padova.png" alt="logo_uni_padova" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_rsg_italy.jpg" alt="logo_rsg_italy" max-width="10" %}
+
 
 <br>
 
