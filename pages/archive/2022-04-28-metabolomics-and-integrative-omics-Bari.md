@@ -1,15 +1,10 @@
 ---
-layout: post
 title: "Metabolomics and Integrative omics: from data production to analysis <font color='black'>[closed]</font>"
-date_start: 2022-04-28
-date_end: 2022-04-29   
-venue: Bari, Italy
-description: The workshop is designed to enable the attendees to apply metabolomics in a research-based context. We will focus both on experimental design and data analysis of different data sources integrated at the level of the metabolome. Attendees will engage into the design of a mass spectrometry-based metabolomics experiment with cutting-edge equipment and will gain an overview on the use of specific software platforms for metabolomics data mining. Special attention will be paid to the integration of metabolomics data with metagenomics, gene expression and proteomic data.
-
+description: 28-29 April 2022 <br> Bari, Italy
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="800">
+	<td><img src="/2022_and_older/banner_metabolomics2022.png" height="380" width="800">
 	</td>	
 </tr>	
 <tr>
