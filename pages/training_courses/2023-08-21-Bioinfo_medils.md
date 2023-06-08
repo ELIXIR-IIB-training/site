@@ -1,6 +1,6 @@
 ---
 title: MedILS School in Bioinformatics
-description: 
+description: 21-25 August 2023 <br> 16-20 October 2023 <br> Split, Croatia
 page_id: 2023_MedILS
 event:
   - name: MedILS School in Bioinformatics

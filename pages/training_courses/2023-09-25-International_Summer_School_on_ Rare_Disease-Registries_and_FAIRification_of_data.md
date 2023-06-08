@@ -1,6 +1,6 @@
 ---
 title: International Summer School on Rare Disease Registries and FAIRification of data
-description: []
+description: 25-29 September 2023 <br> Rome, Italy
 page_id: 2023_intern_summer_school
 event:
   - name: International Summer School on Rare Disease Registries and FAIRification of data

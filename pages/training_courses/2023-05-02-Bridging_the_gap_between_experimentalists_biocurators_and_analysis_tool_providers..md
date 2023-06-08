@@ -1,6 +1,6 @@
 ---
 title: UCL-Rome Meeting
-description: []
+description: 02 May 2023 <br> Rome, Italy
 page_id: Bridging2023
 event:
   - name: Bridging the gap between experimentalists biocurators and analysis tool providers.
