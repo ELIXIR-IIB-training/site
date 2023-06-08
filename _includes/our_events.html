@@ -20,7 +20,7 @@
       {%- if page.event %}
       {%- for event in page.event %}
       <tr>
-        <td>{{ event.name }}</td>
+        <td>{{ page.title }}</td>
         <td>
           {%- assign page_title = event.name %}
           {%- for site_page in site.pages %}
