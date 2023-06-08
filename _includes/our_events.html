@@ -28,13 +28,13 @@
             <a href="{{ page_url }}">{{ event.name }}</a>
           {%- else %}
             {%- assign page_title = event.name | downcase | replace: ' ', '-' %}
-            {%- for site_page in site.pages %}
-              {%- assign site_page_title = site_page.title | downcase | replace: ' ', '-' %}
-              {%- if site_page_title == page_title %}
-                {%- assign page_url = site_page.url %}
-                <a href="{{ site.baseurl }}{{ page_url }}">{{ event.name }}</a>
-              {%- endif %}
-            {%- endfor %}
+            {%- assign matched_page = site.pages | where: 'title', page_title | first %}
+            {%- if matched_page %}
+              {%- assign page_url = matched_page.url %}
+              <a href="{{ site.baseurl }}{{ page_url }}">{{ event.name }}</a>
+            {%- else %}
+              {{ event.name }}
+            {%- endif %}
           {%- endif %}
         </td>
         <td>{{ event.organisers }}</td>
@@ -51,6 +51,7 @@
   </table>
 </div>
 <div id="skip-tool-table"></div>
+
 
 
 
