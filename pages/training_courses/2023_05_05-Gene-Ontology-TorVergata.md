@@ -3,12 +3,12 @@ title: Gene Ontology.
 description: The course will provide information about Gene Ontology (GO) and molecular interaction
 page_id: go_2023
 event:
-  - name: Gene Ontology.
-    organisers: mino
-    teachers: mino ugo
-    venue: rome
-    event_date: 2022-02-22
-    state: open
+  - name: Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools.
+    organisers: Luana Licata (University of Rome Tor Vergata, ELIXIR-IT)
+    teachers: Ruth Lovering Luana Licata
+    venue: University of Rome Tor Vergata
+    event_date: May 03-04/2023 
+    state: closed
 ---
 
 {% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
