@@ -5,9 +5,9 @@ Summary: This course will provide a foundation on the experimental planning, ana
 page_id: 2023_Epitranscriptomics
 event:
   - name: Training Course in Computational Methods for Epitranscriptomics.
-    organisers: Ernesto Picardi (UNIBA, IT) Francesca De Leo (CNR-IBIOM, IT) Francesco Nicassio (IIT, IT) Tommaso Leonardi (IIT, IT) Bruno Fosso (UNIBA, IT) Graziano Pesole (UNIBA, IT) Allegra Via (Sapienza, IT)
-    teachers: Adriano Fonzino (UNIBA, IT) Claudio Lo Giudice (UNIBA, IT) Alessandro Silvestris (UNIBA, IT) Francesco Nicassio (IIT, IT) Ernesto Picardi (UNIBA, IT) Tommaso Leonardi (IIT, IT) Camilla Ugolini (IIT, IT) Logan Mulroney (IIT, IT)
-    venue: Area della Ricerca del CNR di Bari
+    organisers: E. Picardi (UNIBA, IT) F. De Leo (CNR-IBIOM, IT) F. Nicassio (IIT, IT) T. Leonardi (IIT, IT) B. Fosso (UNIBA, IT) G. Pesole (UNIBA, IT) A. Via (Sapienza, IT)
+    teachers: []
+    venue: Bari, Italy
     event_date: 2023/04/26-28
     state: closed
 ---
