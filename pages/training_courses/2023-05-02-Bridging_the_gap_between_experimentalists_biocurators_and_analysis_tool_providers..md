@@ -6,7 +6,7 @@ event:
   - name: Bridging the gap between experimentalists biocurators and analysis tool providers.
     organisers: Luana Licata (University of Rome Tor Vergata, ELIXIR-IT) Ruth Lovering University College of London, UCL, UK
     teachers: 
-    venue: University of Rome Tor Vergata
+    venue: Rome, Italy
     event_date: 2023/05/02
     state: closed
 ---
