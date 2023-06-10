@@ -6,7 +6,7 @@ event:
   - name: International Summer School on Rare Disease Registries and FAIRification of data
     organisers: []
     teachers: []
-    venue: Istituto Superiore di Sanità - Rome, Italy
+    venue: Rome, Italy
     event_date: 2023/09/25-29
     state: open
 ---
