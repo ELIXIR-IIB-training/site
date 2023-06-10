@@ -6,7 +6,7 @@ event:
   - name: MedILS School in Bioinformatics
     organisers: []
     teachers: []
-    venue: Mediterranean Institute for Life Sciences, Split, Croatia
+    venue: Split, Croatia
     event_date: 2023/08/21-25 <br> 2023/10/16-20
     state: open
 ---
