@@ -10,10 +10,15 @@ subitems:
       - title: 2022
         url: /archive_2022
       - title: 2021
-        url: /2021
-      - title: archive
-        url: /archive
-    
+        url: /archive_2021
+      - title: 2020
+        url: /archive_2020
+      - title: 2019
+        url: /archive_2019 
+      - title: 2018
+        url: /archive_2018 
+      - title: 2017
+        url: /archive_2017
   - title: Events
     url: /events
     image_url: /assets/img/section-icons/events.svg

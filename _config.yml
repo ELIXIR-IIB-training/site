@@ -70,6 +70,26 @@ defaults:
       type: archive_2021
   -
     scope:
+      path: "pages/archive_2020" 
+    values:
+      type: archive_2020
+  -
+    scope:
+      path: "pages/archive_2019" 
+    values:
+      type: archive_2019
+  -
+    scope:
+      path: "pages/archive_2018" 
+    values:
+      type: archive_2018
+  -
+    scope:
+      path: "pages/archive_2017" 
+    values:
+      type: archive_2017
+  -
+    scope:
       path: "pages/archive" 
     values:
       type: archive
