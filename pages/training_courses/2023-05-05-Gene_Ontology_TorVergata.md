@@ -4,8 +4,8 @@ description: 03-04 May 2023 <br> Rome, Italy
 page_id: go_2023
 event:
   - name: Gene Ontology and Bioinformatic data Resources Workshop. Data Annotation and functional analysis tools.
-    organisers: Luana Licata (University of Rome Tor Vergata, ELIXIR-IT)
-    teachers: Ruth Lovering Luana Licata
+    organisers: L. Licata (Univ. Tor Vergata) R. Lovering (UCL, UK)
+    teachers: []
     venue: Rome, Italy
     event_date: 2023/05/03-04
     state: closed

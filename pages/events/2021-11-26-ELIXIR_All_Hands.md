@@ -8,7 +8,7 @@ event:
     organisers: Univ Padua
     teachers: 
     venue: online
-    event_date: 2023/11/26
+    event_date: 2021/11/26
     state: closed
 ---
 

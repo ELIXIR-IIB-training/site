@@ -6,7 +6,7 @@ event:
     organisers: S. Giannattasio (CNR-IBIOM) D. Cavalieri (Univ. of Florence) C. Musicco (CNR-IBIOM) F. De Leo (CNR-IBIOM) L. Le Pera (ISS) A. Via (CNR-IBPM)	
     teachers: []
     venue: Bary, Italy
-    event_date: 2202/04/28-29
+    event_date: 2022/04/28-29
     state: closed
 ---
 
