@@ -7,8 +7,6 @@ subitems:
     subitems: 
       - title: 2023
         url: /training_courses
-      - title: 2022
-        url: /archive/2022
     
   - title: Events
     url: /events
