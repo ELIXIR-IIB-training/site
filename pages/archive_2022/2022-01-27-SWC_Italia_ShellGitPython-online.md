@@ -1,5 +1,5 @@
 ---
-title:  The Carpentries
+title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python"
 description: 27 January - 04 February 2022 <br> online
 event:
   - name: "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python"

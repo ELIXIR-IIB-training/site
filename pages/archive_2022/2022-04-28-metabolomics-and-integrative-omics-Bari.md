@@ -1,5 +1,5 @@
 ---
-title: ELIXIR IIB Workshop
+title: "Metabolomics and Integrative omics: from data production to analysis"
 description: 28-29 April 2022 <br> Bari, Italy
 event:
   - name: "Metabolomics and Integrative omics: from data production to analysis"

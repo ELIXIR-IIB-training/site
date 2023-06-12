@@ -1,5 +1,5 @@
 ---
-title: ELIXIR IIB Training Course
+title: "School of Python for genomics. Basic module: Introduction to Python programming"
 description: 22-25 November 2022 <br> Rome, Italy
 page_id: python_school_2022
 event:

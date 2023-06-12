@@ -1,9 +1,9 @@
 ---
-title: ELIXIR IIB Training Course
+title: "Practical course on FAIR Data Stewardship in Life Science"
 description: 02-11 March 2022 <br> online
 event: 
   - name: "Practical course on FAIR Data Stewardship in Life Science"
-    organisers: E. Lazzeri (ICDI, GARR) L. Le Pera (ISS) I. Miçetic (Univ. Padua) G. Pavone (ICDI, CNR ISTI) A. Via (Univ. Sapienza) M. Carraro (Univ. Padua)
+    organisers: E. Lazzeri L. Le Pera I. Miçetic G. Pavone A. Via M. Carraro
     teachers: []
     venue: Online
     event_date: 2022/03/02-11

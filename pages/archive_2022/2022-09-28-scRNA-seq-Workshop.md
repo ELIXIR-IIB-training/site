@@ -1,5 +1,5 @@
 ---
-title: ELIXIR IIB Training Course
+title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis."
 description: 28-30 September 2022 <br> Turin, Italy
 page_id: scRNA-seq_2023
 event:
