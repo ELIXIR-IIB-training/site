@@ -65,7 +65,7 @@ defaults:
       type: archive   
   -
     scope:
-      path: "pages/archive/2022"
+      path: "pages/2022"
     values:
       type: training_courses_2022         
   -   
