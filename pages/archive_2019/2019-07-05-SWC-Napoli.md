@@ -5,7 +5,7 @@ event:
   - name: "Software Carpentry Workshop"
     organisers: []
     teachers: []
-    venue: napoli, Italy 
+    venue: Napoli, Italy 
     event_date: 2019/07/03-05
     state: closed
 ---

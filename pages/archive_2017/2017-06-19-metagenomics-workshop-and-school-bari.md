@@ -3,10 +3,10 @@ title:  "Workshop + Summer School in Advanced Computational Metagenomics"
 description: 19-23 June 2017 <br> Bari, Italy
 event:
   - name: "Workshop + Summer School in Advanced Computational Metagenomics"
-    organisers:  D. D'Elia (ELIXIR-IIB Training Coordinator Deputy, CNR-ITB, Italy) A. Via (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy) L. Le Pera (ELIXIR-IIB Training Team, Italy)
+    organisers:  D. D'Elia L. Le Pera A. Via 
     teachers: []
     venue: Bari, Italy
-    event_date: 
+    event_date: 2017/06/19-23
     state: closed
 ---
 
