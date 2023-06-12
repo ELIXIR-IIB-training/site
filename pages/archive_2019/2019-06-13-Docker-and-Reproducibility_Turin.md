@@ -1,12 +1,20 @@
 ---
-layout: post
-title:  "Docker and Reproducibility <font color='black'>[closed]</font>"
-date_start:  2019-06-13 
-date_end: 2019-06-14   
-venue: Torino, Italy
-description: Docker is a container framework for Linux that allows a developer to make easier the creation, deployment and execution of applications by using containers. During the workshop the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
-
+title: "Docker and Reproducibility" 
+description: 13-14 June 2019 <br> Torino, Italy
+event:
+  - name: "Docker and Reproducibility"
+    organisers: M. Beccuti R. Calogero M. Chiapello L. Le Pera A. Via
+    teachers: []
+    venue: Torino, Italy
+    event_date: 2019/06/13-14
+    state: closed
 ---
+
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_CNR_IBPM.jpeg" alt="Logo_CNR_IBPM" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_unito.png" alt="Logo_unito" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_INGM_web.jpeg" alt="Logo_INGM_web" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_cnr_ipsp.jpeg" alt="Logo_cnr_ipsp" max-width="10" %}
 
 <table border="0" width="600">
 <tr>

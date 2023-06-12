@@ -1,11 +1,11 @@
 ---
 title:  "Training course on Python for Life Scientists"
-description: 11-15 September 2017 <br> Rome, Italy
+description: 11-15 September 2017 <br> Roma, Italy
 event:
   - name: "Training course on Python for Life Scientists"
     organisers: L. Le Pera V. Morea A. Via
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2017/09/11-15
     state: closed
 ---

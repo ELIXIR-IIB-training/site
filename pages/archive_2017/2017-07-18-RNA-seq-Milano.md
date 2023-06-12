@@ -1,11 +1,11 @@
 ---
 title:  "Training Course on RNA-Seq data analysis"
-description: 18-20 July 2017 <br> Milan, Italy
+description: 18-20 July 2017 <br> Milano, Italy
 event:
   - name: "Training Course on RNA-Seq data analysis"
     organisers: M. Chiara L. Le Pera G. Pavesi A. Via F. Zambelli
     teachers: []
-    venue: Milan, Italy
+    venue: Milano, Italy
     event_date: 2021/07/18-20
     state: closed
 ---

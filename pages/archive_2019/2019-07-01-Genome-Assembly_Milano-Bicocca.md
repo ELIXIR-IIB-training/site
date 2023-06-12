@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "Genome Assembly and Annotation <font color='black'>[closed]</font>"
-date_start:   2019-07-01
-date_end:   2019-07-05
-venue: Milano, Italy
-description: The course will take the participants through all steps of a genome assembly and annotation project, starting with quality control, moving into genome assembly and assembly validation, and ending with structural and functional annotation. Both short and long read technologies will be discussed, as well as supporting technologies. Lectures are mixed with practicals, with a majority of the time spent doing hands-on analyses in the command terminal. Focus is on eukaryotes, although most methods will be applicable to any organism. One day is set aside to discuss the participants own projects, and work with that data, if available. 
-
+title:  "Genome Assembly and Annotation"
+description: 01-05 July 2019 <br> Milano, Italy
+event:
+  - name: "Genome Assembly and Annotation"
+    organisers: G. Della Vedova H. Lantz L. Le Pera B. L. Leskosek A. Via
+    teachers: []
+    venue: Milano, Italy
+    event_date: 2019/07/01-05
+    state: closed
 ---
 
 

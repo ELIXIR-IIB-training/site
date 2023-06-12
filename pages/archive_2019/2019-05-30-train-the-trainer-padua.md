@@ -1,13 +1,18 @@
 ---
-layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
-date_start: 2019-05-30
-date_end:   2019-05-31
-venue: Padova, Italy
-description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title: "ELIXIR-EXCELERATE Train the Trainer"
+description: 30-31 May 2019 <br> Padova, Italy
+event:
+  - name: "ELIXIR-EXCELERATE Train the Trainer"
+    organisers: L. Le Pera I. Mičetić S. Tosatto A. Via
+    teachers: []
+    venue: Padova, Italy
+    event_date: 2019/05/30-31
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/Logo_excelerate_whitebackground.png" alt="Logo_excelerate_whitebackground" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_uni_padova.png" alt="logo_uni_padova" max-width="10" %}
 
 <table border="0">
   <tr>

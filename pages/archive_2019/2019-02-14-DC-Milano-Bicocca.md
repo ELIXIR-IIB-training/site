@@ -1,25 +1,20 @@
 ---
-layout: post
-title:  "Data Carpentry Workshop <font color='black'>[closed]</font>"
-date_start:   2019-02-14
-date_end:   2019-02-15
-venue: Milano, Italy
-description: Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems. 
+title: "Data Carpentry Workshop" 
+description: 14-15 February 2019 <br> Milano, Italy
+event:
+  - name: "Data Carpentry Workshop"
+    organisers: []
+    teachers: []
+    venue: Milano, Italy
+    event_date: 2019/02/14-15
+    state: closed
 
 ---
 
-<table border="0">
-<tr>
-<td><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="60" width="500">
-	</td>
-	</tr>
-	<tr height="50">
-	</tr>
-	<tr>
-	<td><img src="../../../img/Logo_Carpentry_Elixir.png" height="130" width="500">
-	</td>	
-</tr>
-</table>
+{% include image.html file="/2022_and_older/Logo_Excelerate_EU-flag-acknowledgement.png" alt="Logo_Excelerate_EU-flag-acknowledgement" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_Carpentry_Elixir.png" alt="Logo_Carpentry_Elixir" max-width="10" %}
+
+
 
 <br>
 The course webpage with all the information and the link to submit your application can be found at:<br>

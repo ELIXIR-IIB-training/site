@@ -1,26 +1,19 @@
 ---
-layout: post
-title:  "Single-Cell RNA Sequencing and Data Analysis <font color='black'>[closed]</font>"
-date_start:   2019-05-07
-date_end:   2019-05-09
-venue: Pozzuoli (Napoli), Italy
-description: Single-Cell Transcriptomics is improving the quality of biological investigations by enhancing the dissection of heterogeneity in complex tissues and cell cultures. This 3-day course aims to provide an overview of a complete Single-Cell RNA sequencing workflow.
-
-
+title:  "Single-Cell RNA Sequencing and Data Analysis"
+description: 07-09 May 2019 <br> Pozzuoli (Napoli), Italy
+event:
+  - name: "Single-Cell RNA Sequencing and Data Analysis"
+    organisers: D. Cacchiarelli V. colonna
+    teachers: []
+    venue: Pozzuoli (Napoli), Italy
+    event_date: 2019/05/07-09
+    state: closed
 ---
-<table width="700">
-   <tr>
-   	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="400"></a></td>
-   	<td width="50"></td>
-   	   	<td><a href="http://www.tigem.it/"><img src="../../../img/Logo_tigem.png" alt="yay" height="120" width="400"></a></td>
-   	<td width="50"></td>
-   		<td><a href="http://www.igb.cnr.it/"><img src="../../../img/Logo_IGB_CNR.jpg" alt="cnr" height="150" width="550"></a></td>
-      </tr>   
-   <tr height="50"></tr>
-   <tr>
-    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#elixirsinglecell</b></td>    
-   </tr>
-</table>
+
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_tigem.png" alt="Logo_tigem" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_IGB_CNR.jpg" alt="Logo_IGB_CNR" max-width="10" %}
+
 
 <!-- <a href="https://github.com/ELIXIR-IIB-training/POPGEN2018">Go to the course material on git</a>
 -->
