@@ -35,7 +35,7 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: elixir_it_training
+      sidebar: elixir_IT_Training
       search_exclude: false
   -
     scope:
@@ -65,9 +65,9 @@ defaults:
       type: archive   
   -
     scope:
-      path: "pages/2022"
+      path: "pages/archive/2022"
     values:
-      type: training_courses_2022         
+      type: 2022         
   -   
     scope:
       path: "PAGES/trainers"
