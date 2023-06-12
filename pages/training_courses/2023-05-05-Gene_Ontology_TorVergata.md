@@ -1,12 +1,12 @@
 ---
 title: Gene Ontology
-description: 03-04 May 2023 <br> Rome, Italy
+description: 03-04 May 2023 <br> Roma, Italy
 page_id: go_2023
 event:
   - name: Gene Ontology and Bioinformatic data Resources Workshop. Data Annotation and functional analysis tools.
-    organisers: L. Licata (Univ. Tor Vergata) R. Lovering (UCL, UK)
+    organisers: L. Licata R. Lovering
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2023/05/03-04
     state: closed
 ---

@@ -1,12 +1,12 @@
 ---
 title: "School of Python for genomics. Basic module: Introduction to Python programming"
-description: 22-25 November 2022 <br> Rome, Italy
+description: 22-25 November 2022 <br> Roma, Italy
 page_id: python_school_2022
 event:
   - name: "School of Python for genomics. Basic module: Introduction to Python programming"
-    organisers: S. Morabito (ISS) L. Le Pera (ISS) A. Via (Sapienza Univ.) SIDiLV ELIXIR-IT
+    organisers: L. Le Pera S. Morabito SIDiLV ELIXIR-IT A. Via
     teachers: []
-    venue: Italian National Institute of Health (ISS) - Rome, Italy
+    venue: Roma, Italy
     event_date: 2022/11/22-25
     state: closed
 ---

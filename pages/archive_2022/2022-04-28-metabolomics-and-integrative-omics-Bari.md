@@ -3,9 +3,9 @@ title: "Metabolomics and Integrative omics: from data production to analysis"
 description: 28-29 April 2022 <br> Bari, Italy
 event:
   - name: "Metabolomics and Integrative omics: from data production to analysis"
-    organisers: S. Giannattasio (CNR-IBIOM) D. Cavalieri (Univ. of Florence) C. Musicco (CNR-IBIOM) F. De Leo (CNR-IBIOM) L. Le Pera (ISS) A. Via (CNR-IBPM)	
+    organisers: D. Cavalieri F. De Leo S. Giannattasio L. Le Pera C. Musicco A. Via 	
     teachers: []
-    venue: Bary, Italy
+    venue: Bari, Italy
     event_date: 2022/04/28-29
     state: closed
 ---

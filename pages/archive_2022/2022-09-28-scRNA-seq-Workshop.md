@@ -1,12 +1,12 @@
 ---
 title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis."
-description: 28-30 September 2022 <br> Turin, Italy
+description: 28-30 September 2022 <br> Torino, Italy
 page_id: scRNA-seq_2023
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis."
     organisers: R. Calogero M. Beccuti L. Le Pera A. Via
     teachers: []
-    venue: University of Turin, Italy
+    venue: Torino, Italy
     event_date: 2022/09/28-30
     state: closed
 ---

@@ -1,12 +1,12 @@
 ---
 title: UCL-Rome Meeting
-description: 02 May 2023 <br> Rome, Italy
+description: 02 May 2023 <br> Roma, Italy
 page_id: Bridging2023
 event:
   - name: Bridging the gap between experimentalists biocurators and analysis tool providers.
-    organisers: L. Licata (Univ. Rome Tor Vergata, ELIXIR-IT) R. Lovering (UCL, UK)
+    organisers: L. Licata R. Lovering
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2023/05/02
     state: closed
 ---
