@@ -35,7 +35,7 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: elixir_IT_training
+      sidebar: elixir_IT_Training
       search_exclude: false
   -
     scope:
