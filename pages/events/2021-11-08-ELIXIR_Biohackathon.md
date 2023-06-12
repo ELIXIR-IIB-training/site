@@ -8,7 +8,7 @@ event:
     organisers: ELIXIR NBDC DBCLS
     teachers: 
     venue: hybrid
-    event_date: 2023/11/08-12
+    event_date: 2021/11/08-12
     state: closed
 ---
 
