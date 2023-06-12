@@ -60,9 +60,9 @@ defaults:
       type: training_courses 
   -
     scope:
-      path: "pages/2022"
+      path: "pages/archive_2022"
     values:
-      type: 2022     
+      type: archive_2022     
   -
     scope:
       path: "pages/2021" 
