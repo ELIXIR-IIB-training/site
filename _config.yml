@@ -65,9 +65,14 @@ defaults:
       type: archive_2022     
   -
     scope:
-      path: "pages/2021" 
+      path: "pages/archive_2021" 
     values:
-      type: 2021
+      type: archive_2021
+  -
+    scope:
+      path: "pages/archive" 
+    values:
+      type: archive
   -   
     scope:
       path: "pages/trainers"
