@@ -1,32 +1,23 @@
 ---
-layout: post
-title:  "RNA-seq and single cell RNA-seq Course <font color='red' size='3'>[cancelled, to be rescheduled]</font>"
-date_start:  2020-03-09 
-date_end: 2020-03-13   
-venue: Torino, Italy
-description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of RNA-seq data using Bioconductor and other open-source software tools. A specific module will briefly describe the single-cell RNA-seq workflow, highlighting differences existing between bulk RNA-seq and single-cell sequencing. The course is suitable for life science researchers who are new to NGS technology, and no statistics prerequisites or computing experience are necessary for attending the course.
-
+title:  "RNA-seq and single cell RNA-seq Course <font color='red' size='3'>[Cancelled, to be rescheduled]</font>"
+description: 09-13 March 2020 <br> Torino, Italy
+event:
+  - name: "RNA-seq and single cell RNA-seq Course"
+    organisers: M. Beccuti R. Calogero L. Le Pera A. Via
+    teachers: []
+    venue: Torino, Italy
+    event_date: 2020/03/09-13
+    state: closed
 ---
 
-<table border="0" width="600">
-<tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a>
-	</td>
-	<td weight="20"></td>
-	<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="80"></a></td>
-	</tr>
-	</table>
-<br>
-<table border="0" width="600">
-<tr>
-<td><a href=""><img src="../../../img/Logo_illumina.jpg" height="60" weight="100"></a></td>
-<td weight="20"></td>
-<td><a href=""><img src="../../../img/Logo_B_and_Gu.jpg" height="100"></a></td>
-<td weight="20"></td>
-<td><a href=""><img src="../../../img/Logo_Bx2M.png" height="100" weight="150"></a></td>
-</tr>
-</table>
-<br>
+
+
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_unito.png" alt="Logo_unito" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_illumina.jpg" alt="Logo_illumina" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_B_and_Gu.jpg" alt="Logo_B_and_Gu" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_Bx2M.png" alt="Logo_Bx2M" max-width="10" %}
+
 <br>
 
 **<font color='red'>WARNING: due to the public health emergency, the course has been cancelled and will be rescheduled to a later date.</font>**

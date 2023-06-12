@@ -1,23 +1,20 @@
 ---
-layout: post
-title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools. <font color='red' size='3'>[cancelled, to be rescheduled]</font>"
-date_start:   2020-05-06
-date_end:   2020-05-07
-venue: Rome, Italy
-description: Two-day workshop to boost your understanding of bioinformatics resources and their use - you will learn about the key data resources available and how to use functional analysis tools.
-
+title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools. <font color='red' size='3'>[Cancelled, to be rescheduled]</font>"
+description: 06-07 May 2020 <br> Rome, Italy
+event:
+  - name: "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools."
+    organisers: L. Licata R. Lovering 
+    teachers: []
+    venue: Rome, Italy
+    event_date: 2020/05/06-07
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_uni_torvergata.png" alt="Logo_uni_torvergata" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_UCL.jpeg" alt="logo_UCL" max-width="10" %}
 
-<table border="0" align="center">
-	<tr>
-		<td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
-		<td width="50"></td>
-		<td><a href="https://en.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="110"></a></td>
-		<td width="50"></td>
-		<td><a href="https://www.ucl.ac.uk/"><img src="../../../img/logo_UCL.jpeg" height="100"></a></td>
-	</tr>
-</table>
+
 <br>
 <br>
 <br>

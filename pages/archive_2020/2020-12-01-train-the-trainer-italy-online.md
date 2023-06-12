@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "ELIXIR Train the Trainer <font color='blue'>- Online course </font> <font color='black'>[closed]</font>"
-date_start: 2020-12-01
-date_end:   2020-12-04
-venue: online
-description: The ELIXIR Training Platform, in collaboration with ELIXIR-IT, is pleased to announce a Train the Trainer (TtT) event online. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title:  "ELIXIR Train the Trainer"
+description: 01-04 December 2020 <br> online
+event:
+  - name: "ELIXIR Train the Trainer"
+    organisers: L. Le Pera A. Via
+    teachers: []
+    venue: online
+    event_date: 2020/12/01-04
+    state: closed
 ---
 
 
