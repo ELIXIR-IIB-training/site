@@ -7,7 +7,7 @@ event:
     url:
     organisers: Loredana Le Pera (ISS) Allegra Via (Sapienza Univ.) Patricia Palagi (ELIXIR-CH)
     teachers: []
-    venue: Casa dell'Aviatore Rome,Italy
+    venue: Rome, Italy
     event_date: 2023/03/09 -2023/ 03/10
     state: closed
 ---

@@ -6,8 +6,8 @@ event:
   - name: Advanced Training Course in Bioinformatics
     url: https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0
     organisers: Sapienza CNR-IBPM ELIXIR-IIB
-    teachers: S. Pascarella (Director) A. Via (Deputy Director) L. Le Pera (scient. comm.)
-    venue: University of Rome Sapienza
+    teachers: []
+    venue: Rome, Italy
     event_date: 2023/02/15 - 2023/09/29
     state: closed
 ---
