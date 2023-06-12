@@ -7,10 +7,10 @@ subitems:
     subitems: 
       - title: 2023
         url: /training_courses
-      - title: Archive
-        url: /archive
       - title: 2022
-        url: /archive/2022
+        url: /2022
+      - title: 2021
+        url: /2021
     
   - title: Events
     url: /events
