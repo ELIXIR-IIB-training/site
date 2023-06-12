@@ -1,21 +1,19 @@
 ---
-layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
-date_start:   2018-01-30
-date_end:   2018-01-31
-venue: Lausanne, Switzerland
-description: ELIXIR-CH in collaboration with ELIXIR-EXCELERATE and ELIXIR Italy are pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title: "ELIXIR-EXCELERATE Train the Trainer"
+description: 30-31 January 2018 <br> Lausanne, Switzerland
+event:
+  - name: "ELIXIR-EXCELERATE Train the Trainer"
+    organisers: P. Palagi
+    teachers: []
+    venue: Lausanne, Switzerland
+    event_date: 2018/01/30-31
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/Logo_elixir_switzerland.png" alt="Logo_elixir_switzerland" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_SIB.jpg" alt="Logo_SIB" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_excelerate_whitebackground.png" alt="Logo_excelerate_whitebackground" max-width="10" %}
 
-<table border="0" width="600">
-  <tr>
-  <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/switzerland"><img src="../../../img/Logo_elixir_switzerland.png" height="100" width="140"></a></td>
-  <td><a href="https://www.sib.swiss/"><img src="../../../img/Logo_SIB.jpg" height="100" width="140"></a></td>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate/"><img src="../../../img/Logo_excelerate_whitebackground.png" height="100" width="140"></a></td>
-  </tr>
-</table>
 <br>
 ELIXIR-CH in collaboration with ELIXIR-EXCELERATE and ELIXIR Italy are pleased to announce a Train the Trainer (TtT) event.
 

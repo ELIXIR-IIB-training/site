@@ -1,20 +1,18 @@
 ---
-layout: post
-title:  "Linux shell scripting for high-throughput biological data processing on supercomputers <font color='black'>[closed]</font>"
-date_start:   2018-01-16
-date_end:   2018-01-17
-venue: Roma, Italy
-description: Biological big data increasingly require supercomputers for their processing and analysis. Running high-throughput (HTP) bioinformatics data pipelines on supercomputing machines requires advanced Linux shell command line and scripting skills. In this two-day course, we will introduce  the Linux shell and we will show how to navigate and work with files and directories, how to combine commands to do new things, how to perform the same actions on many different files, how to filter and selectively extract data from tables, and how to find objects in files. Moreover, we will show how to connect to a remote supercomputer and how to utilise a supercomputing environment to analyse big amount of biological data. 
-
+title:  "Linux shell scripting for high-throughput biological data processing on supercomputers"
+description: 16-17 January 2018 <br> Roma, Italy
+event:
+  - name: "Linux shell scripting for high-throughput biological data processing on supercomputers"
+    organisers: T. Castrignanò L. Le Pera A. Via
+    teachers: []
+    venue: Roma, Italy 
+    event_date: 2018/01/16-17
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_CINECA.jpg" alt="Logo_CINECA" max-width="10" %}
 
-<table border="0" width="300">
-  <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
-    <td><a href="https://www.cineca.it/en"><img src="../../../img/Logo_CINECA.jpg" height="100"></a></td>
-  </tr>
-</table>
 <br>
 
 

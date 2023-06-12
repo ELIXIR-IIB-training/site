@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
-date_start:   2018-03-26
-date_end:   2018-03-27
-venue: Paris, France
-description: ELIXIR-FR in collaboration with ELIXIR-IT and Swiss Institute of Bionformatics (SIB) are pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title:  "ELIXIR-EXCELERATE Train the Trainer"
+description: 26-27 March 2018 <br> Paris, France
+event:
+  - name: "ELIXIR-EXCELERATE Train the Trainer"
+    organisers: V. Dominguez Del Angel H. Ménager
+    teachers: []
+    venue: Paris, France
+    event_date: 2018/03/26-27
+    state: closed
 ---
 
 

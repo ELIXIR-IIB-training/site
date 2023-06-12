@@ -1,20 +1,17 @@
 ---
-layout: post
-title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment <font color='black'>[closed]</font>"
-date_start:   2018-10-22
-date_end:   2018-10-24
-venue: Genova, Italy
-description: The Eighteenth NETTAB Workshop is organised in collaboration with ELIXIR Nodes of the UK and Italy, as well as the Italian Society of Bioinformatics BITS. The main focus will be on FAIR principles in bioinformatics, a challenging topic that we hope will attract many researchers from all over the world, including but not limited to, Bioinformaticians, Biologists, Computer Scientists, and others working or interested in the above research scope.
-
+title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment"
+description: 22-24 October 2018 <br> Genova, Italy
+event:
+  - name: "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment"
+    organisers: []
+    teachers: []
+    venue: Genova, Italy 
+    event_date: 2018/10/22-24
+    state: closed
 ---
+{% include image.html file="/2022_and_older/Logo_nettab2018.jpg" alt="Logo_nettab2018" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
 
-<table border="0">
-  <tr> 
-    <td><a href="http://bioinformatics.it/bits2018"><img src="../../../img/Logo_nettab2018.jpg" height="100" width="200"></a></td>
-    <td width="50"></td>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
-  </tr>
-</table>
 <br>
 
 **FOCUS NEWS:**<br>

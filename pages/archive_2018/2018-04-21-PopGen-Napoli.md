@@ -1,38 +1,23 @@
 ---
-layout: post
-title:  "Population Genomics: background and tools <font color='black'>[closed]</font>"
-date_start:   2018-04-21
-date_end:   2018-04-27
-venue: Napoli, Italy
-description: Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
-
+title: "Population Genomics: background and tools" 
+description: 21-27 April 2018 <br> Napoli, Italy
+event:
+  - name: "Population Genomics: background and tools"
+    organisers: []
+    teachers: []
+    venue: Napoli, Italy
+    event_date: 2018/04/21-27
+    state: closed
 ---
-<table border="0" width="700">
-<tr>
-	<td><img src="../../../img/logo_elixir_popgen.2018.png">
-	</td>	
-</tr>
-</table>
-<table width="700">
-   <tr>
-   <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="700"></a></td>
-   <td></td>
-   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="300"></a></td>
-   <td width="50"></td>
-     <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="550"></a></td>
-      </tr>
-      <tr>
-      <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="100" width="500"></a></td>
-      <td width="100"></td>
-      <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="450"></a></td>
-      <td width="100"></td>
-        <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
-        </tr>
-        <tr height="50"></tr>
-   <tr>
-    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#elixirpopgen</b></td>    
-   </tr>
-</table>
+
+
+{% include image.html file="/2022_and_older/logo_elixir_popgen.2018.png" alt="logo_elixir_popgen.2018" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_excelerate_whitebackground.png" alt="Logo_excelerate_whitebackground" max-width="10" %}
+{% include image.html file="/2022_and_older/IGB-logo.jpg" alt="IGB-logo" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_genomix4life.png" alt="Logo_genomix4life" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_INFN.png" alt="Logo_INFN" max-width="10" %}
+
 
 <a href="https://github.com/ELIXIR-IIB-training/POPGEN2018">Go to the course material on git</a>
 

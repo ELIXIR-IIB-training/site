@@ -1,23 +1,20 @@
 ---
-layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
-date_start:   2018-10-09
-date_end:   2018-10-11
-venue: Stockholm, Sweden
-description: ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB, is pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title:  "ELIXIR-EXCELERATE Train the Trainer"
+description: 09-11 October 2018 <br> Stockholm, Sweden
+event:
+  - name: "ELIXIR-EXCELERATE Train the Trainer"
+    organisers: L. Le Pera J. Lindvall A. Via
+    teachers: []
+    venue: Stockholm, Sweden
+    event_date: 2018/10/09-11
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/Logo_Excelerate_EU-flag-acknowledgement.png" alt="Logo_Excelerate_EU-flag-acknowledgement" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_elixir_sweden.png" alt="Logo_elixir_sweden" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
 
-<table border="0" width="700">
-  <tr>
-  <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="80"></a></td>
-  <td width="50"></td>
-  <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/sweden"><img src="../../../img/Logo_elixir_sweden.png" height="80"></a></td>
-  <td width="20"></td>
-  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
-  </tr>
-</table>
+
 <br>
 ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB, is pleased to announce a Train the Trainer (TtT) event.
 <br>

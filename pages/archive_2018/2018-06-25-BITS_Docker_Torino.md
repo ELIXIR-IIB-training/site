@@ -1,20 +1,18 @@
 ---
-layout: post
-title:  "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility <font color='black'>[closed]</font>"
-date_start:   2018-06-25
-date_end:   2018-06-26
-venue: Torino, Italy
-description: Docker is a container framework for Linux that allows a developer to make easier the creation, deployment and execution of applications by using containers. During the workshop the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
-
+title:  "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility"
+description: 25-26 June 2018 <br> Torino, Italy
+event:
+  - name: "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility"
+    organisers: 
+    teachers: []
+    venue: Torino, Italy
+    event_date: 2018/06/25-26
+    state: closed
 ---
+{% include image.html file="/2022_and_older/Logo_BITS_2018_Torino.png" alt="Logo_BITS_2018_Torino" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
 
-<table border="0">
-  <tr> 
-    <td><a href="http://bioinformatics.it/bits2018"><img src="../../../img/Logo_BITS_2018_Torino.png" height="190" width="200"></a></td>
-    <td width="50"></td>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
-  </tr>
-</table>
+
 <br>
 
 This workshop is a satellite event held jointly with the BITS Annual Meeting 2018.<br>

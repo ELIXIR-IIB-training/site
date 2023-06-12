@@ -1,25 +1,20 @@
 ---
-layout: post
-title:  "Docker Advanced Course <font color='black'>[closed]</font>"
-date_start:   2018-09-26
-date_end:   2018-09-27
-venue: Milano, Italy
-description: Docker is an open source software that is used to run "containers" that are essentially lightweight virtual machines. Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels. This allows to easily deploy programs since all requisites of a program are stored inside the containers. This course will provide the basic notions and tool to allow a developer to "dockerize" her programs, and to manage a set of containers, hence greatly improving the installation process.
-
+title: "Docker Advanced Course" 
+description: 26-27 September 2018 <br> Milano, Italy
+event:
+  - name: "Docker Advanced Course"
+    organisers: R. Bonnal G. Della Vedova L. Le Pera A. Via
+    teachers: []
+    venue: Milano, Italy
+    event_date: 2018/09/26-27
+    state: closed
 ---
 
-<table border="0">
-<tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
-	</td>
-	<td width="20"></td>
-	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="110" width="110"></a>
-	</td>
-	<td width="20"></td>
-	<td><a href="http://www.ingm.org/"><img src="../../../img/Logo_INGM_web.jpeg" height="110" width="230"></a>
-	</td>
-</tr>
-</table>
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_unimilano_bicocca.png" alt="Logo_unimilano_bicocca" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_INGM_web.jpeg" alt="Logo_INGM_web" max-width="10" %}
+
+
 <br>
 
 **IMPORTANT DATES** 

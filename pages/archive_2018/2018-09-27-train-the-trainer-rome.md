@@ -1,21 +1,18 @@
 ---
-layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
-date_start:   2018-09-27
-date_end:   2018-09-28
-venue: Rome, Italy
-description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
-
+title: "ELIXIR-EXCELERATE Train the Trainer" 
+description: 27-28 September 2018 <br> Roma, Italy
+event:
+  - name: "ELIXIR-EXCELERATE Train the Trainer"
+    organisers: L. Le Pera A. Via
+    teachers: []
+    venue: Rome, Italy
+    event_date: 2018/09/27-28
+    state: closed
 ---
 
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_Excelerate_EU-flag-acknowledgement.png" alt="Logo_Excelerate_EU-flag-acknowledgement" max-width="10" %}
 
-<table border="0" width="700">
-  <tr>
-  <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="80"></a></td>
-  <td width="50"></td>
-  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
-  </tr>
-</table>
 <br>
 ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB is pleased to announce a Train the Trainer (TtT) event.
 <br>
