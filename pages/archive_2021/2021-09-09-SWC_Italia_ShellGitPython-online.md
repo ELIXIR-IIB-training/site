@@ -5,7 +5,7 @@ event:
   - name: "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python"
     organisers: ELIXIR-IT Carpentries Italia PONYS
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2021/09/09-10 2021/09/16-17
     state: closed
 ---

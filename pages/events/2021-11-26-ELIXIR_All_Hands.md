@@ -5,9 +5,9 @@ page_id: All_Hands_2021
 event:
   - name: "2021 ELIXIR-IT Workshop"
     url: https://elixir-europe.org/events/elixir-it-workshop
-    organisers: Univ Padua
+    organisers: Univ Padova
     teachers: 
-    venue: online
+    venue: Online
     event_date: 2021/11/26
     state: closed
 ---

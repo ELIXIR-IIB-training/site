@@ -5,9 +5,9 @@ page_id:
 event:
   - name: Hacking to FAIRify your training materials
     url:
-    organisers: Loredana Le Pera (ISS) Allegra Via (Sapienza Univ.) Patricia Palagi (ELIXIR-CH)
+    organisers: L. Le Pera P. Palagi A. Via  
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2023/03/09 -2023/ 03/10
     state: closed
 ---

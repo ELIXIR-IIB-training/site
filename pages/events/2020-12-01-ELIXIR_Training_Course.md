@@ -7,7 +7,7 @@ event:
     url: https://elixir-iib-training.github.io/website/2020/12/01/train-the-trainer-italy-online.html
     organisers: L. Le Pera A. Via
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2020/12/01
     state: closed
 ---

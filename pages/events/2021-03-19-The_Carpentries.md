@@ -6,7 +6,7 @@ event:
     organisers: Carpentries Italia
     url: https://carpentriesitalia.github.io/2021-03-19-italia-online/
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2021/03/19-26
     state: closed
 ---

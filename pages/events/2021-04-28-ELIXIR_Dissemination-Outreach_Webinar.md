@@ -7,7 +7,7 @@ event:
     url: https://www.cnr.it/it/evento/17209
     organisers: F. De Leo E. Lazzeri L. Le Pera G. Pavone A. Via
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2021/04/28
     state: closed
 ---

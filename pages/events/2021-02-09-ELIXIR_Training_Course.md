@@ -7,7 +7,7 @@ event:
     url: https://training.vib.be/all-trainings/train-trainer
     organisers: ELIXIR ELIXIR-CZ
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2021/02/09-12
     state: closed
 ---

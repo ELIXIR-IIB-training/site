@@ -5,7 +5,7 @@ event:
   - name: "EMBO Practical Course on Population Genomics: Background, tools, and programming"
     organisers: A. Manica C. Batini V. Colonna
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2021/03/19-26
     state: closed
 ---

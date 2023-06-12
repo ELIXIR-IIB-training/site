@@ -1,11 +1,11 @@
 ---
 title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools. <font color='red' size='3'>[Cancelled, to be rescheduled]</font>"
-description: 06-07 May 2020 <br> Rome, Italy
+description: 06-07 May 2020 <br> Roma, Italy
 event:
   - name: "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools."
     organisers: L. Licata R. Lovering 
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2020/05/06-07
     state: closed
 ---

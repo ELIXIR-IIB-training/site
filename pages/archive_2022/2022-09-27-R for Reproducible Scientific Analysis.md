@@ -5,7 +5,7 @@ event:
   - name: "R for Reproducible Scientific Analysis"
     organisers: L. Le Pera  A. Via V. Colonna 
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2022/09/27-30
     state: closed
 ---

@@ -7,7 +7,7 @@ event:
     url: https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0
     organisers: Sapienza CNR-IBPM ELIXIR-IIB
     teachers: []
-    venue: Rome, Italy
+    venue: Roma, Italy
     event_date: 2023/02/15 - 2023/09/29
     state: closed
 ---

@@ -7,7 +7,7 @@ event:
     url: http://www.biocomp.unibo.it/~school2021/
     organisers: ELIXIR-IIB Univ. Bologna SIB
     teachers: 
-    venue: online
+    venue: Online
     event_date: 2021/02/09-19
     state: closed
 ---

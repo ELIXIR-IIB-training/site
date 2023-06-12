@@ -6,7 +6,7 @@ event:
   - name: "EMBO Practical Course on Population Genomics: Background and tools"
     organisers: []
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2022/03/22-30
     state: closed
 ---

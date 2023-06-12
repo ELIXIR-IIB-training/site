@@ -5,7 +5,7 @@ event:
   - name: "ELIXIR Train the Trainer"
     organisers: L. Le Pera A. Via
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2020/12/01-04
     state: closed
 ---

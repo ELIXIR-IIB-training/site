@@ -5,7 +5,7 @@ event:
   - name: "Software Carpentry Workshop - R for Reproducible Scientific Analysis"
     organisers: []
     teachers: []
-    venue: online
+    venue: Online
     event_date: 2020/07/14-17
     state: closed
 ---
