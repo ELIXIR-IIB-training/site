@@ -1,6 +1,13 @@
 ---
-title: "Metabolomics and Integrative omics: from data production to analysis <font color='black'>[closed]</font>"
+title: ELIXIR IIB Workshop
 description: 28-29 April 2022 <br> Bari, Italy
+event:
+  - name: "Metabolomics and Integrative omics: from data production to analysis"
+    organisers: S. Giannattasio (CNR-IBIOM) D. Cavalieri (Univ. of Florence) C. Musicco (CNR-IBIOM) F. De Leo (CNR-IBIOM) L. Le Pera (ISS) A. Via (CNR-IBPM)	
+    teachers: []
+    venue: Bary, Italy
+    event_date: 2202/04/28-29
+    state: closed
 ---
 
 {% include image.html file="/2022_and_older/banner_metabolomics2022.png" alt="banner_metabolomics2022" max-width="10" %}

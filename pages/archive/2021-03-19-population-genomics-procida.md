@@ -1,6 +1,13 @@
 ---
-title:  "EMBO Practical Course on Population Genomics&#58; Background, tools, and programming"
+title: EMBO Practical Course
 description: 19-26 March 2021 <br> Procida (Napoli), Italy
+event:
+  - name: "EMBO Practical Course on Population Genomics: Background, tools, and programming"
+    organisers: A. Manica C. Batini V. Colonna
+    teachers: []
+    venue: online
+    event_date: 2021/03/19-26
+    state: closed
 ---
 
 

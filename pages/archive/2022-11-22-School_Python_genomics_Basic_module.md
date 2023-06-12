@@ -1,13 +1,13 @@
 ---
-title: "School of Python for genomics. Basic module: Introduction to Python programming"
-description: 22-23 November 2022 <br> Rome, Italy
+title: ELIXIR IIB Training Course
+description: 22-25 November 2022 <br> Rome, Italy
 page_id: python_school_2022
 event:
   - name: "School of Python for genomics. Basic module: Introduction to Python programming"
-    organisers: []
-    teachers: **Luca De Sabato Arnold Knijn Loredana Le Pera Massimiliano Orsini Allegra Via
+    organisers: S. Morabito (ISS) L. Le Pera (ISS) A. Via (Sapienza Univ.) SIDiLV ELIXIR-IT
+    teachers: []
     venue: Italian National Institute of Health (ISS) - Rome, Italy
-    event_date: 2022/11/22-23
+    event_date: 2022/11/22-25
     state: closed
 ---
 

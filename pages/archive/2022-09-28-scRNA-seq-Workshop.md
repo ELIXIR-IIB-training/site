@@ -1,11 +1,11 @@
 ---
-title: scRNA-seq Workshop
+title: ELIXIR IIB Training Course
 description: 28-30 September 2022 <br> Turin, Italy
-page_id: go_2023
+page_id: scRNA-seq_2023
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis."
-    organisers: Raffaele Calogero Marco Beccuti Loredana Le Pera Allegra Via
-    teachers: Marco Beccuti Raffaele Calogero Francesca Cordero
+    organisers: R. Calogero M. Beccuti L. Le Pera A. Via
+    teachers: []
     venue: University of Turin, Italy
     event_date: 2022/09/28-30
     state: closed
