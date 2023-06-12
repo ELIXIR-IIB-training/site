@@ -1,23 +1,19 @@
 ---
-layout: post
-title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application <font color='black'>[closed]</font>"
-date_start:   2017-10-18
-date_end:   2017-10-19
-venue: Palermo, Italy
-description: Participants in the course will be introduced to protein-protein interactions, biochemical reactions and causal interactions field. During the course the participants will be exposed to the literature curation principles and methods. In addition, there will be a session dedicated to common standards and ontologies adopted to describe data retrieved from the literature in a formalized manner. A large number of molecular interaction resources and methodologies to analyze them will be introduced during hand-on sessions.
-
-
+title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application"
+description: 18-19 October 2017 <br> Palermo, Italy
+event:
+  - name: "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application"
+    organisers: A. Calderone I. Kuperstein L. Licata A. Via
+    teachers: []
+    venue: Palermo, Italy
+    event_date: 2017/10718-19
+    state: closed
 ---
-
-<table border="0" width="600">
-  <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="90"></a></td>
-    <td><a href="http://www.igst.it/nettab/"><img src="../../../img/Logo_nettab.jpg" height="90" width="100"></a></td>
-    <td><a href="http://www.icar.cnr.it/"><img src="../../../img/Logo_ICAR.jpg" height="90" width="90"></a></td>
-     <td><a href="http://web.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="90" width="90"></a></td>
-     <td><a href="https://curie.fr/"><img src="../../../img/Logo_institut_curie.png" height="90" width="90"></a></td>
-  </tr>
-</table>
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_nettab.jpg" alt="Logo_nettab" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_ICAR.jpg" alt="Logo_ICAR" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_uni_torvergata.png" alt="Logo_uni_torvergata" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_institut_curie.png" alt="Logo_institut_curie" max-width="10" %}
 
 <br>
 

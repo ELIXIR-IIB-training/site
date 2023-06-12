@@ -1,20 +1,18 @@
 ---
-layout: post
-title:  "Curation workshop on molecular and causal interactions <font color='black'>[closed]</font>"
-date_start:   2017-12-05
-date_end:   2017-12-07
-venue: Roma, Italy
-description: The curation workshop on molecular and causal interactions is organized by the University of Rome Tor Vergata under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project. The workshop will bring together the main European protagonists in the landscape of manually curated molecular and causal interactions databases. 
+title:  "Curation workshop on molecular and causal interactions"
+description: 05-07 December 2017 <br> Rome, Italy
+event:
+  - name: "Curation workshop on molecular and causal interactions"
+    organisers: L. Licata A. Via
+    teachers: []
+    venue: Rome, Italy
+    event_date: 2017/12/05-07
+    state: closed
 ---
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_uni_torvergata.png" alt="Logo_uni_torvergata" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_excelerate_whitebackground.png" alt="Logo_excelerate_whitebackground" max-width="10" %}
 
-<table border="0" width="300">
-  <tr>
-  <td><a href="http://web.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="90" width="110"></a></td>
-  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
-<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate/"><img src="../../../img/Logo_excelerate_whitebackground.png" height="80" width="140"></a></td>
-  </tr>
-</table>
 
 <br>
 The curation workshop on molecular and causal interactions is organized by the University of Rome Tor Vergata under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project.

@@ -1,21 +1,19 @@
 ---
-layout: post
-title:  "Training course on Machine Learning for Biologists <font color='black'>[closed]</font>"
-date_start:   2017-09-04
-date_end:   2017-09-07
-venue: San Michele all'Adige (TN), Italy
-description: The aim of the course is to provide a practical introduction to the analysis of "omics" data. Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. Practical examples and applications will be illustrated by using R and Python.
-
-
+title:  "Training course on Machine Learning for Biologists"
+description: 04-07 September 2017 <br> Trento, Italy
+event:
+  - name: "Training course on Machine Learning for Biologists"
+    organisers: A. Cestaro V. Colonna
+    teachers: []
+    venue: Trento, Italy
+    event_date: 2017/09/04-07
+    state: closed
 ---
 
-<table border="0" width="600">
-  <tr>
-    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    <td><img src="../../../img/Logo_fbk.jpeg" height="80" width="170"></td>
-    <td><img src="../../../img/Logo_fem.png" height="80" width="150"></td>
-  </tr>
-</table>
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_fem.png" alt="Logo_fem" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_fbk.jpeg" alt="Logo_fbk" max-width="10" %}
+
 
 <br>
 

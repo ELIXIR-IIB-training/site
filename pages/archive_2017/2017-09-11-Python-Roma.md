@@ -1,20 +1,17 @@
 ---
-layout: post
-title:  "Training course on Python for Life Scientists <font color='black'>[closed]</font>"
-date_start:   2017-09-11
-date_end:   2017-09-15
-venue: Roma, Italy
-description: Python is an object-oriented programming language that is ideal for biological data analysis. The course will start from zero knowledge, and will introduce the participants to all the basic concepts of Python such as calculating, organising data, reading and writing files, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. The course will be highly interactive and the students will continuously put theory into practice while learning.
-
+title:  "Training course on Python for Life Scientists"
+description: 11-15 September 2017 <br> Rome, Italy
+event:
+  - name: "Training course on Python for Life Scientists"
+    organisers: L. Le Pera V. Morea A. Via
+    teachers: []
+    venue: Rome, Italy
+    event_date: 2017/09/11-15
+    state: closed
 ---
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/logo_rsg_italy.jpg" alt="logo_rsg_italy" max-width="10" %}
 
-<table border="0" width="600">
-  <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
-    <td></td>
-    <td><a href="http://www.uniroma1.it/"><img src="../../../img/Logo_sapienza.jpg" height="80" width="250"></a></td>
-  </tr>
-</table>
 <br>
 
 **IMPORTANT DATES** for this Training course:

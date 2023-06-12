@@ -1,6 +1,13 @@
 ---
 title:  "Workshop on Computational approaches to the study of protein interactions and rational drug design"
 description: 10-13 April 2017 <br> Padova, Italy
+event:
+  - name: "Workshop on Computational approaches to the study of protein interactions and rational drug design"
+    organisers: - M. Carraro (Univ. Padova, Italy) L. Paladin (Univ. Padova, Italy) A. Via (ELIXIR-IIB Training Coordinator, Italy)
+    teachers: []
+    venue: Padua, Italy
+    event_date: 2017/04/10-13
+    state: closed
 ---
 
 

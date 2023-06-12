@@ -1,22 +1,18 @@
 ---
-layout: post
-title:  "Training Course on RNA-Seq data analysis <font color='black'>[closed]</font>"
-date_start:   2017-07-18
-date_end:   2017-07-20
-venue: Milano, Italy
-description: The course will provide students with theoretical and practical knowledge on how to perform bioinformatic analyses of RNA-Seq data, mainly aimed at the identification of genes differentially expressed across different conditions. 
-
+title:  "Training Course on RNA-Seq data analysis"
+description: 18-20 July 2017 <br> Milan, Italy
+event:
+  - name: "Training Course on RNA-Seq data analysis"
+    organisers: M. Chiara L. Le Pera G. Pavesi A. Via F. Zambelli
+    teachers: []
+    venue: Milan, Italy
+    event_date: 2021/07/18-20
+    state: closed
 ---
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_unimilano.jpg" alt="Logo_unimilano" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_dbs_milano.jpg" alt="Logo_dbs_milano" max-width="10" %}
 
-<table border="0" width="600">
-  <tr>
-    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="../../../img/Logo_unimilano.jpg" height="100"></td>
-    <td><img src="../../../img/Logo_dbs_milano.jpg" height="100"></td>
-  </tr>
-</table>
-<br>
 
 **IMPORTANT DATES** for this Training course:
 

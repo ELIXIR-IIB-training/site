@@ -1,6 +1,13 @@
 ---
 title:  "EMBO Practical Course on Population Genomics: background and tools"
 description: 26 May 2017 <br> Napoli, Italy
+event:
+  - name: "EMBO Practical Course on Population Genomics: background and tools"
+    organisers: []
+    teachers: []
+    venue: Naples, Italy
+    event_date: 2017/05/26
+    state: closed
 ---
 
 

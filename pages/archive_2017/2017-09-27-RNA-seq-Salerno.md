@@ -1,21 +1,19 @@
 ---
-layout: post
-title:  "Training Course on Best practices for RNA-Seq data analysis <font color='black'>[closed]</font>"
-date_start:   2017-09-27
-date_end:   2017-09-29
-venue: Salerno, Italy
-description: The aim of this course is to get a deeper understanding of RNA-Seq experiments, providing a theoretical introduction to the data processing steps, together with practical sessions illustrating the use of the most popular data analysis tools. Some strategies are illustrated for detecting genes, which are differentially expressed across different biological conditions, alternative splicing products, novel isoforms and gene fusion events. Some methods for downstream analysis are described to give insight into how biological knowledge can be generated from RNA-Seq experiments.
-
+title:  "Training Course on Best practices for RNA-Seq data analysis"
+description: 27-29 September 2017 <br> Salerno, Italy
+event:
+  - name: "Training Course on Best practices for RNA-Seq data analysis"
+    organisers: L. Le Pera A. Marabotti R. Tagliaferri A. Via A. Weisz
+    teachers: []
+    venue: Salerno, Italy
+    event_date: 2017/09/27-29
+    state: closed
 ---
 
-<table border="0" width="600">
-  <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
-    <td></td>
-    <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_unisalerno.png" height="100"></a></td>
-    <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="100" width="140"></a></td>
-  </tr>
-</table>
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_unisalerno.jpg" alt="Logo_unisalerno" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_genomix4life.png" alt="Logo_genomix4life" max-width="10" %}
+
 <br>
 
 **IMPORTANT DATES** for this Training course:

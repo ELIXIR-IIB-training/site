@@ -1,22 +1,20 @@
 ---
-layout: post
-title:  "Training Course on Galaxy for Bioinformatics tool developers <font color='black'>[closed]</font>"
-date_start:   2017-07-03
-date_end:   2017-07-05
-venue: Cagliari, Italy
-description: Galaxy is an open source, web-based platform for data intensive biomedical analysis. The aim of this course is to make participants familiarize with the Galaxy platform and prepare them to work independently, using best practices guidelines for building, maintaining and installing Galaxy tools. The course will be delivered using a mixture of lectures and computer based hands-on practical sessions. Lectures will provide an up-to-date overview of the practices for the most successful Galaxy tool development. During this 2 days course participants will learn a modern approach to create, configure and install their own tools into a Galaxy server.
-
+title:  "Training Course on Galaxy for Bioinformatics tool developers"
+description:   03-05 July 2017 <br> Cagliari, Italy
+event:
+  - name: "Training Course on Galaxy for Bioinformatics tool developers"
+    organisers: G. Atzeni L. Le Pera M. Tangaro P. Uva
+    teachers: []
+    venue: Cagliari, Italy
+    event_date: 2017/07/03-05
+    state: closed
 ---
 
-<table border="0" width="600">
-  <tr>
-    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    <td><img src="../../../img/Logo_CRS4.png" height="90" width="200"></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="../../../img/Logo_DIEE_Cagliari.jpg" height="80"></td>
-  </tr>
-</table>
-<br>
+
+{% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_CRS4.png" alt="Logo_CRS4" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_DIEE_Cagliari.jpg" alt="Logo_DIEE_Cagliari" max-width="10" %}
+
 
 **IMPORTANT DATES** for this Training course:
 
