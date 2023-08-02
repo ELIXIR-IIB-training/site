@@ -14,4 +14,4 @@ event:
 
 
 
-[{% include image.html file="/2023_events/logo_2023_bioinfo_medils.png" alt="logo_2023_bioinfo_medils" max-width="10" %}](https://disvamasbic-symposium.bio-groups.com/)
+[{% include image.html file="/2023_events/Masbic_symp-nobg.png" alt="logo_MaSBiC_Symposium" max-width="10" %}](https://disvamasbic-symposium.bio-groups.com/)
