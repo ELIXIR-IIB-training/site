@@ -3,7 +3,7 @@ title: Third MaSBiC Symposium
 description: 
 page_id: 
 event:
-  - name: Third MaSBiC Symposium, Advanced in Protein Science Exploring Structure, Function, and Beyond
+  - name: Third MaSBiC Symposium, Advanced in Protein Science\: Exploring Structure, Function, and Beyond
     url: https://disvamasbic-symposium.bio-groups.com/
     organisers: D. Di Marino L. Maragliano E. Milanetti D. Raimondo
     teachers: []
