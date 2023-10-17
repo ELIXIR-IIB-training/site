@@ -6,6 +6,7 @@ event:
   - name: "ProteomiX – Mix your knowledge to get more!"
     organisers: P. Mauri V. Bellettato
     teachers: []
+    venue: Roma, Italy
     event_date: 2023/11/28-29
     state: open
 ---
