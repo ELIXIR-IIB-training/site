@@ -3,7 +3,7 @@ Title: Workshop ProteomiX
 description: 28-29 November 2023 <br> Roma, Italy
 page_id: workshop_2023
 event:
-  - name: "ProteomiX – Mix your knowledge to get more!"
+  - name: ProteomiX – Mix your knowledge to get more!
     organisers: P. Mauri V. Bellettato
     teachers: []
     event_date: 2023/11/28-29
