@@ -9,7 +9,7 @@ event:
     teachers: []
     venue: Ancona, Italy
     event_date: 2023/09/20 - 2023/09/22
-    state: open
+    state: closed
 ---
 
 

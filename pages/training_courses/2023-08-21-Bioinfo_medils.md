@@ -8,7 +8,7 @@ event:
     teachers: []
     venue: Split, Croatia
     event_date: 2023/08/21-25 <br> 2023/10/16-20
-    state: open
+    state: closed
 ---
 
 [{% include image.html file="/2023_events/logo_2023_bioinfo_medils.png" alt="logo_2023_bioinfo_medils" max-width="10" %}](https://bioinfo.medils.hr/)
