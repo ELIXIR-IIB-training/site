@@ -1,15 +1,15 @@
 - name: ELIXIR Italy All Hand Meeting 2023
-  startDate: 2025-11-27
-  endDate: 2025-11-28
+  startDate: 2023-11-27
+  endDate: 2023-11-28
   description: The ELIXIR Italy All Hands Meeting will be an opportunity to discuss and explore Platforms and Communities, their activities and future perspectives. Our primary goal is to foster connections between ELIXIR Italy members, facilitate interactions and broaden awareness of the entire Research Infrastructure and its potential for researchers, suppliers and other stakeholders.
   location: Rome, Italy
 - name: Workshop rare Diseases
-  startDate: 2025-11-28
-  endDate: 2025-11-29
+  startDate: 2023-11-28
+  endDate: 2023-11-29
   description: The focus of the workshop is the integration of different clinical and bioinformatic approaches to characterize RDs with a particular attention to Italian cases, and how to integrate them into an international framework. In this workshop, researchers from different biomedical communities active in the territory will have the opportunity to define their computational needs together with experts in different aspects of bio-sequence analysis with the aim of sharing experiences and integrating knowledge in different aspects of the complex problem of research, diagnosis and care of RDs.
   location: Rome, Italy
 - name: Workshop rare Diseases
-  startDate: 2025-11-28
-  endDate: 2025-11-29
+  startDate: 2023-11-28
+  endDate: 2023-11-29
   description: ProteomiX is an interactive workshop based on open discussion involving young researchers working on both experimental and computational aspects, such as protein extraction, interferences removal, separation, mass spectrometry analysis, database, quantitative and pathway analyses.
   location: Rome, Italy  
