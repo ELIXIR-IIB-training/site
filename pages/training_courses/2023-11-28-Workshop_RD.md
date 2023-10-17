@@ -6,6 +6,7 @@ event:
   - name: "Analysis and collection of rare disease data: a joint effort of biomedical and bioinformatics research communities."
     organisers: R. Casadio E. Capridotti C. Carta L. Licata
     teachers: []
+    venue: Roma, Italy
     event_date: 2023/11/28-29
     state: open
 ---
