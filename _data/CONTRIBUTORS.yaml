@@ -10,28 +10,10 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
-Allegra Via:
+Primo Esempio:
     git: 
-    email: allegra.via@uniroma.it
+    email: example@email.it
     orcid: 
     role: editor
     affiliation: Uniroma / ELIXIR-IT
-Short example contributor:
-    affiliation: Affiliation 
-Long example contributor:
-    role: Training Coordinator
-    image_url: 
-    affiliation: Very long affiliation + Very long institute
 
-    Gianmarco Pascarella:
-    git: 
-    email: gianmarco.pascarella@uniroma.it
-    orcid: 
-    role: editor
-    affiliation: Uniroma / ELIXIR-IT
-Short example contributor:
-    affiliation: Affiliation 
-Long example contributor:
-    role: Web Master
-    image_url: 
-    affiliation: Very long affiliation + Very long institute
