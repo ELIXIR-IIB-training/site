@@ -6,9 +6,9 @@ layout: none
 <!doctype html>
 <html lang="en">
 {% include head.html %}    
-
+{% include welcome.html %}
 <body id="main" class="conteiner">
-    {% include welcome.html %}
+    
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html search=false %}
 
