@@ -101,9 +101,8 @@ defaults:
       type: trainers
   -
     scope:
-      path: "pages/peole"
+      path: "pages/people"
     values:
-      type: peole
       sidebar: people
 
 
