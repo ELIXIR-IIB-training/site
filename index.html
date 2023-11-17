@@ -8,8 +8,9 @@ layout: none
 {% include head.html %}    
 
 <body id="main" class="conteiner">
-    {% include welcome.html %}
+
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
+    {% include welcome.html %}
     {% include topnav.html search=false %}
 
  
