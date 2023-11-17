@@ -103,6 +103,7 @@ defaults:
     scope:
       path: "pages/peole"
     values:
+      type: peole
       sidebar: people
 
 
