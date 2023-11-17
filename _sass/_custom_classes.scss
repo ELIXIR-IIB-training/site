@@ -224,7 +224,23 @@ nav .navbar-brand {
         z-index: -1;
     }
 }
+.row-bg-light {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    position: relative;
 
+    &::after {
+        content: ' ';
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+        height: 100%;
+        width: 100vw;
+        background-color: $gray-100;
+        z-index: -1;
+    }
+}
 // Search box
 
 section#search-section {
