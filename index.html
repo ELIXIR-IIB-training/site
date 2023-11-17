@@ -10,21 +10,9 @@ layout: none
 <body id="main" class="conteiner">
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html search=false %}
- <section class="container mb-5">
-        <div class="card border border-primary text-secondary text-center">
-            <div class="card-body">
-                <h5 class="card-title fs-3">This website is under construction!</h5> 
-            </div>
-        </div>
-    </section>
+    {% include welcome.html %}
  
  <div class="landingpage">
-       <section class="container mb-5">
-           <div>
-               <p class="text-center lead">Welcome to the site of the Italian training platform of Elixir!
-               </p>
-           </div>
-       </section>
        <section id="search-section" class="bg-dark py-5 card border border-secondary">
            <div class="container">
                 <div class="row">
