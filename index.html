@@ -8,9 +8,10 @@ layout: none
 {% include head.html %}    
 
 <body id="main" class="conteiner">
+    {% include welcome.html %}
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html search=false %}
-    {% include welcome.html %}
+
  
  <div class="landingpage">
        <section id="search-section" class="bg-dark py-5 card border border-secondary">
