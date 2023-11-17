@@ -124,8 +124,9 @@ defaults:
 
 plugins:
   - elixir-toolkit-theme-plugins
-  - jemoji
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-github-metadata
-  - jekyll-octicons
+  - jemoji
+  - webrick
