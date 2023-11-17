@@ -99,6 +99,11 @@ defaults:
       path: "pages/trainers"
     values:
       type: trainers
+  -
+    scope:
+      path: "pages/peole"
+    values:
+      sidebar: people
 
 
 
