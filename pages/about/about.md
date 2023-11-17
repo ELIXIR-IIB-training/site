@@ -4,12 +4,14 @@ title: About
 
 {% include image.html file="infrastructures/ELIXIR-logo.svg" alt="ELIXIR logo" max-width="3em" %}
 
-The ELIXIR-IIB Training Platform is building a thriving community who strongly believes that quality training in bioinformatics is essential to achieve excellence in life science research. Thanks to a very motivated group of people, our programme is engaging an increasing number of passionate scientists interested in taking part in our training initiatives, activities and discussions.
+
+ELIXIR Italy provides training in the field of bioinformatics and computational biology to help researchers effectively utilise bioinformatics tools, databases, and resources. [The ELIXIR Italy Training Platform](https://elixir-iib-training.github.io/site/) offers workshops, training courses, and seminars on various topics at the intersection of biology, computer science, statistics, and more. These events are designed to provide researchers with hands-on experience and practical skills to analyse biological data, and offer opportunities for participants to network, collaborate, and exchange knowledge with others in the field.
 <br>
-Courses are mostly organised in collaboration with ELIXIR-IIB institutions and, whenever possible, in regions in need of a given expertise. They<!-- ,which are free,--> are limited to <b>20-30</b> participants to allow high interactivity and intensive practical work. Priority is given to candidates from ELIXIR-IIB institutions and other ELIXIR nodes. Instructors are selected among experts in the course's topic with experience in the application of advanced training practices and techniques.
-<br>
-We collaborate with other ELIXIR nodes in activities such as Train the Trainer, eLearning, EXCELERATE use cases' training support and we have a pilot to provide training support to extra-European countries.
-<br>
-<br>
-If you want to be involved in our initiatives, collaborate with us or need more information about our training activities, you can contact someone from the <a href="https://elixir-iib-training.github.io/website/contacts/"><b>ELIXIR-IIB Training Team</b></a>.
+More specifically, the ELIXIR Italy Training Platform offers the following:
+Specialized training in areas such as genomics, proteomics, structural biology, systems biology, and more. These training sessions may cover both basic concepts and advanced techniques.
+Online resources such as tutorials, webinars, video lectures, and documentation that researchers can access remotely. These resources are often valuable for self-paced learning.
+Data analysis training to teach researchers how to analyse and interpret biological data using bioinformatics tools, software, and pipelines.
+Hands-on practice where participants work with real or simulated datasets to gain practical skills.
+Tailored training programmes for specific research groups, institutions, or projects, depending on their needs and interests.
+Training infrastructure, namely access to computing resources and software needed for the training activities, ensuring participants can follow along with the hands-on exercises.
 
