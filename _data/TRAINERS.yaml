@@ -14,7 +14,7 @@ NomeT CognomeT:
     git: 
     email: example@email.it
     role:
-    tag: Bioinformatics 
+    tag: Struct_Bioinformatics, Homology_modeling
     affiliation: CNR / ELIXIR-IT
     
 
