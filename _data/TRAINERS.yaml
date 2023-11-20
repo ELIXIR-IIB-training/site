@@ -14,7 +14,7 @@ NomeT CognomeT:
     git: 
     email: example@email.it
     role:
-    tag: bioinformatics 
-    affiliation: Uniroma / ELIXIR-IT
+    tag: Bioinformatics 
+    affiliation: CNR / ELIXIR-IT
     
 
