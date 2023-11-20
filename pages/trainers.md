@@ -2,7 +2,8 @@
 title: Trainers
 custom_editme: _data/TRAINERS.yaml
 ---
-{% include contributor-tiles-all.html %}
+{% include section-navigation-tiles.html type="trainers" except="index.md" %}
+{% include trainer-tiles-all.html %}
 
 
 

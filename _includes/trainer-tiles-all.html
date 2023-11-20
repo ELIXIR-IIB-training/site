@@ -1,0 +1,97 @@
+{%- assign trainers = site.data.TRAINERS %}
+{%- assign nr = include.nr | default: 5 %}
+{%- if include.custom %}
+{%- assign allcontrstr = include.custom %}
+{%- elsif include.role %}
+{%- assign rolefilter =  include.role | downcase %}
+{%- for contr in trainers %}
+{%- assign contrrole = contr[1]['role'] | downcase %}
+{%- if include.role == contrrole %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- else %}
+{%- for page in site.pages %}
+{%- if page.trainers and page.search_exclude != true and page.trainers.size != 0 %}
+{%- assign pagecontr = page.trainers | join: ", " %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: pagecontr %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: pagecontr %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- for contr in trainers %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- assign alltrainers = allcontrstr | split: ", " | uniq | sort %}
+<div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-xl-{{nr}} g-4 trainer-cards">
+  {%- for trainer in alltrainers %}
+  <div class="col">
+    <div class="card h-100">
+      {%- assign id = trainers[trainer].git | default: 'no_github' %}
+      <div class="position-relative">
+        {%- if trainers[trainer].image_url %}
+        <div class="p-3">
+          <div class="ratio ratio-1x1">
+            <div class="contr-placeholder rounded-circle" style="background-image: url({{ trainers[trainer].image_url }});">
+            </div>
+          </div>
+        </div>
+        {%- else %}
+        {%- if trainers[trainer].git %}
+        <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ trainer }}">
+        {%- else %}
+        <div class="p-3">
+          <div class="ratio ratio-1x1">
+            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
+              {%- assign contr_name = trainer | split: " " %}
+              {%- assign initials = "" %}
+              {%- for name in contr_name %}
+                  {%- assign initial = name | slice: 0,1 | capitalize %}
+                  {%- assign initials = initials | append: initial %}
+              {%- endfor %}
+              <span class="fs-2 fw-bold">{{ initials }}</span>
+            </div>
+          </div>
+        </div>
+        {%- endif %}
+        {%- endif %}
+        {%- if trainers[trainer].role %}
+        <span class="badge position-absolute top-0 end-0">{{ trainers[trainer].role | capitalize }}</span>
+        {%- endif %}
+      </div>
+      <div class="card-body text-center py-0">
+        <p class="card-title">{{ trainer }}</p>
+        {%- if trainers[trainer].affiliation %}
+        <p class="card-affiliation">{{ trainers[trainer].affiliation }}</p>
+        {%- endif %}
+      </div>
+      {%- if trainers[trainer].git or trainers[trainer].email or trainers[trainer].orcid %}
+      <div class="card-footer">
+        <div class="d-flex justify-content-center gap-2">
+          {%- if trainers[trainer].git %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://github.com/{{id}}"><i class="fa-brands fa-github"></i></a>
+          {%- endif %}
+          {%- if trainers[trainer].email %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{trainers[trainer].email}}"><i class="fa-solid fa-envelope"></i></a>
+          {%- endif %}
+          {%- if trainers[trainer].orcid %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{trainers[trainer].orcid}}"><i class="fa-brands fa-orcid"></i></a>
+          {%- endif %}
+        </div>
+      </div>
+      {%- endif %}
+    </div>
+  </div>
+  {%- endfor %}
+</div>
