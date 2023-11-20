@@ -1,0 +1,109 @@
+{%- if page.trainers and page.trainers.size != 0 %}
+<span class="d-block h2-like fs-2">trainers</span>
+<div class="p-4 rounded mt-4 page-trainers d-flex flex-wrap gap-2">
+    {%- assign trainers = site.data.trainerS %}
+    {%- assign page_trainers = page.trainers | sort %}
+    {%- for trainer in page_trainers %}
+    {%- assign id = trainers[trainer].git | default: 'no_github' %}
+    <div class="dropup-center dropup d-inline-block">
+      <button class="btn btn-sm dropdown-toggle trainer-link d-flex gap-2 align-items-center hover-primary position-relative"  type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" data-bs-offset="0,10">
+          <div>
+            {%- if trainers[trainer].image_url %}
+            <div class="ratio ratio-1x1 trainer-img-sm">
+              <div class="contr-placeholder rounded-circle" style="background-image: url({{ trainers[trainer].image_url }});">
+              </div>
+            </div>
+            {%- else %}
+            {%- if trainers[trainer].git %}
+            <img class="img-fluid rounded-circle trainer-img-sm" src="https://avatars.githubusercontent.com/{{ id }}" alt="Avatar of the trainer {{ trainer }}">
+            {%- else %}
+            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center trainer-img-sm">
+              {%- assign contr_name = trainer | split: " " %}
+              {%- assign initials = "" %}
+              {%- for name in contr_name %}
+                  {%- assign initial = name | slice: 0,1 | capitalize %}
+                  {%- assign initials = initials | append: initial %}
+              {%- endfor %}
+              <span class="fw-bold">{{ initials }}</span>
+            </div>
+            {%- endif %}
+            {%- endif %}
+          </div>
+          <div>
+              {{ trainer }}
+          </div>
+        {%- if page.coordinators %}
+        {%- for coordinator in page.coordinators %}
+        {%- if coordinator == trainer %}
+        <div class="position-absolute top-0 start-100 translate-middle">
+            <div class="rounded-circle coordinator-crown">
+              <a data-bs-toggle="tooltip" data-bs-original-title="Coordinator of the {{page.title}} page.">
+                <i class="fa-solid fa-crown"></i>
+              </a>  
+            </div>
+        </div>
+        {%- endif %}
+        {%- endfor %}
+        {%- endif %}
+      </button>
+        <div class="dropdown-menu shadow p-0 border-0 trainer-cards">
+
+          <div class="card">
+              {%- assign id = trainers[trainer].git | default: 'no_github' %}
+              <div class="position-relative">
+                {%- if trainers[trainer].image_url %}
+                <div class="p-3">
+                  <div class="ratio ratio-1x1">
+                    <div class="contr-placeholder rounded-circle" style="background-image: url({{ trainers[trainer].image_url }});">
+                    </div>
+                  </div>
+                </div>
+                {%- else %}
+                {%- if trainers[trainer].git %}
+                <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ trainer }}">
+                {%- else %}
+                <div class="p-3">
+                  <div class="ratio ratio-1x1">
+                    <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
+                      {%- assign contr_name = trainer | split: " " %}
+                      {%- assign initials = "" %}
+                      {%- for name in contr_name %}
+                          {%- assign initial = name | slice: 0,1 | capitalize %}
+                          {%- assign initials = initials | append: initial %}
+                      {%- endfor %}
+                      <span class="fs-2 fw-bold">{{ initials }}</span>
+                    </div>
+                  </div>
+                </div>
+                {%- endif %}
+                {%- endif %}
+                {%- if trainers[trainer].role %}
+                <span class="badge position-absolute top-0 end-0">{{ trainers[trainer].role | capitalize }}</span>
+                {%- endif %}
+              </div>
+              <div class="card-body text-center py-0">
+                <p class="card-title">{{ stripped_name }}</p>
+                {%- if trainers[trainer].affiliation %}
+                <p class="card-affiliation">{{ trainers[trainer].affiliation }}</p>
+                {%- endif %}
+              </div>
+              {%- if trainers[trainer].git or trainers[trainer].email or trainers[trainer].orcid %}
+              <div class="card-footer">
+                <div class="d-flex justify-content-center gap-2">
+                  {%- if trainers[trainer].git %}
+                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://github.com/{{id}}"><i class="fa-brands fa-github"></i></a>
+                  {%- endif %}
+                  {%- if trainers[trainer].email %}
+                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{trainers[trainer].email}}"><i class="fa-solid fa-envelope"></i></a>
+                  {%- endif %}
+                  {%- if trainers[trainer].orcid %}
+                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{trainers[trainer].orcid}}"><i class="fa-brands fa-orcid"></i></a>
+                  {%- endif %}
+                </div>
+              </div>
+              {%- endif %}
+            </div>
+        </div>
+      </div>{%- endfor %}
+</div>
+{%- endif %}

@@ -1,0 +1,122 @@
+{%- assign trainers = site.data.TRAINERS %}
+{%- assign nr = include.nr | default: 5 %}
+{%- if include.custom %}
+{%- assign allcontrstr = include.custom %}
+{%- elsif include.role %}
+{%- assign rolefilter =  include.role | downcase %}
+{%- for contr in trainers %}
+{%- assign contrrole = contr[1]['role'] | downcase %}
+{%- if include.role == contrrole %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- else %}
+{%- for page in site.pages %}
+{%- if page.trainers and page.search_exclude != true and page.trainers.size != 0 %}
+{%- assign pagecontr = page.trainers | join: ", " %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: pagecontr %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: pagecontr %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- for contr in trainers %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- assign alltrainers = allcontrstr | split: ", " | uniq | sort %}
+<div id="trainers-carousel" class="carousel carousel-dark slide my-4" data-ride="carousel" data-bs-interval="7000">
+    <div class="carousel-inner">
+    {%- assign counter = 0 %}
+    {%- for trainer in alltrainers %}
+    {%- capture modulo %}{{ counter | modulo:nr }}{% endcapture %}
+    {%- if modulo == '0' or counter == 0 %}
+    {%- if counter != 0 %}
+    </div>
+</div>
+    {%- endif %}
+    <div class="carousel-item {% if counter == 0 %}active{% endif %}">
+        <div class="row row-cols-{{nr}} trainer-cards g-1 g-xl-4 ">
+            {%- endif %}
+            <div class="col">
+                <div class="card h-100">
+                    {%- assign id = trainers[trainer].git | default: 'no_github' %}
+                    <div class="position-relative">
+                        {%- if trainers[trainer].image_url %}
+                        <div class="p-3">
+                            <div class="ratio ratio-1x1">
+                                <div class="contr-placeholder rounded-circle" style="background-image: url({{ trainers[trainer].image_url }});">
+                                </div>
+                            </div>
+                        </div>
+                        {%- else %}
+                        {%- if trainers[trainer].git %}
+                        <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ trainer }}">
+                        {%- else %}
+                        <div class="p-3">
+                            <div class="ratio ratio-1x1">
+                                <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
+                                    {%- assign contr_name = trainer | split: " " %}
+                                    {%- assign initials = "" %}
+                                    {%- for name in contr_name %}
+                                    {%- assign initial = name | slice: 0,1 | capitalize %}
+                                    {%- assign initials = initials | append: initial %}
+                                    {%- endfor %}
+                                    <span class="fs-2 fw-bold">{{ initials }}</span>
+                                </div>
+                            </div>
+                        </div>
+                        {%- endif %}
+                        {%- endif %}
+                        {%- if trainers[trainer].role %}
+                        <span class="badge position-absolute top-0 end-0">{{ trainers[trainer].role | capitalize }}</span>
+                        {%- endif %}
+                    </div>
+                    <div class="card-body text-center py-0">
+                        <p class="card-title">{{ trainer }}</p>
+                        {%- if trainers[trainer].affiliation %}
+                        <p class="card-affiliation">{{ trainers[trainer].affiliation }}</p>
+                        {%- endif %}
+                    </div>
+                    {%- if trainers[trainer].git or trainers[trainer].email or trainers[trainer].orcid %}
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-center gap-1 gap-md-2">
+                            {%- if trainers[trainer].git %}
+                            <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://github.com/{{id}}"><i class="fa-brands fa-github"></i></a>
+                            {%- endif %}
+                            {%- if trainers[trainer].email %}
+                            <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{trainers[trainer].email}}"><i class="fa-solid fa-envelope"></i></a>
+                            {%- endif %}
+                            {%- if trainers[trainer].orcid %}
+                            <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{trainers[trainer].orcid}}"><i class="fa-brands fa-orcid"></i></a>
+                            {%- endif %}
+                        </div>
+                    </div>
+                    {%- endif %}
+                </div>
+            </div>
+            {%- assign counter = counter | plus:1 %}
+            {%- if forloop.last %}
+        </div>
+        {%- endif %}
+        {%- endfor %}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#trainers-carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#trainers-carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+    </div>
+</div>
