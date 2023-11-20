@@ -75,6 +75,9 @@
         {%- if trainers[trainer].affiliation %}
         <p class="card-affiliation">{{ trainers[trainer].affiliation }}</p>
         {%- endif %}
+        {%- if trainers[trainer].tag %}
+        <p class="card-affiliation">{{ trainers[trainer].tag }}</p>
+        {%- endif %}
       </div>
       {%- if trainers[trainer].git or trainers[trainer].email or trainers[trainer].orcid %}
       <div class="card-footer">
