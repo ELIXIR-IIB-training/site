@@ -6,11 +6,12 @@
         <th>Event
           <a data-bs-toggle="tooltip"></a>
         </th>
+        <th>      Date      </th>
         <th>Title</th>
         <th>Organisers</th>
         
         <th>   Venue   </th>
-        <th>      Date      </th>
+        
         <th>State</th>
       </tr>
     </thead>
@@ -39,9 +40,10 @@
           {%- endif %}
 
         </td>
+        <td>{{ event.event_date }}</td>
         <td>{{ event.organisers }}</td>
         <td>{{ event.venue }}</td>
-        <td>{{ event.event_date }}</td>
+        
         <td>{{ event.state }}</td>
       </tr>
       {%- endfor %}
