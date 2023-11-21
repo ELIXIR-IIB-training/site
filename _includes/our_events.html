@@ -25,14 +25,14 @@
           {%- assign page_url = event.url %}
           {%- if event.url %}
             
-            <a href="{{ page_url }}">{{ event.event_date }}</a>
+            <a href="{{ page_url }}">{{ event.name }}</a>
           {%- else %}
             {%- assign page_title = event.name %}
             {%- for site_page in site.pages %}
             {%- if site_page.title == page_title %}
-              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.event_date }}</a>
+              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
             {%- else %}
-              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.event_date }}</a>
+              <a href="{{ site.baseurl }}{{ page.url }}">{{ event.name }}</a>
               {%- break %}
             {%- endif %}
             {%- endfor %}
