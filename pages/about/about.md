@@ -2,12 +2,14 @@
 title: About
 ---
 
-{% include image.html file="infrastructures/ELIXIR-logo.svg" alt="ELIXIR logo" max-width="6em" %}
+{% include image.html file="infrastructures/ELIXIR-logo.svg" alt="ELIXIR logo" max-width="12em" %}
 
 
 ELIXIR Italy provides training in the field of bioinformatics and computational biology to help researchers effectively utilise bioinformatics tools, databases, and resources. [The ELIXIR Italy Training Platform](https://elixir-iib-training.github.io/site/) offers workshops, training courses, and seminars on various topics at the intersection of biology, computer science, statistics, and more. These events are designed to provide researchers with hands-on experience and practical skills to analyse biological data, and offer opportunities for participants to network, collaborate, and exchange knowledge with others in the field.
 <br>
+<br>
 More specifically, the ELIXIR Italy Training Platform offers the following:
+<br>
 <br>
 **Specialized training** in areas such as genomics, proteomics, structural biology, systems biology, and more. These training sessions may cover both basic concepts and advanced techniques.
 <br>
