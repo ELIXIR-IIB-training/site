@@ -73,17 +73,10 @@
                 language: {
                     searchPlaceholder: "Type here..."
                 },
-                // Rimuovi l'opzione 'order' da qui
-            });
-
-            // Aggiungi l'opzione 'order' solo alle tabelle con la classe 'order'
-            $('table.order').DataTable({
-                order: [[4, 'desc']],
-                // Altre opzioni specifiche per la classe 'order' se necessario
+                order: [[4, 'desc']]
             });
         });
     </script>
-
     {%- endif %}
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/apple-touch-icon.png' | relative_url }}">
