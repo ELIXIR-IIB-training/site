@@ -3,9 +3,9 @@
 {%- if include.custom %}
 {%- assign allcontrstr = include.custom %}
 {%- elsif include.role %}
-{%- assign rolefilter =  include.role | downcase %}
+{%- assign rolefilter =  include.role  %}
 {%- for contr in contributors %}
-{%- assign contrrole = contr[1]['role'] | downcase %}
+{%- assign contrrole = contr[1]['role']  %}
 {%- if include.role == contrrole %}
 {%- if allcontrstr %}
 {%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
@@ -53,7 +53,7 @@
         {%- else %}
         <div class="p-3">
           <div class="ratio ratio-1x1">
-            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
+<!--             <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
               {%- assign contr_name = contributor | split: " " %}
               {%- assign initials = "" %}
               {%- for name in contr_name %}
@@ -61,7 +61,7 @@
                   {%- assign initials = initials | append: initial %}
               {%- endfor %}
               <span class="fs-2 fw-bold">{{ initials }}</span>
-            </div>
+            </div> -->
           </div>
         </div>
         {%- endif %}
