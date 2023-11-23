@@ -66,17 +66,24 @@
         $.fn.DataTable.ext.pager.numbers_length = 5;
         $(document).ready(function () {
             $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-            $('table.display').DataTable({
+            $('table.display.order').DataTable({
                 lengthMenu: [[25, 50, 100, -1], [25, 50, 100, "All"]],
                 stateSave: true,
                 searching: true,
                 language: {
                     searchPlaceholder: "Type here..."
                 },
-                order: [[4, 'desc']]
+                // Rimuovi l'opzione 'order' da qui
+            });
+
+            // Aggiungi l'opzione 'order' solo alle tabelle con la classe 'order'
+            $('table.order').DataTable({
+                order: [[4, 'desc']],
+                // Altre opzioni specifiche per la classe 'order' se necessario
             });
         });
     </script>
+
     {%- endif %}
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/apple-touch-icon.png' | relative_url }}">
