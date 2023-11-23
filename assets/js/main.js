@@ -163,3 +163,10 @@ $(function () {
         })
     })
 })
+
+$(document).ready(function() {
+    // Inizializza DataTables e imposta l'ordinamento sulla terza colonna
+    $('#eventTable').DataTable({
+        "order": [[4, 'asc']]  // 2 rappresenta l'indice della terza colonna, 'asc' per ordinamento ascendente
+    });
+});
