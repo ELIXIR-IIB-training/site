@@ -3,7 +3,7 @@ title: "Docker Advanced Course"
 description: 26-27 September 2018 <br> Milano, Italy
 event:
   - name: "Docker Advanced Course"
-    organisers: R. Bonnal G. Della Vedova L. Le Pera A. Via
+    organisers: R. Bonnal <br> G. Della Vedova <br> L. Le Pera <br> A. Via
     teachers: []
     venue: Milano, Italy
     event_date: 2018/09/26-27

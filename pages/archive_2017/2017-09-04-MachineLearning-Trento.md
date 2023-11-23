@@ -3,7 +3,7 @@ title:  "Training course on Machine Learning for Biologists"
 description: 04-07 September 2017 <br> Trento, Italy
 event:
   - name: "Training course on Machine Learning for Biologists"
-    organisers: A. Cestaro V. Colonna
+    organisers: A. Cestaro <br> V. Colonna
     teachers: []
     venue: Trento, Italy
     event_date: 2017/09/04-07

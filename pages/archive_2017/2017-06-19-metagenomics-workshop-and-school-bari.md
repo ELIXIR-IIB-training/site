@@ -3,7 +3,7 @@ title:  "Workshop + Summer School in Advanced Computational Metagenomics"
 description: 19-23 June 2017 <br> Bari, Italy
 event:
   - name: "Workshop + Summer School in Advanced Computational Metagenomics"
-    organisers:  D. D'Elia L. Le Pera A. Via 
+    organisers:  D. D'Elia <br> L. Le Pera <br> A. Via 
     teachers: []
     venue: Bari, Italy
     event_date: 2017/06/19-23

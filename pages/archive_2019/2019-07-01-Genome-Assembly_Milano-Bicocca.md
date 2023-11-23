@@ -3,7 +3,7 @@ title:  "Genome Assembly and Annotation"
 description: 01-05 July 2019 <br> Milano, Italy
 event:
   - name: "Genome Assembly and Annotation"
-    organisers: G. Della Vedova H. Lantz L. Le Pera B. L. Leskosek A. Via
+    organisers: G. Della Vedova <br> H. Lantz <br> L. Le Pera <br> B. L. Leskosek <br> A. Via
     teachers: []
     venue: Milano, Italy
     event_date: 2019/07/01-05

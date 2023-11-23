@@ -3,7 +3,7 @@ title:  "Curation workshop on molecular and causal interactions"
 description: 05-07 December 2017 <br> Roma, Italy
 event:
   - name: "Curation workshop on molecular and causal interactions"
-    organisers: L. Licata A. Via
+    organisers: L. Licata <br> A. Via
     teachers: []
     venue: Roma, Italy
     event_date: 2017/12/05-07

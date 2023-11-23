@@ -3,7 +3,7 @@ title:  "ELIXIR-EXCELERATE Train the Trainer"
 description: 27-29 September 2017 <br> Salerno, Italy
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
-    organisers: A. Marabotti R. Tagliaferri
+    organisers: A. Marabotti <br> R. Tagliaferri
     teachers: []
     venue: Salerno, Italy
     event_date: 2017/09/27-29

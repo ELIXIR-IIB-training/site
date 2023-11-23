@@ -3,10 +3,10 @@ title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visua
 description: 18-19 October 2017 <br> Palermo, Italy
 event:
   - name: "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application"
-    organisers: A. Calderone I. Kuperstein L. Licata A. Via
+    organisers: A. Calderone <br> I. Kuperstein <br> L. Licata <br> A. Via
     teachers: []
     venue: Palermo, Italy
-    event_date: 2017/10718-19
+    event_date: 2017/10/18-19
     state: closed
 ---
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}

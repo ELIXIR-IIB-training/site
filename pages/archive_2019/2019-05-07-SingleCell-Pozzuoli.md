@@ -3,7 +3,7 @@ title:  "Single-Cell RNA Sequencing and Data Analysis"
 description: 07-09 May 2019 <br> Pozzuoli (Napoli), Italy
 event:
   - name: "Single-Cell RNA Sequencing and Data Analysis"
-    organisers: D. Cacchiarelli V. colonna
+    organisers: D. Cacchiarelli <br> V. colonna
     teachers: []
     venue: Pozzuoli (Napoli), Italy
     event_date: 2019/05/07-09

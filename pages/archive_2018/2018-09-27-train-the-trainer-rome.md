@@ -3,7 +3,7 @@ title: "ELIXIR-EXCELERATE Train the Trainer"
 description: 27-28 September 2018 <br> Roma, Italy
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
-    organisers: L. Le Pera A. Via
+    organisers: L. Le Pera <br> A. Via
     teachers: []
     venue: Roma, Italy
     event_date: 2018/09/27-28

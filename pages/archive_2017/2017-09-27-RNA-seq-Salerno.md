@@ -3,7 +3,7 @@ title:  "Training Course on Best practices for RNA-Seq data analysis"
 description: 27-29 September 2017 <br> Salerno, Italy
 event:
   - name: "Training Course on Best practices for RNA-Seq data analysis"
-    organisers: L. Le Pera A. Marabotti R. Tagliaferri A. Via A. Weisz
+    organisers: L. Le Pera <br> A. Marabotti <br> R. Tagliaferri <br> A. Via <br> A. Weisz
     teachers: []
     venue: Salerno, Italy
     event_date: 2017/09/27-29

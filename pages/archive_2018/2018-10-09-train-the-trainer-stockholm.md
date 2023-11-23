@@ -3,7 +3,7 @@ title:  "ELIXIR-EXCELERATE Train the Trainer"
 description: 09-11 October 2018 <br> Stockholm, Sweden
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
-    organisers: L. Le Pera J. Lindvall A. Via
+    organisers: L. Le Pera <br> J. Lindvall <br> A. Via
     teachers: []
     venue: Stockholm, Sweden
     event_date: 2018/10/09-11

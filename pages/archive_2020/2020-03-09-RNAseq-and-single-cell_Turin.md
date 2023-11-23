@@ -3,7 +3,7 @@ title:  "RNA-seq and single cell RNA-seq Course <font color='red' size='3'>[Canc
 description: 09-13 March 2020 <br> Torino, Italy
 event:
   - name: "RNA-seq and single cell RNA-seq Course"
-    organisers: M. Beccuti R. Calogero L. Le Pera A. Via
+    organisers: M. Beccuti <br> R. Calogero <br> L. Le Pera <br> A. Via
     teachers: []
     venue: Torino, Italy
     event_date: 2020/03/09-13

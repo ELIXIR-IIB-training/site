@@ -3,7 +3,7 @@ title:  "Training Course on Galaxy for Bioinformatics tool developers"
 description:   03-05 July 2017 <br> Cagliari, Italy
 event:
   - name: "Training Course on Galaxy for Bioinformatics tool developers"
-    organisers: G. Atzeni L. Le Pera M. Tangaro P. Uva
+    organisers: G. Atzeni <br> L. Le Pera <br> M. Tangaro <br> P. Uva
     teachers: []
     venue: Cagliari, Italy
     event_date: 2017/07/03-05

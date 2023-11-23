@@ -5,10 +5,10 @@ page_id:
 event:
   - name: ELIXIR Training Platform F2F Hybrid Meeting
     url: https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting
-    organisers: ELIXIR Hub L. Le Pera (ISS) A. Via (Sapienza Univ.)
+    organisers: ELIXIR Hub <br> L. Le Pera <br> A. Via
     teachers: []
     venue: Roma, Italy
-    event_date: 2023/03/07 - 2023/03/09
+    event_date: 2023/03/07-09
     state: closed
 ---
 

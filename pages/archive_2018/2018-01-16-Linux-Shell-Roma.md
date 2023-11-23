@@ -3,7 +3,7 @@ title:  "Linux shell scripting for high-throughput biological data processing on
 description: 16-17 January 2018 <br> Roma, Italy
 event:
   - name: "Linux shell scripting for high-throughput biological data processing on supercomputers"
-    organisers: T. Castrignanò L. Le Pera A. Via
+    organisers: T. Castrignanò <br> L. Le Pera <br> A. Via
     teachers: []
     venue: Roma, Italy 
     event_date: 2018/01/16-17

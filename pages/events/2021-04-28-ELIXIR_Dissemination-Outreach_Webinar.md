@@ -5,7 +5,7 @@ page_id:
 event:
   - name: "Collaborare per contrastare la pandemia - ll COVID-19 Data Portal italiano: un punto di riferimento nazionale per i dati della pandemia"
     url: https://www.cnr.it/it/evento/17209
-    organisers: F. De Leo E. Lazzeri L. Le Pera G. Pavone A. Via
+    organisers: F. De Leo <br> E. Lazzeri <br> L. Le Pera <br> G. Pavone <br> A. Via
     teachers: []
     venue: Online
     event_date: 2021/04/28

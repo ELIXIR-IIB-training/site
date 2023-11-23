@@ -3,7 +3,7 @@ title: "Docker and Reproducibility"
 description: 13-14 June 2019 <br> Torino, Italy
 event:
   - name: "Docker and Reproducibility"
-    organisers: M. Beccuti R. Calogero M. Chiapello L. Le Pera A. Via
+    organisers: M. Beccuti <br> R. Calogero <br> M. Chiapello <br> L. Le Pera <br> A. Via
     teachers: []
     venue: Torino, Italy
     event_date: 2019/06/13-14

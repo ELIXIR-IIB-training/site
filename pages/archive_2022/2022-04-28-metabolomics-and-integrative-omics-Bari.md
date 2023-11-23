@@ -3,7 +3,7 @@ title: "Metabolomics and Integrative omics: from data production to analysis"
 description: 28-29 April 2022 <br> Bari, Italy
 event:
   - name: "Metabolomics and Integrative omics: from data production to analysis"
-    organisers: D. Cavalieri F. De Leo S. Giannattasio L. Le Pera C. Musicco A. Via 	
+    organisers: D. Cavalieri <br> F. De Leo <br> S. Giannattasio <br> L. Le Pera <br> C. Musicco <br> A. Via 	
     teachers: []
     venue: Bari, Italy
     event_date: 2022/04/28-29

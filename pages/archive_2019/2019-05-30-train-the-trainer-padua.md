@@ -3,7 +3,7 @@ title: "ELIXIR-EXCELERATE Train the Trainer"
 description: 30-31 May 2019 <br> Padova, Italy
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
-    organisers: L. Le Pera I. Mičetić S. Tosatto A. Via
+    organisers: L. Le Pera <br> I. Mičetić <br> S. Tosatto <br> A. Via
     teachers: []
     venue: Padova, Italy
     event_date: 2019/05/30-31

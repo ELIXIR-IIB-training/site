@@ -3,7 +3,7 @@ title: "Practical course on FAIR Data Stewardship in Life Science"
 description: 02-11 March 2022 <br> online
 event: 
   - name: "Practical course on FAIR Data Stewardship in Life Science"
-    organisers: E. Lazzeri L. Le Pera I. Miçetic G. Pavone A. Via M. Carraro
+    organisers: E. Lazzeri <br> L. Le Pera <br> I. Miçetic <br> G. Pavone <br> A. Via <br> M. Carraro
     teachers: []
     venue: Online
     event_date: 2022/03/02-11

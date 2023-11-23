@@ -3,7 +3,7 @@ title: "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered
 description: 27-31 January 2020 <br> Bressanone-Brixen, Italy
 event:
   - name: "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins"
-    organisers: D. Battistella M. Carraro I. Mičetić M. Necci L. Paladin   
+    organisers: D. Battistella <br> M. Carraro <br> I. Mičetić <br> M. Necci <br> L. Paladin   
     teachers: []
     venue: Bressanone-Brixen, Italy
     event_date: 2020/01/27-31

@@ -3,7 +3,7 @@ title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotati
 description: 06-07 May 2020 <br> Roma, Italy
 event:
   - name: "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools."
-    organisers: L. Licata R. Lovering 
+    organisers: L. Licata <br> R. Lovering 
     teachers: []
     venue: Roma, Italy
     event_date: 2020/05/06-07

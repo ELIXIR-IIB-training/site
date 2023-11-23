@@ -3,7 +3,7 @@ title:  "ELIXIR Train the Trainer"
 description: 01-04 December 2020 <br> online
 event:
   - name: "ELIXIR Train the Trainer"
-    organisers: L. Le Pera A. Via
+    organisers: L. Le Pera <br> A. Via
     teachers: []
     venue: Online
     event_date: 2020/12/01-04

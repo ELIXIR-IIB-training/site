@@ -5,10 +5,10 @@ page_id:
 event:
   - name: "Third MaSBiC Symposium, Advanced in Protein Science: Exploring Structure, Function, and Beyond"
     url: https://disvamasbic-symposium.bio-groups.com/
-    organisers: D. Di Marino L. Maragliano E. Milanetti D. Raimondo
+    organisers: D. Di Marino <br> L. Maragliano <br> E. Milanetti <br> D. Raimondo
     teachers: []
     venue: Ancona, Italy
-    event_date: 2023/09/20 - 2023/09/22
+    event_date: 2023/09/20-22
     state: closed
 ---
 

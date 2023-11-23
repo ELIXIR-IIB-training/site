@@ -3,7 +3,7 @@ title:  "ELIXIR-EXCELERATE Train the Trainer"
 description: 26-27 March 2018 <br> Paris, France
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
-    organisers: V. Dominguez Del Angel H. Ménager
+    organisers: V. Dominguez <br> Del Angel <br> H. Ménager
     teachers: []
     venue: Paris, France
     event_date: 2018/03/26-27

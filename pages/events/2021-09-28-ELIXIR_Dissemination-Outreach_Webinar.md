@@ -5,7 +5,7 @@ page_id:
 event:
   - name: "Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità"
     url: https://www.cnr.it/it/evento/17404
-    organisers: F. De Leo E. Lazzeri L. Le Pera G. Pavone A. Via
+    organisers: F. De Leo <br> E. Lazzeri <br> L. Le Pera <br> G. Pavone <br> A. Via
     teachers: []
     venue: Online
     event_date: 2021/09/28

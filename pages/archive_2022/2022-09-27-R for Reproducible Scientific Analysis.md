@@ -3,7 +3,7 @@ title:  "R for Reproducible Scientific Analysis"
 description: 27-30 September 2022 <br> online
 event:
   - name: "R for Reproducible Scientific Analysis"
-    organisers: L. Le Pera  A. Via V. Colonna 
+    organisers: L. Le Pera <br> A. Via <br> V. Colonna 
     teachers: []
     venue: Online
     event_date: 2022/09/27-30
