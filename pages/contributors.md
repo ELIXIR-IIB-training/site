@@ -1,6 +1,6 @@
 ---
 title: Contributors
-custom_editme: _data/TRAINERS.yaml
+custom_editme: _data/COLLABORATORS.yaml
 ---
 
-{% include contributor-tiles-all.html %}
+{% include collaborator-tiles-all.html %}
