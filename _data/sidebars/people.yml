@@ -5,3 +5,5 @@ subitems:
     url: /people
   - title: Trainers
     url: /trainers
+  - title: Contributors
+    url: /contributors
