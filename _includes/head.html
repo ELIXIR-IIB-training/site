@@ -76,6 +76,14 @@
             });
         });
     </script>
+    <script>
+        $(document).ready(function() {
+            $('.tooltable').DataTable({
+      // Opzioni di DataTables qui, se necessario
+            "order": [[2, 'asc']] // Questo imposta l'ordinamento predefinito sulla terza colonna
+            });
+        });
+</script>
     {%- endif %}
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/apple-touch-icon.png' | relative_url }}">
