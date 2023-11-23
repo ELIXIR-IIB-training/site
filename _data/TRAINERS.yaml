@@ -10,7 +10,7 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
-Mario Rossi:
+[Mario Rossi](https://elixir-iib-training.github.io/site/events):
     git: 
     email: example@email.it
     role:
