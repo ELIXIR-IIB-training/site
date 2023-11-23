@@ -66,7 +66,7 @@
         $.fn.DataTable.ext.pager.numbers_length = 5;
         $(document).ready(function () {
             $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-            $('table.display.order').DataTable({
+            $('table.display').DataTable({
                 lengthMenu: [[25, 50, 100, -1], [25, 50, 100, "All"]],
                 stateSave: true,
                 searching: true,
