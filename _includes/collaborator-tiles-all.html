@@ -1,0 +1,100 @@
+{%- assign collaborators = site.data.COLLABORATORS %}
+{%- assign nr = include.nr | default: 5 %}
+{%- if include.custom %}
+{%- assign allcontrstr = include.custom %}
+{%- elsif include.role %}
+{%- assign rolefilter =  include.role | downcase %}
+{%- for contr in collaborators %}
+{%- assign contrrole = contr[1]['role'] | downcase %}
+{%- if include.role == contrrole %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- else %}
+{%- for page in site.pages %}
+{%- if page.collaborators and page.search_exclude != true and page.collaborators.size != 0 %}
+{%- assign pagecontr = page.collaborators | join: ", " %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: pagecontr %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: pagecontr %}
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- for contr in collaborators %}
+{%- if allcontrstr %}
+{%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
+{%- else %}
+{%- assign allcontrstr = allcontrstr | append: contr[0] %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- assign allcollaborators = allcontrstr | split: ", " | uniq | sort %}
+<div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-xl-{{nr}} g-4 contributor-cards">
+  {%- for collaborator in allcollaborators %}
+  <div class="col">
+    <div class="card h-100">
+      {%- assign id = collaborators[collaborator].git | default: 'no_github' %}
+      <div class="position-relative">
+        {%- if collaborators[collaborator].image_url %}
+        <div class="p-3">
+          <div class="ratio ratio-1x1">
+            <div class="contr-placeholder rounded-circle" style="background-image: url({{ collaborators[collaborator].image_url }});">
+            </div>
+          </div>
+        </div>
+        {%- else %}
+        {%- if collaborators[collaborator].git %}
+        <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ collaborator }}">
+        {%- else %}
+        <div class="p-3">
+          <div class="ratio ratio-1x1">
+            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
+              {%- assign contr_name = collaborator | split: " " %}
+              {%- assign initials = "" %}
+              {%- for name in contr_name %}
+                  {%- assign initial = name | slice: 0,1 | capitalize %}
+                  {%- assign initials = initials | append: initial %}
+              {%- endfor %}
+              <span class="fs-2 fw-bold">{{ initials }}</span>
+            </div>
+          </div>
+        </div>
+        {%- endif %}
+        {%- endif %}
+        {%- if collaborators[collaborator].role %}
+        <span class="badge position-absolute top-0 end-0">{{ collaborators[collaborator].role | capitalize }}</span>
+        {%- endif %}
+      </div>
+      <div class="card-body text-center py-0">
+        <p class="card-title">{{ collaborator }}</p>
+        {%- if collaborators[collaborator].affiliation %}
+        <p class="card-affiliation">{{ collaborators[collaborator].affiliation }}</p>
+        {%- endif %}
+        {%- if collaborators[collaborator].tag %}
+        <p class="card-affiliation">{{ collaborators[collaborator].tag }}</p>
+        {%- endif %}
+      </div>
+      {%- if collaborators[collaborator].git or collaborators[collaborator].email or collaborators[collaborator].orcid %}
+      <div class="card-footer">
+        <div class="d-flex justify-content-center gap-2">
+          {%- if collaborators[collaborator].git %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://github.com/{{id}}"><i class="fa-brands fa-github"></i></a>
+          {%- endif %}
+          {%- if collaborators[collaborator].email %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{collaborators[collaborator].email}}"><i class="fa-solid fa-envelope"></i></a>
+          {%- endif %}
+          {%- if collaborators[collaborator].orcid %}
+          <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{collaborators[collaborator].orcid}}"><i class="fa-brands fa-orcid"></i></a>
+          {%- endif %}
+        </div>
+      </div>
+      {%- endif %}
+    </div>
+  </div>
+  {%- endfor %}
+</div>
