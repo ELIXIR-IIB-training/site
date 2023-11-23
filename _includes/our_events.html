@@ -4,7 +4,7 @@
     <thead>
       <tr class="text-nowrap">
         <th>Event
-          <a data-bs-toggle="tooltip"></a>
+          <a data-bs-toggle="tooltip"id="eventTable"></a>
         </th>
         <th>Title</th>
         <th>Organisers</th>
@@ -52,3 +52,11 @@
 </div>
 <div id="skip-tool-table"></div>
 
+<script>
+  $(document).ready(function() {
+    // Inizializza DataTables e imposta l'ordinamento sulla terza colonna
+    $('#eventTable').DataTable({
+      "order": [[2, 'asc']]  // 2 rappresenta l'indice della terza colonna, 'asc' per ordinamento ascendente
+    });
+  });
+</script>
