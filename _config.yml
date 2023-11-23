@@ -103,6 +103,11 @@ defaults:
       path: "pages/people"
     values:
       sidebar: people
+  -
+    scope:
+      path: "pages/contributors"
+    values:
+      sidebar: people
 
 
 
