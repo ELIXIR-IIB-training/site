@@ -10,11 +10,11 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
-NomeT CognomeT:
+Mario Rossi:
     git: 
     email: example@email.it
     role:
-    tag: Struct_Bioinformatics, Homology_modeling
+    tag: Structural_Bioinformatics, Homology_modeling
     affiliation: CNR / ELIXIR-IT
     
 
