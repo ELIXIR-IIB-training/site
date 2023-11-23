@@ -1,24 +1,24 @@
-{%- if page.team and page.team.size != 0 %}
-<span class="d-block h2-like fs-2">team</span>
-<div class="p-4 rounded mt-4 page-team d-flex flex-wrap gap-2">
-    {%- assign team = site.data.team %}
-    {%- assign page_team = page.team %}
-    {%- for team in page_team %}
-    {%- assign id = team[team].git | default: 'no_github' %}
+{%- if page.contributors and page.contributors.size != 0 %}
+<span class="d-block h2-like fs-2">Contributors</span>
+<div class="p-4 rounded mt-4 page-contributors d-flex flex-wrap gap-2">
+    {%- assign contributors = site.data.CONTRIBUTORS %}
+    {%- assign page_contributors = page.contributors %}
+    {%- for contributor in page_contributors %}
+    {%- assign id = contributors[contributor].git | default: 'no_github' %}
     <div class="dropup-center dropup d-inline-block">
-      <button class="btn btn-sm dropdown-toggle team-link d-flex gap-2 align-items-center hover-primary position-relative"  type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" data-bs-offset="0,10">
+      <button class="btn btn-sm dropdown-toggle contributor-link d-flex gap-2 align-items-center hover-primary position-relative"  type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside" data-bs-offset="0,10">
           <div>
-            {%- if team[team].image_url %}
-            <div class="ratio ratio-1x1 team-img-sm">
-              <div class="contr-placeholder rounded-circle" style="background-image: url({{ team[team].image_url }});">
+            {%- if contributors[contributor].image_url %}
+            <div class="ratio ratio-1x1 contributor-img-sm">
+              <div class="contr-placeholder rounded-circle" style="background-image: url({{ contributors[contributor].image_url }});">
               </div>
             </div>
             {%- else %}
-            {%- if team[team].git %}
-            <img class="img-fluid rounded-circle team-img-sm" src="https://avatars.githubusercontent.com/{{ id }}" alt="Avatar of the team {{ team }}">
+            {%- if contributors[contributor].git %}
+            <img class="img-fluid rounded-circle contributor-img-sm" src="https://avatars.githubusercontent.com/{{ id }}" alt="Avatar of the contributor {{ contributor }}">
             {%- else %}
-            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center team-img-sm">
-              {%- assign contr_name = team | split: " " %}
+            <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center contributor-img-sm">
+              {%- assign contr_name = contributor | split: " " %}
               {%- assign initials = "" %}
               {%- for name in contr_name %}
                   {%- assign initial = name | slice: 0,1 | capitalize %}
@@ -30,11 +30,11 @@
             {%- endif %}
           </div>
           <div>
-              {{ team }}
+              {{ contributor }}
           </div>
         {%- if page.coordinators %}
         {%- for coordinator in page.coordinators %}
-        {%- if coordinator == team %}
+        {%- if coordinator == contributor %}
         <div class="position-absolute top-0 start-100 translate-middle">
             <div class="rounded-circle coordinator-crown">
               <a data-bs-toggle="tooltip" data-bs-original-title="Coordinator of the {{page.title}} page.">
@@ -46,26 +46,26 @@
         {%- endfor %}
         {%- endif %}
       </button>
-        <div class="dropdown-menu shadow p-0 border-0 team-cards">
+        <div class="dropdown-menu shadow p-0 border-0 contributor-cards">
 
           <div class="card">
-              {%- assign id = team[team].git | default: 'no_github' %}
+              {%- assign id = contributors[contributor].git | default: 'no_github' %}
               <div class="position-relative">
-                {%- if team[team].image_url %}
+                {%- if contributors[contributor].image_url %}
                 <div class="p-3">
                   <div class="ratio ratio-1x1">
-                    <div class="contr-placeholder rounded-circle" style="background-image: url({{ team[team].image_url }});">
+                    <div class="contr-placeholder rounded-circle" style="background-image: url({{ contributors[contributor].image_url }});">
                     </div>
                   </div>
                 </div>
                 {%- else %}
-                {%- if team[team].git %}
-                <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ team }}">
+                {%- if contributors[contributor].git %}
+                <img src="https://avatars.githubusercontent.com/{{id}}" class="card-img-top p-3 rounded-circle" alt="{{ contributor }}">
                 {%- else %}
                 <div class="p-3">
                   <div class="ratio ratio-1x1">
                     <div class="contr-placeholder rounded-circle d-flex justify-content-center align-items-center">
-                      {%- assign contr_name = team | split: " " %}
+                      {%- assign contr_name = contributor | split: " " %}
                       {%- assign initials = "" %}
                       {%- for name in contr_name %}
                           {%- assign initial = name | slice: 0,1 | capitalize %}
@@ -77,27 +77,27 @@
                 </div>
                 {%- endif %}
                 {%- endif %}
-                {%- if team[team].role %}
-                <span class="badge position-absolute top-0 end-0">{{ team[team].role | capitalize }}</span>
+                {%- if contributors[contributor].role %}
+                <span class="badge position-absolute top-0 end-0">{{ contributors[contributor].role | capitalize }}</span>
                 {%- endif %}
               </div>
               <div class="card-body text-center py-0">
                 <p class="card-title">{{ stripped_name }}</p>
-                {%- if team[team].affiliation %}
-                <p class="card-affiliation">{{ team[team].affiliation }}</p>
+                {%- if contributors[contributor].affiliation %}
+                <p class="card-affiliation">{{ contributors[contributor].affiliation }}</p>
                 {%- endif %}
               </div>
-              {%- if team[team].git or team[team].email or team[team].orcid %}
+              {%- if contributors[contributor].git or contributors[contributor].email or contributors[contributor].orcid %}
               <div class="card-footer">
                 <div class="d-flex justify-content-center gap-2">
-                  {%- if team[team].git %}
+                  {%- if contributors[contributor].git %}
                   <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://github.com/{{id}}"><i class="fa-brands fa-github"></i></a>
                   {%- endif %}
-                  {%- if team[team].email %}
-                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{team[team].email}}"><i class="fa-solid fa-envelope"></i></a>
+                  {%- if contributors[contributor].email %}
+                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="mailto:{{contributors[contributor].email}}"><i class="fa-solid fa-envelope"></i></a>
                   {%- endif %}
-                  {%- if team[team].orcid %}
-                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{team[team].orcid}}"><i class="fa-brands fa-orcid"></i></a>
+                  {%- if contributors[contributor].orcid %}
+                  <a class="btn bg-white text-primary hover-primary rounded-circle social-icons p-0" href="https://orcid.org/{{contributors[contributor].orcid}}"><i class="fa-brands fa-orcid"></i></a>
                   {%- endif %}
                 </div>
               </div>
