@@ -7,7 +7,7 @@ event:
     organisers: []
     teachers: []
     venue: Split, Croatia
-    event_date: 2023/08/21-25 <br> 2023/10/16-20
+    event_date: 2023/08/21-25 <br> - <br> 2023/10/16-20
     state: closed
 ---
 
