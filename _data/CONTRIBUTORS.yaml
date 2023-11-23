@@ -11,11 +11,54 @@
 #    image_url: absolute path to image (default image from github)
 
 Allegra Via:
-    git: 
     email: allegra.via@uniroma1.it
-    orcid: 
     role: Training Platform Coordinator
     affiliation: University Sapienza, Rome
     image_url: images/people/Allegra_Via.png
     
 
+Loredana Le Pera:
+    email: loredana.lepera@iss.it
+    role: Deputy Training Platform Coordinator
+    affiliation: Italian National Institute of Health (ISS), Rome
+    image_url: images/people/Loredana_LePera.jpg
+
+
+Anna Marabotti:
+    email: amarabotti@unisa.it
+    role: Deputy Training Platform Coordinator
+    affiliation: University of Salerno
+    image_url: images/people/Anna_Marabotti.png
+
+
+Luana Licata:
+    email: luana.licata@uniroma2.it
+    role: Workshop design organization and delivery
+    affiliation: University Tor Vergata, Rome
+    image_url: images/people/Luana_Licata.jpg
+
+
+Vincenza Colonna:
+    email: vincenza.colonna@igb.cnr.it
+    role: Workshop design organization and delivery Dissemination & Outreach
+    affiliation: Institute of Genetics and Biophysics, CNR, Napoli
+    image_url: images/people/Vincenza_Colonna.png
+
+
+Marta Cecalupo:
+    email: marta.cecalupo88@gmail.com
+    role: Quality & Impact
+    affiliation: IBIOM-CNR
+    image_url: images/people/Marta_Cecalupo.jpg
+
+
+Chiara Pacelli:
+    email: chiara.pacelli@itb.cnr.it
+    role: Dissemination & Outreach
+    affiliation: ITB-CNR
+    image_url: images/people/Chiara_Pacelli.jpg
+
+Gianmarco Pascarella:
+    email: gianmarco.pascarella@uniroma1.it
+    affiliation: ITB-CNR
+    image_url: images/people/Gianmarco_Pascarella.jpg
