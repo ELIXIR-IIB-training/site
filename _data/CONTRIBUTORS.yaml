@@ -10,11 +10,12 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
-Nome Cognome:
+Allegra Via:
     git: 
-    email: example@email.it
+    email: allegra.via@uniroma1.it
     orcid: 
-    role: Editor
-    affiliation: CNR / ELIXIR-IT
+    role: Training Platform Coordinator
+    affiliation: University Sapienza, Rome
+    image_url: /images/people/Allegra_Via.png
     
 
