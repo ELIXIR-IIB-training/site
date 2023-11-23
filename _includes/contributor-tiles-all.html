@@ -3,9 +3,9 @@
 {%- if include.custom %}
 {%- assign allcontrstr = include.custom %}
 {%- elsif include.role %}
-{%- assign rolefilter =  include.role  %}
+{%- assign rolefilter =  include.role | downcase %}
 {%- for contr in contributors %}
-{%- assign contrrole = contr[1]['role']  %}
+{%- assign contrrole = contr[1]['role'] | downcase %}
 {%- if include.role == contrrole %}
 {%- if allcontrstr %}
 {%- assign allcontrstr = allcontrstr | append: ", " | append: contr[0] %}
@@ -66,13 +66,12 @@
         </div>
         {%- endif %}
         {%- endif %}
-
+        {%- if contributors[contributor].role %}
+        <span class="badge position-absolute top-0 end-0">{{ contributors[contributor].role | capitalize }}</span>
+        {%- endif %}
       </div>
       <div class="card-body text-center py-0">
         <p class="card-title">{{ contributor }}</p>
-        {%- if contributors[contributor].role %}
-        <span class="card-affiliation">{{ contributors[contributor].role | capitalize }}</span>
-        {%- endif %}
         {%- if contributors[contributor].affiliation %}
         <p class="card-affiliation">{{ contributors[contributor].affiliation }}</p>
         {%- endif %}
