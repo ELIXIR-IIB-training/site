@@ -8,7 +8,7 @@ columns:
     alt: Elixir_ITT_Logo
   - type: image
     image_width: 200px
-    width: 1
+    width: 2
     src: 'assets/logos/NextGenIT.jpg'
     alt: Elixir_NextGenIT
   - type: links
@@ -20,12 +20,12 @@ columns:
         url: https://elixir-italy.org/
   - type: image
     image_width: 200px
-    width: 1
+    width: 2
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics
   - type: image
     image_width: 68px
-    width: 1
+    width: 2
     src: 'assets/img/italy.png'
     alt: Jekyll Bootstrap theme logo
 
