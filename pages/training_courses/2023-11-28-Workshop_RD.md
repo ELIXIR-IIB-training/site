@@ -8,7 +8,7 @@ event:
     teachers: []
     venue: Roma, Italy
     event_date: 2023/11/28-29
-    state: open
+    state: closed
 ---
 
 ### Important Dates

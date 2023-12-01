@@ -8,7 +8,7 @@ event:
     teachers: []
     venue: Roma, Italy
     event_date: 2023/11/28-29
-    state: open
+    state: closed
 ---
 
 {% include image.html file="/2023_events/proteomix_2023.jpg" alt="ProteomiX2023" max-width="10" %}
