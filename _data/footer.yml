@@ -12,7 +12,7 @@ columns:
     src: 'assets/logos/NextGenIT.jpg'
     alt: Elixir_NextGenIT
   - type: links
-    width: 3
+    width: 4
     children: 
       - url_text: Elixir Europe
         url: https://elixir-europe.org/
