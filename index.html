@@ -7,7 +7,7 @@ layout: none
 <html lang="en">
 {% include head.html %}    
 
-
+<body id="main" class="conteiner">
 
     {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html search=false %}
@@ -35,9 +35,8 @@ layout: none
 
     
    
-
-{% include cookie-popup.html %}   
 {% include footer.html %}    
-
+{% include cookie-popup.html %}   
+</body>
 
 </html>
