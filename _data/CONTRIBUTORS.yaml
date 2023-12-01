@@ -49,13 +49,14 @@ Teresa Colombo:
     email: teresa.colombo@cnr.it
     role: Workshop Design Organization and Delivery
     affiliation: IBPM-CNR
-    
+    image_url: images/people/Teresa_Colombo.png
 
 
 Patrizio Di Micco:
     email: patrizio.dimicco@gmail.com
     role: Workshop Design Organization and Delivery
     affiliation: IBPM-CNR
+    image_url: images/people/Patrizio_DiMicco.png
     
 
 
@@ -75,7 +76,7 @@ Marta Cecalupo:
 
 Chiara Pacelli:
     email: chiara.pacelli@itb.cnr.it
-    role: Dissemination & Outreach
+    role: Workshop Design Organization and Delivery <br> Dissemination & Outreach
     affiliation: ITB-CNR
     image_url: images/people/Chiara_Pacelli.jpg
 
