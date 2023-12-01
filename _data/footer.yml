@@ -7,15 +7,10 @@ columns:
     src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Elixir_ITT_Logo
   - type: image
-    image_width: 88px
+    image_width: 100px
     width: 2
     src: 'assets/logos/NextGenIT.jpg'
     alt: Elixir_NextGenIT
-  - type: image
-    image_width: 88px
-    width: 2
-    src: 'assets/logos/CNR_Biomics.png'
-    alt: CNR_Biomics
   - type: links
     width: 3
     children: 
@@ -23,6 +18,11 @@ columns:
         url: https://elixir-europe.org/
       - url_text: Elixir Italy
         url: https://elixir-italy.org/
+  - type: image
+    image_width: 100px
+    width: 2
+    src: 'assets/logos/CNR_Biomics.png'
+    alt: CNR_Biomics
   - type: image
     image_width: 68px
     width: 1
