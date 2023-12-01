@@ -3,16 +3,16 @@ extra_line:
 columns:
   - type: image
     image_width: 88px
-    width: 2
+    width: 1
     src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Elixir_ITT_Logo
   - type: image
-    image_width: 200px
+    image_width: 300px
     width: 2
     src: 'assets/logos/NextGenIT.jpg'
     alt: Elixir_NextGenIT
   - type: links
-    width: 3
+    width: 4
     children: 
       - url_text: Elixir Europe
         url: https://elixir-europe.org/
@@ -25,7 +25,7 @@ columns:
     alt: CNR_Biomics
   - type: image
     image_width: 68px
-    width: 2
+    width: 1
     src: 'assets/img/italy.png'
     alt: Italy_flag
 
