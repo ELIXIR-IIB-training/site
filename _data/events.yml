@@ -1,6 +1,10 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
-
+- name: ELIXIR-IT NextGenIT Annual Meeting
+  startDate: 2023-12-05
+  endDate: 2023-12-06
+  description: Annual Meeting of the ELIXIR-IT NextGenIT project for the consolidation of the Italian infrastructure for Omics data and Bioinformatics.
+  location: Rome, Italy
 - name: ELIXIR Italy All Hand Meeting 2023
   startDate: 2023-11-27
   endDate: 2023-11-28
