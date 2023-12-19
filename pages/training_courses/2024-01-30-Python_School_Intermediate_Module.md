@@ -30,7 +30,7 @@ P.le Aldo Moro, 5<br>
 
 ### Fee
 No registration fee is required, but those who are selected will be expected to pay the [SIDiLV](https://sidilv.org/) membership fee for the year 2024 afterward (Full membership fee: 50 euros; Reduced membership fee for individuals under 35 years of age: 30 euros).<br>
-*Participants are expected to pay their travel, meal, and hotel costs (if any).
+Participants are expected to pay their travel, meal, and hotel costs (if any).
 <br>
 <br>
 
