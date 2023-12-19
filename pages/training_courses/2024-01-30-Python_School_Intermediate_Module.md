@@ -97,9 +97,9 @@ At the end of the course, the student will be able to:
 
 In general, after completing the entire module, the student will have a greater awareness of both the use of Python and the impact that genomic analysis can have in a professional and social context.
 <br> 
-<br>
+<be>
 
-### Draft Program
+<!-- ### Draft Program
 <table border="1" width="700">
 <tr>
    <td colspan="2"><h3>Tuesady - 30 January</h3></td>
@@ -204,6 +204,7 @@ In general, after completing the entire module, the student will have a greater 
 </table>
 <br>
 <br>
+-->
 
 ### Organisers
 - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy 
