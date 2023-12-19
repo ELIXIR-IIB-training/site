@@ -64,19 +64,18 @@ By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veteri
 The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<be>
 
 The School consists of 3 consequential modules:<br>
-- [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
-- ****Intermediate module*: Analysing your genomic data with Python***
-- *Hackathon module*: Python programming for developers
+1. [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
+2. ****Intermediate module*: Analysing your genomic data with Python***
+3. *Hackathon module*: Python programming for developers
 
 The main objective of this second Module in the 'School of Python for Genomics' titled 'Intermediate Module: Analysing your genomics data with Python' 
 will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
 
 This module aims to achieve the following objectives:
-
-Identify the distribution of serogroups of isolates.
-1. Analyse the presence and distribution of antibiotic-resistance genes.
-2. Examine the presence and distribution of virulence genes.
-3. Perform isolate typing (using methods such as MLST and cgMLST) and identify any correlations.
+- identify the distribution of serogroups of isolates
+- analyse the presence and distribution of antibiotic-resistance genes
+- examine the presence and distribution of virulence genes
+- perform isolate typing (using methods such as MLST and cgMLST) and identify any correlations.
 
 The course involves the development of a Python pipeline capable of processing raw data obtained from Illumina and/or Ion Torrent NGS.
 <br>
