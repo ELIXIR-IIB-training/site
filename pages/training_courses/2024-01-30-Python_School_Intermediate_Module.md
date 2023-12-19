@@ -36,10 +36,10 @@ No registration fee is required, but participants will be requested to register 
 
 ### Registration 
 
-# [Application Form](https://forms.gle/BUme7erea4nSyeBSA)
+### [Application Form](https://forms.gle/BUme7erea4nSyeBSA)
 <br>
 
-A maximum of **16** candidates will be selected based on a first-come, first-served basis and pre-requisites requested for attending the course as emerging from the application form. 
+A maximum of **16** candidates will be selected based on a first-come, first-served basis, and the pre-requisites requested for attending the course, as emerging from the application form. 
 Notifications of acceptance will be sent by *January 10th*. 
 <br>
 <br>
