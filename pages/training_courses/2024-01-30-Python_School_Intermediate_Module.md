@@ -214,17 +214,12 @@ In general, after completing the entire module, the student will have a greater 
 -->
 
 ### Contact
-For all kinds of queries, contact us at <elixir.ita.training@gmail.com> 
+For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)  
 <br>
 <br>
-<table>
-<tr>
-	<td>
-	<a href="https://sidilv.org/"><img height="140" src="../../../img/Logo_SIDILV.png"></a>
-	</td>
-	<td weight="20"></td>
-	<td>
-	<a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png"></a>
-	</td>
-</tr> 
-</table>
+
+
+{% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="10" %}
+
+
+{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
