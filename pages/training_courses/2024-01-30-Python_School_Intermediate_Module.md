@@ -65,8 +65,8 @@ By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veteri
 The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<be>
 
 The School consists of 3 consequential modules:<br>
-- [*Basic module*: Introduction to Python programming](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
-- ****Intermediate module*: Analyze your genomic data with Python***
+- [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
+- ****Intermediate module*: Analysing your genomic data with Python***
 - *Hackathon module*: Python programming for developers
 
 The main objective of this second Module in the 'School of Python for Genomics' titled 'Intermediate Module: Analysing your genomics data with Python' 
