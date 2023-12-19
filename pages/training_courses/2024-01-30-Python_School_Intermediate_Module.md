@@ -29,14 +29,13 @@ P.le Aldo Moro, 5<br>
 <br>
 
 ### Fee
-No registration fee is required, but participants will be requested to register to <br>
+No registration fee is required, but those who are selected will be expected to pay the [SIDiLV](https://sidilv.org/) membership fee for the year 2024 afterward (Full membership fee: 50 euros; Reduced membership fee for individuals under 35 years of age: 30 euros).<br>
 *Participants are expected to pay their travel, meal, and hotel costs (if any).
 <br>
 <br>
 
 ### Registration 
-
-### [Application Form](https://forms.gle/BUme7erea4nSyeBSA)
+## [Application Form](https://forms.gle/BUme7erea4nSyeBSA)
 <br>
 
 A maximum of **16** candidates will be selected based on a first-come, first-served basis, and the pre-requisites requested for attending the course, as emerging from the application form. 
@@ -75,7 +74,7 @@ will be to characterise a population of Escherichia coli strains through the ana
 This module aims to achieve the following objectives:
 
 Identify the distribution of serogroups of isolates.
-1. Analyze the presence and distribution of antibiotic-resistance genes.
+1. Analyse the presence and distribution of antibiotic-resistance genes.
 2. Examine the presence and distribution of virulence genes.
 3. Perform isolate typing (using methods such as MLST and cgMLST) and identify any correlations.
 
@@ -84,9 +83,7 @@ The course involves the development of a Python pipeline capable of processing r
 <br>
 
 ### Prerequisites
-No programming experience is required.
-<br>
-<br>
+This Intermediate Module is designed as a follow-up to the [Basic Module of the School of Python](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module), hence it assumes a basic understanding of programming and prior programming experience in Python as prerequisites. This Module will primarily focus on practical applications rather than theoretical concepts.
 
 ### Target audience
 Research scientists at any stage of their career who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
