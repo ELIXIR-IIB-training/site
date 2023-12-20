@@ -16,7 +16,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: content-box;  // default is border-box
+  box-sizing: border-box;  
 }
 
 
