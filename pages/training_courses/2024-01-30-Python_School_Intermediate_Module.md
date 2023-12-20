@@ -100,6 +100,20 @@ In general, after completing the entire module, the student will have a greater 
 <br> 
 <br>
 
+
+// ### Organisers
+// - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy 
+// - **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
+// - **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (FAST - ISS), Italy
+//<br>
+//<br>
+
+### Contact
+For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
+<br>
+<br>
+
+
 ### Draft Program
 <table border="1" width="700">
 <tr>
@@ -254,20 +268,6 @@ In general, after completing the entire module, the student will have a greater 
 <br>
 <br>
 
-
-<!--
-### Organisers
-- **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy 
-- **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
-- **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (FAST - ISS), Italy
-<br>
-<br>
--->
-
-### Contact
-For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
-<br>
-<br>
 
 
 {% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="5" %}
