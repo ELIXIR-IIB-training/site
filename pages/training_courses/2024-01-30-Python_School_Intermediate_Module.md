@@ -214,7 +214,7 @@ In general, after completing the entire module, the student will have a greater 
 -->
 
 ### Contact
-For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)  
+For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
 <br>
 <br>
 
