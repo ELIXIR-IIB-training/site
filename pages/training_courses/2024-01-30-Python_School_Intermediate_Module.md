@@ -63,13 +63,12 @@ The use of Next-Generation Sequencing (NGS) has exponentially increased in the l
 By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veterinaria (SIDiLV)](https://sidilv.org/)* and the *[Italian Infrastructure of Bioinformatics (IIB/ELIXIR Italy)](https://elixir-italy.org/about/)* organised the **School of Python for genomics** at the *[Italian National Institute of Health (ISS)](https://www.iss.it/en/web/guest/home)*.<br> 
 The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<be>
 
-The School consists of 3 consequential modules:<br>
+The whole School consists of 3 consequential modules:<br>
 1. [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
 2. ** *Intermediate module*: Analysing your genomic data with Python **
 3. *Hackathon module*: Python programming for developers
 
-The main objective of this second Module in the 'School of Python for Genomics' titled 'Intermediate Module: Analysing your genomics data with Python' 
-will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
+The main objective of this second Module titled 'Intermediate Module: Analysing your genomics data with Python' will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
 
 This module aims to achieve the following objectives:
 - identify the distribution of serogroups of isolates
