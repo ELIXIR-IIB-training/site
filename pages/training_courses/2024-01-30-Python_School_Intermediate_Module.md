@@ -65,7 +65,7 @@ The School aims to provide the necessary skills to utilise the Python language b
 
 The whole School consists of 3 consequential modules:<br>
 1. [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
-2. ** *Intermediate module*: Analysing your genomic data with Python **
+2. **Intermediate module: Analysing your genomic data with Python**
 3. *Hackathon module*: Python programming for developers
 
 The main objective of this second Module titled 'Intermediate Module: Analysing your genomics data with Python' will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
