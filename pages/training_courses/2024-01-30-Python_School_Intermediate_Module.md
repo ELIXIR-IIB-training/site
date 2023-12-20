@@ -270,7 +270,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 
 
 
-{% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="5" %}
 
 
-{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
+
+{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}{% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="5" %}
