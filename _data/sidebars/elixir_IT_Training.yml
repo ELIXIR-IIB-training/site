@@ -5,8 +5,10 @@ subitems:
     url: /training_courses
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
-      - title: 2023
+      - title: 2024
         url: /training_courses
+      - title: 2023
+        url: /archive_2023  
       - title: 2022
         url: /archive_2022
       - title: 2021
