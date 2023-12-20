@@ -144,7 +144,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 09:30</td>
-   <td height="50">Warm Up</td>
+   <td height="50">Warm-up</td>
 </tr>
   <tr>
    <td height="50" width="50">09:30 - 10:15</td>
@@ -160,7 +160,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">11:30 - 12:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">12:30 - 14:00</td>
@@ -168,7 +168,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">14:00 - 15:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">15:30 - 16:00</td>
@@ -176,7 +176,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">16:00 - 17:00</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
   <tr>
    <td height="50" width="50">17:00 - 17:30</td>
@@ -191,7 +191,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">09:30 - 10:30</td>
-   <td height="50">Developing the Pipeline (Lecture + Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Lecture + Hands-on)</td>
 </tr>
   <tr>
    <td height="50" width="50">10:30 - 11:00</td>
@@ -199,7 +199,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">11:00 - 12:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">12:30 - 14:00</td>
@@ -211,7 +211,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
   <tr>
    <td height="50" width="50">14:30 - 15:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">15:30 - 16:00</td>
@@ -219,7 +219,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">16:00 - 17:00</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
    <tr>
    <td height="50" width="50">17:00 - 17:30</td>
@@ -234,7 +234,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">09:30 - 10:30</td>
-   <td height="50">Developing the Pipeline (Lecture + Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Lecture + Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">10:30 - 11:00</td>
@@ -242,11 +242,11 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">11:00 - 12:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="50">12:30 - 13:30</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
   <tr>
    <td height="50" width="50">12:30 - 13:30</td>
@@ -254,7 +254,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">13:30 - 15:00</td>
-   <td height="50">Developing the Pipeline (Hands-on)</td>
+   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
   <tr>
    <td height="50" width="50">15:00 - 16:30</td>
