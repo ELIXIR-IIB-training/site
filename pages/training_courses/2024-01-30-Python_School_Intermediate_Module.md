@@ -84,7 +84,7 @@ The course involves the development of a Python pipeline capable of processing r
 ### Prerequisites
 This Intermediate Module is designed as a follow-up to the [Basic Module of the School of Python](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module), hence it assumes a basic understanding of programming and prior programming experience in Python as prerequisites. This Module will primarily focus on practical applications rather than theoretical concepts.
 <br> 
-<be>
+<br>
 
 ### Target audience
 Research scientists at any stage of their career who are using (or planning to use) genomic data in their research activities are welcome to attend the workshop. <br> 
@@ -101,12 +101,12 @@ In general, after completing the entire module, the student will have a greater 
 <br>
 
 
-// ### Organisers
-// - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy 
-// - **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
-// - **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (FAST - ISS), Italy
-//<br>
-//<br>
+<!--  ### Organisers -->
+<!-- - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy  -->
+<!-- - **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome -->
+<!-- - **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (FAST - ISS), Italy -->
+<!-- <br> -->
+<!-- <br> -->
 
 ### Contact
 For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
