@@ -83,6 +83,8 @@ The course involves the development of a Python pipeline capable of processing r
 
 ### Prerequisites
 This Intermediate Module is designed as a follow-up to the [Basic Module of the School of Python](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module), hence it assumes a basic understanding of programming and prior programming experience in Python as prerequisites. This Module will primarily focus on practical applications rather than theoretical concepts.
+<br> 
+<be>
 
 ### Target audience
 Research scientists at any stage of their career who are using (or planning to use) genomic data in their research activities are welcome to attend the workshop. <br> 
@@ -96,7 +98,7 @@ At the end of the course, the student will be able to:
 
 In general, after completing the entire module, the student will have a greater awareness of both the use of Python and the impact that genomic analysis can have in a professional and social context.
 <br> 
-<be>
+<br>
 
 <!-- ### Draft Program
 <table border="1" width="700">
