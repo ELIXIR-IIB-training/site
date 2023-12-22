@@ -268,9 +268,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 
 
 
-![IIB logo](images/infrastructures/logo_iib.png){: height="100px" width="100px"}
 
-![SIDILV logo](images/2022_and_older/Logo_SIDILV.png){: height="200px" width="200px"}
 
 <br>
 {% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}{% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="5" %}
