@@ -16,7 +16,7 @@ event:
 <br>
 
 ## Important Dates 
-- Deadline for applications: **10 January, 2024**
+- Deadline for applications: **9 January, 2024**
 - School date: **30 January - 2 February, 2024** 
 <br>
 <br>
