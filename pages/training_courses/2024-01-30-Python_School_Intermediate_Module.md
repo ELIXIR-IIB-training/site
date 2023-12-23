@@ -47,6 +47,7 @@ Notifications of acceptance will be sent by *January 10th*.
 - **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
 - **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
 - **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
+- **Valeria Michelacci** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
 - **Allegra Via** - Sapienza University of Rome, Italy
 <br>
 <br>
@@ -99,13 +100,15 @@ In general, after completing the entire module, the student will have a greater 
 <br> 
 <br>
 
-
-<!--  ### Organisers -->
-<!-- - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (SANV - ISS), Italy  -->
-<!-- - **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome -->
-<!-- - **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (FAST - ISS), Italy -->
-<!-- <br> -->
-<!-- <br> -->
+### Organisers
+[**SIDiLV**](https://sidilv.org/)
+[**ELIXIR Italy**](https://elixir-italy.org/))
+**Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (ISS), Italy
+ **Valeria Michelacci** - SIDiLV/National Institute of Health (ISS), Italy
+**Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (ISS), Italy
+**Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome, Italy
+<br>
+<br>
 
 ### Contact
 For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
