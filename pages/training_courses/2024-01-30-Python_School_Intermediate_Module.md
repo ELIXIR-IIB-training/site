@@ -101,11 +101,11 @@ In general, after completing the entire module, the student will have a greater 
 <br>
 
 ### Organisers
-[**SIDiLV**](https://sidilv.org/)
-[**ELIXIR Italy**](https://elixir-italy.org/))
-**Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (ISS), Italy
- **Valeria Michelacci** - SIDiLV/National Institute of Health (ISS), Italy
-**Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (ISS), Italy
+[**SIDiLV**](https://sidilv.org/)<br>
+[**ELIXIR Italy**](https://elixir-italy.org/)<br>
+**Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institute of Health (ISS), Italy, 
+**Valeria Michelacci** - SIDiLV/National Institute of Health (ISS), Italy, 
+**Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (ISS), Italy,
 **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome, Italy
 <br>
 <br>
