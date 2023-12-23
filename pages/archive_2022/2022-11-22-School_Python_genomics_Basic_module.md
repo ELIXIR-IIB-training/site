@@ -68,7 +68,7 @@ By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veteri
 The aim of the School is providing the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<br>
 The School consists of 3 consequential modules:<br>
 - *Basic module*: Introduction to Python programming
-- *Advanced module*: Analyze your genomic data with Python
+- *Intermediate module*: Analysing your genomic data with Python
 - *Hackathon module*: Python programming for developers
 
 This *Basic module: Introduction to Python programming* starts from no programming knowledge and aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. The course will be highly interactive and the students will continuously put theory into practice while learning. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
