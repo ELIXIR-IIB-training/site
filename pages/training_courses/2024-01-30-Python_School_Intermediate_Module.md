@@ -54,7 +54,7 @@ Notifications of acceptance will be sent by *January 10th*.
 
 ### Helpers
 - **Gianluca Frustagli** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
-- **Chiara Pacelli** - Dep. of Biochemical Sciences, Sapienza University of Rome, Italy
+- **Chiara Pacelli** - Institute for Biomedical Technologies of National Research Council (CNR-ITB), Italy
 - **Irene Ruspantini** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
 <br>
 <br>
