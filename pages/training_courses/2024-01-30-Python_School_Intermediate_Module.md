@@ -246,10 +246,6 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
    <td height="50" width="50">11:00 - 12:30</td>
    <td height="50">Python: Developing the Pipeline (Hands-on)</td>
 </tr>
-<tr>
-   <td height="50" width="50">12:30 - 13:30</td>
-   <td height="50">Python: Developing the Pipeline (Hands-on)</td>
-</tr>
   <tr>
    <td height="50" width="50">12:30 - 13:30</td>
    <td colspan="1">Lunch</td>
