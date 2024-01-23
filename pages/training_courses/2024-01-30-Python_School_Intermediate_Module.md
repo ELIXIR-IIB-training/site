@@ -119,7 +119,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 ### Draft Program
 <table border="1" width="700">
 <tr>
-   <td colspan="2"><h3>Tuesady - 30 January</h3></td>
+   <td colspan="2"><h3>Tuesday - 30 January</h3></td>
 </tr>
 <tr>
    <td height="50" width="50">13:00 - 14:00</td>
