@@ -209,7 +209,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
 <tr>
    <td height="50" width="50">14:00 - 14:30</td>
-   <td height="50"><i>Introduction to Python classes (Lecture)</i></td>
+   <td height="50"><i>Introduction to Python classes (Special Lecture)</i></td>
 </tr>
   <tr>
    <td height="50" width="50">14:30 - 15:30</td>
