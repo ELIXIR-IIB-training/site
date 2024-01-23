@@ -150,7 +150,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
   <tr>
    <td height="50" width="50">09:30 - 10:15</td>
-   <td height="50">Linux Shell </td>
+   <td height="50">Raw data Quality Control </td>
 </tr>
   <tr>
    <td height="50" width="50">10:15 - 11:00</td>
