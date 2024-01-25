@@ -1,5 +1,12 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
+
+- name: "EMBO Practical Course Population Genomics: background and tools"
+  startDate: 2024-06-10
+  endDate: 2024-06-16
+  description: [Details here](https://elixir-iib-training.github.io/site/2024-06-10-population-genomics-online)
+  location: Castellammare di Stabia, Italy
+
 - name: "School of Python for genomics. Intermediate module: Analysing your genomics data with Python"
   startDate: 2024-01-30
   endDate: 2024-02-02
