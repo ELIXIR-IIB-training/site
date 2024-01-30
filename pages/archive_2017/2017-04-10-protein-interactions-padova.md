@@ -1,5 +1,6 @@
 ---
 title:  "Workshop on Computational approaches to the study of protein interactions and rational drug design"
+event_type:  "ELIXIR IIB Workshop"
 description: 10-13 April 2017 <br> Padova, Italy
 event:
   - name: "Workshop on Computational approaches to the study of protein interactions and rational drug design"

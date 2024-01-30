@@ -1,5 +1,6 @@
 ---
 title:  "R for Reproducible Scientific Analysis"
+event_type:  "ELIXIR IIB Training Course"
 description: 27-30 September 2022 <br> online
 event:
   - name: "R for Reproducible Scientific Analysis"

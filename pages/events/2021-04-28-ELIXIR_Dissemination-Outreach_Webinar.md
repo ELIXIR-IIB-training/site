@@ -1,5 +1,6 @@
 ---
-title: ELIXIR IIB Dissemination-Outreach Webinar
+title: "ELIXIR IIB Dissemination-Outreach Webinar"
+event_type: "ELIXIR IIB Dissemination/Outreach"
 description: 
 page_id: 
 event:

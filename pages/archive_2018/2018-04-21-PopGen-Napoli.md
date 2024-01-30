@@ -1,5 +1,6 @@
 ---
 title: "Population Genomics: background and tools" 
+event_type:  "ELIXIR IIB Training Course"
 description: 21-27 April 2018 <br> Napoli, Italy
 event:
   - name: "Population Genomics: background and tools"

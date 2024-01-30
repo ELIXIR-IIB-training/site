@@ -1,5 +1,6 @@
 ---
 title:  "Training course on Machine Learning for Biologists"
+event_type:  "ELIXIR IIB Training Course"
 description: 04-07 September 2017 <br> Trento, Italy
 event:
   - name: "Training course on Machine Learning for Biologists"

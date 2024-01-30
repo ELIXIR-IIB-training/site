@@ -1,7 +1,7 @@
 ---
-title: ELIXIR IIB Dissemination-Outreach
+title: "ELIXIR IIB Dissemination-Outreach"
+event_type: "ELIXIR IIB Dissemination/Outreach"
 description: 
-page_id: ELIXIR_Dissemination-Outreach_2022
 event:
   - name: "Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair"
     url: https://www.cnr.it/it/evento/17852

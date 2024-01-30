@@ -1,5 +1,6 @@
 ---
 title:  "Software Carpentry Workshop"
+event_type:  "ELIXIR IIB Training Course"
 description: 11-12 February 2019 <br> Napoli, Italy
 event:
   - name: "Software Carpentry Workshop"

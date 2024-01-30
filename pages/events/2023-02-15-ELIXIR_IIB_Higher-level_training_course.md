@@ -1,9 +1,10 @@
 ---
-title: ELIXIR IIB Higher-level training course
+title: "ELIXIR IIB Higher-level training course"
+event_type: "ELIXIR IIB Higher-level training course"
 description: 
 page_id: 
 event:
-  - name: Advanced Training Course in Bioinformatics
+  - name: "Advanced Training Course in Bioinformatics"
     url: https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0
     organisers: Sapienza <br> CNR-IBPM <br> ELIXIR-IIB
     teachers: []

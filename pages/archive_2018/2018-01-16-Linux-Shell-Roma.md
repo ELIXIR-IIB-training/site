@@ -1,5 +1,6 @@
 ---
 title:  "Linux shell scripting for high-throughput biological data processing on supercomputers"
+event_type:  "ELIXIR IIB Training Course"
 description: 16-17 January 2018 <br> Roma, Italy
 event:
   - name: "Linux shell scripting for high-throughput biological data processing on supercomputers"

@@ -1,5 +1,6 @@
 ---
 title: "EMBO Practical Course on Population Genomics: Background and tools"
+event_type: "EMBO Practical Course"
 description: 22-30 March 2022 <br> online
 venue: online
 event:

@@ -1,9 +1,10 @@
 ---
-title: Biohackathon-Europe
+title: "Biohackathon-Europe"
+event_type: "Biohackathon-Europe"
 description: 
 page_id: Biohackathon_2022
 event:
-  - name: ELIXIR Biohackathon 2022
+  - name: "ELIXIR Biohackathon 2022"
     url: https://www.biohackathon-europe.org/index.html
     organisers: ELIXIR
     teachers: []

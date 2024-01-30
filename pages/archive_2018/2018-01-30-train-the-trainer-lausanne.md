@@ -1,5 +1,6 @@
 ---
 title: "ELIXIR-EXCELERATE Train the Trainer"
+event_type: "ELIXIR-EXCELERATE"
 description: 30-31 January 2018 <br> Lausanne, Switzerland
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"

@@ -1,5 +1,6 @@
 ---
-title: ELIXIR IIB All Hands
+title: "ELIXIR IIB All Hands"
+event_type: "ELIXIR IIB All Hands"
 description: 
 page_id: All_Hands_2021
 event:

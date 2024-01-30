@@ -1,5 +1,6 @@
 ---
 title:  "Genome Assembly and Annotation"
+event_type:  "ELIXIR IIB Training Course"
 description: 01-05 July 2019 <br> Milano, Italy
 event:
   - name: "Genome Assembly and Annotation"

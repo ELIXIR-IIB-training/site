@@ -1,5 +1,6 @@
 ---
-title: Young Innovation 2023
+title: "Young Innovation 2023"
+event_type: "Young Innovation 2023"
 description: 
 page_id: 
 event:

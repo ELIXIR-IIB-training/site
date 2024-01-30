@@ -1,5 +1,6 @@
 ---
 title:  "Single-Cell RNA Sequencing and Data Analysis"
+event_type:  "ELIXIR IIB Training Course"
 description: 07-09 May 2019 <br> Pozzuoli (Napoli), Italy
 event:
   - name: "Single-Cell RNA Sequencing and Data Analysis"

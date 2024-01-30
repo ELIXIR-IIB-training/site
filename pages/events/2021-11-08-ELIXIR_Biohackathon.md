@@ -1,5 +1,6 @@
 ---
-title: Biohackathon-Europe
+title: "Biohackathon-Europe"
+event_type: "Biohackathon-Europe"
 description: 
 page_id: biohackathon_2021
 event:

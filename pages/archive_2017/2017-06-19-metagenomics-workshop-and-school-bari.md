@@ -1,5 +1,6 @@
 ---
 title:  "Workshop + Summer School in Advanced Computational Metagenomics"
+event_type:  "ELIXIR IIB Workshop/Summer School"
 description: 19-23 June 2017 <br> Bari, Italy
 event:
   - name: "Workshop + Summer School in Advanced Computational Metagenomics"

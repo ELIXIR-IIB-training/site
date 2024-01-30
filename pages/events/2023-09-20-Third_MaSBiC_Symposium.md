@@ -1,5 +1,6 @@
 ---
-title: Third MaSBiC Symposium
+title: "Third MaSBiC Symposium"
+event_type: "Third MaSBiC Symposium"
 description: 
 page_id: 
 event:

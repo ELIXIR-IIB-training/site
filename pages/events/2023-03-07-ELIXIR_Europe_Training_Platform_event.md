@@ -1,9 +1,10 @@
 ---
-title: ELIXIR Europe Training Platform event
+title: "ELIXIR Europe Training Platform event"
+event_type: "ELIXIR Europe Training Platform event"
 description: 
 page_id: 
 event:
-  - name: ELIXIR Training Platform F2F Hybrid Meeting
+  - name: "ELIXIR Training Platform F2F Hybrid Meeting"
     url: https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting
     organisers: ELIXIR Hub <br> L. Le Pera <br> A. Via
     teachers: []

@@ -1,5 +1,6 @@
 ---
 title:  "ELIXIR-EXCELERATE Train the Trainer"
+event_type: "ELIXIR-EXCELERATE"
 description: 27-29 September 2017 <br> Salerno, Italy
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"

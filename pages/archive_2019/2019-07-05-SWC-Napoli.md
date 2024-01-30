@@ -1,5 +1,6 @@
 ---
 title:  "Software Carpentry Workshop"
+event_type: "The Carpentries"
 description: 03-05 July 2019 <br> Napoli, Italy
 event:
   - name: "Software Carpentry Workshop"

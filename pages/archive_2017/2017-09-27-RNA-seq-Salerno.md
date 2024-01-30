@@ -1,5 +1,6 @@
 ---
 title:  "Training Course on Best practices for RNA-Seq data analysis"
+event_type:  "ELIXIR IIB Training Course"
 description: 27-29 September 2017 <br> Salerno, Italy
 event:
   - name: "Training Course on Best practices for RNA-Seq data analysis"

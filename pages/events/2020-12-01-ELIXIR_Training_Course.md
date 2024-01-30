@@ -1,5 +1,6 @@
 ---
-title: ELIXIR Training Course
+title: "ELIXIR Training Course"
+event_type:  "ELIXIR IIB Training Course"
 description: 
 page_id: 
 event:

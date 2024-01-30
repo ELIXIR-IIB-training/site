@@ -1,5 +1,6 @@
 ---
 title:  "Software Carpentry Workshop"
+event_type:  "ELIXIR IIB Training Course"
 description: 22-23 February 2018 <br> Milano, Italy
 event:
   - name: "Software Carpentry Workshop"

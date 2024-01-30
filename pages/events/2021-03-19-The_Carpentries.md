@@ -1,5 +1,6 @@
 ---
-title: The Carpentries
+title: "The Carpentries"
+event_type: "The Carpentries"
 description: 19-26 March 2021 <br> online
 event:
   - name: "Laboratorio Software Carpentry (Shell Unix, Git, Python)"

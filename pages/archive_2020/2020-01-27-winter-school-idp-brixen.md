@@ -1,5 +1,6 @@
 ---
 title: "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins"
+event_type:  "ELIXIR IIB Winter School"
 description: 27-31 January 2020 <br> Bressanone-Brixen, Italy
 event:
   - name: "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins"

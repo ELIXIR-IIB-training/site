@@ -1,5 +1,6 @@
 ---
 title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools. <font color='red' size='3'>[Cancelled, to be rescheduled]</font>"
+event_type:  "ELIXIR IIB Training Course"
 description: 06-07 May 2020 <br> Roma, Italy
 event:
   - name: "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools."

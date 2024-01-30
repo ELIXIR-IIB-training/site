@@ -1,5 +1,6 @@
 ---
 title: "Software Carpentry Workshop - R for Reproducible Scientific Analysis"
+event_type: "The Carpentries"
 description: 14-17 July 2020 <br> online
 event:
   - name: "Software Carpentry Workshop - R for Reproducible Scientific Analysis"

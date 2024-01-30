@@ -1,5 +1,6 @@
 ---
 title:  "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility"
+event_tupe: "BITS2018/ELIXIR IIB Workshop"
 description: 25-26 June 2018 <br> Torino, Italy
 event:
   - name: "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility"
