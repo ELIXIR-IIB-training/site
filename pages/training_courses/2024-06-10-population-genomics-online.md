@@ -1,5 +1,6 @@
 ---
 title: "EMBO Practical Course on Population Genomics: Background and tools."
+type: "EMBO Practical Course"
 description: 10-16 June 2024 <br> Castellammare di Stabia, Italy
 venue: online
 event:
