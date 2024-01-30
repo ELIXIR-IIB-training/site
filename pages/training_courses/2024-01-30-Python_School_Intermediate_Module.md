@@ -126,8 +126,12 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
    <td height="50">Setup</td>
 </tr>
   <tr>
-   <td height="50" width="50">14:00 - 14:45</td>
-   <td height="50">Welcome/Introduction(s)</td>
+   <td height="50" width="50">14:00 - 14:15</td>
+   <td height="50">Welcome</td>
+</tr>
+  <tr>
+   <td height="50" width="50">14:15 - 14:45</td>
+   <td height="50">Introducing the topic</td>
 </tr>
 <tr>
    <td height="50" width="50">14:45 - 16:30</td>
