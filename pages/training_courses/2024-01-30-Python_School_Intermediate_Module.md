@@ -9,7 +9,7 @@ event:
     teachers: []
     venue: Roma, Italy
     event_date: 2024/01/30
-    state: open
+    state: closed
 ---
 
 <!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
