@@ -158,7 +158,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
   <tr>
    <td height="50" width="50">10:15 - 11:00</td>
-   <td height="50">Python: Introduction to the Pipeline (Lecture + Hands-on)</td>
+   <td height="50">Python: Introduction to the Pipeline (Lecture)</td>
 </tr>
 <tr>
    <td height="50" width="50">11:00 - 11:30</td>
