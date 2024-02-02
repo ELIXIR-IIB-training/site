@@ -117,7 +117,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 <br>
 
 
-### Draft Program
+### Program
 <table border="1" width="700">
 <tr>
    <td colspan="2"><h3>Tuesday - 30 January</h3></td>
