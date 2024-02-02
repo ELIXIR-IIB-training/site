@@ -147,7 +147,7 @@ The programme can be found at this [link](https://cnrsc-my.sharepoint.com/:w:/g/
    <td colspan="2"><h3>Tuesday - 30<sup>st</sup> May</h3></td>
 </tr>
 <tr>
-   <td height="50" width="100">09:00 - 10:00</td>
+   <td height="50" width="50">09:00 - 10:00</td>
    <td height="50">Registration</td>
 </tr>
   <tr>
@@ -155,99 +155,99 @@ The programme can be found at this [link](https://cnrsc-my.sharepoint.com/:w:/g/
    <td height="50">Welcome <br>Prof. Graziano Pesole Head of Elixir Italian Node</td>
 </tr>
   <tr>
-   <td height="50" width="50">10:10-10:50</td>
+   <td height="50" width="50">10:10 - 10:50</td>
    <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br> Prof. Marco Vanoni (UNIMIB, ISBE-IT)</td>
 </tr>
 <tr>
-   <td height="50" width="50">10:50-11:20</td>
+   <td height="50" width="50">10:50 - 11:20</td>
    <td height="50">Experimental design and best practice for mass-spectrometry based metabolomics <br>Marcella Bonanomi (CNR, ELIXIR-IT)</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:20-11:30</td>
+   <td height="50" width="50">11:20 - 11:30</td>
    <td colspan="1">Coffee Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:30-12:15</td>
+   <td height="50" width="50">11:30 - 12:15</td>
    <td height="50">Sampling and GC-MS analysis of specialised metabolites from "uncommon" biofluids: the case of sweat and exhaled breath <br>
 Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
-   <td height="50" width="50">12:15-13:00</td>
+   <td height="50" width="50">12:15 - 13:00</td>
    <td height="50">Untargeted profiling of polyphenols: a screening of functional compounds and their metabolites in raw and in vitro digested cereals <br>Luigi Lucini (Cattolica University) </td>
 </tr>
   <tr>
-   <td height="50" width="50">13:00-14:00</td>
+   <td height="50" width="50">13:00 - 14:00</td>
    <td colspan="1">Lunch Break</td>
 </tr>
   <tr>
-   <td height="50" width="50">14:00-14:45</td>
+   <td height="50" width="50">14:00 - 14:45</td>
    <td height="50">Unknown compound identification through GC and LC/QTOF technologies. <br>Anna Calì (Agilent)</td>
 </tr>
 <tr>
-   <td height="50" width="50">14:45-15:30</td>
+   <td height="50" width="50">14:45 - 15:30</td>
    <td height="50">Heart metabolic profiling of an adult-onset-hypothyroidism mouse model reveals sex-specific differences <br>Maria Klapa (FORTH)</td>
 </tr>
 <tr>
-   <td height="50" width="50">15:30-16:15</td>
+   <td height="50" width="50">15:30 - 16:15</td>
    <td height="50">Data and Networks in Systems Biology <br>Lilia Alberghina (UNIMIB, ISBE-IT)</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:15-16:30</td>
+   <td height="50" width="50">16:15 - 16:30</td>
    <td colspan="1">Coffee Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:30-17:15</td>
+   <td height="50" width="50">16:30 - 17:15</td>
    <td height="50">Metabolomics global open data annotation and management - from the MetaboLights perspective. <br>Claire O 'Donovan (EMBL-EBI)</td>
 </tr>
 <tr>
-   <td height="50" width="50">17:15-18:00</td>
+   <td height="50" width="50">17:15 - 18:00</td>
    <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Cattolica University)</td>
 </tr>
 <tr>
-   <td height="50" width="50">18:00-18:45</td>
+   <td height="50" width="50">18:00 - 18:45</td>
    <td height="50">Metabolomics approaches to systematically investigate microbiome-mediated biotransformation.<br>Michael Zimmerman (EMBL)</td>
 </tr>
   <tr>
-   <td height="50" width="50">19:00-21:00</td>
+   <td height="50" width="50">19:00 - 21:00</td>
    <td colspan="1">Social Dinner</td>
 </tr>
 <tr>
    <td colspan="2"><h3>Friday - 31<sup>st</sup> May, 2024</h3></td>
 </tr>
 <tr>
-   <td height="50" width="50">10:00-10:45</td>
+   <td height="50" width="50">10:00 - 10:45</td>
    <td height="50">Case study: The stress response and metabolomic profiling of corals in a changing ecosystem<br>Davide Seveso (UNIMIB)</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:15-11:30</td>
+   <td height="50" width="50">11:15 - 11:30</td>
    <td colspan="1">Coffee Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:30-12:00</td>
+   <td height="50" width="50">11:30 - 12:00</td>
    <td height="50">Case study - Exploring the metabolomes of insect agricultural pests: innovative approaches for effective control<br>Francesca Scolari (UNIPV)</td>
 </tr>
 <tr>
-   <td height="50" width="50">12:00-12:30</td>
+   <td height="50" width="50">12:00 - 12:30</td>
    <td height="50">Case study - Cancer heterogeneity in spheroids, a training ground for omics integration<br>Valentina Pasquale (UNIMIB)</td>
 </tr>
   <tr>
-   <td height="50" width="50">12:30-13:00</td>
+   <td height="50" width="50">12:30 - 13:00</td>
    <td height="50">Case study - Yeast untargeted metabolomics of mitochondrial stress response: a model organism-focussed system for metabolome annotation and integration.<br>Fabrizio Mastrorocco (IBIOM-CNR)</td>
 </tr>
 <tr>
-   <td height="50" width="50">13:00-14:00</td>
+   <td height="50" width="50">13:00 - 14:00</td>
    <td colspan="1">Lunch Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">14:00-15:00</td>
+   <td height="50" width="50">14:00 - 15:00</td>
    <td height="50">ONE-ON-ONE: mentoring session with lecturers </td>
 </tr>
 <tr>
-   <td height="50" width="50">15:00-16:30</td>
+   <td height="50" width="50">15:00 - 16:30</td>
    <td height="50">Abstract presentations / Poster presentation</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:30-16:40</td>
+   <td height="50" width="50">16:30 - 16:40</td>
    <td height="50">Greetings</td>
 </tr>
 </table>
