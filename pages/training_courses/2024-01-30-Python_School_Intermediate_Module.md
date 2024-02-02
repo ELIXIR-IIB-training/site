@@ -126,7 +126,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
    <td height="50" width="50">13:00 - 14:00</td>
    <td height="50">Setup</td>
 </tr>
-  <tr>
+<tr>
    <td height="50" width="50">14:00 - 14:15</td>
    <td height="50">Welcome</td>
 </tr>
@@ -237,7 +237,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
   <tr>
    <td height="50" width="50">09:00 - 09:30</td>
-   <td height="50">Warm-up</td>
+   <td colspan="1">Warm-up</td>
 </tr>
 <tr>
    <td height="50" width="50">09:30 - 10:30</td>
@@ -269,7 +269,7 @@ For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:e
 </tr>
   <tr>
    <td height="50" width="50">16:00 - 16:30</td>
-   <td height="50"><i>Introduction to Python classes (Special Lecture)</i>/td>
+   <td height="50"><i>Introduction to Python classes (Special Lecture)</i></td>
 </tr>
 <tr>
    <td height="50" width="50">16:30 - 17:00</td>
