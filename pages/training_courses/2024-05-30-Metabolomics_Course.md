@@ -12,8 +12,7 @@ event:
 ---
 <br>
 <br>
-<br>
-<br>
+
 
 ## Important Dates 
 
