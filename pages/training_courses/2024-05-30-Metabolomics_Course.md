@@ -144,7 +144,7 @@ The programme can be found at this [link](https://cnrsc-my.sharepoint.com/:w:/g/
 
 <table border="1" width="700">
 <tr>
-   <td colspan="2"><h3>Tuesday - 30<sup>st</sup> May</h3></td>
+   <td colspan="2"><h3>Tuesday - 30<sup>st</sup> May, 2024</h3></td>
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 10:00</td>
