@@ -35,7 +35,6 @@ Piazza della Scienza 2, Milano
 ### Fee
 
 Academic: EUR 120<br>
-
 Industry: EUR 120<br>
 Undergraduate and  PhD students: EUR 60<br>
 The fee covers coffee-breaks and lunches. <br>
