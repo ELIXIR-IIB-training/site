@@ -87,7 +87,7 @@ Participants who wish to present a research topic and have the chance to discuss
 <br>
 
 ## Contact
-For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
+For all kinds of queries, please contact the organisers [elixir.metabolomics.milan@gmail.com](elixir.metabolomics.milan@gmail.com).
 <br>
 <br>
 
@@ -136,7 +136,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 
 ### Programme
 
-Il programma si trova a questo [link](https://cnrsc-my.sharepoint.com/:w:/g/personal/federica_baldassari_cnr_it/EVGfPSGd33pMj4yFVJunqckBAud6OWWAzOW0UK3Ee99_cA)
+The programme can be found at this [link](https://cnrsc-my.sharepoint.com/:w:/g/personal/federica_baldassari_cnr_it/EVGfPSGd33pMj4yFVJunqckBAud6OWWAzOW0UK3Ee99_cA)
 
 <br>
 <br>
@@ -148,7 +148,7 @@ Il programma si trova a questo [link](https://cnrsc-my.sharepoint.com/:w:/g/pers
    <td colspan="2"><h3>Tuesday - 30<sup>st</sup> May</h3></td>
 </tr>
 <tr>
-   <td height="50" width="50">09:00 - 10:00</td>
+   <td height="50" width="100">09:00 - 10:00</td>
    <td height="50">Registration</td>
 </tr>
   <tr>
