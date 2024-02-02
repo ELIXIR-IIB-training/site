@@ -11,11 +11,9 @@ event:
     state: open
 ---
 
-<!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
-<br>
-<br>
 
 ## Important Dates 
+
 - Deadline for application: **30th April 2024**
 - Deadline for abstract submission (see below): **30th April 2024**
 - Selected abstract will be notified by: 4th May 2024
@@ -25,6 +23,7 @@ event:
 <br>
 
 ### Venue
+
 University of Milano-Bicocca<br> 
 Department of Biotechnology and Bioscience<br> 
 Piazza della Scienza 2, Milano
@@ -32,6 +31,7 @@ Piazza della Scienza 2, Milano
 <br>
 
 ### Fee
+
 Academic: EUR 120<br>
 
 Industry: EUR 120<br>
@@ -45,7 +45,6 @@ Participants who wish to attend the social dinner on Thursday 30th May, should a
 <br>
 
 ### Abstract submission for flash presentations 
-<br>
 
 Participants who wish to present a research topic and have the chance to discuss their metabolomics issues/approach with <br>the speakers can submit an abstract.<br>
 **10 abstracts** (maximum 150 words) for a flash presentation (5 min, 2 slides) and discussion with the speakers will be <br>selected on a first-come-first-served basis.<br>
@@ -86,7 +85,7 @@ Participants who wish to present a research topic and have the chance to discuss
 <br>
 <br>
 
-### Contact
+## Contact
 For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
 <br>
 <br>
@@ -141,7 +140,7 @@ Il programma si trova a questo [link](https://cnrsc-my.sharepoint.com/:w:/g/pers
 <br>
 <br>
 
-### Preliminary Program
+## Preliminary Program
 
 <table border="1" width="700">
 <tr>
