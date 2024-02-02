@@ -7,8 +7,9 @@
   description: "In this EMBO Practical Course, participants will learn fundamental concepts, advanced approaches and programming skills to reconstruct the demographic history of populations and infer natural selection, using both classic and machine learning-based techniques. Keynote lectures focused on major achievements and future perspectives of population genomics will complement the training. Lectures and practicals will be delivered by experienced outstanding and inspiring speakers. We expect participants to become fully confident in running analyses on their own after attending the course."
   location: Castellammare di Stabia, Italy
 
-- name: "School of Python for genomics. Intermediate module: Analysing your genomics data with Python"
-  startDate: 2024-01-30
-  endDate: 2024-02-02
-  description: The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.
-  location: Rome, Italy
+- name: "Metabolomics Approaches for ‘One Health’"
+  startDate: 2024-05-30
+  endDate: 2024-05-31
+  description: "Metabolomics is the large-scale study of small molecules known as metabolites which constitute the metabolom, the downstream effect of an organism’s genome and its interaction with the environment. This young field of the Life Sciences arena has widespread applications across the medical, clinical, biological, environmental and agricultural sciences fitting precisely into the #OneHealth approach.   
+  We will show how exciting and multi-colored Metabolomics can be including the challenges and its current limits.  Special attention will be given to the following topics."
+  location: Milano, Italy
