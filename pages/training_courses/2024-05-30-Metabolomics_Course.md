@@ -13,7 +13,6 @@ event:
 <br>
 <br>
 
-
 ## Important Dates 
 
 - Deadline for application: **30th April 2024**
