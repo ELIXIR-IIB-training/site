@@ -86,7 +86,7 @@ Participants who wish to present a research topic and have the chance to discuss
 <br>
 
 ## Contact
-For all kinds of queries, please contact the organisers [elixir.metabolomics.milan@gmail.com](elixir.metabolomics.milan@gmail.com).
+For all kinds of queries, please contact the organisers [elixir.metabolomics.milan@gmail.com](mailto:elixir.metabolomics.milan@gmail.com).
 <br>
 <br>
 
@@ -133,12 +133,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 <br>
 <br>
 
-### Programme
 
-The programme can be found at this [link](https://cnrsc-my.sharepoint.com/:w:/g/personal/federica_baldassari_cnr_it/EVGfPSGd33pMj4yFVJunqckBAud6OWWAzOW0UK3Ee99_cA)
-
-<br>
-<br>
 
 ## Preliminary Program
 
@@ -244,7 +239,7 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">15:00 - 16:30</td>
-   <td height="50">Abstract presentations / Poster presentation</td>
+   <td height="50">Abstract presentations</td>
 </tr>
 <tr>
    <td height="50" width="50">16:30 - 16:40</td>
