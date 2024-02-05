@@ -211,6 +211,10 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">10:00 - 10:45</td>
+   <td height="50">Case study - Integrating microbiome, transcriptome and metabolome data in African families as a tool to investigate the role of globalisation in the rise of non-communicable disorders. <br>Duccio Cavalieri (University of Florence)</td>
+</tr>
+<tr>
+   <td height="50" width="50">10:45 - 11:15</td>
    <td height="50">Case study: The stress response and metabolomic profiling of corals in a changing ecosystem<br>Davide Seveso (UNIMIB)</td>
 </tr>
 <tr>
