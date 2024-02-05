@@ -46,9 +46,9 @@ Participants who wish to attend the social dinner on Thursday 30th May, should a
 
 ### Abstract submission for flash presentations 
 
-Participants who wish to present a research topic and have the chance to discuss their metabolomics issues/approach with <br>the speakers can submit an abstract.<br>
-**10 abstracts** (maximum 150 words) for a flash presentation (5 min, 2 slides) and discussion with the speakers will be <br>selected on a first-come-first-served basis.<br>
-
+Participants who wish to present a research topic and have the chance to discuss their metabolomics issues/approach with <br>
+the speakers can submit an abstract (maximum 150 words).<br>
+The organising Committee will select **10 abstracts** for a flash presentation (5 min, 2 slides) and discussion with the speakers.<br>
 <br>
 <br>
 
@@ -223,7 +223,7 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">11:30 - 12:00</td>
-   <td height="50">Case study - Exploring the metabolomes of insect agricultural pests: innovative approaches for effective control<br>Francesca Scolari (UNIPV)</td>
+   <td height="50">Case study - Exploring the metabolomes of insect agricultural pests: innovative approaches for effective control<br>Francesca Scolari (CNR-IGM)</td>
 </tr>
 <tr>
    <td height="50" width="50">12:00 - 12:30</td>
