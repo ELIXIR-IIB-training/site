@@ -53,20 +53,20 @@ Participants who wish to present a research topic and have the chance to discuss
 <br>
 
 ### (Invited) Speakers
-- Prof. Marco Vanoni, University of Milano-Bicocca, ISBE-IT, Italy
+- Marco Vanoni, University of Milano-Bicocca, ISBE-IT, Italy
 - Marcella Bonanomi, National Research Council – IBFM, ELIXIR-IT, Italy
 - Flavio A. Franchina, University of  Ferrara, Italy
-- Luigi Lucini, Cattolica University, Italy
+- Luigi Lucini, Università Cattolica del Sacro Cuore, Italy
 - Anna Calì, Agilent
-- Maria Klapa, FORTH, ELIXIR, Greece
+- Maria Klapa, FORTH, ELIXIR-GR, Greece
 - Lilia Alberghina, University of Milano-Bicocca, ISBE-IT, Italy
-- Claire O 'Donovan, EMBL-EBI, ELIXIR-IT, United Kingdom
-- Leilei Zhang, Cattolica University, Italy
-- Pascual Garcia-Perez, Cattolica University, Italy
+- Claire O 'Donovan, EMBL-EBI, United Kingdom
+- Leilei Zhang, Università Cattolica del Sacro Cuore, Italy
+- Pascual Garcia-Perez, Università Cattolica del Sacro Cuore, Italy
 - Michael Zimmerman, EMBL, Germany
 - Duccio Cavalieri, University of Florence, Italy
 - Davide Seveso, University of Milano-Bicocca, Italy
-- Francesca Scolari, University of Pavia, Italy
+- Francesca Scolari, National Research Council – IGM, Pavia, Italy
 - Valentina Pasquale, University of Milano-Bicocca, Italy
 - Fabrizio Mastrorocco, National Research Council – IBIOM, Bari, Italy 
 
@@ -151,7 +151,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 </tr>
   <tr>
    <td height="50" width="50">10:10 - 10:50</td>
-   <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br> Prof. Marco Vanoni (UNIMIB, ISBE-IT)</td>
+   <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br>Marco Vanoni (UNIMIB, ISBE-IT)</td>
 </tr>
 <tr>
    <td height="50" width="50">10:50 - 11:20</td>
@@ -168,7 +168,7 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">12:15 - 13:00</td>
-   <td height="50">Untargeted profiling of polyphenols: a screening of functional compounds and their metabolites in raw and in vitro digested cereals <br>Luigi Lucini (Cattolica University) </td>
+   <td height="50">Untargeted profiling of polyphenols: a screening of functional compounds and their metabolites in raw and in vitro digested cereals <br>Luigi Lucini (Università Cattolica del Sacro Cuore) </td>
 </tr>
   <tr>
    <td height="50" width="50">13:00 - 14:00</td>
@@ -196,7 +196,7 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">17:15 - 18:00</td>
-   <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Cattolica University)</td>
+   <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Università Cattolica del Sacro Cuore)</td>
 </tr>
 <tr>
    <td height="50" width="50">18:00 - 18:45</td>
