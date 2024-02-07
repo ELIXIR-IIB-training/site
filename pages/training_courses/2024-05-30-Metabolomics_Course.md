@@ -66,9 +66,9 @@ The organising Committee will select **10 abstracts** for a flash presentation (
 - Michael Zimmerman, EMBL, Germany
 - Duccio Cavalieri, University of Florence, Italy
 - Davide Seveso, University of Milano-Bicocca, Italy
-- Francesca Scolari, National Research Council – IGM, Pavia, Italy
+- Francesca Scolari, National Research Council – IGM, Italy
 - Valentina Pasquale, University of Milano-Bicocca, Italy
-- Fabrizio Mastrorocco, National Research Council – IBIOM, Bari, Italy 
+- Fabrizio Mastrorocco, National Research Council – IBIOM, Italy 
 
 <br>
 <br>
@@ -147,7 +147,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 </tr>
   <tr>
    <td height="50" width="50">10:00 - 10:10</td>
-   <td height="50">Welcome <br>Prof. Graziano Pesole Head of Elixir Italian Node</td>
+   <td height="50">Welcome <br>Graziano Pesole Head of Elixir Italian Node</td>
 </tr>
   <tr>
    <td height="50" width="50">10:10 - 10:50</td>
