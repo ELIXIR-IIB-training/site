@@ -33,7 +33,7 @@ This course is free of charge.
 <br>
 
 ### Selection procedure
-A maximum of 30 participants will be selected on a first-come- first-served basis. <br>
+A maximum of **30 participants** will be selected on a first-come- first-served basis. <br>
 Selected participants will be notified by **19th April 2024**.
 <br>
 <br>
@@ -46,13 +46,13 @@ Selected participants will be notified by **19th April 2024**.
 <br>
 
 ### Organisers
-**BioComputing UP group** - University of Padova, ELIXIR-IT, Italy
+**[BioComputing UP group](https://protein.bio.unipd.it/)** - University of Padova, ELIXIR-IT, Italy
 <br>
 <br>
 
 ## Contact
-For all kinds of queries, please contact the organisers Maria Cristina Aspromonte or Federica Quaglia 
-[mariacristina.aspromonte@unipd.it](mailto:mariacristina.aspromonte@unipd.it)
+For all kinds of queries, please contact the organisers Maria Cristina Aspromonte or Federica Quaglia at:<br>
+[mariacristina.aspromonte@unipd.it](mailto:mariacristina.aspromonte@unipd.it) <br>
 [federica.quaglia8@gmail.com](federica.quaglia8@gmail.com)
 <br>
 <br>
@@ -75,8 +75,8 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 <br>
 
 ### Resources and tools covered
-DisProt [https://disprot.org/](https://disprot.org/)
-MobiDB [https://mobidb.bio.unipd.it/](https://mobidb.bio.unipd.it/)
+- DisProt [https://disprot.org/](https://disprot.org/)
+- MobiDB [https://mobidb.bio.unipd.it/](https://mobidb.bio.unipd.it/)
 <br> 
 <br>
 
@@ -103,9 +103,9 @@ Some knowledge of biology and proteins is required for this course. It is recomm
 ## Program
 <table border="1" width="700">
 <tr>
-   <td colspan="2"><h3>Time</h3></td>
-   <td colspan="2"><h3>Trainer</h3></td>
-   <td colspan="2"><h3>Content</h3></td>
+   <td height="50" width="50"><h3>Time</h3></td>
+   <td height="50"><h3>Trainer</h3></td>
+   <td height="50"><h3>Content</h3></td>
 </tr>
 <tr>
    <td height="50" width="50">14:00 - 14:30</td>
