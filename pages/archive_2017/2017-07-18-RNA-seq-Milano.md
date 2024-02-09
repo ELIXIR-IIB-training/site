@@ -7,7 +7,7 @@ event:
     organisers: M. Chiara <br> L. Le Pera <br> G. Pavesi <br> A. Via <br> F. Zambelli
     teachers: []
     venue: Milano, Italy
-    event_date: 2021/07/18-20
+    event_date: 2017/07/18-20
     state: closed
 ---
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
