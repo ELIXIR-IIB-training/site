@@ -101,7 +101,7 @@ Some knowledge of biology and proteins is required for this course. It is recomm
 
 
 ## Program
-<table border="1" width="700">
+<table border="1" width="600">
 <tr>
    <td height="50" width="50"><h3>Time</h3></td>
    <td height="50"><h3>Trainer</h3></td>
