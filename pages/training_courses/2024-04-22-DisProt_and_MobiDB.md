@@ -119,7 +119,7 @@ Some knowledge of biology and proteins is required for this course. It is recomm
 </tr>
 <tr>
    <td height="50" width="50">15:00 - 15:15</td>
-   <td colspan="1">Break</td>
+   <td colspan="2">Break</td>
 </tr>
 <tr>
    <td height="50" width="50">15:15 - 16:15</td>
