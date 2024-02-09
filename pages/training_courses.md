@@ -9,7 +9,7 @@ title: Training Courses
 <br>
 <br>
 
-# Upcoming Courses
+# Upcoming
 
 
 {% include section-navigation-tiles-simple.html type="training_courses" except="index.md" %}
