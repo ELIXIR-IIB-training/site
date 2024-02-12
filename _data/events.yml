@@ -1,11 +1,11 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
 
-- name: "EMBO Practical Course Population Genomics: background and tools"
-  startDate: 2024-06-10
-  endDate: 2024-06-16
-  description: "In this EMBO Practical Course, participants will learn fundamental concepts, advanced approaches and programming skills to reconstruct the demographic history of populations and infer natural selection, using both classic and machine learning-based techniques. Keynote lectures focused on major achievements and future perspectives of population genomics will complement the training. Lectures and practicals will be delivered by experienced outstanding and inspiring speakers. We expect participants to become fully confident in running analyses on their own after attending the course."
-  location: Castellammare di Stabia, Italy
+- name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
+  startDate: 2024-04-22
+  endDate: 2024-02-22
+  description: "The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into IDP data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators."
+  location: online
 
 - name: "Metabolomics Approaches for ‘One Health’"
   startDate: 2024-05-30
@@ -13,3 +13,9 @@
   description: "Metabolomics is the large-scale study of small molecules known as metabolites which constitute the metabolom, the downstream effect of an organism’s genome and its interaction with the environment. This young field of the Life Sciences arena has widespread applications across the medical, clinical, biological, environmental and agricultural sciences fitting precisely into the #OneHealth approach.   
   We will show how exciting and multi-colored Metabolomics can be including the challenges and its current limits.  Special attention will be given to the following topics."
   location: Milano, Italy
+
+- name: "EMBO Practical Course Population Genomics: background and tools"
+  startDate: 2024-06-10
+  endDate: 2024-06-16
+  description: "In this EMBO Practical Course, participants will learn fundamental concepts, advanced approaches and programming skills to reconstruct the demographic history of populations and infer natural selection, using both classic and machine learning-based techniques. Keynote lectures focused on major achievements and future perspectives of population genomics will complement the training. Lectures and practicals will be delivered by experienced outstanding and inspiring speakers. We expect participants to become fully confident in running analyses on their own after attending the course."
+  location: Castellammare di Stabia, Italy
