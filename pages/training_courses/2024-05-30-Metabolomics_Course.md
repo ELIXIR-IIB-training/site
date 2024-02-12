@@ -33,13 +33,13 @@ Piazza della Scienza 2, Milano
 
 ### Fee
 
-Academic: EUR 120<br>
-Industry: EUR 120<br>
-Undergraduate and  PhD students: EUR 60<br>
+Academic: EUR 130<br>
+Industry: EUR 130<br>
+Undergraduate and  PhD students: EUR 70<br>
 The fee covers coffee-breaks and lunches. <br>
 Participants are expected to pay their own travel and accommodation costs (if any).<br>
-Social Dinner:<br>
-Participants who wish to attend the social dinner on Thursday 30th May, should add 40 EUR to the fee. <br>
+Social "Aperitivo":<br>
+Participants who wish to attend the social Aperitivo on Thursday 30th May, should add 30 EUR to the fee. <br>
 
 <br>
 <br>
@@ -199,15 +199,15 @@ Flavio A. Franchina (UNIFE) </td>
    <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Università Cattolica del Sacro Cuore)</td>
 </tr>
 <tr>
-   <td height="50" width="50">18:00 - 18:45</td>
-   <td height="50">Metabolomics approaches to systematically investigate microbiome-mediated biotransformation.<br>Michael Zimmerman (EMBL)</td>
-</tr>
-  <tr>
-   <td height="50" width="50">19:00 - 21:00</td>
-   <td colspan="1">Social Dinner</td>
+   <td height="50" width="50">18:00 - 20:00</td>
+   <td colspan="1">Social Aperitivo</td>
 </tr>
 <tr>
    <td colspan="2"><h3>Friday - 31<sup>st</sup> May, 2024</h3></td>
+</tr>
+<tr>
+   <td height="50" width="50">09:15 - 10:00</td>
+   <td height="50">Metabolomics approaches to systematically investigate microbiome-mediated biotransformation.<br>Michael Zimmerman (EMBL)</td>
 </tr>
 <tr>
    <td height="50" width="50">10:00 - 10:45</td>
