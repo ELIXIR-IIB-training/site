@@ -799,7 +799,15 @@ li.past_event,
                 color: $nav-card-header-color;
             }
         }
+	    
+        .card-header-upc {
+            background-color: $nav-card-header-bg2;
 
+            a {
+                color: $nav-card-header-color2;
+            }
+        }
+	    
         button {
             background-color: $nav-card-badge-bg;
             color: $nav-card-badge-color;
