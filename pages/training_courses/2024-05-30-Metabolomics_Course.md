@@ -49,6 +49,8 @@ Participants who wish to attend the social Aperitivo on Thursday 30th May, shoul
 Participants who wish to present a research topic and have the chance to discuss their metabolomics issues/approach with <br>
 the speakers can submit an abstract (maximum 150 words).<br>
 The organising Committee will select **10 abstracts** for a flash presentation (5 min, 2 slides) and discussion with the speakers.<br>
+Please send you abstract at the following e-mail: [elixir.metabolomics.milan@gmail.com](elixir.metabolomics.milan@gmail.com) <br>
+Deadline for abstract submission: **30th April 2024** <br>
 <br>
 <br>
 
@@ -133,7 +135,10 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 <br>
 <br>
 
-
+### Registration 
+[Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdkP4pMWLPpSZ7CaBM5yIg30XkpKeI-K1qjG4dd_e7sXfSu3A/viewform)
+<br>
+<br>
 
 ## Preliminary Program
 
