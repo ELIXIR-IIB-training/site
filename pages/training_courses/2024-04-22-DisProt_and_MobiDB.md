@@ -1,5 +1,6 @@
 ---
 title: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
+upcoming: []
 event_type:  "ELIXIR IIB Training Course"
 description: 22 April 2024 <br> Online
 event:
