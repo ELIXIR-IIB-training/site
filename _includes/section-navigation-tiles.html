@@ -1,7 +1,7 @@
 {%- unless include.affiliations == nil and include.search == nil %}
 {%- assign allcountries = site.data.countries %}
 {%- for current_page in site.pages reversed %}
-{%- if current_page.affiliations and current_page.search_exclude != true and current_page.type == include.type %}
+{%- if current_page.affiliations and current_page.search_exclude != true and current_page.type == include.type and not current_page.upcoming %}
 {%- assign pageaffiliations = current_page.affiliations | join: ", " %}
 {%- if allaffiliations %}
 {%- assign allaffiliations = allaffiliations | append: ", " | append: pageaffiliations %}
