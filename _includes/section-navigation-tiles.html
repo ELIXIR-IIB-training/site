@@ -51,7 +51,7 @@
     {%- assign affiliations_classes = "" %}
     {%- assign related_pages_classes = "" %}
     {%- assign except = include.except | split: ", " %}
-    {%- if current_page.title and current_page.search_exclude != true and current_page.type == include.type and and current_page.upcoming == nil %}
+    {%- if current_page.title and current_page.search_exclude != true and current_page.type == include.type and current_page.upcoming == nil %}
     {%- unless except contains current_page.name %}
     {%- if current_page.affiliations %}
     {%- capture affiliations_classes -%}
