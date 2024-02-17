@@ -24,7 +24,7 @@ subitems:
   - title: Events
     url: /events
     image_url: /assets/img/section-icons/events.svg
-    description: Check all ours events!
+    description: Check all our events!
     
   - title: Trainers
     url: /trainers
