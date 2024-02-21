@@ -17,7 +17,7 @@ columns:
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics
   - type: links
-    width: 2
+    width: 1
     children: 
       - url_text: Elixir Europe
         url: https://elixir-europe.org/
