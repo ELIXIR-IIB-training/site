@@ -24,12 +24,12 @@ columns:
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics
   - type: image
-    image_width: 88px
+    image_width: 200px
     width: 1
     src: 'assets/img/NextGenerationEU.png'
     alt: NextGenerationEU
   - type: image
-    image_width: 200px
+    image_width: 88px
     width: 1
     src: 'assets/img/italy.png'
     alt: Italy_flag
