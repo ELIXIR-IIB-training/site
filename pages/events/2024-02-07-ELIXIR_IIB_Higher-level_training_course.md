@@ -9,11 +9,11 @@ event:
     organisers: Sapienza <br> CNR-IBPM <br> ELIXIR-IIB
     teachers: []
     venue: Roma, Italy
-    event_date: 2024/02/07 <br> - <br> 2024/09/29
+    event_date: 2023/02/15 <br> - <br> 2023/09/29
     state: closed
 ---
 
-[Advanced Training Course in Bioinformatics](https://sites.google.com/uniroma1.it/altaformazione-bioinformatica/home)
+[Advanced Training Course in Bioinformatics](https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0)
 
 
 <br>
