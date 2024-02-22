@@ -9,7 +9,7 @@ event:
     organisers: Univ Bologna <br> ELIXIR-IIB <br> SIB 
     teachers: []
     venue: Online
-    event_date: 2024/02/08 <br> - <br> 2024/02/22
+    event_date: 2024/02/08-22
     state: closed
 ---
 
