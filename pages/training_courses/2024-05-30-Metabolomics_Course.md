@@ -14,7 +14,7 @@ event:
 <br>
 
 
-{% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="8" %}
+{% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="4" %}
 
 <br>
 <br>
