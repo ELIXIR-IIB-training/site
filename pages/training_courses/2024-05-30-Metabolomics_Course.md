@@ -16,6 +16,8 @@ event:
 
 {% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="10" %}
 
+<br>
+<br>
 
 ## Important Dates 
 
