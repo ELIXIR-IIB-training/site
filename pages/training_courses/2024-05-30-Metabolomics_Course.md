@@ -13,6 +13,10 @@ event:
 <br>
 <br>
 
+
+{% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="10" %}
+
+
 ## Important Dates 
 
 - Deadline for application: **30th April 2024**
