@@ -7,10 +7,10 @@ columns:
     src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Elixir_ITT_Logo
   - type: image
-    image_width: 300px
+    image_width: 200px
     width: 3
-    src: 'assets/logos/NextGenIT.jpg'
-    alt: Elixir_NextGenIT
+    src: 'assets/img/NextGenerationEU.png'
+    alt: NextGenerationEU
   - type: image
     image_width: 200px
     width: 2
@@ -24,10 +24,10 @@ columns:
       - url_text: Elixir Italy
         url: https://elixir-italy.org/
   - type: image
-    image_width: 200px
+    image_width: 300px
     width: 3
-    src: 'assets/img/NextGenerationEU.png'
-    alt: NextGenerationEU
+    src: 'assets/logos/NextGenIT.jpg'
+    alt: Elixir_NextGenIT
   - type: image
     image_width: 88px
     width: 1
