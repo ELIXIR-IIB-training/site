@@ -23,3 +23,6 @@ More specifically, the ELIXIR Italy Training Platform offers the following:
 <br>
 **Training infrastructure**, namely access to computing resources and software needed for the training activities, ensuring participants can follow along with the hands-on exercises.
 
+<br>
+<br>
+An overview of all our events can be found [here](https://elixir-iib-training.github.io/site/events).
