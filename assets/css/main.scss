@@ -801,13 +801,20 @@ li.past_event,
         }
 	    
         .card-header-upc {
-            background-color: $nav-card-header-bg2;
+            background-color: $nav-card-header-bgu;
 
             a {
-                color: $nav-card-header-color2;
+                color: $nav-card-header-coloru;
             }
         }
-	    
+        .card-header-clo {
+            background-color: $nav-card-header-bgc;
+
+            a {
+                color: $nav-card-header-colorc;
+            }
+        }
+
         button {
             background-color: $nav-card-badge-bg;
             color: $nav-card-badge-color;
