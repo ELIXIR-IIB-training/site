@@ -1,5 +1,5 @@
 ---
-title: Training Courses 2021
+title: Training Events 2021
 
 ---
 

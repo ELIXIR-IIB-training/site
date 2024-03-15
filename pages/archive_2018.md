@@ -1,5 +1,5 @@
 ---
-title: Training Courses 2018
+title: Training Events 2018
 
 ---
 

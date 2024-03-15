@@ -1,5 +1,5 @@
 ---
-title: Training Courses 2017
+title: Training Events 2017
 
 ---
 

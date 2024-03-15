@@ -9,3 +9,5 @@ event_type: "ELIXIR Europe Training Platform hackathon"
 event_type: "Biohackathon-Europe"
 event_type: "ELIXIR IIB All Hands"
 event_type: "ELIXIR IIB Dissemination/Outreach"
+
+https://elixir-iib-training.github.io/site/events

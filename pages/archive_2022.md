@@ -1,5 +1,5 @@
 ---
-title: Training Courses 2022
+title: Training Events 2022
 
 ---
 
