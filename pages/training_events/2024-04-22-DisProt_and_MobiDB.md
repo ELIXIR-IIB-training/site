@@ -94,13 +94,13 @@ Some knowledge of biology and proteins is required for this course. It is recomm
 <br>
 <br>
 
-### Registration 
+## Registration 
 [Application Form](https://forms.gle/zcByvnMXuMV1Tqi79)
 <br>
 <br>
 
 
-## Program
+## Programme
 <table border="1" width="600">
 <tr>
    <td height="50" width="50"><h3>Time</h3></td>

@@ -35,8 +35,8 @@ Participants are expected to pay their travel, meals, and hotel costs (if any).
 <br>
 <br>
 
-### Registration 
-## [Application Form](https://forms.gle/BUme7erea4nSyeBSA)
+## Registration 
+[Application Form](https://forms.gle/BUme7erea4nSyeBSA)
 <br>
 
 A maximum of **16** candidates will be selected based on a first-come, first-served basis, and the pre-requisites requested for attending the course, as emerging from the application form. 
@@ -111,13 +111,14 @@ In general, after completing the entire module, the student will have a greater 
 <br>
 <br>
 
-### Contact
+## Contact
 For all kinds of queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
 <br>
 <br>
 
 
-### Program
+## Programme
+
 <table border="1" width="700">
 <tr>
    <td colspan="2"><h3>Tuesday - 30 January</h3></td>

@@ -99,6 +99,7 @@ For all kinds of queries, please contact the organisers [metabolomics.milan@ibfm
 <br>
 
 ### Course Description
+
 Metabolomics is the large-scale study of small molecules known as metabolites which constitute the metabolom, the downstream effect of an organism’s genome and its interaction with the environment. This young field of the Life Sciences arena has widespread applications across the medical, clinical, biological, environmental and agricultural sciences fitting precisely into the #OneHealth approach.   
 We will show how exciting and multi-colored Metabolomics can be including the challenges and its current limits.  Special attention will be given to the following topics   
 1. Practice and theory in metabolomic applications;  
@@ -141,12 +142,13 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 <br>
 <br>
 
-### Registration 
+## Registration 
+
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdkP4pMWLPpSZ7CaBM5yIg30XkpKeI-K1qjG4dd_e7sXfSu3A/viewform)
 <br>
 <br>
 
-## Preliminary Program
+## Preliminary Programme
 
 <table border="1" width="700">
 <tr>
