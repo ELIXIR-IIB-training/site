@@ -755,7 +755,6 @@ li.past_event,
         color: $info-card-header-color;
     }
 
-
     a:hover {
         .text-muted {
             transition: $btn-transition;
@@ -808,6 +807,7 @@ li.past_event,
                 color: $nav-card-header-coloru;
             }
         }
+
         .card-header-clo {
             background-color: $nav-card-header-bgc;
 
@@ -815,7 +815,7 @@ li.past_event,
                 color: $nav-card-header-colorc;
             }
         }
-
+	    
         button {
             background-color: $nav-card-badge-bg;
             color: $nav-card-badge-color;
