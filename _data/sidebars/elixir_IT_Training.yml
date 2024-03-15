@@ -1,12 +1,12 @@
 title: Home
 title_url: /index
 subitems:
-  - title: Training Courses
-    url: /training_courses
+  - title: Training Events
+    url: /training_events
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
       - title: 2024
-        url: /training_courses
+        url: /training_events
       - title: 2023
         url: /archive_2023  
       - title: 2022
@@ -26,8 +26,8 @@ subitems:
     image_url: /assets/img/section-icons/events.svg
     description: Check all our events!
     
-  - title: Trainers
-    url: /trainers
+  - title: People
+    url: /people
     image_url: /assets/img/section-icons/trainers.svg
 
   

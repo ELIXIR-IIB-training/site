@@ -39,7 +39,7 @@ defaults:
       search_exclude: false
   -
     scope:
-      path: "pages/training_courses/TEMPLATE_training_courses.md"
+      path: "pages/training_events/TEMPLATE_training_events.md"
       type: "pages"
     values:
       sitemap: false
@@ -55,9 +55,9 @@ defaults:
       no_robots: true       
   -
     scope:
-      path: "pages/training_courses"
+      path: "pages/training_events"
     values:
-      type: training_courses 
+      type: training_events 
   -
     scope:
       path: "pages/archive_2023"
