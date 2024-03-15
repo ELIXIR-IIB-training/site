@@ -7,9 +7,9 @@ title: Training Events
 
 <br>
 
-<h1>Closed</h1>
+<h2>Closed</h1>
 
-<br>
+
 
 {% include section-navigation-tiles-upc.html type="training_events" except="index.md" %}
 
