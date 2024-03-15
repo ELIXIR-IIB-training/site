@@ -20,7 +20,7 @@
     {%- assign affiliations_classes = "" %}
     {%- assign related_pages_classes = "" %}
     {%- assign except = include.except | split: ", " %}
-    {%- if current_page.title and current_page.search_exclude != true and current_page.type == include.type and current_page.state=="closed" %}
+    {%- if current_page.title and current_page.search_exclude != true and current_page.type == include.type and current_page.state== "closed" %}
     {%- unless except contains current_page.name %}
     {%- if current_page.affiliations %}
     {%- capture affiliations_classes -%}
@@ -33,7 +33,7 @@
     {%- endif %}
     <div class="col" data-affiliations="{{affiliations_classes}}" related-pages="{{related_pages_classes}}">
         <div class="card h-100">
-            <div class="card-header-upc">
+            <div class="card-header-clo">
                 <a class="stretched-link" aria-label="Go to the {{current_page.title}} page" href="{{ current_page.url | relative_url }}">
                     <h3 class="card-title m-0">{{current_page.title}}</h3>
                 </a>
