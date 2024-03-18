@@ -1,6 +1,7 @@
 ---
 title: "Young Innovation 2023"
 event_type: "Young Innovation 2023"
+type: mw_archive_2023
 state: closed
 description: 
 page_id: 

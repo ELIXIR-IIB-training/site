@@ -1,6 +1,7 @@
 ---
 title: "Third MaSBiC Symposium"
 event_type: "Third MaSBiC Symposium"
+type: mw_archive_2023
 state: closed
 description: 
 page_id: 

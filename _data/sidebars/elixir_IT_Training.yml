@@ -28,6 +28,11 @@ subitems:
   - title: Meetings & Workshops
     url: /meetings_workshops
     image_url: /assets/img/section-icons/events.svg
+    subitems:
+      - title: 2024
+        url: /meetings_workshops
+      - title: 2023
+        url: /mw_archive_2023
   - title: People
     url: /people
     image_url: /assets/img/section-icons/trainers.svg

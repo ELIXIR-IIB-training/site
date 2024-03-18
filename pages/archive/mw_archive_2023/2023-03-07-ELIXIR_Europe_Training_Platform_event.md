@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR Europe Training Platform event"
 event_type: "ELIXIR Europe Training Platform event"
+type: mw_archive_2023
 state: closed
 description: 
 page_id: 

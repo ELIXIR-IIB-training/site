@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR Europe Training Platform hackathon"
 event_type: "ELIXIR Europe Training Platform hackathon"
+type: mw_archive_2023
 state: closed
 description: 
 page_id: 
