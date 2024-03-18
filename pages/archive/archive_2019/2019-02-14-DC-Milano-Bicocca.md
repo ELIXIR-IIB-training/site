@@ -1,6 +1,7 @@
 ---
 title: "Data Carpentry Workshop" 
 event_type:  "ELIXIR IIB Training Course"
+type: archive_2019
 state: closed
 description: 14-15 February 2019 <br> Milano, Italy
 event:

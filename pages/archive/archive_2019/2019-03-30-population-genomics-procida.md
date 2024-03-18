@@ -1,6 +1,7 @@
 ---
 title:  "EMBO Practical Course on Population Genomics: background and tools"
 event_type: "EMBO Practical Course"
+type: archive_2019
 state: closed
 description: 30 March 2019 06 April 2019 <br> Procida (Napoli), Italy
 event:

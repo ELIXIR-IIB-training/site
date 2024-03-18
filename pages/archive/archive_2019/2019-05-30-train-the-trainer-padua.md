@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR-EXCELERATE Train the Trainer"
 event_type:  "ELIXIR-EXCELERATE"
+type: archive_2019
 state: closed
 description: 30-31 May 2019 <br> Padova, Italy
 event:
