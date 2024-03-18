@@ -44,6 +44,86 @@ defaults:
       layout: "page"
       sidebar: elixir_IT_Training
       search_exclude: false
+  -
+    scope:
+      path: "pages/training_events/TEMPLATE_training_events.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true 
+  -
+    scope:
+      path: "pages/trainers/TEMPLATE_trainers.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true       
+  -
+    scope:
+      path: "pages/training_events"
+    values:
+      type: training_events 
+  -
+    scope:
+      path: "pages/archive/archive_2023"
+    values:
+      type: archive_2023 
+  -
+    scope:
+      path: "pages/archive_2022"
+    values:
+      type: archive_2022     
+  -
+    scope:
+      path: "pages/archive_2021" 
+    values:
+      type: archive_2021
+  -
+    scope:
+      path: "pages/archive_2020" 
+    values:
+      type: archive_2020
+  -
+    scope:
+      path: "pages/archive_2019" 
+    values:
+      type: archive_2019
+  -
+    scope:
+      path: "pages/archive_2018" 
+    values:
+      type: archive_2018
+  -
+    scope:
+      path: "pages/archive_2017" 
+    values:
+      type: archive_2017
+  -
+    scope:
+      path: "pages/archive" 
+    values:
+      type: archive_2023
+  -   
+    scope:
+      path: "pages/trainers"
+    values:
+      type: trainers
+  -
+    scope:
+      path: "pages/people"
+    values:
+      sidebar: people
+  -
+    scope:
+      path: "pages/collaborators"
+    values:
+      sidebar: people
+
+
+
+
 
 
 
