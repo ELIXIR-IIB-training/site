@@ -1,6 +1,7 @@
 ---
 title: "The Carpentries"
 event_type: "The Carpentries"
+type: mw_archive_2021
 state: closed
 description: 19-26 March 2021 <br> online
 event:

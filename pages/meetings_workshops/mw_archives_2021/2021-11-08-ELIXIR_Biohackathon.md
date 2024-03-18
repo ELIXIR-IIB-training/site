@@ -1,6 +1,7 @@
 ---
 title: "Biohackathon-Europe"
 event_type: "Biohackathon-Europe"
+type: mw_archive_2021
 state: closed
 description: 
 page_id: biohackathon_2021

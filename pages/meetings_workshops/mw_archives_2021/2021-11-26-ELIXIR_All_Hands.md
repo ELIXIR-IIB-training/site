@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB All Hands"
 event_type: "ELIXIR IIB All Hands"
+type: mw_archive_2021
 state: closed
 description: 
 page_id: All_Hands_2021
