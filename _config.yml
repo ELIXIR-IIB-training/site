@@ -97,7 +97,7 @@ defaults:
     scope:
       path: "pages/archive" 
     values:
-      type: archive
+      type: archive_2023
   -   
     scope:
       path: "pages/trainers"
