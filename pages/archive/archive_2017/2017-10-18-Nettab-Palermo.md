@@ -1,6 +1,7 @@
 ---
 title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application"
 event_type: "NETTAB2017/ELIXIR IIB Workshop"
+type: archive_2017
 state: closed
 description: 18-19 October 2017 <br> Palermo, Italy
 event:

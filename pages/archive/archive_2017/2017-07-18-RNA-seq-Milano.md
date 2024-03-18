@@ -1,6 +1,7 @@
 ---
 title:  "Training Course on RNA-Seq data analysis"
 event_type:  "ELIXIR IIB Training Course"
+type: archive_2017
 state: closed
 description: 18-20 July 2017 <br> Milano, Italy
 event:
