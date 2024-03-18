@@ -1,6 +1,7 @@
 ---
 title: "Docker and Reproducibility" 
 event_type:  "ELIXIR IIB Training Course"
+state: closed
 description: 13-14 June 2019 <br> Torino, Italy
 event:
   - name: "Docker and Reproducibility"

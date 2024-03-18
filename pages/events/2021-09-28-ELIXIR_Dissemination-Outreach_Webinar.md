@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Dissemination/Outreach Webinar"
 event_type: "ELIXIR IIB Dissemination/Outreach"
+state: closed
 description: 
 page_id: 
 event:

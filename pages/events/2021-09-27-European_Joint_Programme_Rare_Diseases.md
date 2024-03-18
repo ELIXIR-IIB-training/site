@@ -1,6 +1,7 @@
 ---
 title: "European Joint Programme Rare Diseases"
 event_type:  "European Joint Programma rare Diseases"
+state: closed
 description: 
 page_id: 
 event:

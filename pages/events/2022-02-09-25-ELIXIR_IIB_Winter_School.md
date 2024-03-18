@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Winter School"
 event_type:  "ELIXIR IIB Winter School"
+state: closed
 description: 
 event:
   - name: "Structural Bioinformatics in the era of AlphaFold2"

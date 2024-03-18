@@ -1,6 +1,7 @@
 ---
 title: "Third MaSBiC Symposium"
 event_type: "Third MaSBiC Symposium"
+state: closed
 description: 
 page_id: 
 event:

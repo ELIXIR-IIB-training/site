@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR-EXCELERATE Train the Trainer"
 event_type: "ELIXIR-EXCELERATE"
+state: closed
 description: 27-28 September 2018 <br> Roma, Italy
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"

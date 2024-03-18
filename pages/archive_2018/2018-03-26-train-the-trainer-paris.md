@@ -1,6 +1,7 @@
 ---
 title:  "ELIXIR-EXCELERATE Train the Trainer"
 event_type: "ELIXIR-EXCELERATE"
+state: closed
 description: 26-27 March 2018 <br> Paris, France
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"

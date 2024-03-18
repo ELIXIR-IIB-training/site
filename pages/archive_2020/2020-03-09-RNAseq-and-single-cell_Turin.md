@@ -1,6 +1,7 @@
 ---
 title:  "RNA-seq and single cell RNA-seq Course <font color='red' size='3'>[Cancelled, to be rescheduled]</font>"
 event_type:  "ELIXIR IIB Training Course"
+state: closed
 description: 09-13 March 2020 <br> Torino, Italy
 event:
   - name: "RNA-seq and single cell RNA-seq Course"

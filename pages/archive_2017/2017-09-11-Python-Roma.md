@@ -1,6 +1,7 @@
 ---
 title:  "Training course on Python for Life Scientists"
 event_type:  "ELIXIR IIB Training Course"
+state: closed
 description: 11-15 September 2017 <br> Roma, Italy
 event:
   - name: "Training course on Python for Life Scientists"

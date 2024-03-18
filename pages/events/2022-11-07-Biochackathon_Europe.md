@@ -1,6 +1,7 @@
 ---
 title: "Biohackathon-Europe"
 event_type: "Biohackathon-Europe"
+state: closed
 description: 
 page_id: Biohackathon_2022
 event:

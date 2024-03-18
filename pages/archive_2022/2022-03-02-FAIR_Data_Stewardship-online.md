@@ -1,6 +1,7 @@
 ---
 title: "Practical course on FAIR Data Stewardship in Life Science"
 event_type:  "ELIXIR IIB Training Course"
+state: closed
 description: 02-11 March 2022 <br> online
 event: 
   - name: "Practical course on FAIR Data Stewardship in Life Science"

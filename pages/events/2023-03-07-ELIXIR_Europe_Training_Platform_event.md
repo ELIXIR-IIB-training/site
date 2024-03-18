@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR Europe Training Platform event"
 event_type: "ELIXIR Europe Training Platform event"
+state: closed
 description: 
 page_id: 
 event:

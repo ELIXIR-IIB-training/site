@@ -1,6 +1,7 @@
 ---
 title:  "ELIXIR Train the Trainer"
 event_type:  "ELIXIR Training Course"
+state: closed
 description: 01-04 December 2020 <br> online
 event:
   - name: "ELIXIR Train the Trainer"

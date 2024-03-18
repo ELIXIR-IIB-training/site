@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Dissemination-Outreach"
 event_type: "ELIXIR IIB Dissemination/Outreach"
+state: closed
 description: 
 event:
   - name: "Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair"

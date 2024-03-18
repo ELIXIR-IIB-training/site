@@ -1,6 +1,7 @@
 ---
 title: "25th Bologna Winter School"
 event_type: "Bologna Winter School"
+state: closed
 description: 
 page_id: 
 event:

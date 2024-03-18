@@ -1,6 +1,7 @@
 ---
 title:  "ELIXIR-EXCELERATE Train the Trainer"
 event_type: "ELIXIR-EXCELERATE"
+state: closed
 description: 09-11 October 2018 <br> Stockholm, Sweden
 event:
   - name: "ELIXIR-EXCELERATE Train the Trainer"
