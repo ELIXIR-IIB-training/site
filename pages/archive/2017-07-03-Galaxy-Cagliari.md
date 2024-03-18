@@ -1,6 +1,7 @@
 ---
 title:  "Training Course on Galaxy for Bioinformatics tool developers"
 event_type:  "ELIXIR IIB Training Course"
+type: archive_2017
 state: closed
 description:   03-05 July 2017 <br> Cagliari, Italy
 event:
