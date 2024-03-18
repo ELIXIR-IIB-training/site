@@ -3,4 +3,4 @@ title: Training Events 2019
 
 ---
 
-{% include section-navigation-tiles.html type="archive_2019" except="index.md" %}
+{% include section-navigation-tiles-upc.html type="archive_2019" except="index.md" %}
