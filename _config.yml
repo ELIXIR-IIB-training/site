@@ -97,7 +97,7 @@ defaults:
       type: archive_2018
   -
     scope:
-      path: "pages/archive/archive_2017" 
+      path: "pages/archive" 
     values:
       type: archive_2017
 
