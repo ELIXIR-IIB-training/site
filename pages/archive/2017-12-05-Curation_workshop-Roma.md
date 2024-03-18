@@ -1,6 +1,7 @@
 ---
 title:  "Curation workshop on molecular and causal interactions"
 event_type:  "ELIXIR IIB Workshop"
+type: archive_2017
 state: closed
 description: 05-07 December 2017 <br> Roma, Italy
 event:
