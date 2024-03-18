@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Higher-level training course"
 event_type: "ELIXIR IIB Higher-level training course"
+type: meetings_workshops
 state: closed
 description: 
 page_id: 

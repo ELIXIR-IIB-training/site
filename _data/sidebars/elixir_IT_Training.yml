@@ -33,6 +33,8 @@ subitems:
         url: /meetings_workshops
       - title: 2023
         url: /mw_archive_2023
+      - title: 2022
+        url: /mw_archive_2022        
   - title: People
     url: /people
     image_url: /assets/img/section-icons/trainers.svg

@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Dissemination-Outreach"
 event_type: "ELIXIR IIB Dissemination/Outreach"
+type: mw_archive_2022
 state: closed
 description: 
 event:

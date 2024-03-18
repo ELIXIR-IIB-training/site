@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR IIB Winter School"
 event_type:  "ELIXIR IIB Winter School"
+type: mw_archive_2022
 state: closed
 description: 
 event:
