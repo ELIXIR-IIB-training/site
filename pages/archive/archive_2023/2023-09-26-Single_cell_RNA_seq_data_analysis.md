@@ -1,6 +1,7 @@
 ---
 title: "scRNA-seq hands-on course: single cell RNA-seq data analysis."
 event_type:  "ELIXIR IIB Training Course"
+type: archive_2023
 state: closed
 description: 26-29 September 2023 <br> Torino, Italy
 page_id: scRNA_2023

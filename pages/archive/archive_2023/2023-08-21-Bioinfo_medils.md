@@ -1,6 +1,7 @@
 ---
 title: "MedILS School in Bioinformatics"
 event_type: "Third MaSBiC Symposium"
+type: archive_2023
 state: closed
 description: 21-25 August 2023 16-20 October 2023 <br> Split, Croatia
 page_id: 2023_MedILS

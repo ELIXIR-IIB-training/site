@@ -1,6 +1,7 @@
 ---
 title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python"
 event_type: "The Carpentries"
+type: archive_2022
 state: closed
 description: 27 January - 04 February 2022 <br> online
 event:

@@ -1,6 +1,7 @@
 ---
 title: "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python"
 event_type: "The Carpentries"
+type: archive_2021
 state: closed
 description: 09-17 September 2021 <br> online
 event:

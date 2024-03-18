@@ -1,5 +1,6 @@
 ---
 title: "Gene Ontology"
+type: archive_2023
 state: closed
 description: 03-04 May 2023 <br> Roma, Italy
 event_type:  "ELIXIR IIB Training Course"
