@@ -3,7 +3,7 @@ title: "25th Bologna Winter School"
 event_type: "Bologna Winter School"
 type: meetings_workshops
 state: closed
-description: 
+description: 8-25 February 2024 <br> Bologna, Italy
 page_id: 
 event:
   - name: "Artificial Intelligence, Deep Learning and protein functional annotation: the state-of-the-art"

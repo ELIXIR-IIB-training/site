@@ -3,7 +3,7 @@ title: "ELIXIR IIB Higher-level training course"
 event_type: "ELIXIR IIB Higher-level training course"
 type: meetings_workshops
 state: closed
-description: 
+description: 15 February 2024 29 September 2024 <br> Roma, Italy
 page_id: 
 event:
   - name: "Advanced Training Course in Bioinformatics"
