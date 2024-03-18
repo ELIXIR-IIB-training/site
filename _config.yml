@@ -67,7 +67,7 @@ defaults:
       type: training_events 
   -
     scope:
-      path: "pages/archive/archive_2023"
+      path: "pages/archive_2023"
     values:
       type: archive_2023 
   -
