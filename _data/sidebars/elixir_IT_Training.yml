@@ -8,7 +8,7 @@ subitems:
       - title: 2024
         url: /training_events
       - title: 2023
-        url: /archive_2023  
+        url: /archive/archive_2023  
       - title: 2022
         url: /archive_2022
       - title: 2021
@@ -25,7 +25,7 @@ subitems:
     url: /events
     image_url: /assets/img/section-icons/events.svg
     description: Check all our events!
-    
+
   - title: People
     url: /people
     image_url: /assets/img/section-icons/trainers.svg
