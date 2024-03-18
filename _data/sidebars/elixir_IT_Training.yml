@@ -25,7 +25,9 @@ subitems:
     url: /events
     image_url: /assets/img/section-icons/events.svg
     description: Check all our events!
-
+  - title: Meetings & Workshops
+    url: /meetings_workshops
+    image_url: /assets/img/section-icons/events.svg
   - title: People
     url: /people
     image_url: /assets/img/section-icons/trainers.svg
