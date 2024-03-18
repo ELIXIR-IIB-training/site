@@ -7,7 +7,7 @@ title: Training Events
 
 <br>
 
-<h2>Closed</h1>
+<h2>Closed</h2>
 
 
 
