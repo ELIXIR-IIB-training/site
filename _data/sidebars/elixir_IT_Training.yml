@@ -20,7 +20,7 @@ subitems:
       - title: 2018
         url: /archive_2018 
       - title: 2017
-        url: /archive/archive_2017
+        url: /archive
   - title: Events
     url: /events
     image_url: /assets/img/section-icons/events.svg
