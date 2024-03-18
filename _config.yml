@@ -95,16 +95,8 @@ defaults:
       path: "pages/archive_2018" 
     values:
       type: archive_2018
-  -
-    scope:
-      path: "pages/archive_2017" 
-    values:
-      type: archive_2017
-  -
-    scope:
-      path: "pages/archive" 
-    values:
-      type: archive_2023
+
+
   -   
     scope:
       path: "pages/trainers"
