@@ -1,6 +1,7 @@
 ---
 title: "ELIXIR-IT Rare Diseases Community Workshop"
 event_type: "ELIXIR Italy All Hands Meeting 2023"
+state: closed
 description: 28-29 November 2023 <br> Roma, Italy
 page_id: workshop_2023
 event:

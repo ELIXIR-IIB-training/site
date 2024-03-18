@@ -1,6 +1,7 @@
 ---
 title: "International Summer School on Rare Disease Registries and FAIRification of data"
 event_type:  "European Joint Programma rare Diseases"
+state: closed
 description: 25-29 September 2023 <br> Roma, Italy
 page_id: 2023_intern_summer_school
 event:

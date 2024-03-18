@@ -1,6 +1,7 @@
 ---
 title: "Training Course in Computational Methods for Epitranscriptomics."
 event_type:  "ELIXIR IIB Training Course"
+state: closed
 description: 26-28 April 2023 <br>Bari, Italy
 Summary: This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis.
 page_id: 2023_Epitranscriptomics
