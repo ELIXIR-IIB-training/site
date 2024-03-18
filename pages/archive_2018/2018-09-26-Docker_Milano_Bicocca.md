@@ -1,6 +1,7 @@
 ---
 title: "Docker Advanced Course" 
 event_type:  "ELIXIR IIB Training Course"
+type: archive_2018
 state: closed
 description: 26-27 September 2018 <br> Milano, Italy
 event:

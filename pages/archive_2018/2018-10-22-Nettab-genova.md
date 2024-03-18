@@ -1,6 +1,7 @@
 ---
 title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment"
 event_type: "NETTAB2018/ELIXIR IIB Workshop"
+type: archive_2018
 state: closed
 description: 22-24 October 2018 <br> Genova, Italy
 event:
