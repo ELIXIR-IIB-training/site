@@ -148,7 +148,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 <br>
 <br>
 
-## Preliminary Programme
+## Programme
 
 <table border="1" width="700">
 <tr>
