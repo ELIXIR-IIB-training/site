@@ -8,19 +8,19 @@ subitems:
       - title: 2024
         url: /training_events
       - title: 2023
-        url: /archive_2023
+        url: /training_events_2023
       - title: 2022
-        url: /archive_2022
+        url: /training_events_2022
       - title: 2021
-        url: /archive_2021
+        url: /training_events_2021
       - title: 2020
-        url: /archive_2020
+        url: /training_events_2020
       - title: 2019
-        url: /archive_2019 
+        url: /training_events_2019 
       - title: 2018
-        url: /archive_2018 
+        url: /training_events_2018 
       - title: 2017
-        url: /archive_2017
+        url: /training_events_2017
 
   - title: Meetings & Workshops
     url: /meetings_workshops
@@ -29,13 +29,13 @@ subitems:
       - title: 2024
         url: /meetings_workshops
       - title: 2023
-        url: /mw_archive_2023
+        url: /meetings_workshops_2023
       - title: 2022
-        url: /mw_archive_2022
+        url: /meetings_workshops_2022
       - title: 2021
-        url: /mw_archive_2021
+        url: /meetings_workshops_2021
       - title: 2020
-        url: /mw_archive_2020        
+        url: /meetings_workshops_2020        
   - title: People
     url: /people
     image_url: /assets/img/section-icons/trainers.svg
