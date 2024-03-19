@@ -44,22 +44,6 @@ defaults:
       layout: "page"
       sidebar: elixir_IT_Training
       search_exclude: false
-  -
-    scope:
-      path: "pages/training_events/TEMPLATE_training_events.md"
-      type: "pages"
-    values:
-      sitemap: false
-      search_exclude: true
-      no_robots: true 
-  -
-    scope:
-      path: "pages/trainers/TEMPLATE_trainers.md"
-      type: "pages"
-    values:
-      sitemap: false
-      search_exclude: true
-      no_robots: true       
 
 
   -   
