@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB Dissemination/Outreach Webinar"
+title: "Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità"
 event_type: "ELIXIR IIB Dissemination/Outreach"
 type: mw_archive_2021
 state: closed
-description: 
+description: 28 September 2021 <br> Online
 page_id: 
 event:
   - name: "Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità"

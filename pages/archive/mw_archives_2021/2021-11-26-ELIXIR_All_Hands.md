@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB All Hands"
+title: "2021 ELIXIR-IT Workshop"
 event_type: "ELIXIR IIB All Hands"
 type: mw_archive_2021
 state: closed
-description: 
+description: 26 November 2021 <br> Online
 page_id: All_Hands_2021
 event:
   - name: "2021 ELIXIR-IT Workshop"

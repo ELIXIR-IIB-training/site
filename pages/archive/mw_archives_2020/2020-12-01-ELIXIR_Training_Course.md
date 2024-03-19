@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR Training Course"
+title: "Train the Trainer"
 event_type:  "ELIXIR IIB Training Course"
 type: mw_archive_2020
 state: closed
-description: 
+description: 01 December 2020 <br> Online
 page_id: 
 event:
   - name: "Train the Trainer"

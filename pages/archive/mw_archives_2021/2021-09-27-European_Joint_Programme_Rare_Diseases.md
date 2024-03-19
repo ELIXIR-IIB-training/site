@@ -1,9 +1,9 @@
 ---
-title: "European Joint Programme Rare Diseases"
+title: "International Summer School on Rare Disease Registries and FAIRification of Data"
 event_type:  "European Joint Programma rare Diseases"
 type: mw_archive_2021
 state: closed
-description: 
+description: 27 September 2021 - 01 October 2021 <br> Online
 page_id: 
 event:
   - name: "International Summer School on Rare Disease Registries and FAIRification of Data"

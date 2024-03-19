@@ -1,9 +1,9 @@
 ---
-title: "Biohackathon-Europe"
+title: "ELIXIR Biohackathon 2022"
 event_type: "Biohackathon-Europe"
 type: mw_archive_2022
 state: closed
-description: 
+description: 07-11 November 2022 <br> Les Berges de Seine, France hybrid
 page_id: Biohackathon_2022
 event:
   - name: "ELIXIR Biohackathon 2022"

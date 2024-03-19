@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB Dissemination-Outreach"
+title: "Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair"
 event_type: "ELIXIR IIB Dissemination/Outreach"
 type: mw_archive_2022
 state: closed
-description: 
+description: 20 May 2022 <br> Firenze, Italy
 event:
   - name: "Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair"
     url: https://www.cnr.it/it/evento/17852

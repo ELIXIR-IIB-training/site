@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB Winter School"
+title: "Bioinformatics for Discovery in Structural and Functional Biology"
 event_type:  "ELIXIR IIB Winter School"
 type: mw_archive_2021
 state: closed
-description: 
+description: 09-19 February 2021 <br> Online
 page_id: Winter_school_2021
 event:
   - name: "Bioinformatics for Discovery in Structural and Functional Biology"

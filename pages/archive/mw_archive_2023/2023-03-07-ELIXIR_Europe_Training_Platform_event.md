@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR Europe Training Platform event"
+title: "ELIXIR Training Platform F2F Hybrid Meeting"
 event_type: "ELIXIR Europe Training Platform event"
 type: mw_archive_2023
 state: closed
-description: 
+description: 09-07 March 2023 <br> Roma, Italy
 page_id: 
 event:
   - name: "ELIXIR Training Platform F2F Hybrid Meeting"

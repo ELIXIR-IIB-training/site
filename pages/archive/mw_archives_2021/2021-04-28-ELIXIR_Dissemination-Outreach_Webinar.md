@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB Dissemination-Outreach Webinar"
+title: "Collaborare per contrastare la pandemia - ll COVID-19 Data Portal italiano: un punto di riferimento nazionale per i dati della pandemia"
 event_type: "ELIXIR IIB Dissemination/Outreach"
 type: mw_archive_2021
 state: closed
-description: 
+description: 28 April 2021 <br> Online
 page_id: 
 event:
   - name: "Collaborare per contrastare la pandemia - ll COVID-19 Data Portal italiano: un punto di riferimento nazionale per i dati della pandemia"

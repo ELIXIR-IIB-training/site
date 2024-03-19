@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR Training Course"
+title: "Train the Trainer"
 event_type:  "ELIXIR IIB Training Course"
 type: mw_archive_2021
 state: closed
-description: 
+description: 29 March 2021 - 01 April 2021 <br> Online
 page_id: 
 event:
   - name: "Train the Trainer"

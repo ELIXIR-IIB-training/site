@@ -1,5 +1,5 @@
 ---
-title: "The Carpentries"
+title: "The Carpentries: Laboratorio Software Carpentry (Shell Unix, Git, Python)"
 event_type: "The Carpentries"
 type: mw_archive_2021
 state: closed

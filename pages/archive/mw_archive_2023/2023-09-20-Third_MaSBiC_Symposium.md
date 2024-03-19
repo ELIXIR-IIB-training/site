@@ -1,9 +1,9 @@
 ---
-title: "Third MaSBiC Symposium"
+title: "Third MaSBiC Symposium, Advanced in Protein Science: Exploring Structure, Function, and Beyond"
 event_type: "Third MaSBiC Symposium"
 type: mw_archive_2023
 state: closed
-description: 
+description: 20-22 September 2023 <br> Ancona, Italy
 page_id: 
 event:
   - name: "Third MaSBiC Symposium, Advanced in Protein Science: Exploring Structure, Function, and Beyond"

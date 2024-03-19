@@ -1,9 +1,9 @@
 ---
-title: "Biohackathon-Europe"
+title: "ELIXIR Biohackathon 2021"
 event_type: "Biohackathon-Europe"
 type: mw_archive_2021
 state: closed
-description: 
+description: 08-12 November 2021 <br> Hybrid
 page_id: biohackathon_2021
 event:
   - name: "ELIXIR Biohackathon 2021"

@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR IIB Winter School"
+title: "Structural Bioinformatics in the era of AlphaFold2"
 event_type:  "ELIXIR IIB Winter School"
 type: mw_archive_2022
 state: closed
-description: 
+description: 09-25 February 2022 <br> Online
 event:
   - name: "Structural Bioinformatics in the era of AlphaFold2"
     url: http://www.biocomp.unibo.it/~school2022/

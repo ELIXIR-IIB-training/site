@@ -1,9 +1,9 @@
 ---
-title: "ELIXIR Europe Training Platform hackathon"
+title: "Hacking to FAIRify your training materials"
 event_type: "ELIXIR Europe Training Platform hackathon"
 type: mw_archive_2023
 state: closed
-description: 
+description: 09-10 March 2023 <br> Roma, Italy
 page_id: 
 event:
   - name: "Hacking to FAIRify your training materials"
