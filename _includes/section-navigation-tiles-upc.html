@@ -31,15 +31,16 @@
     {%- endfor %}{{affiliations_output}}
     {%- endcapture -%}
     {%- endif %}
+    {%- if current_page.state == "closed" %}
     <div class="col" data-affiliations="{{affiliations_classes}}" related-pages="{{related_pages_classes}}">
         <div class="card h-100">
-            {%- if current_page.state == "closed" %}
+            
             <div class="card-header-clo">
                 <a class="stretched-link" aria-label="Go to the {{current_page.title}} page" href="{{ current_page.url | relative_url }}">
                     <h3 class="card-title m-0">{{current_page.title}}</h3>
                 </a>
             </div>
-            {%- endif %}
+            
             <div class="card-body">
                 {%- if current_page.description %}
                 <p class="card-text">{{ current_page.description}}</p>
@@ -73,6 +74,7 @@
                         {%- endfor %}
                     </ul>
                 </div>
+                {%- endif %}
                 {%- endif %}
                 {%- endif %}
                 {%- if current_page.dsw or current_page.faircookbook %}
