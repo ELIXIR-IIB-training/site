@@ -79,10 +79,10 @@ function nowToDateString() {
     return new Date().toISOString().substring(0, 10);
 };
 
-function show_upcoming_events() {
+function show_open_events() {
     var dstr = nowToDateString();
-    var events_block = $(document.getElementsByClassName("upcoming_events"));
-    var elements = $('li.upcoming_event').filter(function () {
+    var events_block = $(document.getElementsByClassName("open_events"));
+    var elements = $('li.open_event').filter(function () {
         return $(this).data('start') >= dstr;
     });
     if ($(elements).length > 0) {
