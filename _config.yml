@@ -46,21 +46,6 @@ defaults:
       search_exclude: false
 
 
-  -   
-    scope:
-      path: "pages/trainers"
-    values:
-      type: trainers
-  -
-    scope:
-      path: "pages/people"
-    values:
-      sidebar: people
-  -
-    scope:
-      path: "pages/collaborators"
-    values:
-      sidebar: people
 
 
 
@@ -80,11 +65,5 @@ defaults:
 
 
 
-plugins:
-  - elixir-toolkit-theme-plugins
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-github-metadata
-  - jemoji
-  - webrick
+
+
