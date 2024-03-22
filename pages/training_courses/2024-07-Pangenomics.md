@@ -1,16 +1,16 @@
 ---
-title: "Single Cell Genomics."
+title: "Pangenomics."
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
-description: September 2024 <br> Roma, Italy
+description: July 2024
 event:
-  - name: "Single Cell Genomics."
+  - name: "Pangenomics."
     organisers: []
     teachers: []
-    venue: Roma, Italy
-    event_date: 2024/09/01
-    state: open
+    venue: []
+    event_date: 2024/07/01
+    state: upcoming
 ---
 
 More information will be provided here when available!

@@ -1,4 +1,21 @@
+- name: "Statistics and data manipulation with R"
+  description: "June/July 2024"
+
+- name: "Pangenomics"
+  description: "July 2024 - Roma, Italy"
+
 - name: "Single Cell Genomics"
   description: "September 2024 - Roma, Italy"
+
+- name: "AI and diagnostic imaging"
+  description: "October 2024 - Roma, Italy"
+
+- name: "Biocontainer"
+  description: "October 2024"
+
+- name: "Protein modelling and PPI"
+  description: "November/December 2024 - online"
+
+
 
 
