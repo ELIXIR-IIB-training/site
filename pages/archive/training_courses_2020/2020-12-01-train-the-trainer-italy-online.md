@@ -13,29 +13,28 @@ event:
     state: closed
 ---
 
+{% include image.html file="/infrastructures/logo_iib.png" caption="logo_iib.png" alt="logo_iib" max-width="10" %}
 
-<table border="0">
-  <tr>
- <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
-  </tr>
-</table>
-<br>
-<br>
+
+
 
 The ELIXIR Training Platform, in collaboration with ELIXIR-IT, is pleased to announce a Train the Trainer (TtT) event online.
 <br>
 
 ### Important dates
+
 Course date: <b>01-04 December, 2020, 14:00 - 17:30 CET</b>
 <br>
 <br>
 
 ### Selection
+
 We will accept a maximum of **20** participants. Priority will be given to candidates from ELIXIR-IT institutes (see below) and ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 20 participants.
 <br>
 <br>
 
-### [Application form - Registration](https://forms.gle/jVuj7NDLnkjDKEUo8)
+## [Application form - Registration](https://forms.gle/jVuj7NDLnkjDKEUo8)
+
 <br>
 
 ### Fee
@@ -44,6 +43,7 @@ There is no course attendance fee.
 <br>
 
 ### Instructors
+
 [**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) (ELIXIR-IT Deputy Training Coordinator, IBIOM/IBPM-CNR, IT)<br>
 **Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
 **Patricia Palagi** (ELIXIR-CH Training Coordinator, SIB, CH)<br>
@@ -52,17 +52,20 @@ There is no course attendance fee.
 <br>
 
 ### Organisers
+
 **Allegra Via**, IBPM-CNR, ELIXIR-IT, IT<br>
 **Loredana Le Pera**, IBIOM/IBPM-CNR, ELIXIR-IT, IT 
 <br>
 <br>
 
-### Contact
+## Contact
+
 For all kinds of queries, please contact us at <elixir.ita.training@gmail.com>. 
 <br>
 <br>
 
 ### Description - Course materials
+
 The course is made up of four sessions, covering:
 * Learning principles and how they apply to training and teaching
 * Lesson, course, and materials design
@@ -72,6 +75,7 @@ The course is made up of four sessions, covering:
 <br>
 
 ### Target Audience
+
 Whoever is interested in becoming a teacher or a better one.
 If you have questions like the following ones, this course may be very helpful to you.
 
@@ -90,6 +94,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 
 ### Learning Objectives  
+
  * To get acquainted with Learning principles and how they apply to training
  * To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
  * To learn how to use assessment and feedback in training
@@ -98,6 +103,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 
 ### Learning Outcomes
+
  * Learners can name learning principles that a good teacher/instructor should have in mind
  * Learners can describe at least three training techniques, drawing on learning principles
  * Learners can design a training session and a course
@@ -107,6 +113,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 
 ## General programme
+
 <table border="1">
 <tr>
   <td colspan="2"><h4><b>Day 1</b></h4></td>
@@ -177,8 +184,10 @@ If you have questions like the following ones, this course may be very helpful t
    <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ol>
+
 <br>
 <br>
+
 <table border="0" >
   <tr>
     <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_ELIXIR_white_background.png" height="80"></a></td>

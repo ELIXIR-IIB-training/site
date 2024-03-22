@@ -1,6 +1,6 @@
 ---
 title: "Training Course in Computational Methods for Epitranscriptomics."
-event_type:  "ELIXIR IIB Training Course"
+event_type:  "ELIXIR Training Course"
 type: training_courses_2023
 state: closed
 description: 26-28 April 2023 <br>Bari, Italy
