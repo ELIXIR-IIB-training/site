@@ -47,8 +47,13 @@ defaults:
 
 
 
+# Optional part useful to change sidebar
 
-
+  -   
+    scope:
+      path: "pages/trainers"
+    values:
+      type: people
 
 
 
