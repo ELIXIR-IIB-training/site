@@ -6,7 +6,7 @@
   {%- assign news = site.data.news | sort: "date" %}
   {%- assign count = 0 %}
   <ul class="list-unstyled mt-3">
-    {%- for new in news reversed%}
+    {%- for new in news%}
     <li>
       <span class="title mb-1">{{ new.name | escape }}</span>
       <p class="text-muted"><i class="far fa-calendar me-2"></i><time>{{ new.date | date_to_long_string }}</time>{% if new.linked_pr %} - <i class="fa-solid fa-code-branch"></i><a href="{{ site.github.repository_url | append: '/pull/' | append: new.linked_pr }}">{{new.linked_pr }}</a>{% endif %}</p>
