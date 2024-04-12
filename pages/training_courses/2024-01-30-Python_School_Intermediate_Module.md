@@ -12,6 +12,84 @@ event:
     venue: Roma, Italy
     event_date: 2024/01/30
     state: closed
+
+{
+    "@context": "https://schema.org",
+    "@type": "CourseInstance",
+    "name": "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python",
+    "description": "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n",
+    "url": "https://elixir-iib-training.github.io/site/2024-01-30-Python_School_Intermediate_Module",
+    "@id": "https://elixir-iib-training.github.io/site/2024-01-30-Python_School_Intermediate_Module",
+    "http://purl.org/dc/terms/conformsTo": {
+        "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE",
+        "@type": "CourseInstance"
+    },
+    "about": [
+        {
+            "@type": "Course",
+            "name": "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
+        }
+    ],
+    "courseMode": [
+        "onsite",
+        "synchronous"
+    ],
+    "keywords": "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics",
+    "location": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Rome",
+            "addressCountry": "Italy"
+        }
+    },
+    "endDate": "2024-02-02",
+    "inLanguage": "it-IT",
+    "instructor": [
+        {
+            "@type": "Person",
+            "name": "Luca De Sabato"
+        },
+        {
+            "@type": "Person",
+            "name": "Arnold Knijn"
+        },
+        {
+            "@type": "Person",
+            "name": "Loredana Le Pera"
+        },
+        {
+            "@type": "Person",
+            "name": "Valeria Michelacci"
+        },
+        {
+            "@type": "Person",
+            "name": "Allegra Via"
+        }        
+    ],
+    "organizer": [
+        {
+            "@type": "Organization",
+            "@id": "https://ror.org/02be6w209",
+            "name": "Sapienza University of Rome"
+        }
+    ],
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "membership Price",
+            "price": 50,
+            "eligibleCustomerType": {
+                "@type": "BusinessEntityType",
+                "name": "Academic"
+            },
+            "priceCurrency": "EUR"
+        }
+    ],
+    "startDate": "2024-01-30",
+    "duration": "P4DT7H"
+}
+
 ---
 
 <!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
