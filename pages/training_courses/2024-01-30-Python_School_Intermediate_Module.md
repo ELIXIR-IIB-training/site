@@ -8,44 +8,21 @@ page_id: python_school_2024
 event:
   - name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
     organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
-    teachers: []
+    teachers: [Luca De Sabato, Arnold Knijn, Loredana Le Pera, Valeria Michelacci, Allegra Via]
     venue: Roma, Italy
     event_date: 2024/01/30
     state: closed
+summary: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
+instructor: 
+keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
+courseMode: onsite
+addressLocality: Rome
+addressCountry: Italy
+startDate: "2024-01-30"
+endDate: "2024-02-02"
+duration: P4DT7H
+inLanguage: it-IT  
 
-
-bioschemas:
-   "@context": https://schema.org
-   "@type": CourseInstance
-   "http://purl.org/dc/terms/conformsTo":
-      "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE"
-      "@type": CourseInstance
-   name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
-   description: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
-   about:
-      "@type": "Course"
-      "name": "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
-   keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
-   courseMode: onsite
-   location:
-      "@type": "Place"
-      address:
-         "@type": "PostalAddress"
-            addressLocality: Rome
-            addressCountry: Italy
-   startDate: 2024-01-30
-   endDate: 2024-02-02
-   duration: P4DT7H
-   inLanguage: it-IT  
-   instructor: ["Luca De Sabato", "Arnold Knijn", "Loredana Le Pera", "Valeria Michelacci", "Allegra Via"]
-   organizer: 
-      "@type": Organization
-         name: Società Italiana di Diagnostica di Laboratorio Veterinaria
-      "@type": Organization
-         name: Elixir Italy
-
-   license: CC-BY 4.0
-   version: 1.0
 ---
 
 <!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
