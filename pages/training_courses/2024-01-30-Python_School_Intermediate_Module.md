@@ -41,9 +41,11 @@ bioschemas:
    organizer: 
       "@type": Organization
          name: Società Italiana di Diagnostica di Laboratorio Veterinaria
+      "@type": Organization
+         name: Elixir Italy
 
-  license: CC-BY 4.0
-  version: 1.0
+   license: CC-BY 4.0
+   version: 1.0
 ---
 
 <!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
