@@ -12,7 +12,7 @@ event:
     venue: Roma, Italy
     event_date: 2024/01/30
     state: closed
-summary: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
+short_description: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
 instructor: 
 keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
 courseMode: onsite
