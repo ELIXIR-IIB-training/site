@@ -23,14 +23,14 @@ bioschemas:
    name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
    description: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
    about:
-      - "@type": "Course"
-      - "name": "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
+      "@type": "Course"
+      "name": "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
    keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
    courseMode: onsite
    location:
-      - "@type": "Place"
+      "@type": "Place"
       address:
-         - "@type": "PostalAddress"
+         "@type": "PostalAddress"
             addressLocality: Rome
             addressCountry: Italy
    startDate: 2024-01-30
@@ -39,7 +39,7 @@ bioschemas:
    inLanguage: it-IT  
    instructor: ["Luca De Sabato", "Arnold Knijn", "Loredana Le Pera", "Valeria Michelacci", "Allegra Via"]
    organizer: 
-      - "@type": Organization
+      "@type": Organization
          name: Società Italiana di Diagnostica di Laboratorio Veterinaria
 
   license: CC-BY 4.0
