@@ -4,7 +4,7 @@ event_type:  "ELIXIR IIB Training Course"
 type: training_courses
 description: 22 April 2024 <br> Online
 event:
-    name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
+  - name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
     organisers: BioComputing UP group 
     venue: Online
     event_date: 2024/04/22
