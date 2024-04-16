@@ -39,7 +39,12 @@
 
         </td>
         <td>{{ event.organisers }}</td>
-        <td>|{{ page.addressLocality }}, {{ page.addressCountry }}|</td>
+        <td>{% if page.event.venue %}
+  {{ page.event.venue }}
+{% else %}
+  {{ page.addressLocality }}, {{ page.addressCountry }}
+{% endif %}
+</td>
         <td>{{ event.event_date }}</td>
         <td>{{ event.state }}</td>
       </tr>
