@@ -6,12 +6,12 @@ description: 30 January - 2 February 2024 <br> Roma, Italy
 state: closed
 page_id: python_school_2024
 event:
-  - name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
-    organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
-    teachers: [Luca De Sabato, Arnold Knijn, Loredana Le Pera, Valeria Michelacci, Allegra Via]
-    venue: Roma, Italy
-    event_date: 2024/01/30
-    state: closed
+   name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
+   organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
+   teachers: [Luca De Sabato, Arnold Knijn, Loredana Le Pera, Valeria Michelacci, Allegra Via]
+   venue: Roma, Italy
+   event_date: 2024/01/30
+   state: closed
 short_description: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
 instructor: 
 keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
