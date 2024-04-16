@@ -39,8 +39,8 @@
 
         </td>
         <td>{{ event.organisers }}</td>
-        <td>{% if page.event.venue %}
-              {{ page.event.venue }}
+        <td>{% if event.venue %}
+              {{ event.venue }}
             {% else %}
               {{ page.addressLocality }}, {{ page.addressCountry }}
             {% endif %}</td>

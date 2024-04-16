@@ -1,6 +1,6 @@
 ---
 title: "ELIXIR IIB Higher-level training course"
-event_type: "ELIXIR IIB Higher-level training course"
+event_type: "ELIXIR Training Course"
 type: meetings_workshops
 state: closed
 description: 15 February 2024 - 29 September 2024 <br> Roma, Italy
