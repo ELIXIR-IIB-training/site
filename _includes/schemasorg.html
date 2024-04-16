@@ -7,7 +7,7 @@
         "about": "{{ page.short_description }}",
         "keywords": "{{page.keywords}}",
         "instructor": [
-            {%- for people in page.teachers %}
+            {%- for people in page.event.teachers %}
             {
             "@type": "Person",
             "name": "{{people}}"
@@ -20,8 +20,8 @@
             "@type": "Place",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "{{addressLocality}}",
-                "addressCountry": "{{addressCountry}}"
+                "addressLocality": "{{page.addressLocality}}",
+                "addressCountry": "{{page.addressCountry}}"
             } 
         },
         "startDate": "{{page.startDate}}",
