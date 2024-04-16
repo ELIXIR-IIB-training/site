@@ -6,7 +6,7 @@ description: 30 January - 2 February 2024 <br> Roma, Italy
 state: closed
 page_id: python_school_2024
 event:
-   name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
+  - name: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
    organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
    venue: Roma, Italy
    event_date: 2024/01/30
