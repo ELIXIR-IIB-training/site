@@ -15,6 +15,7 @@ teachers: [Maria Cristina Aspromonte, Federica Quaglia, Victoria Nugnes]
 keywords: "Intrinsically Disordered Proteins (IDP), DisProt, MobiDB, proteins, bioinformatics."
 courseMode: online
 startDate: "2024/04/22"
+endDate: "2024/04/22"
 duration: PT3H
 inLanguage: it-IT  
 ---
