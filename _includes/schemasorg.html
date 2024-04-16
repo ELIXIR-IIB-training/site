@@ -7,10 +7,10 @@
         "about": "{{ page.short_description }}",
         "keywords": "{{page.keywords}}",
         "instructor": [
-            {%- for people in page.event.teachers %}
+            {%- for teacher in page.event.teachers %}
             {
             "@type": "Person",
-            "name": "{{people}}"
+            "name": "{{teacher}}"
             }
             {%- endfor %}
         ],
