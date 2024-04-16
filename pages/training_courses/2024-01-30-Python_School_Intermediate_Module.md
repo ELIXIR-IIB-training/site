@@ -17,8 +17,8 @@ keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics
 courseMode: onsite
 addressLocality: Rome
 addressCountry: Italy
-startDate: "2024-01-30"
-endDate: "2024-02-02"
+startDate: "2024/01/30"
+endDate: "2024/02/02"
 duration: P4DT7H
 inLanguage: it-IT  
 
