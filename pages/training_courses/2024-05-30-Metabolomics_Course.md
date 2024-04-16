@@ -6,10 +6,20 @@ description: 30-31 May 2024 <br> Milano, Italy
 event:
   - name: "Metabolomics Approaches for ‘One Health’"
     organisers: D. Gaglio <br> S. Giannattasio <br> F. Baldassari <br> C.Musicco <br> A. Via <br> M. Vanoni<br> D. Porro 
-    teachers: []
     venue: Milano, Italy
     event_date: 2024/05/30-31
     state: open
+
+short_description: "Metabolomics studies metabolites, impacting medical and environmental sciences, and integrates with the One Health approach, exploring practical applications and current research frontiers."
+teachers: [Anna Calì, Marcella Bonanomi, Duccio Cavalieri, Flavio A. Franchina, Pascual Garcia-Perez, Maria Klapa, Luigi Lucini, Fabrizio Mastrorocco, Claire O’Donovan, Valentina Pasquale, Francesca Scolari, Davide Seveso, Leilei Zhang, Marco Vanoni, Lilia Alberghina, Michael Zimmerman]
+keywords: "Metabolomics, experimental design, Workshop, bioinformatics."
+courseMode: onsite
+addressLocality: Milan
+addressCountry: Italy
+startDate: "2024/05/30"
+endDate: "2024/05/31"
+duration: P2DT18H
+inLanguage: it-IT   
 ---
 <br>
 <br>
