@@ -6,16 +6,20 @@
   startDate: 2024-07
   location: "Roma, Italy"
 
+
 - name: "Single Cell Genomics"
   startDate: 2024-09
   location: "Roma, Italy"
+
 
 - name: "AI and diagnostic imaging"
   startDate: 2024-10
   location: "Roma, Italy"
 
+
 - name: "Biocontainer"
   startDate: 2024-10
+
 
 - name: "Protein modelling and PPI"
   startDate: 2024-11
