@@ -1,10 +1,11 @@
 - name: "Statistics and data manipulation with R"
   startDate: 2024-06
   endDate: 2024-07
-  description: "June/July 2024
+  description: "June/July 2024"
 
 - name: "Pangenomics"
-  description: "July 2024 - Roma, Italy"
+  description: "July 2024" 
+  location: "Roma, Italy"
 
 - name: "Single Cell Genomics"
   description: "September 2024"
@@ -12,7 +13,7 @@
 
 - name: "AI and diagnostic imaging"
   description: "October 2024"
-  location: Roma, Italy"
+  location: "Roma, Italy"
 
 - name: "Biocontainer"
   description: "October 2024"
