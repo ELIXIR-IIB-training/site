@@ -9,7 +9,8 @@
     {%- for new in news%}
     <li>
       <span class="title mb-1">{{ new.name | escape }}</span>
-      <p class="text-muted"><i class="far fa-calendar me-2"></i><time>{{ new.date | date_to_long_string }}</time>{% if new.linked_pr %} - <i class="fa-solid fa-code-branch"></i><a href="{{ site.github.repository_url | append: '/pull/' | append: new.linked_pr }}">{{new.linked_pr }}</a>{% endif %}</p>
+     <p class="text-muted mb-0"><i class="far fa-calendar me-2"></i><time datetime="{{ new.startDate | date: '%B, %Y %H:%M' }}">{{ new.startDate | date_to_long_string }} {{new.startTime}}</time>
+        {% if new.endDate or new.endTime %} - <time datetime="{{ new.endDate | date: '%B, %Y %H:%M %Z' }}">{{ new.endDate | date_to_long_string }} {{new.endTime}}</time>{% endif %}</p>
       {%- if new.location %}
       <i class="fa-solid fa-map-marker-alt me-2 text-muted"></i>
       <div class="d-inline-block text-muted">{{ new.location | markdownify }}</div>
