@@ -10,9 +10,9 @@
     <li>
       <span class="title mb-1">{{ new.name | escape }}</span>
       <p class="text-muted"><i class="far fa-calendar me-2"></i><time>{{ new.date | date_to_long_string }}</time>{% if new.linked_pr %} - <i class="fa-solid fa-code-branch"></i><a href="{{ site.github.repository_url | append: '/pull/' | append: new.linked_pr }}">{{new.linked_pr }}</a>{% endif %}</p>
-      {%- if event.location %}
+      {%- if new.location %}
       <i class="fa-solid fa-map-marker-alt me-2 text-muted"></i>
-      <div class="d-inline-block text-muted">{{ event.location | markdownify }}</div>
+      <div class="d-inline-block text-muted">{{ new.location | markdownify }}</div>
       {%- endif %}
       {%- if new.description %}
       {%- assign word_count = new.description | split: " " | size %}
