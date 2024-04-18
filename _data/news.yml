@@ -2,7 +2,7 @@
   startDate: 2024-06
   description: "&nbsp;"
   location: "online"
-  
+
   
 - name: "Pangenomics"
   startDate: 2024-07
@@ -11,7 +11,6 @@
 
 - name: "Single Cell Genomics"
   startDate: 2024-09
-  description: "&nbsp;"
   location: "Roma, Italy"
 
 - name: "AI and diagnostic imaging"
