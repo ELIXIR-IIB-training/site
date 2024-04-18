@@ -1,19 +1,18 @@
 - name: "Statistics and data manipulation with R"
   startDate: 2024-06
   description: "&nbsp;"
+  location: "online"
   
-
+  
 - name: "Pangenomics"
   startDate: 2024-07
   description: "&nbsp;"
   location: "Roma, Italy"
 
-
 - name: "Single Cell Genomics"
   startDate: 2024-09
   description: "&nbsp;"
   location: "Roma, Italy"
-
 
 - name: "AI and diagnostic imaging"
   startDate: 2024-10
@@ -22,8 +21,9 @@
 
 
 - name: "Biocontainer"
-  description: "&nbsp;"
   startDate: 2024-10
+  description: "&nbsp;"
+  location: "Bari"
 
 
 - name: "Protein modelling and PPI"
