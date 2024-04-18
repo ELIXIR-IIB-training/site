@@ -1,11 +1,11 @@
 ---
-title: "Protein modelling and PPI."
+title: "Protein modelling and PPI"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
 description: November/December 2024
 event:
-  - name: "Protein modelling and PPI."
+  - name: "Protein modelling and PPI"
     organisers: []
     teachers: []
     venue: []

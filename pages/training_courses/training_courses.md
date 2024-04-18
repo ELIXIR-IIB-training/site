@@ -6,12 +6,12 @@ title: Training Courses
 
 {% include section-navigation-tiles.html type="training_courses" except="index.md" %}
 
-<h2>Upcoming</h2>
+<h3>Upcoming</h3>
 <br>
 
 {% include section-navigation-tiles-upc.html type="training_courses" except="index.md" %}
 
-<h2>Closed</h2>
+<h3>Closed</h3>
 <br>
 
 {% include section-navigation-tiles-clo.html type="training_courses" except="index.md" %}

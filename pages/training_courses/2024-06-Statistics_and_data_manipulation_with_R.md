@@ -1,11 +1,11 @@
 ---
-title: "Statistics and data manipulation with R."
+title: "Statistics and data manipulation with R"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
 description: June/July 2024 <br> Roma, Italy
 event:
-  - name: "Statistics and data manipulation with R."
+  - name: "Statistics and data manipulation with R"
     organisers: []
     teachers: []
     venue: Roma, Italy

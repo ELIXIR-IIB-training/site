@@ -1,11 +1,11 @@
 ---
-title: "AI and diagnostic imaging."
+title: "AI and diagnostic imaging"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
 description: October 2024
 event:
-  - name: "AI and diagnostic imaging."
+  - name: "AI and diagnostic imaging"
     organisers: []
     teachers: []
     venue: []

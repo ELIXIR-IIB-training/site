@@ -1,11 +1,11 @@
 ---
-title: "Single Cell Genomics."
+title: "Single Cell Genomics"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
 description: September 2024 <br> Roma, Italy
 event:
-  - name: "Single Cell Genomics."
+  - name: "Single Cell Genomics"
     organisers: []
     teachers: []
     venue: Roma, Italy
