@@ -1,5 +1,6 @@
 <div class="news">
-
+  {%- if include.title == true %}
+  <h2>Open events</h2>
   {%- endif %}
   {%- assign events = site.data.events %}
   {%- assign count = 0 %}
