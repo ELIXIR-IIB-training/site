@@ -1,12 +1,12 @@
-<div class="events open_events">
-  {%- if include.title == true%}
-  <h2>{{include.news_type | replace: "_", " " | capitalize}}</h2>
+<div class="news">
+  {%- if include.title == true %}
+  <h2>What's next?</h2>
   {%- endif %}
   {%- assign news = site.data.news | sort: "date" %}
   {%- assign count = 0 %}
   <ul class="list-unstyled mt-3">
     {%- for new in news%}
-    <li class="open_event">
+    <li>
       <span class="title mb-1">{{ new.name | escape }}</span>
      <p class="text-muted mb-0"><i class="far fa-calendar me-2"></i><time datetime="{{ new.startDate | date: '%B, %Y %H:%M' }}">{{ new.startDate | date: '%B, %Y'}} {{new.startTime}}</time>
         {% if new.endDate or new.endTime %} - <time datetime="{{ new.endDate | date: '%B, %Y %H:%M %Z' }}">{{ new.endDate | date: '%B, %Y'}} {{new.endTime}}</time>{% endif %}</p>
@@ -39,5 +39,4 @@
   {%- assign caption_url = include.caption_url | default: "/news" %}
   <small>All dates are provisional!</small>
   {%- endif %}
-
 </div>
