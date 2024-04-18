@@ -2,7 +2,7 @@
   startDate: 2024-06
   description: "&nbsp;"
   location: "online"
-  
+
   
 - name: "Pangenomics"
   startDate: 2024-07
@@ -23,7 +23,7 @@
 - name: "Biocontainer"
   startDate: 2024-10
   description: "&nbsp;"
-  location: "Bari"
+  location: "Bari, Italy"
 
 
 - name: "Protein modelling and PPI"
