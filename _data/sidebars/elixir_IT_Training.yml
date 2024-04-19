@@ -36,8 +36,5 @@ subitems:
         url: /meetings_workshops_2021
       - title: 2020
         url: /meetings_workshops_2020        
-  - title: People
-    url: /people
-    image_url: /assets/img/section-icons/trainers.svg
 
   

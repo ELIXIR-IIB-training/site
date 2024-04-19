@@ -1,6 +1,8 @@
 subitems:
   - title: HOME
     url: /index
+  - title: PEOPLE
+    url: /people
   - title: ABOUT
     url: /about
   - title: CONTACT US
