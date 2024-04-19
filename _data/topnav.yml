@@ -3,11 +3,11 @@
 subitems:
 - title: HOME
   url: /index
--
-  title: ABOUT
+- title: PEOPLE
+  url: /people
+- title: ABOUT
   url: /about
--
-  title: CONTACT US
+- title: CONTACT US
   url: /contacts
 
     
