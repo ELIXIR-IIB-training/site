@@ -3,13 +3,13 @@ title: "Pangenomics"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
-description: July 2024
+description: June 2024
 event:
   - name: "Pangenomics"
     organisers: []
     teachers: []
     venue: []
-    event_date: 2024/07/01
+    event_date: 2024/06/19
     state: upcoming
 ---
 
