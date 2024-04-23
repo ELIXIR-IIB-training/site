@@ -32,7 +32,7 @@ inLanguage: it-IT
 
 ## Important Dates 
 
-- Deadline for application: **30th April 2024**
+- Deadline for application: **7th May 2024**
 - Deadline for abstract submission (see below): **30th April 2024**
 - Selected abstract will be notified by: 4th May 2024
 - Workshop date: 30-31 May 2024
