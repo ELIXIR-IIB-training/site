@@ -22,8 +22,15 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
+{% include image.html file="/infrastructures/logo_bicocca.png" alt="Logo_Bicocca" max-width="10" %}
+{% include image.html file="/infrastructures/excelerate_whitebackground.png" alt="Elixir_Excelerate" max-width="10" %}
+{% include image.html file="/infrastructures/elixir_sweden_white_background.png" alt="Elixir_Sweden" max-width="10" %}
+{% include image.html file="/infrastructures/elixir_france_white_background.png" alt="Elixir_France" max-width="10" %}
+{% include image.html file="/infrastructures/elixir_node_slovenia.png" alt="Elixir_Slovenia" max-width="10" %}
 
-
+<br>
+<br>
 
 ## Course Description
 Participants will learn about pangenome concepts and gain practical experience building and analyzing pangenome graphs. They will apply these methods to complex research questions that require understanding the relationships between multiple genomes or accounting for variability when analyzing new genomes. By the end of the practical course / workshop, participants will have a strong understanding of pangenome methods based on whole genome assemblies.
