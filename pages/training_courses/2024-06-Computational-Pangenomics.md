@@ -32,9 +32,9 @@ Participants will learn about pangenome concepts and gain practical experience b
 
 ## Important Dates 
 
-Deadline for applications: **17 May 2024**
-Chosen participants will be notified by: **24 May 2024**
-Course date: **19-21 June 2024**
+Deadline for applications: **17 May 2024** <br>
+Chosen participants will be notified by: **24 May 2024** <br>
+Course date: **19-21 June 2024** <br>
 <br>
 <br>
 
@@ -91,10 +91,10 @@ This course is aimed at PhD-students, post docs or other researchers interested 
 ### Learning outcomes
 By the end of this course, learners will be independently able to:
 
-Understand the concepts and importance of pangenomics in addressing reference bias and capturing genome variability.
-Apply pangenome methods to complex research questions that require understanding the relationships between multiple genomes or accounting for variability when analyzing new genomes.
-Gain practical experience in building pangenome graphs from whole-genome assemblies using tools like PGGB and ODGI.
-Learn how to analyze and interpret pangenome graphs
+- Understand the concepts and importance of pangenomics in addressing reference bias and capturing genome variability.
+- Apply pangenome methods to complex research questions that require understanding the relationships between multiple genomes or accounting for variability when analyzing new genomes.
+- Gain practical experience in building pangenome graphs from whole-genome assemblies using tools like PGGB and ODGI.
+- Learn how to analyze and interpret pangenome graphs
 <br>
 <br>
 
@@ -140,13 +140,13 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50" width="100" align=center>13:30 - 14:00</td>
     <td height="50" align=center> Lecture</td>
     <td height="50">Andrea Guarracino</td>    
-    <td height="50">Human pangenome graph building</td>
+    <td height="50">Understanding pangenomes</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>14:00 - 15:00</td>
     <td height="50" align=center> Practical</td>
     <td height="50">Everyone</td>    
-    <td height="50">Understanding pangenomes</td>
+    <td height="50">Human pangenome graph building</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 15:00 - 15:30</td>
