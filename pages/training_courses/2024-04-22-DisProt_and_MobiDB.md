@@ -8,7 +8,7 @@ event:
     organisers: BioComputing UP group 
     venue: Online
     event_date: 2024/04/22
-    state: open
+    state: closed
 
 short_description: "The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community."
 teachers: [Maria Cristina Aspromonte, Federica Quaglia, Victoria Nugnes]
@@ -21,6 +21,11 @@ inLanguage: it-IT
 ---
 
 <!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
+<br>
+<br>
+
+### Course Description
+The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, [DisProt](https://disprot.org/) and [MobiDB](https://mobidb.bio.unipd.it/), both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into IDP data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators.
 <br>
 <br>
 
@@ -63,11 +68,6 @@ Selected participants will be notified by **19th April 2024**.
 For all kinds of queries, please contact the organisers Maria Cristina Aspromonte or Federica Quaglia at:<br>
 [mariacristina.aspromonte@unipd.it](mailto:mariacristina.aspromonte@unipd.it) <br>
 [federica.quaglia8@gmail.com](federica.quaglia8@gmail.com)
-<br>
-<br>
-
-### Course Description
-The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, [DisProt](https://disprot.org/) and [MobiDB](https://mobidb.bio.unipd.it/), both part of ELIXIR infrastructure, within the scientific community. Through this course, participants will gain fundamental insights into IDP data interpretation, the correlation with specific biological mechanisms and diseases while learning about the essential guidelines for becoming active contributors to the extensive network of DisProt curators.
 <br>
 <br>
 

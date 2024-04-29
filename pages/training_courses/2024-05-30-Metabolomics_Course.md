@@ -30,6 +30,19 @@ inLanguage: it-IT
 <br>
 <br>
 
+## Course Description
+
+Metabolomics is the large-scale study of small molecules known as metabolites which constitute the metabolom, the downstream effect of an organism’s genome and its interaction with the environment. This young field of the Life Sciences arena has widespread applications across the medical, clinical, biological, environmental and agricultural sciences fitting precisely into the #OneHealth approach.   
+We will show how exciting and multi-colored Metabolomics can be including the challenges and its current limits.  Special attention will be given to the following topics   
+1. Practice and theory in metabolomic applications;  
+2. Study design and sample collection;  
+3. Stable isotope-resolved metabolomics;  
+4. Metabolic Flux Analysis;  
+5. Latest research in One Health metabolomics. 
+
+<br>
+<br>
+
 ## Important Dates 
 
 - Deadline for application: **7th May 2024**
@@ -109,18 +122,7 @@ For all kinds of queries, please contact the organisers [metabolomics.milan@ibfm
 <br>
 <br>
 
-### Course Description
 
-Metabolomics is the large-scale study of small molecules known as metabolites which constitute the metabolom, the downstream effect of an organism’s genome and its interaction with the environment. This young field of the Life Sciences arena has widespread applications across the medical, clinical, biological, environmental and agricultural sciences fitting precisely into the #OneHealth approach.   
-We will show how exciting and multi-colored Metabolomics can be including the challenges and its current limits.  Special attention will be given to the following topics   
-1. Practice and theory in metabolomic applications;  
-2. Study design and sample collection;  
-3. Stable isotope-resolved metabolomics;  
-4. Metabolic Flux Analysis;  
-5. Latest research in One Health metabolomics. 
-
-<br>
-<br>
 
 ### Target audience
 
