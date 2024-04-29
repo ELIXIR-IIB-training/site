@@ -20,7 +20,6 @@ duration: PT3H
 inLanguage: it-IT  
 ---
 
-<!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
 <br>
 <br>
 

@@ -25,7 +25,31 @@ event:
    state: closed
 ---
 
-<!-- [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/) -->
+<br>
+<br>
+
+## Course Description
+The use of Next-Generation Sequencing (NGS) has exponentially increased in the last two decades, both in the field of research and diagnostics. This technology allows obtaining millions of sequences ('reads') in a single experiment, making it possible to reconstruct complete genomes of pathogens relevant to public health in just a few hours.
+By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veterinaria (SIDiLV)](https://sidilv.org/)* and the *[Italian Infrastructure of Bioinformatics (IIB/ELIXIR Italy)](https://elixir-italy.org/about/)* organised the **School of Python for genomics** at the *[Italian National Institute of Health (ISS)](https://www.iss.it/en/web/guest/home)*.<br> 
+The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<be>
+
+The whole School consists of 3 consequential modules:<br>
+1. [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
+2. **Intermediate module: Analysing your genomic data with Python (Jan-Feb 2024)**
+3. *Hackathon module*: Python programming for developers
+
+The main objective of this second Module titled 'Intermediate Module: Analysing your genomics data with Python' will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
+
+This module aims to achieve the following objectives:
+- identify the distribution of serogroups of isolates
+- analyse the presence and distribution of antibiotic-resistance genes
+- examine the presence and distribution of virulence genes
+- perform isolate typing (using methods such as MLST and cgMLST) and identify any correlations.
+
+The course involves the development of a Python pipeline capable of processing raw data obtained from Illumina and/or Ion Torrent NGS.
+
+
+
 <br>
 <br>
 
@@ -73,27 +97,6 @@ Notifications of acceptance will be sent by *January 10th*.
 <br>
 <br>
 
-### Course Description
-The use of Next-Generation Sequencing (NGS) has exponentially increased in the last two decades, both in the field of research and diagnostics. This technology allows obtaining millions of sequences ('reads') in a single experiment, making it possible to reconstruct complete genomes of pathogens relevant to public health in just a few hours.
-By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veterinaria (SIDiLV)](https://sidilv.org/)* and the *[Italian Infrastructure of Bioinformatics (IIB/ELIXIR Italy)](https://elixir-italy.org/about/)* organised the **School of Python for genomics** at the *[Italian National Institute of Health (ISS)](https://www.iss.it/en/web/guest/home)*.<br> 
-The School aims to provide the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<be>
-
-The whole School consists of 3 consequential modules:<br>
-1. [*Basic module*: Introduction to Python programming (Nov 2022)](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module)
-2. **Intermediate module: Analysing your genomic data with Python (Jan-Feb 2024)**
-3. *Hackathon module*: Python programming for developers
-
-The main objective of this second Module titled 'Intermediate Module: Analysing your genomics data with Python' will be to characterise a population of Escherichia coli strains through the analysis of Whole Genome Sequencing (WGS) data, identifying any groups of isolates that share epidemiological and/or genomic characteristics and the presence of specific virulence traits.
-
-This module aims to achieve the following objectives:
-- identify the distribution of serogroups of isolates
-- analyse the presence and distribution of antibiotic-resistance genes
-- examine the presence and distribution of virulence genes
-- perform isolate typing (using methods such as MLST and cgMLST) and identify any correlations.
-
-The course involves the development of a Python pipeline capable of processing raw data obtained from Illumina and/or Ion Torrent NGS.
-<br>
-<br>
 
 ### Prerequisites
 This Intermediate Module is designed as a follow-up to the [Basic Module of the School of Python](https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module), hence it assumes a basic understanding of programming and prior programming experience in Python as prerequisites. This Module will primarily focus on practical applications rather than theoretical concepts.
