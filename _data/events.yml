@@ -1,13 +1,6 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
 
-- name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
-  startDate: 2024-04-22
-  endDate: 2024-04-22
-  description:  "[More info here](https://elixir-iib-training.github.io/site/2024-04-22-DisProt_and_MobiDB)"
-  location: online
-
-
 - name: "Metabolomics Approaches for ‘One Health’"
   startDate: 2024-05-30
   endDate: 2024-05-31
@@ -19,3 +12,9 @@
   endDate: 2024-06-16
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-06-10-population-genomics-online)" 
   location: Castellammare di Stabia, Italy
+
+- name: "Computational Pangenomics"
+  startDate: 2024-06-19
+  endDate: 2024-06-21
+  description:  "[More info here](https://elixir-iib-training.github.io/site/2024-06-Computational-Pangenomics)"
+  location: Roma, Italy
