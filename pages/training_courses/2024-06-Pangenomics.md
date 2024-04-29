@@ -222,3 +222,31 @@ After selection, confirmed participants will be able to access the course agenda
     <td colspan="3" height="50" align=center>Wrap-up and feedback session</td>
   </tr>
 </table>
+
+
+
+
+### ELIXIR-IIB member institutes
+1. CNR, National Research Council (Lead Institute)
+2. CRS4
+3. CINECA
+4. Edmund Mach Foundation, Trento
+5. ENEA
+6. Fondazione Telethon
+7. INFN
+8. Istituto Superiore di Sanità (ISS)
+9. GARR
+10. Stazione Zoologica Anton Dohrn, Napoli
+11. University of Roma "Sapienza"
+12. University of Bari
+13. University of Bologna
+14. University of Firenze
+15. University of Milano
+16. University of Milano Bicocca
+17. University of Napoli
+18. University of Padova
+19. University of Parma
+20. University of Roma "Tor Vergata"
+21. University of Salerno
+22. University of Torino
+23. University of Tuscia
