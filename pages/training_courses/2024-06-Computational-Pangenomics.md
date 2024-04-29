@@ -23,9 +23,9 @@ inLanguage: it-IT
 ---
 
 
-![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/excelerate_whitebackground.png)
-![Elixir_Sweden](images/infrastructures/elixir_sweden_white_background.png) ![Elixir_France](images/infrastructures/elixir_france_white_background.png) ![Elixir_Slovenia](images/infrastructures/elixir_node_slovenia.png)
-![Logo_INRA](images/infrastructures/Logo_INRA.png) ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png ![logo_NBIS](images/infrastructures/Logo_NBIS.png) 
+![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/excelerate_whitebackground.png) <br>
+![Elixir_Sweden](images/infrastructures/Logo_elixir_sweden.png) ![Elixir_France](images/infrastructures/Logo_elixir_france.png) ![Elixir_Slovenia](images/infrastructures/Logo_ELIXIR_SLOVENIA_white_background.png) <br>
+![Logo_INRA](images/infrastructures/Logo_INRA.png) ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png) ![logo_NBIS](images/infrastructures/Logo_NBIS.png) 
 
 <br>
 <br>
