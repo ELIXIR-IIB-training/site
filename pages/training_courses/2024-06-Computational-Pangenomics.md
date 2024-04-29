@@ -21,13 +21,23 @@ endDate: "2024/06/21"
 duration: P3DT19H
 inLanguage: it-IT   
 ---
-
-{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}
-{% include image.html file="/infrastructures/logo_bicocca.png" alt="Logo_Bicocca" max-width="10" %}
-{% include image.html file="/infrastructures/excelerate_whitebackground.png" alt="Elixir_Excelerate" max-width="10" %}
-{% include image.html file="/infrastructures/elixir_sweden_white_background.png" alt="Elixir_Sweden" max-width="10" %}
-{% include image.html file="/infrastructures/elixir_france_white_background.png" alt="Elixir_France" max-width="10" %}
-{% include image.html file="/infrastructures/elixir_node_slovenia.png" alt="Elixir_Slovenia" max-width="10" %}
+<table>
+  <td>
+    <tr>{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/logo_bicocca.png" alt="Logo_Bicocca" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/excelerate_whitebackground.png" alt="Elixir_Excelerate" max-width="10" %}</tr>
+  </td>
+  <td>
+    <tr>{% include image.html file="/infrastructures/elixir_sweden_white_background.png" alt="Elixir_Sweden" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/elixir_france_white_background.png" alt="Elixir_France" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/elixir_node_slovenia.png" alt="Elixir_Slovenia" max-width="10" %}</tr>
+  </td>
+  <td>
+    <tr>{% include image.html file="/infrastructures/Logo_INRA.png" alt="Logo_INRA" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/Logo_CNR_Italy.png" alt="Logo_CNR_Italy" max-width="10" %}</tr>
+    <tr>{% include image.html file="/infrastructures/Logo_NBIS.png" alt="Logo_NBIS" max-width="10" %}</tr>
+  </td>
+</table>
 
 <br>
 <br>
