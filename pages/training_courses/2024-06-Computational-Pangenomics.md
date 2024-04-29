@@ -23,7 +23,7 @@ inLanguage: it-IT
 ---
 
 
-![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/excelerate_whitebackground.png) <br>
+![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/Logo_excelerate_whitebackground.png){: height="200px" width="200px"} <br>
 ![Elixir_Sweden](images/infrastructures/Logo_elixir_sweden.png){: height="200px" width="200px"} ![Elixir_France](images/infrastructures/Logo_elixir_france.png){: height="200px" width="200px"} ![Elixir_Slovenia](images/infrastructures/Logo_ELIXIR_SLOVENIA_white_background.png){: height="200px" width="200px"} <br>
 ![Logo_INRA](images/infrastructures/Logo_INRA.png){: height="200px" width="200px"} ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png){: height="200px" width="200px"} ![logo_NBIS](images/infrastructures/Logo_NBIS.png){: height="200px" width="200px"} 
 
