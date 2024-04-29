@@ -122,7 +122,7 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50">Erik Garrison</td>
     <td height="50">Introduction to pangenomics</td>
   </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 10:00 - 10:30</td>
     <td colspan="3" height="50" align=center> Break</td>
   </tr>
@@ -132,7 +132,7 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50">Everyone</td>
     <td height="50">HLA & LPA graph building</td>
   </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 12:00 - 13:30</td>
     <td colspan="3" height="50" align=center>Lunch break</td>
   </tr>
@@ -148,8 +148,7 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50">Everyone</td>    
     <td height="50">Understanding pangenomes</td>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 15:00 - 15:30</td>
     <td colspan="3" height="50" align=center> Break</td>
   </tr>
@@ -163,12 +162,12 @@ After selection, confirmed participants will be able to access the course agenda
     <td colspan="4" align=center><h3>Thursday - 20 june</h3></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>09:00 - 10:00</td>
+    <td height="50" width="100">09:00 - 10:00</td>
     <td height="50" align=center>Lecture + Practical</td>
     <td height="50">Everyone</td>    
     <td height="50">Discussion about previous day activities</td>
   </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 10:00 - 10:30</td>
     <td colspan="3" height="50" align=center> Break</td>
   </tr>
@@ -178,7 +177,7 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50">Everyone</td>
     <td height="50">Yeast pangenome graph building</td>
   </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 12:00 - 13:30</td>
     <td colspan="3" height="50" align=center>Lunch break</td>
   </tr>
@@ -213,7 +212,7 @@ After selection, confirmed participants will be able to access the course agenda
     <td height="50">Everyone</td>    
     <td height="50">Discussion about previous day activities</td>
   </tr>
-    <tr>
+  <tr>
     <td height="50" width="100" align=center> 10:00 - 10:30</td>
     <td colspan="3" height="50" align=center> Break</td>
   </tr>
