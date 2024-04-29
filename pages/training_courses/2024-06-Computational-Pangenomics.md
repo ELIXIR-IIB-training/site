@@ -24,8 +24,8 @@ inLanguage: it-IT
 
 
 ![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/excelerate_whitebackground.png) <br>
-![Elixir_Sweden](images/infrastructures/Logo_elixir_sweden.png) ![Elixir_France](images/infrastructures/Logo_elixir_france.png) ![Elixir_Slovenia](images/infrastructures/Logo_ELIXIR_SLOVENIA_white_background.png) <br>
-![Logo_INRA](images/infrastructures/Logo_INRA.png) ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png) ![logo_NBIS](images/infrastructures/Logo_NBIS.png) 
+![Elixir_Sweden](images/infrastructures/Logo_elixir_sweden.png){: height="200px" width="200px"} ![Elixir_France](images/infrastructures/Logo_elixir_france.png){: height="200px" width="200px"} ![Elixir_Slovenia](images/infrastructures/Logo_ELIXIR_SLOVENIA_white_background.png){: height="200px" width="200px"} <br>
+![Logo_INRA](images/infrastructures/Logo_INRA.png){: height="200px" width="200px"} ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png){: height="200px" width="200px"} ![logo_NBIS](images/infrastructures/Logo_NBIS.png){: height="200px" width="200px"} 
 
 <br>
 <br>
