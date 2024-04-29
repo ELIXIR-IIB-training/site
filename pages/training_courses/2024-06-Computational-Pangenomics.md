@@ -22,6 +22,7 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+<br>
 
 ![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/Logo_excelerate_whitebackground.png){: height="200px" width="200px"} <br>
 ![Elixir_Sweden](images/infrastructures/Logo_elixir_sweden.png){: height="200px" width="200px"} ![Elixir_France](images/infrastructures/Logo_elixir_france.png){: height="200px" width="200px"} ![Elixir_Slovenia](images/infrastructures/Logo_ELIXIR_SLOVENIA_white_background.png){: height="200px" width="200px"} <br>
