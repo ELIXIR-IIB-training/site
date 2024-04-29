@@ -52,7 +52,7 @@ Aula informatizzata, 2nd Floor, Building CU010, Sapienza University of Rome, Pia
 
 ### Fee
 
-The course include a fee 70€ and it include all coffee breaks, lunck . Participants are expected to pay their own **travel** and **accomodation** costs (if any).
+The course include a fee 70€ and it include all coffee breaks. Participants are expected to pay their own **travel** and **accomodation** costs (if any).
 <br>
 <br>
 
