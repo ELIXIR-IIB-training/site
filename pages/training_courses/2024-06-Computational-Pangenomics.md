@@ -23,24 +23,9 @@ inLanguage: it-IT
 ---
 
 
-![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)
-
-<table>
-  <td>
-
-    <tr>{% include image.html file="/infrastructures/excelerate_whitebackground.png" alt="Elixir_Excelerate" max-width="1" %}</tr>
-  </td>
-  <td>
-    <tr>{% include image.html file="/infrastructures/elixir_sweden_white_background.png" alt="Elixir_Sweden" max-width="10" %}</tr>
-    <tr>{% include image.html file="/infrastructures/elixir_france_white_background.png" alt="Elixir_France" max-width="10" %}</tr>
-    <tr>{% include image.html file="/infrastructures/elixir_node_slovenia.png" alt="Elixir_Slovenia" max-width="10" %}</tr>
-  </td>
-  <td>
-    <tr>{% include image.html file="/infrastructures/Logo_INRA.png" alt="Logo_INRA" max-width="10" %}</tr>
-    <tr>{% include image.html file="/infrastructures/Logo_CNR_Italy.png" alt="Logo_CNR_Italy" max-width="10" %}</tr>
-    <tr>{% include image.html file="/infrastructures/Logo_NBIS.png" alt="Logo_NBIS" max-width="10" %}</tr>
-  </td>
-</table>
+![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/excelerate_whitebackground.png)
+![Elixir_Sweden](images/infrastructures/elixir_sweden_white_background.png) ![Elixir_France](images/infrastructures/elixir_france_white_background.png) ![Elixir_Slovenia](images/infrastructures/elixir_node_slovenia.png)
+![Logo_INRA](images/infrastructures/Logo_INRA.png) ![Logo_CNR](images/infrastructures/Logo_CNR_Italy.png ![logo_NBIS](images/infrastructures/Logo_NBIS.png) 
 
 <br>
 <br>
