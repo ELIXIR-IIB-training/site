@@ -175,56 +175,56 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
    <td height="50">Welcome <br>Graziano Pesole Head of Elixir Italian Node</td>
 </tr>
   <tr>
-   <td height="50" width="50">10:10 - 10:50</td>
-   <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br>Marco Vanoni (UNIMIB, ISBE-IT)</td>
+   <td height="50" width="50">10:10 - 10:30</td>
+   <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br>Danilo Porro (CNR)</td>
 </tr>
 <tr>
-   <td height="50" width="50">10:50 - 11:20</td>
+   <td height="50" width="50">10:30 - 11:00</td>
    <td height="50">Experimental design and best practice for mass-spectrometry based metabolomics <br>Marcella Bonanomi (CNR, ELIXIR-IT)</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:20 - 11:30</td>
+   <td height="50" width="50">11:00 - 11:15</td>
    <td colspan="1">Coffee Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">11:30 - 12:15</td>
+   <td height="50" width="50">11:15 - 12:00</td>
    <td height="50">Sampling and GC-MS analysis of specialised metabolites from "uncommon" biofluids: the case of sweat and exhaled breath <br>
 Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
-   <td height="50" width="50">12:15 - 13:00</td>
+   <td height="50" width="50">12:00 - 12:45</td>
    <td height="50">Untargeted profiling of polyphenols: a screening of functional compounds and their metabolites in raw and in vitro digested cereals <br>Luigi Lucini (Università Cattolica del Sacro Cuore) </td>
 </tr>
   <tr>
-   <td height="50" width="50">13:00 - 14:00</td>
+   <td height="50" width="50">12:45 - 13:45</td>
    <td colspan="1">Lunch Break</td>
 </tr>
   <tr>
-   <td height="50" width="50">14:00 - 14:45</td>
+   <td height="50" width="50">13:45 - 14:30</td>
    <td height="50">Unknown compound identification through GC and LC/QTOF technologies. <br>Anna Calì (Agilent)</td>
 </tr>
 <tr>
-   <td height="50" width="50">14:45 - 15:30</td>
+   <td height="50" width="50">14:30 - 15:15</td>
    <td height="50">Heart metabolic profiling of an adult-onset-hypothyroidism mouse model reveals sex-specific differences <br>Maria Klapa (FORTH)</td>
 </tr>
 <tr>
-   <td height="50" width="50">15:30 - 16:15</td>
+   <td height="50" width="50">15:15 - 16:00</td>
    <td height="50">Data and Networks in Systems Biology <br>Lilia Alberghina (UNIMIB, ISBE-IT)</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:15 - 16:30</td>
+   <td height="50" width="50">16:00 - 16:15</td>
    <td colspan="1">Coffee Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:30 - 17:15</td>
+   <td height="50" width="50">16:15 - 17:00</td>
    <td height="50">Metabolomics global open data annotation and management - from the MetaboLights perspective. <br>Claire O 'Donovan (EMBL-EBI)</td>
 </tr>
 <tr>
-   <td height="50" width="50">17:15 - 18:00</td>
+   <td height="50" width="50">17:00 - 17:45</td>
    <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Università Cattolica del Sacro Cuore)</td>
 </tr>
 <tr>
-   <td height="50" width="50">18:00 - 20:00</td>
+   <td height="50" width="50">18:00 - 19:45</td>
    <td colspan="1">Social Aperitivo</td>
 </tr>
 <tr>
