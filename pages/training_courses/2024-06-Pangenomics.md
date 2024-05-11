@@ -38,8 +38,8 @@ Participants will learn about pangenome concepts and gain practical experience b
 
 ## Important Dates 
 
-Deadline for applications: **17 May 2024** <br>
-Chosen participants will be notified by: **24 May 2024** <br>
+Deadline for applications: **24 May 2024** <br>
+Chosen participants will be notified by: **31 May 2024** <br>
 Course date: **19-21 June 2024** <br>
 <br>
 <br>
