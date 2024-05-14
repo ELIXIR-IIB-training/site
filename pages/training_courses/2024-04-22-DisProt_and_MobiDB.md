@@ -3,12 +3,6 @@ title: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and func
 event_type:  "ELIXIR IIB Training Course"
 type: training_courses
 description: 22 April 2024 <br> Online
-event:
-  - name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
-    organisers: BioComputing UP group 
-    venue: Online
-    event_date: 2024/04/22
-    state: closed
 
 short_description: "The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community."
 teachers: [Maria Cristina Aspromonte, Federica Quaglia, Victoria Nugnes]
@@ -18,6 +12,13 @@ startDate: "2024/04/22"
 endDate: "2024/04/22"
 duration: PT3H
 inLanguage: it-IT  
+
+event:
+  - name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
+    organisers: BioComputing UP group 
+    venue: Online
+    event_date: 2024/04/22
+    state: closed
 ---
 
 <br>

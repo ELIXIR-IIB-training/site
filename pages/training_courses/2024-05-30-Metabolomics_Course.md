@@ -56,6 +56,7 @@ We will show how exciting and multi-colored Metabolomics can be including the ch
 
 University of Milano-Bicocca<br> 
 Department of Biotechnology and Bioscience<br> 
+Room U1-04<br>
 Piazza della Scienza 2, Milano
 <br>
 <br>
