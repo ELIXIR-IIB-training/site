@@ -54,10 +54,10 @@ We will show how exciting and multi-colored Metabolomics can be including the ch
 
 ### Venue
 
-University of Milano-Bicocca<br> 
-Department of Biotechnology and Bioscience<br> 
-Room U1-04<br>
-Piazza della Scienza 2, Milano
+Milano-Bicocca Uversity<br> 
+Piazza della Scienza 2, Milano <br>
+U1-Environmental Sciences bulding, Room U1-04<br>
+
 <br>
 <br>
 
@@ -85,7 +85,7 @@ Deadline for abstract submission: **30th April 2024** <br>
 <br>
 
 ### (Invited) Speakers
-- Marco Vanoni, University of Milano-Bicocca, ISBE-IT, Italy
+- Danilo Porro, National Research Council – IBFM, ELIXIR-IT, Italy
 - Marcella Bonanomi, National Research Council – IBFM, ELIXIR-IT, Italy
 - Flavio A. Franchina, University of  Ferrara, Italy
 - Luigi Lucini, Università Cattolica del Sacro Cuore, Italy
@@ -210,7 +210,7 @@ Flavio A. Franchina (UNIFE) </td>
 </tr>
 <tr>
    <td height="50" width="50">15:15 - 16:00</td>
-   <td height="50">Data and Networks in Systems Biology <br>Lilia Alberghina (UNIMIB, ISBE-IT)</td>
+   <td height="50">Lecture: Data and Networks in Systems Biology <br>Lilia Alberghina (UNIMIB, ISBE-IT)</td>
 </tr>
 <tr>
    <td height="50" width="50">16:00 - 16:15</td>
@@ -225,7 +225,7 @@ Flavio A. Franchina (UNIFE) </td>
    <td height="50">Chemometric interpretation of metabolomics signatures: from unsupervised to supervised statistics and deep learning approaches. <br>Pascual Garcia-Perez, Leilei Zhang (Università Cattolica del Sacro Cuore)</td>
 </tr>
 <tr>
-   <td height="50" width="50">18:00 - 19:45</td>
+   <td height="50" width="50">18:00 - 20:00</td>
    <td colspan="1">Social Aperitivo</td>
 </tr>
 <tr>
@@ -264,15 +264,15 @@ Flavio A. Franchina (UNIFE) </td>
    <td colspan="1">Lunch Break</td>
 </tr>
 <tr>
-   <td height="50" width="50">14:00 - 15:00</td>
-   <td height="50">ONE-ON-ONE: mentoring session with lecturers </td>
-</tr>
-<tr>
-   <td height="50" width="50">15:00 - 16:30</td>
+   <td height="50" width="50">14:00 - 14:45</td>
    <td height="50">Abstract presentations</td>
 </tr>
 <tr>
-   <td height="50" width="50">16:30 - 16:40</td>
+   <td height="50" width="50">14:45 - 15:45</td>
+   <td height="50">ONE-ON-ONE: mentoring session with lecturers </td>
+</tr>
+<tr>
+   <td height="50" width="50">15:45 - 16:00</td>
    <td height="50">Greetings</td>
 </tr>
 </table>
