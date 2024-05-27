@@ -177,7 +177,7 @@ Participants are expected to have basic knowledge of biology and/or biochemistry
 </tr>
   <tr>
    <td height="50" width="50">10:10 - 10:30</td>
-   <td height="50">Metabolomics: a primus inter pares among the omic sciences? <br>Danilo Porro (CNR)</td>
+   <td height="50">Metabolomics Infrastructure<br>Danilo Porro (CNR)</td>
 </tr>
 <tr>
    <td height="50" width="50">10:30 - 11:00</td>
