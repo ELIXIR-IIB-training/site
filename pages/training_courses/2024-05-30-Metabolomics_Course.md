@@ -3,6 +3,7 @@ title: "Metabolomics Approaches for ‘One Health’"
 event_type:  "ELIXIR IIB Workshop"
 type: training_courses
 description: 30-31 May 2024 <br> Milano, Italy
+state: closed
 event:
   - name: "Metabolomics Approaches for ‘One Health’"
     organisers: D. Gaglio <br> S. Giannattasio <br> F. Baldassari <br> C.Musicco <br> A. Via <br> M. Vanoni<br> D. Porro 
