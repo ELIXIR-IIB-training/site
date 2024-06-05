@@ -8,7 +8,7 @@ event:
     organisers: D. Gaglio <br> S. Giannattasio <br> F. Baldassari <br> C.Musicco <br> A. Via <br> M. Vanoni<br> D. Porro 
     venue: Milano, Italy
     event_date: 2024/05/30-31
-    state: open
+    state: closed
 
 short_description: "Metabolomics studies metabolites, impacting medical and environmental sciences, and integrates with the One Health approach, exploring practical applications and current research frontiers."
 teachers: [Anna Calì, Marcella Bonanomi, Duccio Cavalieri, Flavio A. Franchina, Pascual Garcia-Perez, Maria Klapa, Luigi Lucini, Fabrizio Mastrorocco, Claire O’Donovan, Valentina Pasquale, Francesca Scolari, Davide Seveso, Leilei Zhang, Marco Vanoni, Lilia Alberghina, Michael Zimmerman]
