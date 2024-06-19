@@ -3,6 +3,7 @@ title: "Computational Pangenomics"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 19-21 June 2024 <br> Roma, Italy
+state: closed
 event:
   - name: "Computational Pangenomics"
     organisers: V. Colonna <br> E. Garrison <br> A. Guarracino <br> L. Licata <br> F. Villani 
