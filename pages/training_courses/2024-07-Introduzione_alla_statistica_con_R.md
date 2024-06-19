@@ -20,12 +20,12 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+<br>
 
 ## Course Description
 
 This is an R literacy course for people who are not experts in programming. The course will introduce participants to the basic concepts of programming in R and how to perform simple descriptive statistics analysis using R. 
 
-<br>
 <br>
 
 ## Important Dates
@@ -34,13 +34,11 @@ This is an R literacy course for people who are not experts in programming. The 
 - Course date (group 2): **9-11 September 2024** <br>
 
 <br>
-<br>
 
 ### Venue
 
 This is an online course. The selected participants will receive a Zoom link to connect to the course.
 
-<br>
 <br>
 
 ### Fee
@@ -48,13 +46,11 @@ This is an online course. The selected participants will receive a Zoom link to 
 This course is free of charge
 
 <br>
-<br>
 
 ### Organisers
 - Anna Marabotti – Università di Salerno, ELIXIR-IT, Italy
 - Teresa Colombo, Istituto di Biologia e Patologia Molecolari (IBPM - CNR), ELIXIR-IT, Italy
 
-<br>
 <br>
 
 ### Instructors
@@ -62,12 +58,10 @@ This course is free of charge
 - Fabiola De Marco, Università di Salerno, Italy
 
 <br>
-<br>
 
 ### Helpers
 - Nancy D’Arminio, Università di Salerno, Italy 
 
-<br>
 <br>
 
 ## Contact
@@ -75,19 +69,16 @@ For all kinds of queries, please contact the organiser Anna Marabotti at:
 [amarabotti@unisa.it](mailto:amarabotti@unisa.it) or please write to: [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com).
 
 <br>
-<br>
 
 ### Target audience
 The course is designed for young researchers belonging to the Italian Society of Biochemistry and Molecular Biology (SIB), who have no prior knowledge of programming and R.
 
 <br>
-<br>
 
 ### Resources and tools covered (max 50 words)
 - R project: [https://www.r-project.org/](https://www.r-project.org/)
-- Rstudio:
+- Rstudio
 
-<br>
 <br>
 
 ### Learning Outcomes
@@ -98,12 +89,10 @@ By the end of this course, the participants will be able to:
 - Possess a basic knowledge of R that makes it possible to go deeper if necessary
 
 <br>
-<br>
 
 ### Course prerequisites
 No prior understanding of programming and knowledge of R are required. It is mandatory to install R and Rstudio on the participants’ PC before starting the course.
 
-<br>
 <br>
 
 ## Programme
@@ -143,5 +132,6 @@ No prior understanding of programming and knowledge of R are required. It is man
     <td height="50" align=center>Mmodule 5: Topics: Hints of descriptive statistics with R</td>
   </tr>
 
+<br>
 
   The detailed programme and the material of the course will be available soon at this [link](https://maghetta.github.io/Corso-R-livello-base/index) 
