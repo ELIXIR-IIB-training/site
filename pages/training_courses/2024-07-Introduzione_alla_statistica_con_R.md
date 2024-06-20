@@ -1,10 +1,10 @@
 ---
-title: "Introduzione alla statistica con R"
+title: "Statistics and data manipulation with R"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 22-24 July 2024 <br> Online
 event:
-  - name: "Introduzione alla statistica con R"
+  - name: "Statistics and data manipulation with R"
     organisers: A. Marabotti <br> T. Colombo
     venue: Roma, Italy
     event_date: 2024/07/22-24
