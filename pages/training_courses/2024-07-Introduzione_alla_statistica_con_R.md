@@ -82,9 +82,9 @@ The course is designed for young researchers belonging to the Italian Society of
 <br>
 
 ### Learning Outcomes
-By the end of this course, the participants will be able to:
+By the end of this course, the participants will:
 - Know what the R programming language is: areas of use and strengths
-- Know, be able to code and be able to perform basic operations with R (e.g., importing data files into a data.frame; creating and extracting values from vectors, matrices, data.frames or lists; plotting)
+- Be able to code and be able to perform basic operations with R (e.g., importing data files into a data.frame; creating and extracting values from vectors, matrices, data.frames or lists; plotting)
 - Know how to inspect and graphically represent in R basic statistical indicators (mean, median, distribution) of a numerical data set
 - Possess a basic knowledge of R that makes it possible to go deeper if necessary
 
@@ -118,7 +118,7 @@ No prior understanding of programming and knowledge of R are required. It is man
   </tr>
     <tr>
     <td height="50" width="100" align=center> 14:00 - 18:00</td>
-    <td height="50" align=center>module 3. Topics: Data Frames and Graphs in R</td>
+    <td height="50" align=center>Module 3. Topics: Data Frames and Graphs in R</td>
   </tr>
     <tr>
     <td colspan="4" align=center><h3> Wednesday - 24 July</h3></td>
@@ -129,9 +129,9 @@ No prior understanding of programming and knowledge of R are required. It is man
   </tr>
     <tr>
     <td height="50" width="100" align=center> 14:00 - 18:00</td>
-    <td height="50" align=center>Mmodule 5: Topics: Hints of descriptive statistics with R</td>
+    <td height="50" align=center>Module 5: Topics: Hints of descriptive statistics with R</td>
   </tr>
 
 <br>
 
-  The detailed programme and the material of the course will be available soon at this [link](https://maghetta.github.io/Corso-R-livello-base/index) 
+  The detailed programme and the material of the course will be available soon 
