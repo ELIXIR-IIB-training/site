@@ -18,3 +18,9 @@
   endDate: 2024-06-21
   description:  "[More info here](https://elixir-iib-training.github.io/site/2024-06-Pangenomics)"
   location: Roma, Italy
+
+- name: "Introduzione alla statistica con R"
+  startDate: 2024-07-22
+  endDate: 2024-07-24
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
+  location: "online"
