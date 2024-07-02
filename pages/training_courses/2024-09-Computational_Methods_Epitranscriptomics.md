@@ -93,7 +93,7 @@ Acceptance and payment instructions will be notified soon after the application 
 
 ### Helpers
 - Chiara Bruno (CNR, IT)
-- Marilena D’Ambrosio
+- Marilena D’Ambrosio (CNR, IT)
 - Pietro D’Addabbo (UNIBA, IT)
 
 
