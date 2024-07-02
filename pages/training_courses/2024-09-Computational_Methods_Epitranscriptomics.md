@@ -31,6 +31,7 @@ Epitranscriptome refers to all chemical modifications affecting cellular RNAs. A
 <br>
 
 This training course will provide a foundation on the experimental planning, analytical strategies, and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing for epitranscriptome analysis. Additionally, the course will also cover theoretical aspects of RNA editing as well as practical sessions focused on its detection in human/mouse transcriptomes by Illumina RNAseq data. Participants will acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal), and filter RNA variants.
+
 You can find here the complete [program](https://docs.google.com/document/d/1dxu3OFrOvllSAV36AZqIyslyePhazyST/edit). 
 
 <br>
