@@ -22,7 +22,7 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
-![epitrascriptomics_bari](images/2024_events/epitrascriptomics_bari.png
+![epitrascriptomics_bari](images/2024_events/epitrascriptomics_bari.png)
 
 
 <br>
