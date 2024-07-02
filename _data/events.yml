@@ -24,3 +24,9 @@
   endDate: 2024-07-24
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
   location: "online"
+
+- name: "Computational Methods for Epitranscriptomics"
+  startDate: 2024-09-11
+  endDate: 2024-09-13
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-09-Computational_Methods_Epitranscriptomics)"
+  location: Bari, Italy
