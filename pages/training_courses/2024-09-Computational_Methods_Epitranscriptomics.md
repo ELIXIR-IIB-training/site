@@ -22,13 +22,14 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+![epitrascriptomics_bari](images/2024_events/epitrascriptomics_bari.png
+
+
 <br>
 
 ## Course Description
 
 Epitranscriptome refers to all chemical modifications affecting cellular RNAs. Although more than 170 different types have been identified up to now, their precise detection remains challenging. Profiling epitranscriptome modifications require ad hoc sequencing technologies and dedicated computational workflows. While short-read RNA sequencing (e.g., Illumina) is the de facto method for unveiling RNA editing events (rather than transient modifications), direct RNA Sequencing by Oxford Nanopore Technology has recently become one of the most powerful techniques to profile the full repertoire of RNA modifications. Its capacity to directly sequence full-length, native RNA molecules without the need for reverse transcription or PCR amplification offers remarkable advantages compared to other short-read sequencing technologies. However, it also presents various experimental and analytical challenges.
-
-<br>
 
 This training course will provide a foundation on the experimental planning, analytical strategies, and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing for epitranscriptome analysis. Additionally, the course will also cover theoretical aspects of RNA editing as well as practical sessions focused on its detection in human/mouse transcriptomes by Illumina RNAseq data. Participants will acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal), and filter RNA variants.
 
