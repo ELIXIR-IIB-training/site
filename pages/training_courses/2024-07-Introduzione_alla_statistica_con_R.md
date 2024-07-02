@@ -75,7 +75,7 @@ The course is designed for young researchers belonging to the Italian Society of
 
 <br>
 
-### Resources and tools covered (max 50 words)
+### Resources and tools covered 
 - R project: [https://www.r-project.org/](https://www.r-project.org/)
 - Rstudio
 
