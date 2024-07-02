@@ -61,7 +61,7 @@ The course fee is 100 euros, covering access to computing infrastructure (for th
 <br>
 
 ### Selection
-A maximum of 30 candidates will be accepted. Course selection will be done according to the needs of the course as emerging from the application [form](https://docs.google.com/forms/d/e/1FAIpQLSco6bmrpJPmFrIeQxjuAIsyWQgXF2WjO6nPyvL1zOkNwPupNA/viewform). Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)), ELIXIR nodes as well as candidates involved in the following PNRR programs: CN3-RNA, CN1-HPC, AgetIt, and Mnesys. 
+A maximum of **30** candidates will be accepted. Course selection will be done according to the needs of the course as emerging from the application [form](https://docs.google.com/forms/d/e/1FAIpQLSco6bmrpJPmFrIeQxjuAIsyWQgXF2WjO6nPyvL1zOkNwPupNA/viewform). Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)), ELIXIR nodes as well as candidates involved in the following PNRR programs: CN3-RNA, CN1-HPC, AgetIt, and Mnesys. 
 Acceptance and payment instructions will be notified soon after the application deadline.
 
 <br>
