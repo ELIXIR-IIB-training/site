@@ -19,13 +19,13 @@
   description:  "[More info here](https://elixir-iib-training.github.io/site/2024-06-Pangenomics)"
   location: Roma, Italy
 
-- name: "Statistics and data manipulation with R"
+- name: "Statistics and data manipulation with R (Group 1)"
   startDate: 2024-07-22
   endDate: 2024-07-24
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
   location: "online"
 
-- name: "Statistics and data manipulation with R"
+- name: "Statistics and data manipulation with R (Group 2)"
   startDate: 2024-09-09
   endDate: 2024-09-11
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
