@@ -37,9 +37,7 @@ This is an R literacy course for people who are not experts in programming. The 
 
 ### Venue
 
-This is an online course. The selected participants will receive a Zoom link to connect to the course.
-
-<br>
+This is an online course. The selected participants will receive a Zoom link to connect to the course. **IMPORTANT: The course is full. It is no longer possible to register!**
 
 ### Fee
 
