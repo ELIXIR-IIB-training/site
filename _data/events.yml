@@ -25,6 +25,12 @@
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
   location: "online"
 
+- name: "Statistics and data manipulation with R"
+  startDate: 2024-09-09
+  endDate: 2024-09-11
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
+  location: "online"
+
 - name: "Computational Methods for Epitranscriptomics"
   startDate: 2024-09-11
   endDate: 2024-09-13
