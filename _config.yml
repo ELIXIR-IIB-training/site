@@ -11,7 +11,7 @@ description: "Italian elixir platform of training!"
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
 
 baseurl: "/site"
-
+url: "https://elixir-iib-training.github.io/"
 
 sass:
   style: compressed

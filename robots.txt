@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elixir-iib-training.github.io/site/sitemap.xml
