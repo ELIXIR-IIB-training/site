@@ -21,10 +21,20 @@
     {%- endcapture %}
     <meta name="google-site-verification" content="dkWmoiTiUZLLWukJidaCJgboSqF-pPwN3jj1z3ys6MQ"/>
     <meta name="keywords" content="{{keywords}}">
-    <meta property="og:title" content="{{ site.title }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:image" content="//{{site.github.url | remove: 'https://' | remove: 'http://'}}/assets/img/apple-touch-icon.png" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="//{{site.github.url | remove: 'https://' | remove: 'http://'}}/assets/img/apple-touch-icon.png">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/img/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/img/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ 'assets/img/site.webmanifest' | relative_url }}">
+    <link rel="mask-icon" href="{{ 'assets/img/safari-pinned-tab.svg' | relative_url }}" color="#{{site.theme_variables.theme_color | default: 0d6efd }}">
+    <link rel="shortcut icon" href="{{ 'assets/img/favicon.ico' | relative_url }}">
     <meta name="apple-mobile-web-app-title" content="{{site.title}}">
     <meta name="msapplication-TileColor" content="#{{site.theme_variables.theme_color | default: 0d6efd }}">
     <meta name="theme-color" content="#{{site.theme_variables.theme_color | default: 0d6efd }}">
@@ -80,19 +90,33 @@
         });
     </script>
     {%- endif %}
-    <!-- favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/apple-touch-icon.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/img/favicon-32x32.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/img/favicon-16x16.png' | relative_url }}">
-    <link rel="manifest" href="{{ 'assets/img/site.webmanifest' | relative_url }}">
-    <link rel="mask-icon" href="{{ 'assets/img/safari-pinned-tab.svg' | relative_url }}" color="#{{site.theme_variables.theme_color | default: 0d6efd }}">
-    <link rel="shortcut icon" href="{{ 'assets/img/favicon.ico' | relative_url }}">
     <!-- Schema.org metadata -->
-    {% include schemasorg.html %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "{{ site.url }}",
+      "name": "{{ site.title }}",
+      "description": "{{ site.description }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.author }}"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "//{{site.github.url | remove: 'https://' | remove: 'http://'}}/assets/img/apple-touch-icon.png"
+      }
+    }
+    </script>
     {%- if site.gtag and jekyll.environment == "production"%}
     <!-- Google analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
-    <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', '{{ site.gtag }}');</script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.gtag }}');
+    </script>
     {%- endif %}
     {%- if site.plausible and jekyll.environment == "production"%}
     <!-- Plausible -->
