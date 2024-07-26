@@ -30,7 +30,7 @@ This is an R literacy course for people who are not experts in programming. The 
 
 ## Important Dates
 
-~~- Course date (group 1): **22-24 July 2024** <br>~~
+- ~~Course date (group 1): **22-24 July 2024** <br>~~
 - Course date (group 2): **9-11 September 2024** <br>
 
 <br>
