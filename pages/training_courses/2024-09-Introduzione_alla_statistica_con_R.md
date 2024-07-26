@@ -97,6 +97,8 @@ No prior understanding of programming and knowledge of R are required. It is man
 
 The detailed programme and the material of the course will be provided to the participants via e-mail before the starting of the course. The organization of the course will be as following: 
 
+<br>
+
 <table border="1" width="700">
   <tr>
     <td colspan="4" align=center><h3> Monday - 09 September</h3></td>
