@@ -136,4 +136,3 @@ The detailed programme and the material of the course will be provided to the pa
 
 <br>
 
-The material of the course will also be available [here](https://maghetta.github.io/Corso-R-livello-base/)
