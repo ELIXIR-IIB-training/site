@@ -132,7 +132,8 @@ The detailed programme and the material of the course will be provided to the pa
     <td height="50" width="100" align=center> 14:00 - 18:00</td>
     <td height="50" align=center>Module 5: Topics: Hints of descriptive statistics with R</td>
   </tr>
+</table>
 
 <br>
 
-ttt
+The material of the course will also be available [here](https://maghetta.github.io/Corso-R-livello-base/)
