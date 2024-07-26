@@ -30,7 +30,7 @@ This is an R literacy course for people who are not experts in programming. The 
 
 ## Important Dates
 
-- Course date (group 1): **22-24 July 2024** <br>
+~~- Course date (group 1): **22-24 July 2024** <br>~~
 - Course date (group 2): **9-11 September 2024** <br>
 
 <br>
@@ -134,3 +134,4 @@ The detailed programme and the material of the course will be provided to the pa
 
 <br>
 
+The material of the course will also be available [here](https://maghetta.github.io/Corso-R-livello-base/)
