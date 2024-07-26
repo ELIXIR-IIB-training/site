@@ -37,7 +37,7 @@ This is an R literacy course for people who are not experts in programming. The 
 
 ### Venue
 
-This is an online course. The selected participants will receive a Zoom link to connect to the course. **IMPORTANT: The course is full. It is no longer possible to register!**
+This is an online course. The selected participants will receive a Teams link to connect to the course. **IMPORTANT: The course is full. It is no longer possible to register!**
 
 ### Fee
 
@@ -75,7 +75,7 @@ The course is designed for young researchers belonging to the Italian Society of
 
 ### Resources and tools covered 
 - R project: [https://www.r-project.org/](https://www.r-project.org/)
-- Rstudio
+- Rstudio :[https://posit.co/downloads/](https://posit.co/downloads/)
 
 <br>
 
@@ -94,6 +94,8 @@ No prior understanding of programming and knowledge of R are required. It is man
 <br>
 
 ## Programme
+
+The detailed programme and the material of the course will be provided to the participants via e-mail before the starting of the course. The organization of the course will be as following: 
 
 <table border="1" width="700">
   <tr>
@@ -132,4 +134,3 @@ No prior understanding of programming and knowledge of R are required. It is man
 
 <br>
 
-  The detailed programme and the material of the course will be available soon 
