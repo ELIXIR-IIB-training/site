@@ -76,6 +76,7 @@ Acceptance and payment instructions will be notified soon after the application 
 - Ernesto Picardi (UNIBA, IT)
 - Francesca De Leo (CNR-IBIOM, IT)
 - Francesco Nicassio (IIT, IT)
+- Anna Marabotti (UNISA, IT)
 - Graziano Pesole (UNIBA, IT)
 
 <br>
