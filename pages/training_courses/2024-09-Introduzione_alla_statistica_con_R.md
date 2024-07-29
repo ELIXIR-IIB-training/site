@@ -103,19 +103,23 @@ The detailed programme and the material of the course will be provided to the pa
     <td colspan="4" align=center><h3> Monday - 09 September</h3></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center> 11:00 - 13:00</td>
+    <td height="50" width="100" align=center> 10:00 - 11:00</td>
     <td height="50" align=center> Verification of the correct installation of R and Rstudio on participants' computers</td>
   </tr>
-    <tr>
-    <td height="50" width="100" align=center> 14:00 - 18:00</td>
+  <tr>
+    <td height="50" width="100" align=center> 11:00 - 13:00</td>
     <td height="50" align=center>Module 1. Topics: The R programming language; the DataCamp learning platform; Vectors in R.</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center> 14:00 - 18:00</td>
+    <td height="50" align=center>Vectors in R, Factors in R.</td>
   </tr>
     <tr>
     <td colspan="4" align=center><h3> Tuesday - 10 September</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 09:00 - 13:00</td>
-    <td height="50" align=center> Module 2. Topics: Matrices and Factors in R</td>
+    <td height="50" align=center> Module 2. Topics: Matrices in R</td>
   </tr>
     <tr>
     <td height="50" width="100" align=center> 14:00 - 18:00</td>
