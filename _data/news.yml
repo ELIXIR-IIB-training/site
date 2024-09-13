@@ -1,20 +1,15 @@
-- name: "Single Cell Genomics"
-  startDate: 2024-09
-  description: "&nbsp;"
-  location: "Roma, Italy"
-
 - name: "AI and diagnostic imaging"
   startDate: 2024-10
   description: "&nbsp;"
   location: "Roma, Italy"
 
 - name: "Biocontainer"
-  startDate: 2024-10
+  startDate: 2024-11
   description: "&nbsp;"
   location: "Bari, Italy"
 
-- name: "Protein modelling and PPI"
-  startDate: 2024-11
+- name: "Protein-protein interactions"
+  startDate: 2024-12
   description: "&nbsp;"
   location: "online"
 
