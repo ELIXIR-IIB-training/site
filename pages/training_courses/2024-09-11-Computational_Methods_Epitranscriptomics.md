@@ -3,12 +3,13 @@ title: "Computational Methods for Epitranscriptomics"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 11-13 September 2024 <br> Bari, Italy
+state: closed
 event:
   - name: "Computational Methods for Epitranscriptomics"
     organisers: E. Picardi <br> F. De Leo <br> F. Nicassio <br> G. Pesole
     venue: Roma, Italy
     event_date: 2024/09/11-13
-    state: open
+    state: closed
 
 short_description: "This training course will provide a foundation on the experimental planning, analytical strategies, and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications."
 teachers: [Adriano Fonzino, Alessandro Silvestris, Francesco Nicassio, Ernesto Picardi, Tommaso Leonardi, Camilla Ugolini, Logan Mulroney]
