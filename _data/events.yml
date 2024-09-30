@@ -36,3 +36,9 @@
   endDate: 2024-09-13
   description: "[More info here](https://elixir-iib-training.github.io/site/2024-09-Computational_Methods_Epitranscriptomics)"
   location: Bari, Italy
+
+- name: "AI and Diagnostic Imaging"
+  startDate: 2024-10-23
+  endDate: 2024-10-23
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-10-23-AI_and_diagnostic_imaging)"
+  location: Rome, Italy

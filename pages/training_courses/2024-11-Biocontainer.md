@@ -9,7 +9,7 @@ event:
     organisers: []
     teachers: []
     venue: []
-    event_date: 2024/10/01
+    event_date: 2024/11/01
     state: upcoming
 ---
 
