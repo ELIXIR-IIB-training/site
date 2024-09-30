@@ -3,6 +3,7 @@ title: "Statistics and data manipulation with R (Group 2)"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 09-11 September 2024 <br> Online
+state: closed
 event:
   - name: "Statistics and data manipulation with R (Group 2)"
     organisers: A. Marabotti <br> T. Colombo
