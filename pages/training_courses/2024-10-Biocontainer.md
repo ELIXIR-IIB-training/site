@@ -3,7 +3,7 @@ title: "Biocontainer"
 event_type: "ELIXIR Training Course"
 state: upcoming
 type: training_courses
-description: October 2024
+description: November 2024
 event:
   - name: "Biocontainer"
     organisers: []
