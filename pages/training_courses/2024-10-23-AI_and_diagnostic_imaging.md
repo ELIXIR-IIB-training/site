@@ -10,6 +10,7 @@ event:
     teachers: []
     venue: Rome, Italy
     event_date: 2024/10/23
+    state:open
 ---
 
 
