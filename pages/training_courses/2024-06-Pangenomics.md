@@ -9,7 +9,7 @@ event:
     organisers: V. Colonna <br> E. Garrison <br> A. Guarracino <br> L. Licata <br> F. Villani 
     venue: Roma, Italy
     event_date: 2024/06/19-21
-    state: open
+    state: closed
 
 short_description: "Participants will learn about pangenome concepts and gain practical <br>experience building and analyzing pangenome graphs. They will apply these methods to complex <br>research questions that require understanding the relationships between multiple genomes or <br>accounting for variability when analyzing new genomes. By the end of the practical course / <br>workshop, participants will have a strong understanding of pangenome methods based on whole <br>genome assemblies."
 teachers: [Vincenza Colonna, Erik Garrison, Andrea Guarracino, Luana Licata, Flavia Villani]

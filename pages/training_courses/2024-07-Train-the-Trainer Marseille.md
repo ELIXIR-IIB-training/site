@@ -9,7 +9,7 @@ event:
     organisers: L. Khamvongsa-Charbonnier <br> O. Sand <br> A. Zanzoni 
     venue: Marseille, France
     event_date: 2024/07/01-02
-    state: open
+    state: closed
 
 short_description: "The programme objective is to give instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development."
 teachers: [Patricia Palagi, Allegra Via]

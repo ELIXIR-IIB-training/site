@@ -9,7 +9,7 @@ event:
     organisers: A. Marabotti <br> T. Colombo
     venue: Roma, Italy
     event_date: 2024/07/22-24
-    state: open
+    state: closed
 
 short_description: "This is an R literacy course for people who are not experts in programming. <br> The course will introduce participants to the basic concepts of programming in R and how to perform simple descriptive statistics analysis using R."
 teachers: [Teresa Colombo, Fabiola De Marco]
