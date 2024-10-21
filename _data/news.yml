@@ -1,8 +1,3 @@
-- name: "Biocontainer"
-  startDate: 2024-11
-  description: "&nbsp;"
-  location: "Bari, Italy"
-
 - name: "Protein-protein interactions"
   startDate: 2024-12
   description: "&nbsp;"

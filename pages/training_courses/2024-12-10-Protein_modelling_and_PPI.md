@@ -3,7 +3,13 @@ title: "Biological networks: topological analysis and visualization using Cytosc
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 10 December 2024 <br> online
-state: open
+event:
+  - name: "Biological networks: topological analysis and visualization using Cytoscape software"
+    organisers: [A. Marabotti]
+    teachers: [L. Licata]
+    venue: [online]
+    event_date: 2024/12/10
+    state: open
 
 short_description: "This course explores the interactome, mapping protein-protein interactions to understand cell organization and disease disruptions. Using Cytoscape, participants will extract data, build and visualize networks, detect topological properties, identify clusters, and perform functional enrichment analysis. \n"
 teachers: [Luana Licata]
@@ -13,14 +19,6 @@ startDate: "2024/12/10"
 endDate: "2024/12/10"
 duration: P1DT7H
 inLanguage: it-IT 
-
-event:
-  - name: "Biological networks: topological analysis and visualization using Cytoscape software"
-    organisers: [A. Marabotti]
-    teachers: [L. Licata]
-    venue: [online]
-    event_date: 2024/12/10
-    state: open
 ---
 
 ![Logo_PPI](images/2024_events/PPI_2024.png)
