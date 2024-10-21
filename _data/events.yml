@@ -46,11 +46,11 @@
 - name: "Software Environments, Containers, and Notebooks (for Bioinformatics and Computational Biology)"
   startDate: 2024-11-26
   endDate: 2024-11-26
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-10-23-AI_and_diagnostic_imaging)"
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-11-26-Biocontainer)"
   location: Naples, Italy
 
 - name: "Biological networks: topological analysis and visualization using Cytoscape software"
   startDate: 2024-12-10
   endDate: 2024-12-10
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-10-23-AI_and_diagnostic_imaging)"
+  description: "[More info here](https://elixir-iib-training.github.io/site/2024-12-10-Protein_modelling_and_PPI)"
   location: online
