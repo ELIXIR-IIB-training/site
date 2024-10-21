@@ -1,6 +1,6 @@
 ---
 title: "School of Python for genomics <i>Massimiliano Orsini</i>. Intermediate module: Analysing your genomic data with Python"
-event_type:  "ELIXIR IIB Training Course"
+event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 30 January - 2 February 2024 <br> Roma, Italy
 state: closed
