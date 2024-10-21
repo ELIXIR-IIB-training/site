@@ -48,6 +48,7 @@ Teaching Methods:
 
 ### Venue
 
+The course is especially dedicated to selected participants to the BBCC 2024 conference [https://www.bbcc-meetings.it/bbcc2024/](https://www.bbcc-meetings.it/bbcc2024/)
 The course will be held at CNR - Consiglio Nazionale delle Ricerche
 Via Pietro Castellino 111 - 80131 Napoli (NA), Italy [Link to the maps](https://maps.app.goo.gl/UNV5mfeN9hkemJTv8)
 
@@ -63,6 +64,7 @@ The course does not include a fee
 
 ### Selection  
 
+The course is especially dedicated to selected participants to the BBCC 2024 conference [https://www.bbcc-meetings.it/bbcc2024/](https://www.bbcc-meetings.it/bbcc2024/)
 A maximum of 15 candidates will be selected on the basis of an assessment of their knowledge and skills. Selected participants will be notified by 16 november 2024
 
 <br>

@@ -143,7 +143,7 @@ Participants don’t need to have bioinformatics skills and previous knowledge o
 
 ## Registration
 
-Registration link will be available soon.
+Please refer directly to the Web site [https://www.blendingbb.it/ymw2024/](https://www.blendingbb.it/ymw2024/)
 
 <br>
 <br>
