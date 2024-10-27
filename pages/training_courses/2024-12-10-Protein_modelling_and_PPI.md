@@ -61,7 +61,7 @@ The course does not include a fee
 
 ### Selection  
 
-A maximum of 20 candidates will be selected on a **first-come- first-served basis**. Selected participants will be notified by **3rd December 2024**.
+A maximum of 30 candidates will be selected on a **first-come- first-served basis**. Selected participants will be notified by **3rd December 2024**.
 
 <br>
 <br>
@@ -76,13 +76,14 @@ A maximum of 20 candidates will be selected on a **first-come- first-served basi
 ### Helpers
 
 - Alessia Pinto, PhD student, University of Rome “Tor Vergata”, ELIXIR-IT, Italy
-
+- Francesco Gregoris, University of Padua
 <br>
 <br>
 
 ### Organisers
 
 - Prof. Anna Marabotti, University of Salerno, ELIXIR-IT, Italy
+- Prof. Luana Licata - University of Rome “Tor Vergata”, ELIXIR-IT, Italy
 
 <br>
 <br>
@@ -171,7 +172,7 @@ Please refer directly to the Web site [https://www.blendingbb.it/ymw2024/](https
   </tr>
   <tr>
     <td height="50" width="100" align=center>10:30-10:45</td>
-    <td colspan="3" height="50" align=center>Lunch break</td>
+    <td colspan="3" height="50" align=center>Break</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>10:45-13:00</td>
