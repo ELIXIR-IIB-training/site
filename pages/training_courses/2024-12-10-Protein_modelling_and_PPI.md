@@ -76,7 +76,7 @@ A maximum of 30 candidates will be selected on a **first-come- first-served basi
 ### Helpers
 
 - Alessia Pinto, PhD student, University of Rome “Tor Vergata”, ELIXIR-IT, Italy
-- Francesco Gregoris, University of Padua
+- Francesco Gregoris, PhD student, University of Padua
 <br>
 <br>
 
@@ -97,7 +97,7 @@ For all kinds of queries, please contact the organizer [Anna Marabotti](mailto:a
 
 ### Target audience
 
-The course is for people participating to the workshop: “Young Minds at Work: Blending Biochemistry and Bioinformatics - 2nd edition”
+The course is for people participating to the workshop: [“Young Minds at Work: Blending Biochemistry and Bioinformatics - 2nd edition”](https://www.blendingbb.it/ymw2024/)
 
 <br>
 <br>
