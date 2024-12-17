@@ -3,13 +3,14 @@ title: "Software Environments, Containers, and Notebooks (for Bioinformatics and
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 26 November 2024 <br> Napoli, Italy
+state: closed
 event:
   - name: "Software Environments, Containers, and Notebooks (for Bioinformatics and Computational Biology)"
     organisers: [A. Facchiano, A. Marabotti, A. Via]
     teachers: [R. Bonnal]
     venue: [Naples, Italy]
     event_date: 2024/11/26
-    state: open
+    state: closed
 
 short_description: "The teaching methods include theoretical sessions with practical examples, hands-on exercises with Conda, Docker, and Jupyter Notebooks, case studies on collaborative research projects, and interactive Q&A workshops to address specific challenges.\n"
 teachers: [Raoul Bonnal]
