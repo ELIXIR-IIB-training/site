@@ -3,13 +3,13 @@ title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 10-12 February 2025 <br> Bari, Italy
-state: open
+state: closed
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
     organisers: F. De Leo <br> M. D'ambrosio <br> C. Bruno <br> I. Artuso
     venue: Bari, Italy
     event_date: 2025/02/10-12
-    state: open
+    state: closed
 
 short_description: "This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package. \n"
 teachers: [Luca Alessandri, Raffaele Calogero]
