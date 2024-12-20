@@ -1,7 +1,7 @@
 ---
 title: "Computational Methods for Epitranscriptomics"
 event_type:  "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 11-13 September 2024 <br> Bari, Italy
 state: closed
 event:
