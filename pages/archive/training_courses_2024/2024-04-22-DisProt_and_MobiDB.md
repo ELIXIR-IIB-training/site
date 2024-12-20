@@ -1,7 +1,7 @@
 ---
 title: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
 event_type:  "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 22 April 2024 <br> Online
 state: closed
 
