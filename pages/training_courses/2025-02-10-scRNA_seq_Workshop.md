@@ -6,15 +6,14 @@ description: 10-12 February 2025 <br> Bari, Italy
 state: open
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
-    organisers: [F. De Leo, M. D'ambrosio, C. Bruno, I. Artuso]
-    teachers: [L. Alessandri, R. Calogero]
-    venue: [online]
-    event_date: 2025/02/10
+    organisers: F. De Leo <br> M. D'ambrosio <br> C. Bruno <br> I. Artuso
+    venue: Bari, Italy
+    event_date: 2025/02/10-12
     state: open
 
 short_description: "This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package. \n"
 teachers: [Luca Alessandri, Raffaele Calogero]
-keywords: "scRNA-seq, rCASC package, clustering methods, Genomics, Bioinformatics."
+keywords: "scRNA-seq, rCASC package, clustering methods, Genomics, Bioinformatics"
 courseMode: onsite
 addressLocality: Bari
 addressCountry: Italy
@@ -28,15 +27,15 @@ inLanguage: it-IT
 ![BITS](images/2025_events/BITSLogo.jpg)  
 ![Elixir Single Cell Community](images/2025_events/sco.png)
 ![Infolife](images/2025_events/Logo_infolige.jpg)  
-![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/)  
-![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg)
+![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png)  
+![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.png)
 
 <br>
 <br>
 
 ## Course Description
 
-This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package (https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control for single-cell sequence outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also offers an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed decisions during analysis. Practical, hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights.
+This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control for single-cell sequence outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also offers an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed decisions during analysis. Practical, hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights.
 
 
 <br>
@@ -56,7 +55,7 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 
 University of Bari  
 Aula 2, Old Biology Department, University Campus,  
-University of Bari Aldo Moro \[[https://maps.app.goo.gl/jsjYKkhYoARdYTtr6](https://maps.app.goo.gl/jsjYKkhYoARdYTtr6)\](google maps link)  
+University of Bari Aldo Moro [https://maps.app.goo.gl/jsjYKkhYoARdYTtr6](google maps link)  
 Via Orabona 4  
 70125 Bari, Italy
 
