@@ -5,8 +5,10 @@ subitems:
     url: /training_courses
     image_url: /assets/img/section-icons/training_courses.svg
     subitems: 
-      - title: 2024
+      - title: 2025
         url: /training_courses
+      - title: 2024
+        url: /training_courses_2024
       - title: 2023
         url: /training_courses_2023
       - title: 2022
@@ -26,8 +28,10 @@ subitems:
     url: /meetings_workshops
     image_url: /assets/img/section-icons/events.svg
     subitems:
-      - title: 2024
+      - title: 2025
         url: /meetings_workshops
+      - title: 2024
+        url: /meetings_workshops_2024
       - title: 2023
         url: /meetings_workshops_2023
       - title: 2022
