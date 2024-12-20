@@ -1,7 +1,7 @@
 ---
 title: "AI and Diagnostic Imaging"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 23 October 2024 <br> Rome, Italy
 state: closed
 event:
