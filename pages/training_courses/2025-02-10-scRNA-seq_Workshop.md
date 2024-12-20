@@ -80,46 +80,38 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 
 ### Instructor
 
-- Raffaele Calogero \- University of Turin, Italy  
-- Luca Alessandri \- University of Turin, Italy
+- Raffaele Calogero, University of Turin, Italy  
+- Luca Alessandri, University of Turin, Italy
 
 <br>
 <br>
 
 ### Helpers
 
-- Ernesto Picardi \- University of Bari, Italy  
-- Adriano Fonzino \- University of Bari, Italy  
-- Pietro D’Addabbo \- University of Bari, Italy 
-
-<br>
-<br>
-
-### Organisers
-
-- Prof. Anna Marabotti, University of Salerno, ELIXIR-IT, Italy
-- Prof. Luana Licata - University of Rome “Tor Vergata”, ELIXIR-IT, Italy
+- Ernesto Picardi, University of Bari, Italy  
+- Adriano Fonzino, University of Bari, Italy  
+- Pietro D’Addabbo, University of Bari, Italy 
 
 <br>
 <br>
 
 ### Scientific secretary
 
-- Raffaele Calogero \- University of Turin, Italy  
-- Ernesto Picardi \- University of Bari, Italy  
-- Loredana Le Pera \- ISS, Rome, Italy (ELIXIR-IT Training Platform)  
-- Allegra Via \- CNR, Rome, Italy (ELIXIR-IT Training Platform)  
-- Graziano Pesole \- University of Bari, Italy
+- Raffaele Calogero, University of Turin, Italy  
+- Ernesto Picardi, University of Bari, Italy  
+- Loredana Le Pera, ISS, Rome, Italy (ELIXIR-IT Training Platform)  
+- Allegra Via, CNR, Rome, Italy (ELIXIR-IT Training Platform)  
+- Graziano Pesole, University of Bari, Italy
 
 <br>
 <br>
 
 ### Organising secretary
 
-- Francesca De Leo \- CNR, Bari, Italy  
-- Marilena D’Ambrosio \- CNR, Bari, Italy  
+- Francesca De Leo, CNR, Bari, Italy  
+- Marilena D’Ambrosio, CNR, Bari, Italy  
 - Chiara Bruno, CNR, Italy  
-- Irene Artuso \- ISS, Rome, Italy (ELIXIR-IT Training Platform)
+- Irene Artuso, ISS, Rome, Italy (ELIXIR-IT Training Platform)
 
 ## Contact 
 
