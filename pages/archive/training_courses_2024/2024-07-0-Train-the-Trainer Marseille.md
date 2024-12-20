@@ -1,7 +1,7 @@
 ---
 title: "Train-the-Trainer Marseille"
 event_type:  "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 01-02 July 2024 <br> Marseille, France
 state: closed
 event:
