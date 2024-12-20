@@ -25,7 +25,6 @@ inLanguage: it-IT
 ---
 
 ![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg)
-![BITS](images/2025_events/
 ![BITS](images/2025_events/BITSLogo.jpg)  
 ![Elixir Single Cell Community](images/2025_events/sco.png)
 ![Infolife](images/2025_events/Logo_infolige.jpg)  
