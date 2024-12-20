@@ -1,7 +1,7 @@
 ---
 title: "Software Environments, Containers, and Notebooks (for Bioinformatics and Computational Biology)"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 26 November 2024 <br> Napoli, Italy
 state: closed
 event:
