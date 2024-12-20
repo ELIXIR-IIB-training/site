@@ -1,7 +1,7 @@
 ---
 title: "Biological networks: topological analysis and visualization using Cytoscape software"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2024
 description: 10 December 2024 <br> online
 state: closed
 event:
