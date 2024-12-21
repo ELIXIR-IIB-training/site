@@ -81,8 +81,6 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 - Raffaele Calogero, University of Turin, Italy  
 - Luca Alessandri, University of Turin, Italy
 
-<br>
-<br>
 
 ### Helpers
 
@@ -111,7 +109,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 - Chiara Bruno, CNR, Italy  
 - Irene Artuso, ISS, Rome, Italy (ELIXIR-IT Training Platform)
 
-## Contact 
+### Contact 
 
 For all kinds of queries, please contact the Local Organizers at: [elixir.it.iib@gmail.com](mailto:elixir.it.iib@gmail.com) 
 
