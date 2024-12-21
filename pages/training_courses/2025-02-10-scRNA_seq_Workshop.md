@@ -6,7 +6,7 @@ description: 10-12 February 2025 <br> Bari, Italy
 state: open
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
-    organisers: F. De Leo <br> M. D'ambrosio <br> C. Bruno <br> I. Artuso
+    organisers: R. Calogero <br> E. Picardi <br> F. De Leo <br> A. Via <br> L. Le Pera <br> G. Pesole
     venue: Bari, Italy
     event_date: 2025/02/10-12
     state: upcoming
@@ -91,20 +91,20 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 <br>
 <br>
 
-### Scientific secretary
+### Scientific/Organising committee
 
 - Raffaele Calogero, University of Turin, Italy  
 - Ernesto Picardi, University of Bari, Italy  
 - Loredana Le Pera, ISS, Rome, Italy (ELIXIR-IT Training Platform)  
-- Allegra Via, Sapienza University, Rome, Italy (ELIXIR-IT Training Platform)  
+- Allegra Via, Sapienza University, Rome, Italy (ELIXIR-IT Training Platform)
+- Francesca De Leo, CNR, Bari, Italy  
 - Graziano Pesole, University of Bari, Italy
 
 <br>
 <br>
 
 ### Organising secretary
-
-- Francesca De Leo, CNR, Bari, Italy  
+  
 - Marilena D’Ambrosio, CNR, Bari, Italy  
 - Chiara Bruno, CNR, Italy  
 - Irene Artuso, ISS, Rome, Italy (ELIXIR-IT Training Platform)
