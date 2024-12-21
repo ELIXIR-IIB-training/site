@@ -98,7 +98,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 - Raffaele Calogero, University of Turin, Italy  
 - Ernesto Picardi, University of Bari, Italy  
 - Loredana Le Pera, ISS, Rome, Italy (ELIXIR-IT Training Platform)  
-- Allegra Via, CNR, Rome, Italy (ELIXIR-IT Training Platform)  
+- Allegra Via, Sapienza University, Rome, Italy (ELIXIR-IT Training Platform)  
 - Graziano Pesole, University of Bari, Italy
 
 <br>
