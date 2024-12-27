@@ -12,7 +12,7 @@ event:
     state: upcoming
 
 short_description: "This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package. \n"
-teachers: [Luca Alessandri, Raffaele Calogero]
+teachers: [Luca Alessandrì, Raffaele Calogero]
 keywords: "scRNA-seq, rCASC package, clustering methods, Genomics, Bioinformatics"
 courseMode: onsite
 addressLocality: Bari
