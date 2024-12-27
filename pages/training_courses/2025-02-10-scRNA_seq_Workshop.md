@@ -23,8 +23,8 @@ duration: P3DT7H
 inLanguage: en-EN 
 ---
 
-![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg)
-![BITS](images/2025_events/BITSLogo.jpg)  
+![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg){: height="200px" width="200px"}
+![BITS](images/2025_events/BITSLogo.jpg){: height="200px" width="200px"}
 ![Elixir Single Cell Community](images/2025_events/sco.png){: height="200px" width="200px"}
 ![Infolife](images/2025_events/Logo_infolife.jpg){: height="200px" width="200px"}
 ![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png){: height="200px" width="200px"}
