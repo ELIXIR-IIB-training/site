@@ -26,9 +26,9 @@ inLanguage: it-IT
 ![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg)
 ![BITS](images/2025_events/BITSLogo.jpg)  
 ![Elixir Single Cell Community](images/2025_events/sco.png)
-![Infolife](images/2025_events/Logo_infolige.jpg)  
+![Infolife](images/2025_events/Logo_infolife.jpg)  
 ![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png)  
-![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.png)
+![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg)
 
 <br>
 <br>
