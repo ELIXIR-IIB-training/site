@@ -20,15 +20,15 @@ addressCountry: Italy
 startDate: "2025/02/10"
 endDate: "2025/02/12"
 duration: P3DT7H
-inLanguage: it-IT 
+inLanguage: en-EN 
 ---
 
 ![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg)
 ![BITS](images/2025_events/BITSLogo.jpg)  
-![Elixir Single Cell Community](images/2025_events/sco.png)
-![Infolife](images/2025_events/Logo_infolife.jpg)  
-![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png){: height="100px" width="100px"}
-![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg){: height="100px" width="100px"}
+![Elixir Single Cell Community](images/2025_events/sco.png){: height="200px" width="200px"}
+![Infolife](images/2025_events/Logo_infolife.jpg){: height="200px" width="200px"}
+![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png){: height="200px" width="200px"}
+![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg){: height="200px" width="200px"}
 
 <br>
 <br>
@@ -55,7 +55,7 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 
 University of Bari  
 Aula 2, Old Biology Department, University Campus,  
-University of Bari Aldo Moro [https://maps.app.goo.gl/jsjYKkhYoARdYTtr6](google maps link)  
+University of Bari Aldo Moro [google maps link](https://maps.app.goo.gl/jsjYKkhYoARdYTtr6)
 Via Orabona 4  
 70125 Bari, Italy
 
@@ -164,7 +164,7 @@ Before starting the course, participants are requested to follow a brief and sim
 
 ## Registration
 
-([link to registration form](https://docs.google.com/forms/d/e/1FAIpQLSeXBMBvdFCoGq9klKMwmXZjx9d-v2G-im-HSqbjJoyIf4cKxg/viewform))
+([link to registration form](https://forms.gle/Aj9VaxdkBhwFEZnB8))
 
 <br>
 <br>
