@@ -79,7 +79,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 ### Instructor
 
 - Raffaele Calogero, University of Turin, Italy  
-- Luca Alessandri, University of Turin, Italy
+- Luca Alessandrì, University of Turin, Italy
 
 
 ### Helpers
