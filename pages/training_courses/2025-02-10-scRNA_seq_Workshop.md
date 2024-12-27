@@ -55,8 +55,8 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 
 University of Bari  
 Aula 2, Old Biology Department, University Campus,  
-University of Bari Aldo Moro [google maps link](https://maps.app.goo.gl/jsjYKkhYoARdYTtr6)
-Via Orabona 4  
+University of Bari Aldo Moro [google maps link](https://maps.app.goo.gl/jsjYKkhYoARdYTtr6)<br>
+Via Orabona 4<br>  
 70125 Bari, Italy
 
 <br>
