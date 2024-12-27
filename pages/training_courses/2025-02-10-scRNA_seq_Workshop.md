@@ -106,7 +106,8 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 ### Organising secretary
   
 - Marilena D’Ambrosio, CNR, Bari, Italy  
-- Chiara Bruno, CNR, Italy  
+- Chiara Bruno, CNR, Italy
+- Gianmarco Pascarella - CNR, Italy (ELIXIR-IT Training Platform)
 - Irene Artuso, ISS, Rome, Italy (ELIXIR-IT Training Platform)
 
 <br>
