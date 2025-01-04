@@ -64,7 +64,7 @@ Via Orabona 4
 
 ### Fee 
 
-The course includes a fee of **150 Euros for academic attendees** and **400 Euros for industry professionals**. The fee covers lunch and coffee breaks throughout the duration of the course. Participants are expected to pay their own travel and accommodation costs (if any)
+The course includes a fee of **150 Euros for academic attendees** and **400 Euros for industry professionals**. Participants are expected to pay their own travel and accommodation costs (if any).
 
 <br>
 <br>
