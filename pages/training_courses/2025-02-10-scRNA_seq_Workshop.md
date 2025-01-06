@@ -50,7 +50,7 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 <br>
 <br>
 
-## Venue
+### Venue
 
 University of Bari  
 Aula 2, Old Biology Department, University Campus,  
@@ -61,27 +61,27 @@ Via Orabona 4
 <br>
 <br>
 
-## Fee 
+### Fee 
 
 The course includes a fee of **150 Euros for academic attendees** and **400 Euros for industry professionals**. Participants are expected to pay their own travel and accommodation costs (if any).
 
 <br>
 <br>
 
-## Selection  
+### Selection  
 
 A maximum of **20 candidates** will be selected on a **first-come- first-served basis**. Selected participants will be notified by **27th January 2025**.
 
 <br>
 <br>
 
-## Instructors
+### Instructors
 
 - Raffaele Calogero, University of Turin, Italy  
 - Luca Alessandrì, University of Turin, Italy
 
 
-## Helpers
+### Helpers
 
 - Ernesto Picardi, University of Bari, Italy  
 - Adriano Fonzino, University of Bari, Italy  
@@ -90,7 +90,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 <br>
 <br>
 
-## Scientific/Organising committee
+### Scientific/Organising committee
 
 - Raffaele Calogero, University of Turin, Italy  
 - Ernesto Picardi, University of Bari, Italy  
@@ -102,7 +102,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 <br>
 <br>
 
-## Organising secretary
+### Organising secretary
   
 - Marilena D’Ambrosio, CNR, Bari, Italy  
 - Chiara Bruno, CNR, Italy
@@ -118,14 +118,14 @@ For all kinds of queries, please contact the Local Organizers at: [elixir.it.iib
 <br>
 <br>
 
-## Target audience
+### Target audience
 
 A maximum of 20 candidates will be selected. The workshop is suitable for life scientists who are new to single cell gene expression technology data analysis. It is open to PhD and Post-Doc research scientists, as well as team leaders and PIs. No prior knowledge of statistics or computing skills is required. However, a basic understanding of R programming is preferred. Prior knowledge of single-cell sequencing technologies is required. 
 
 <br>
 <br>
 
-## Aims of the workshop 
+### Aims of the workshop 
 
 - Introduce the principles and importance of designing effective scRNA-seq experiments.   
 - Guide participants through quality control, data reduction, and clustering methods for scRNA-seq data.   
@@ -134,14 +134,14 @@ A maximum of 20 candidates will be selected. The workshop is suitable for life s
 <br>
 <br>
 
-## Resources and tools covered
+### Resources and tools covered
 
 rCASC package for scRNA-seq analysis ([https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC))
 
 <br>
 <br>
 
-## Learning Outcomes
+### Learning Outcomes
 
 By the end of this course, participants will be able to:
 
@@ -155,7 +155,7 @@ By the end of this course, participants will be able to:
 <br>
 <br>
 
-## Course prerequisites
+### Course prerequisites
 
 Before starting the course, participants are requested to follow a brief and simple course on R, approximately 4 hours. The video lessons and lesson pdfs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
 
