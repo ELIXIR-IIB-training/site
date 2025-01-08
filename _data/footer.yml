@@ -12,7 +12,7 @@ columns:
     src: 'assets/img/BANNER_CNR.png'
     alt: BANNER_CNR
   - type: links
-    width: 3
+    width: 2
     children: 
       - url_text: Elixir Europe
         url: https://elixir-europe.org/
@@ -20,12 +20,12 @@ columns:
         url: https://elixir-italy.org/
   - type: image
     image_width: 200px
-    width: 2
+    width: 3
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics        
   - type: image
     image_width: 300px
-    width: 3
+    width: 2
     src: 'assets/logos/NextGenIT.jpg'
     alt: Elixir_NextGenIT
   - type: image
