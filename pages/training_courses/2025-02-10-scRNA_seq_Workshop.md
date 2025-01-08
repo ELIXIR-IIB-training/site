@@ -187,11 +187,11 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>09:30-12:30</td>
     <td height="50" align=center>Lecture</td>
-    <td height="50">Experimental design <br>Reproducibility<br>Dense and sparse matrices<br>Data structure 10xgenomics, visium, curio bioscience</td>
+    <td height="50" align=left>Experimental design <br>Reproducibility<br>Dense and sparse matrices<br>Data structure 10xgenomics, visium, curio bioscience</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="4" height="50"><i>Lunch break</i></td>
+    <td colspan="4" height="50" align=left><i>Lunch break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
@@ -208,7 +208,7 @@ Before starting the course, participants are requested to follow a brief and sim
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="4" height="50"><i>Lunch break</i></td>
+    <td colspan="4" height="50" align=left><i>Lunch break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
@@ -225,7 +225,7 @@ Before starting the course, participants are requested to follow a brief and sim
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="4" height="50"><i>Lunch break</i></td>
+    <td colspan="4" height="50" align=left><i>Lunch break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
