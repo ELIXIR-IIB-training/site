@@ -196,7 +196,7 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
     <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">QC Data imputation/normalisation <br> Exercises</td>
+    <td height="50">QC<br>Data imputation/normalisation<br>Exercises</td>
   </tr>
   <tr>
     <td colspan="4" align=center><h3>11 February</h3></td>
@@ -204,7 +204,7 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>09:30-12:30</td>
     <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Dimensionality reduction Clustering <br> Exercises</td>
+    <td height="50">Dimensionality reduction<br>Clustering<br>Exercises</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
@@ -213,7 +213,7 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
     <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Cluster's specific genes extraction <br> Exercises</td>
+    <td height="50">Cluster's specific genes extraction<br>Exercises</td>
   </tr>
   <tr>
     <td colspan="4" align=center><h3>12 February</h3></td>
@@ -221,7 +221,7 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>09:30-12:30</td>
     <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Cell type annotation <br> Exercises</td>
+    <td height="50">Cell type annotation<br>Exercises</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
@@ -230,5 +230,5 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
     <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Data integration <br> Exercises</td>
+    <td height="50">Data integration<br>Exercises</td>
   </tr>
