@@ -9,10 +9,10 @@ columns:
   - type: image
     image_width: 200px
     width: 3
-    src: 'assets/img/NextGenerationEU.png'
-    alt: NextGenerationEU
+    src: 'assets/img/BANNER_CNR.png'
+    alt: BANNER_CNR
   - type: image
-    image_width: 200px
+    image_width: 100px
     width: 2
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics
