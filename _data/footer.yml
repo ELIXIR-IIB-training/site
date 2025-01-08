@@ -7,12 +7,12 @@ columns:
     src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Elixir_ITT_Logo
   - type: image
-    image_width: 200px
+    image_width: 300px
     width: 3
     src: 'assets/img/BANNER_CNR.png'
     alt: BANNER_CNR
   - type: image
-    image_width: 300px
+    image_width: 200px
     width: 2
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics
