@@ -187,7 +187,7 @@ Before starting the course, participants are requested to follow a brief and sim
   <tr>
     <td height="50" width="100" align=center>09:30-12:30</td>
     <td height="50" align=center>Lecture</td>
-    <td height="50" align=left>Experimental design <br>Reproducibility<br>Dense and sparse matrices<br>Data structure 10xgenomics, visium, curio bioscience</td>
+    <td height="50">Experimental design <br>Reproducibility<br>Dense and sparse matrices<br>Data structure 10xgenomics, visium, curio bioscience</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
