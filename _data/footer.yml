@@ -12,7 +12,7 @@ columns:
     src: 'assets/img/BANNER_CNR.png'
     alt: BANNER_CNR
   - type: text
-    width: 2
+    width: 3
     content:  
   - type: links
     width: 2
