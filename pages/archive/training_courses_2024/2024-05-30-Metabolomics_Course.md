@@ -23,7 +23,8 @@ duration: P2DT18H
 inLanguage: it-IT   
 ---
 <br>
-<br>
+
+![Banner](assets/img/Banner_CNR.png){: height="1200px" width="1200px"}
 
 {% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="4" %}
 
