@@ -30,7 +30,7 @@ inLanguage: en-EN
 ![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png){: height="200px" width="200px"}
 ![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg){: height="200px" width="200px"}
 -->
-![Banner](images/2025_events/Banner_loghi_scRNA.png){: height="1000px" width="1000px"}
+![Banner](images/2025_events/Banner_loghi_scRNA.png){: height="1200px" width="1200px"}
 
 <br>
 <br>
