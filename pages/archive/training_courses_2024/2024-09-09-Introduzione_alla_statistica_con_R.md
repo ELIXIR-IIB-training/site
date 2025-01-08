@@ -21,6 +21,8 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
+
 <br>
 
 ## Course Description

@@ -24,7 +24,8 @@ duration: P1DT7H
 inLanguage: it-IT 
 ---
 
-<br>
+![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
+
 <br>
 
 ## Course Description

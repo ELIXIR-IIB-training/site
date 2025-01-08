@@ -23,6 +23,8 @@ duration: P3DT19H
 inLanguage: it-IT   
 ---
 
+![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
+
 <br>
 
 ![Logo_IIB](images/infrastructures/logo_iib.png) ![Logo_Bicocca](images/infrastructures/logo_bicocca.png)![Elixir_Excelerate](images/infrastructures/Logo_excelerate_whitebackground.png){: height="200px" width="200px"} <br>

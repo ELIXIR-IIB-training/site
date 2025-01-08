@@ -23,7 +23,6 @@ inLanguage: it-IT
 ---
 
 
-
 [{% include image.html file="/2024_events/AI_imaging.png" alt="AI_imaging" max-width="10" %}](https://www.rometechnopole.it/news/il-ruolo-della-intelligenza-artificiale-nellimaging-diagnostico/)
 
 <br>

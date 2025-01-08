@@ -22,8 +22,10 @@ endDate: "2024/05/31"
 duration: P2DT18H
 inLanguage: it-IT   
 ---
-<br>
 
+![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
+
+<br>
 
 {% include image.html file="/2024_events/BannerMetabolomicsWorkshop.jpg" alt="BannerMetabolomicsWorkshop" max-width="4" %}
 
