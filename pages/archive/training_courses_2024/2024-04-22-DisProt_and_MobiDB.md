@@ -24,7 +24,7 @@ event:
 
 <br>
 
-![Banner](assets/img/Banner_CNR.png){: height="1200px" width="1200px"}
+![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
 
 <br>
 
