@@ -9,7 +9,7 @@ columns:
   - type: image
     image_width: 900px
     width: 3
-    src: 'images/funders/BANNER_CNR.png'
+    src: 'images/funders/Banner_CNR.png'
     alt: BANNER_CNR
   - type: image
     image_width: 200px
