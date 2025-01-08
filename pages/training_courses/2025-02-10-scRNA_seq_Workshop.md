@@ -191,7 +191,7 @@ Before starting the course, participants are requested to follow a brief and sim
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=center>Lunch break</td>
+    <td colspan="4" height="50" align=center>Lunch break</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
@@ -208,7 +208,7 @@ Before starting the course, participants are requested to follow a brief and sim
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=center>Lunch break</td>
+    <td colspan="4" height="50" align=center>Lunch break</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
@@ -225,7 +225,7 @@ Before starting the course, participants are requested to follow a brief and sim
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=center>Lunch break</td>
+    <td colspan="4" height="50" align=center>Lunch break</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>13:30-16:30</td>
