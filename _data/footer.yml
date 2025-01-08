@@ -20,7 +20,7 @@ columns:
         url: https://elixir-italy.org/
   - type: image
     image_width: 200px
-    width: 2
+    width: 3
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics        
   - type: image
