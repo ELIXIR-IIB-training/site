@@ -7,7 +7,7 @@ columns:
     src: 'assets/logos/elixir_itt_white_nob.png'
     alt: Elixir_ITT_Logo
   - type: image
-    image_width: 700px
+    image_width: 600px
     width: 3
     src: 'images/funders/Banner_CNR3.png'
     alt: BANNER_CNR
