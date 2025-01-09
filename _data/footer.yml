@@ -8,16 +8,16 @@ columns:
     alt: Elixir_ITT_Logo
   - type: image
     image_width: 700px
-    width: 2
+    width: 3
     src: 'images/funders/Banner_CNR3.png'
     alt: BANNER_CNR
   - type: image
     image_width: 200px
-    width: 2
+    width: 3
     src: 'assets/logos/CNR_Biomics.png'
     alt: CNR_Biomics 
   - type: links
-    width: 2
+    width: 3
     children: 
       - url_text: Elixir Europe
         url: https://elixir-europe.org/
