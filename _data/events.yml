@@ -1,56 +1,9 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
 
-- name: "Metabolomics Approaches for ‘One Health’"
-  startDate: 2024-05-30
-  endDate: 2024-05-31
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course)"
-  location: Milano, Italy
-
-- name: "EMBO Practical Course Population Genomics: background and tools"
-  startDate: 2024-06-10
-  endDate: 2024-06-16
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-06-10-population-genomics-online)" 
-  location: Castellammare di Stabia, Italy
-
-- name: "Computational Pangenomics"
-  startDate: 2024-06-19
-  endDate: 2024-06-21
-  description:  "[More info here](https://elixir-iib-training.github.io/site/2024-06-Pangenomics)"
-  location: Roma, Italy
-
-- name: "Statistics and data manipulation with R (Group 1)"
-  startDate: 2024-07-22
-  endDate: 2024-07-24
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-07-Introduzione_alla_statistica_con_R)"
-  location: "online"
-
-- name: "Statistics and data manipulation with R (Group 2)"
-  startDate: 2024-09-09
-  endDate: 2024-09-11
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-09-Introduzione_alla_statistica_con_R)"
-  location: "online"
-
-- name: "Computational Methods for Epitranscriptomics"
-  startDate: 2024-09-11
-  endDate: 2024-09-13
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-09-Computational_Methods_Epitranscriptomics)"
+- name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
+  startDate: 2025-05-10
+  endDate: 2025-02-12
+  description: "[More info here](https://elixir-iib-training.github.io/site/2025-02-10-scRNA_seq_Workshop)"
   location: Bari, Italy
 
-- name: "AI and Diagnostic Imaging"
-  startDate: 2024-10-23
-  endDate: 2024-10-23
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-10-23-AI_and_diagnostic_imaging)"
-  location: Rome, Italy
-
-- name: "Software Environments, Containers, and Notebooks (for Bioinformatics and Computational Biology)"
-  startDate: 2024-11-26
-  endDate: 2024-11-26
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-11-26-Biocontainer)"
-  location: Naples, Italy
-
-- name: "Biological networks: topological analysis and visualization using Cytoscape software"
-  startDate: 2024-12-10
-  endDate: 2024-12-10
-  description: "[More info here](https://elixir-iib-training.github.io/site/2024-12-10-Protein_modelling_and_PPI)"
-  location: online
