@@ -4,17 +4,17 @@ columns:
   - type: image
     image_width: 88px
     width: 1
-    src: 'assets/logos/elixir_itt_white_nob.png'
+    src: 'assets/logos/elixir_itt_white_nob_foot.png'
     alt: Elixir_ITT_Logo
   - type: image
     image_width: 500px
     width: 3
-    src: 'images/funders/Banner_CNR3.png'
+    src: 'images/funders/Banner_CNR.png'
     alt: BANNER_CNR
   - type: image
     image_width: 200px
     width: 2
-    src: 'assets/logos/CNR_Biomics.png'
+    src: 'assets/logos/CNR_Biomics_foot.png'
     alt: CNR_Biomics 
   - type: links
     width: 1
@@ -26,10 +26,10 @@ columns:
   - type: image
     image_width: 300px
     width: 2
-    src: 'assets/logos/NextGenIT.jpg'
+    src: 'assets/logos/NextGenIT_foot.jpg'
     alt: Elixir_NextGenIT
   - type: image
     image_width: 88px
     width: 1
-    src: 'assets/img/italy.png'
+    src: 'assets/img/italy_foot.png'
     alt: Italy_flag
