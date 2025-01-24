@@ -16,7 +16,7 @@ event:
 
 ![BG_Winter2025](images/2025_events/BG_Winter2025.jpeg)
 
-More info on the [26th Bologna Winter School](https://www.biocomp.unibo.it/~school2025/) webpage.
+More information can be found on the [26th Bologna Winter School](https://www.biocomp.unibo.it/~school2025/) webpage.
 
 
 <br>
