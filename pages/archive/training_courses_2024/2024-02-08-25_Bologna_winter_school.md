@@ -1,7 +1,7 @@
 ---
 title: "25th Bologna Winter School"
 event_type: "Bologna Winter School"
-type: meetings_workshops_2024
+type: training_courses_2024
 state: closed
 description: 8-25 February 2024 <br> Bologna, Italy
 page_id: 
