@@ -7,13 +7,13 @@
   description: "[More info here](https://elixir-iib-training.github.io/site/2025-02-10-scRNA_seq_Workshop)"
   location: Bari, Italy
 
-- name: "EMBO Practical Course on Population Genomics: Background and tools"
+- name: "26th Bologna Winter School"
   startDate: 2025-02-19
   endDate: 2025-03-03
   description: "[More info here](https://www.biocomp.unibo.it/~school2025)"
   location: online
 
-- name: "26th Bologna Winter School"
+- name: "EMBO Practical Course on Population Genomics: Background and tools"
   startDate: 2025-06-23
   endDate: 2025-09-26
   description: "[More info here](https://meetings.embo.org/event/25-pop-genomics)"
