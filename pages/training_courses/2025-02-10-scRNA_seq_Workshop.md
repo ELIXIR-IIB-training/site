@@ -32,8 +32,8 @@ inLanguage: en-EN
 -->
 
 ![Banner](images/2025_events/Banner_loghi_scRNA.png){: height="1200px" width="1200px"}
-![logo_IBIOM](images/2025_events/logo_IBIOM.png){: height="200px" width="200px"}
-![logo_uniba](images/2025_events/logo_uniba.png){: height="200px" width="200px"}
+![logo_IBIOM](images/2025_events/logo_IBIOM.png){: height="100px" width="100px"}
+![logo_uniba](images/2025_events/logo_uniba.png){: height="100px" width="100px"}
 <br>
 <br>
 
