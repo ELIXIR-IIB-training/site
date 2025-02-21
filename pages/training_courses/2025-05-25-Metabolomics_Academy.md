@@ -13,7 +13,7 @@ event:
 
 short_description: "The school focuses on metabolomics and its applications through a 5-day program. It includes lectures in Italian by expert faculty and provides ample opportunities for idea exchange and collaboration."
 teachers: [Daniela Gaglio, Marcella Bonanomi, Flavio A. Franchina, Luigi Lucini, Anna Calì, Leilei Zhang, Clara Musicco, Pierluigi Caboni]
-keywords: "Metabolomics, experimental design, Workshop, bioinformatics."
+keywords: "Metabolomics, School, Mass-spectometry, Environment, Oone-health, Nutraceutical, Food, Medicine."
 courseMode: onsite
 addressLocality: Rezzato
 addressCountry: Italy
@@ -30,134 +30,137 @@ inLanguage: it-IT
 <br>
 <br>
 
-## Descrizione del corso
+## School Description
 
-La scuola si focalizza sullo studio della metabolomica e le sue applicazioni attraverso un programma distribuito in 5 giorni. La scuola è strutturata in lezioni frontali in italiano con personale docente altamente esperto del settore e prevede ampi momenti di condivisione e dialogo tra i partecipanti e i docenti per facilitare lo scambio di idee e la formazione di collaborazioni. 
-
-
-<br>
-<br>
-
-## Date importanti 
-
-- La scuola si svolgerà tra **25-30 maggio 2025**
-
-- Scadenza domande: **10 aprile 2025**
-La scuola si svolgerà in italiano e ha posti limitati per un numero massimo di 33 persone. I posti saranno assegnati in base all’ordine temporale di registrazione che viene confermata solo tramite il pagamento della quota di iscrizione. 
-
-- Scadenza sottomissione Abstract: **18 aprile 2025**
-É consigliabile ma non obbligatorio sottomettere un abstract relativo ad un particolare caso studio da poter esporre.
-
-
+The school program focuses on the study of metabolomics and its applications through five days. It includes lectures in Italian led by highly experienced faculty members and provides opportunities for discussion and knowledge-sharing between participants and instructors, fostering collaborations and idea exchange.
 
 <br>
 <br>
 
-### Luogo
+## Important Dates
+
+- The school will take place from **May 25-30, 2025**.
+- Application deadline: **April 10, 2025**.
+**The school will be held in Italian** and has limited seats for a maximum of 33 participants. Seats will be assigned on a first-come, first-served basis, confirmed only upon payment of the registration fee.
+- Abstract submission deadline: **April 18, 2025**.
+Submitting an abstract on a specific case study to present is recommended but not mandatory.
+
+<br>
+<br>
+
+### Venue
 
 Villa Fenaroli Palace Hotel, Via Giuseppe Mazzini, 14, 25086 Rezzato BS [google maps link](https://maps.app.goo.gl/r7m4eFqfjttQD2Uh7)
 
+<br>
+<br>
+
+### Fee
+
+**Registration fee**: €900 (Nine hundred euros).
+The fee includes:
+- Course participation, Accommodation with breakfast, lunches and dinners, coffee breaks, social dinner on the last evening and a round-trip shuttle service from Milan-Centrale station (schedule to be defined)
+Participants must cover their own travel expenses.
 
 <br>
 <br>
 
-### Quota
+### Instructors
 
-Quota di iscrizione: 900euro (Novecento euro)
-Include: la scuola, pernottamenti e prima colazione, pranzi, cene, coffee-breaks, la cena sociale l’ultima sera.  Ci sarà a disposizione una navetta A/R per stazione Milano-Centrale con orario da definire per chi ne usufruirà.
-Ai partecipanti si richiede di pagare autonomamente le spese di viaggio. 
-
-
-<br>
-<br>
-
-### Docenti
-- Daniela Gaglio, Consiglio Nazionale delle Ricerche – IBSBC Milano
-- Marcella Bonanomi, National Research Council – IBSBC, Milano
+- Daniela Gaglio, National Research Council – IBSBC Milan
+- Marcella Bonanomi, National Research Council – IBSBC Milan
 - Flavio A. Franchina, University of Ferrara, Ferrara
 - Luigi Lucini, Università Cattolica del Sacro Cuore, Piacenza
 - Anna Calì, Agilent Technologies
 - Leilei Zhang, Università Cattolica del Sacro Cuore, Piacenza
-- Clara Musicco, Consiglio Nazionale delle Ricerche – IBIOM, Bari
-- Pierluigi Caboni, Università di Cagliari, Cagliari
-
+- Clara Musicco, National Research Council – IBIOM, Bari
+- Pierluigi Caboni, University of Cagliari, Cagliari
 
 <br>
 <br>
 
-### Organizzatori
-- Daniela Gaglio, Consiglio Nazionale delle Ricerche – IBSBC Milano 
-- Federica Baldassari, Consiglio Nazionale delle Ricerche – IBSBC Milano
-- Marcella Bonanomi, Consiglio Nazionale delle Ricerche – IBSBC Milano
+### Organizers
+
+- Daniela Gaglio, National Research Council – IBSBC Milan
+- Federica Baldassari, National Research Council – IBSBC Milan
+- Marcella Bonanomi, National Research Council – IBSBC Milan
 - Luigi Lucini, Università Cattolica del Sacro Cuore, Piacenza
 - Flavio A. Franchina, University of Ferrara, Ferrara
-- Sergio Giannattasio, Consiglio Nazionale delle Ricerche – IBIOM, Bari
-- Clara Musicco, Consiglio Nazionale delle Ricerche – IBIOM, Bari
-- Pierluigi Caboni, Università di Cagliari, Cagliari
-
-
-<br>
-<br>
-
-## Contatti
-Per domande relative al programma della scuola e all’organizzazione, contattare gli organizzatori al seguente indirizzo e-mail: [metabolomics.milan@ibfm.cnr.it](mailto:metabolomics.milan@ibfm.cnr.it).
-<br>
-<br>
-
-
-
-### Target audience
-
-La scuola di metabolomica è adatta sia per laureandi e studenti PhD che si affacciano alla metabolomica per la prima volta, sia per ricercatori e personale R&D che vuole aumentare le proprie conoscenze e competenze nella materia attraverso lo scambio e la discussione con ricercatori e ricercatrici esperti nel campo. 
-<br>
-<br>
-
-### Obiettivi della scuola
-Acquisire familiarità con le principali applicazioni della metabolomica in diversi campi quali ambientale, nutraceutico, alimentare e della medicina personalizzata; conoscere le tecniche più appropriate per la preparazione del campione e l'acquisizione dei dati tramite spettrometria di massa; approcciarsi alle analisi untargeted, targeted e di labelling;  sviluppare competenze in statistica; utilizzare i dati di metabolomica per comprendere la biochimica e il metabolismo; essere guidati nella progettazione personalizzata di esperimenti di metabolomica (che possono riguardare metabolismo primario e secondario, lipidomica, composizione degli alimenti e prodotti naturali, esposoma, volatiloma) relativi ad un proprio caso studio.
+- Sergio Giannattasio, National Research Council – IBIOM, Bari
+- Clara Musicco, National Research Council – IBIOM, Bari
+- Pierluigi Caboni, University of Cagliari, Cagliari
 
 <br>
 <br>
 
-### Prerequisiti
-I partecipanti devono possedere come requisito base i fondamenti di biologia e/o biochimica.
+## Contacts
+
+For any questions regarding the program or organization, please contact the organizers at the following email address: [metabolomics.milan@ibfm.cnr.it](mailto:metabolomics.milan@ibfm.cnr.it).
 
 <br>
 <br>
 
-## Registrazione 
+### Target Audience
+
+The Metabolomics Academy is designed for: Undergraduate and PhD students new to metabolomics and researchers and R&D professionals looking to deepen their knowledge through discussion with experts in the field.
+
+<br>
+<br>
+
+### Objectives
+
+Gain familiarity with key metabolomics applications in fields such as environmental science, nutraceuticals, food science, and personalized medicine.
+Learn the most appropriate techniques for sample preparation and data acquisition using mass spectrometry. 
+Understand untargeted, targeted, and labeling approaches. Develop statistical analysis skills. 
+Use metabolomics data to explore biochemistry and metabolism. 
+Receive guidance on designing personalized metabolomics experiments (covering areas such as primary and secondary metabolism, lipidomics, food composition, natural products, exposome, and volatilome) based on a case study of interest.
+
+<br>
+<br>
+
+### Prerequisites
+
+Participants should have basic knowledge of biology and/or biochemistry.
+
+<br>
+<br>
+
+## Registration
 
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdvfu1UyRHqS5V0t7A69-08a1FD33y86JyHrrQYJ7DUoO0VCA/viewform?usp=sharing)
+
 <br>
 <br>
 
-## Programme
+## Preliminary Program
 
-Il programma dettagliato con gli orari sarà condiviso al più presto. È possibile conoscere i temi che saranno trattati ed i relativi docenti qui di seguito.
+A detailed schedule will be shared soon. Below are the topics and respective lecturers.
 
-### CORSI BASE
+### Basic Courses
 
-- Introduzione alla metabolomica - Marcella Bonanomi
-- Biochimica del metabolismo – Daniela Gaglio
-- Preparazione campioni – Marcella Bonanomi
-- Teoria e pratica della cromatografia monodimensionale – Flavio A. Franchina
-- Spettrometria di massa ad alta risoluzione vs bassa risoluzione – Luigi Lucini
-- Analisi Untargeted – Luigi Lucini
-- Principi di annotazione dei composti – Luigi Lucini
-- Chemiometria - Leilei Zhang
-- Annotazione dei composti, statistica e pratica - Leilei Zhang
-- Fisiologia mitocondriale e tecniche di estrazione – Clara Musicco
-- Metabolomica del lievito – Clara Musicco
-- Separare per Conoscere: Il Ruolo della Cromatografia in LC-MS e GC-MS – Anna Calì 
+- Introduction to Metabolomics – Marcella Bonanomi
+- Biochemistry of Metabolism – Daniela Gaglio
+- Sample Preparation – Marcella Bonanomi
+- Theory and Practice of One-Dimensional Chromatography – Flavio A. Franchina
+- High-Resolution vs. Low-Resolution Mass Spectrometry – Luigi Lucini
+- Untargeted Analysis – Luigi Lucini
+- Compound Annotation Principles – Luigi Lucini
+- Chemometrics – Leilei Zhang
+- Compound Annotation, Statistics, and Practice – Leilei Zhang
+- Mitochondrial Physiology and Extraction Techniques – Clara Musicco
+- Yeast Metabolomics – Clara Musicco
+- Separation for Knowledge: The Role of Chromatography in LC-MS and GC-MS – Anna Calì
 
-### CORSI AVANZATI
+### Advanced Courses
 
-- Marcature – Daniela Gaglio
-- Marcatura Pratica – Daniela Gaglio
-- Teoria e pratica della cromatografia multidimensionale - Flavio A. Franchina
-- Volatilomica: preparazione e analisi dei metaboliti volatili - Flavio A. Franchina
-- Analisi Targeted e quantificazione dei composti – Marcella Bonanomi
-- Preparazione e analisi di campioni mitocondriali – Clara Musicco
-- Ion Mobility – Pierluigi Caboni (Da confermare)
-- Lipidomica – Pierluigi Caboni (Da confermare)
-- Approcci all'identificazione di bio-marcatori e analisi di sistemi biologici complessi Anna Calì
-- Multivariate modelling - Leilei Zhang
+- Labeling Techniques – Daniela Gaglio
+- Practical Labeling – Daniela Gaglio
+- Theory and Practice of Multidimensional Chromatography – Flavio A. Franchina
+- Volatilomics: Preparation and Analysis of Volatile Metabolites – Flavio A. Franchina
+- Targeted Analysis and Compound Quantification – Marcella Bonanomi
+- Mitochondrial Sample Preparation and Analysis – Clara Musicco
+- Ion Mobility – Pierluigi Caboni (To be confirmed)
+- Lipidomics – Pierluigi Caboni (To be confirmed)
+- Approaches for Biomarker Identification and Complex Biological System
+- Analysis – Anna Calì
+- Multivariate Modeling – Leilei Zhang
