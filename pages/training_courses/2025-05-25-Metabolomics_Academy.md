@@ -30,7 +30,7 @@ inLanguage: it-IT
 <br>
 <br>
 
-## Course Description
+## Descrizione del corso
 
 La scuola si focalizza sullo studio della metabolomica e le sue applicazioni attraverso un programma distribuito in 5 giorni. La scuola è strutturata in lezioni frontali in italiano con personale docente altamente esperto del settore e prevede ampi momenti di condivisione e dialogo tra i partecipanti e i docenti per facilitare lo scambio di idee e la formazione di collaborazioni. 
 
@@ -38,7 +38,7 @@ La scuola si focalizza sullo studio della metabolomica e le sue applicazioni att
 <br>
 <br>
 
-## Important Dates 
+## Date importanti 
 
 - La scuola si svolgerà tra **25-30 maggio 2025**
 
@@ -53,7 +53,7 @@ La scuola si svolgerà in italiano e ha posti limitati per un numero massimo di 
 <br>
 <br>
 
-### Venue
+### Luogo
 
 Villa Fenaroli Palace Hotel, Via Giuseppe Mazzini, 14, 25086 Rezzato BS [google maps link](https://maps.app.goo.gl/r7m4eFqfjttQD2Uh7)
 
@@ -61,7 +61,7 @@ Villa Fenaroli Palace Hotel, Via Giuseppe Mazzini, 14, 25086 Rezzato BS [google 
 <br>
 <br>
 
-### Fee
+### Quota
 
 Quota di iscrizione: 900euro (Novecento euro)
 Include: la scuola, pernottamenti e prima colazione, pranzi, cene, coffee-breaks, la cena sociale l’ultima sera.  Ci sarà a disposizione una navetta A/R per stazione Milano-Centrale con orario da definire per chi ne usufruirà.
