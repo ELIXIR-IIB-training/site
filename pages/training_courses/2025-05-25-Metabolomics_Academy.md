@@ -95,7 +95,7 @@ Participants must cover their own travel expenses.
 
 ## Contacts
 
-For any questions regarding the program or organization, please contact the organizers at the following email address: [metabolomics.milan@ibfm.cnr.it](mailto:metabolomics.milan@ibfm.cnr.it).
+For any questions regarding the program or organization, please contact the organizers at the following email address: [metabolomics.milan@ibfm.cnr.it](mailto:metabolomics.milan@ibsbc.cnr.it).
 
 <br>
 <br>
