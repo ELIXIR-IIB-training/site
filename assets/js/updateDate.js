@@ -1,12 +1,12 @@
-// Funzione per aggiornare la data di ultimo aggiornamento
+// Function to update the date
 function updateLastUpdate() {
-  // Ottieni la data corrente
+  // Get the current date
   const now = new Date();
   const formattedDate = now.toLocaleDateString('it-IT');
 
-  // Aggiorna il contenuto dell'elemento con l'ID "lastUpdate"
+  // Update the content of the element with the ID "lastUpdate"
   document.getElementById('lastUpdate').textContent = formattedDate;
 }
 
-// Esegui la funzione quando il documento è caricato
+// Execute the function when the document is loaded
 document.addEventListener('DOMContentLoaded', updateLastUpdate);
