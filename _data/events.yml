@@ -1,17 +1,11 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
 
-- name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
-  startDate: 2025-02-10
-  endDate: 2025-02-12
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-02-10-scRNA_seq_Workshop)"
-  location: Bari, Italy
-
-- name: "26th Bologna Winter School"
-  startDate: 2025-02-19
-  endDate: 2025-03-03
-  description: "[More info here](https://www.biocomp.unibo.it/~school2025)"
-  location: online
+- name: "Metabolomics Academy: Applications for One Health"
+  startDate: 2025-05-25
+  endDate: 2025-05-30
+  description: "[More info here](https://elixir-iib-training.github.io/site/2025-05-25-Metabolomics_Academy)"
+  location: Rezzato, Italy
 
 - name: "EMBO Practical Course on Population Genomics: Background and tools"
   startDate: 2025-06-23
