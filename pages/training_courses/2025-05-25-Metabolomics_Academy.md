@@ -159,8 +159,8 @@ A detailed schedule will be shared soon. Below are the topics and respective lec
 - Volatilomics: Preparation and Analysis of Volatile Metabolites – Flavio A. Franchina
 - Targeted Analysis and Compound Quantification – Marcella Bonanomi
 - Mitochondrial Sample Preparation and Analysis – Clara Musicco
-- Ion Mobility – Pierluigi Caboni (To be confirmed)
-- Lipidomics – Pierluigi Caboni (To be confirmed)
+- Lipidomics – Pierluigi Caboni
+- Analysis of lipidomic data in a systems biology scenario using innovative bioinformatic tools - Roberto M. Pellegrino
 - Approaches for Biomarker Identification and Complex Biological System
 - Analysis – Anna Calì
 - Multivariate Modeling – Leilei Zhang
