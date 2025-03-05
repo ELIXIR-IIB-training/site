@@ -75,6 +75,7 @@ Participants must cover their own travel expenses.
 - Leilei Zhang, Università Cattolica del Sacro Cuore, Piacenza
 - Clara Musicco, National Research Council – IBIOM, Bari
 - Pierluigi Caboni, University of Cagliari, Cagliari
+- Roberto M. Pellegrino, University of Perugia, Perugia
 
 <br>
 <br>
