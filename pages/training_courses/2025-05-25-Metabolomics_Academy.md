@@ -137,217 +137,217 @@ Participants should have basic knowledge of biology and/or biochemistry.
 
 
 
-<table border="1" width="700">
+<table border="1" width="800">
   <tr>
-    <td colspan="4" align="center"><h3>25 Maggio</h3></td>
+    <td colspan="4" align="center"><h3>Domenica 25 Maggio</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-18:30</td>
-    <td colspan="4" align="left">CHECK-IN Villa Fenaroli e Registrazione alla scuola</td>
+    <td colspan="4" align="center">CHECK-IN Villa Fenaroli e Registrazione alla scuola</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">20:00-21:30</td>
-    <td colspan="4" align="left"><i>Cena</i></td>
+    <td colspan="4" align="center"><i>Cena</i></td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>26 Maggio</h3></td>
+    <td colspan="4" align="center"><h3>Lunedì 26 Maggio</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:30-09:45</td>
-    <td colspan="4" align="left">Benvenuto</td>
+    <td colspan="4" align="center">Benvenuto</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:45-10:15</td>
-    <td align="left">Introduzione alla metabolomica</td>
+    <td align="center">Introduzione alla metabolomica</td>
     <td align="center">Marcella Bonanomi</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:15-11:15</td>
-    <td align="left">Biochimica del metabolismo</td>
+    <td align="center">Biochimica del metabolismo</td>
     <td align="center">Daniela Gaglio</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:15-11:45</td>
-    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+    <td colspan="4" align="center"><i>Pausa caffè</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:45-12:45</td>
-    <td align="left">Metabolismo del lievito e fisiologia mitocondriale</td>
+    <td align="center">Metabolismo del lievito e fisiologia mitocondriale</td>
     <td align="center">Clara Musicco</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:00-14:30</td>
-    <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+    <td colspan="4" align="center"><i>Pausa pranzo</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:30</td>
-    <td align="left">Preparazione campioni</td>
+    <td align="center">Preparazione campioni</td>
     <td align="center">Marcella Bonanomi</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-16:30</td>
-    <td align="left">Tecniche di estrazione e analisi di lieviti e campioni mitocondriali</td>
+    <td align="center">Tecniche di estrazione e analisi di lieviti e campioni mitocondriali</td>
     <td align="center">Clara Musicco</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">16:30-17:00</td>
-    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+    <td colspan="4" align="center"><i>Pausa caffè</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:00-19:00</td>
-    <td colspan="4" align="left">Attività di Team building</td>
+    <td colspan="4" align="center">Attività di Team building</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">20:00-21:30</td>
-    <td colspan="4" align="left"><i>Cena</i></td>
+    <td colspan="4" align="center"><i>Cena</i></td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>27 Maggio</h3></td>
+    <td colspan="4" align="center"><h3>Martedì 27 Maggio</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:30-10:30</td>
-    <td align="left">Teoria e pratica della cromatografia monodimensionale</td>
+    <td align="center">Teoria e pratica della cromatografia monodimensionale</td>
     <td align="center">Flavio A. Franchina</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:30</td>
-    <td align="left">Spettrometria di massa ad alta risoluzione vs bassa risoluzione</td>
+    <td align="center">Spettrometria di massa ad alta risoluzione vs bassa risoluzione</td>
     <td align="center">Luigi Lucini</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:30-12:00</td>
-    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+    <td colspan="4" align="center"><i>Pausa caffè</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:00-13:00</td>
-    <td align="left">Separare per Conoscere: Il Ruolo della Cromatografia in LC-MS e GC-MS</td>
+    <td align="center">Separare per Conoscere: Il Ruolo della Cromatografia in LC-MS e GC-MS</td>
     <td align="center">Anna Calì</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:00-14:30</td>
-    <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+    <td colspan="4" align="center"><i>Pausa pranzo</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:30</td>
-    <td align="left">Analisi Untargeted</td>
+    <td align="center">Analisi Untargeted</td>
     <td align="center">Luigi Lucini</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-16:30</td>
-    <td align="left">Analisi Targeted e quantificazione dei composti</td>
+    <td align="v">Analisi Targeted e quantificazione dei composti</td>
     <td align="center">Marcella Bonanomi</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">16:30-17:00</td>
-    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+    <td colspan="4" align="center"><i>Pausa caffè</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:00-18:00</td>
-    <td align="left">Principi di annotazione dei composti</td>
+    <td align="center">Principi di annotazione dei composti</td>
     <td align="center">Luigi Lucini</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">20:00-21:30</td>
-    <td colspan="4" align="left"><i>Cena</i></td>
+    <td colspan="4" align="center"><i>Cena</i></td>
   </tr>
 <tr>
-  <td colspan="4" align="center"><h3>28 Maggio</h3></td>
+  <td colspan="4" align="center"><h3>Mercoledì 28 Maggio</h3></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">09:30-10:30</td>
-  <td align="left">Lipidomica</td>
+  <td align="center">Lipidomica</td>
   <td align="center">Pierluigi Caboni</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">10:30-11:30</td>
-  <td align="left">Annotazione dei composti, statistica e pratica</td>
+  <td align="center">Annotazione dei composti, statistica e pratica</td>
   <td align="center">Leilei Zhang</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">11:30-12:00</td>
-  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  <td colspan="4" align="center"><i>Pausa caffè</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">12:00-13:00</td>
-  <td align="left">Chemiometria</td>
+  <td align="center">Chemiometria</td>
   <td align="center">Leilei Zhang</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">13:00-14:30</td>
-  <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+  <td colspan="4" align="center"><i>Pausa pranzo</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">14:30-15:30</td>
-  <td align="left">Approcci all’identificazione di bio-marcatori e analisi di sistemi biologici complessi</td>
+  <td align="center">Approcci all’identificazione di bio-marcatori e analisi di sistemi biologici complessi</td>
   <td align="center">Anna Calì</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">15:30-16:30</td>
-  <td align="left">Teoria e pratica della cromatografia multidimensionale</td>
+  <td align="center">Teoria e pratica della cromatografia multidimensionale</td>
   <td align="center">Flavio A. Franchina</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">16:30-17:00</td>
-  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  <td colspan="4" align="center"><i>Pausa caffè</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">17:00-18:00</td>
-  <td align="left">Volatilomica: preparazione e analisi dei metaboliti volatili</td>
+  <td align="center">Volatilomica: preparazione e analisi dei metaboliti volatili</td>
   <td align="center">Flavio A. Franchina</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">20:00-21:30</td>
-  <td colspan="4" align="left"><i>Cena</i></td>
+  <td colspan="4" align="center"><i>Cena</i></td>
 </tr>
 <tr>
-  <td colspan="4" align="center"><h3>29 Maggio</h3></td>
+  <td colspan="4" align="center"><h3>Giovedì 29 Maggio</h3></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">09:30-10:30</td>
-  <td align="left">Multivariate modelling</td>
+  <td align="center">Multivariate modelling</td>
   <td align="center">Leilei Zhang</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">10:30-11:30</td>
-  <td align="left">Marcature</td>
+  <td align="center">Marcature</td>
   <td align="center">Daniela Gaglio</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">11:30-12:00</td>
-  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  <td colspan="4" align="center"><i>Pausa caffè</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">12:00-13:00</td>
-  <td align="left">Marcature: pratica</td>
+  <td align="center">Marcature: pratica</td>
   <td align="center">Daniela Gaglio</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">13:00-14:30</td>
-  <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+  <td colspan="4" align="center"><i>Pausa pranzo</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">14:30-16:30</td>
-  <td align="left">Analisi dei dati lipidomici in uno scenario di biologia dei sistemi utilizzando strumenti bioinformatici innovativi</td>
+  <td align="center">Analisi dei dati lipidomici in uno scenario di biologia dei sistemi utilizzando strumenti bioinformatici innovativi</td>
   <td align="center">Roberto M. Pellegrino</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">16:30-17:00</td>
-  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  <td colspan="4" align="center"><i>Pausa caffè</i></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">17:00-19:00</td>
-  <td colspan="4" align="left">Abstract presentation, discussione e test finale per rilascio certificati</td>
+  <td colspan="4" align="center">Abstract presentation, discussione e test finale per rilascio certificati</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">20:00</td>
-  <td colspan="4" align="left"><i>Cena e Serata</i></td>
+  <td colspan="4" align="center"><i>Cena e Serata</i></td>
 </tr>
 <tr>
-  <td colspan="4" align="center"><h3>30 Maggio</h3></td>
+  <td colspan="4" align="center"><h3>Venerdì 30 Maggio</h3></td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">09:00-11:00</td>
-  <td colspan="4" align="left">CHECK-OUT e Consegna attestati</td>
+  <td colspan="4" align="center">CHECK-OUT e Consegna attestati</td>
 </tr>
 </table>
 
