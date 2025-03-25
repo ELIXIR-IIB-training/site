@@ -133,7 +133,227 @@ Participants should have basic knowledge of biology and/or biochemistry.
 <br>
 <br>
 
-## Preliminary Program
+## Programme
+
+
+
+<table border="1" width="700">
+  <tr>
+    <td colspan="4" align="center"><h3>25 Maggio</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">14:30-18:30</td>
+    <td colspan="4" align="left">CHECK-IN Villa Fenaroli e Registrazione alla scuola</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">20:00-21:30</td>
+    <td colspan="4" align="left"><i>Cena</i></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center"><h3>26 Maggio</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:30-09:45</td>
+    <td colspan="4" align="left">Benvenuto</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:45-10:15</td>
+    <td align="left">Introduzione alla metabolomica</td>
+    <td align="center">Marcella Bonanomi</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">10:15-11:15</td>
+    <td align="left">Biochimica del metabolismo</td>
+    <td align="center">Daniela Gaglio</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">11:15-11:45</td>
+    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">11:45-12:45</td>
+    <td align="left">Metabolismo del lievito e fisiologia mitocondriale</td>
+    <td align="center">Clara Musicco</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">13:00-14:30</td>
+    <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">14:30-15:30</td>
+    <td align="left">Preparazione campioni</td>
+    <td align="center">Marcella Bonanomi</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">15:30-16:30</td>
+    <td align="left">Tecniche di estrazione e analisi di lieviti e campioni mitocondriali</td>
+    <td align="center">Clara Musicco</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">16:30-17:00</td>
+    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">17:00-19:00</td>
+    <td colspan="4" align="left">Attività di Team building</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">20:00-21:30</td>
+    <td colspan="4" align="left"><i>Cena</i></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center"><h3>27 Maggio</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:30-10:30</td>
+    <td align="left">Teoria e pratica della cromatografia monodimensionale</td>
+    <td align="center">Flavio A. Franchina</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">10:30-11:30</td>
+    <td align="left">Spettrometria di massa ad alta risoluzione vs bassa risoluzione</td>
+    <td align="center">Luigi Lucini</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">11:30-12:00</td>
+    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">12:00-13:00</td>
+    <td align="left">Separare per Conoscere: Il Ruolo della Cromatografia in LC-MS e GC-MS</td>
+    <td align="center">Anna Calì</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">13:00-14:30</td>
+    <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">14:30-15:30</td>
+    <td align="left">Analisi Untargeted</td>
+    <td align="center">Luigi Lucini</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">15:30-16:30</td>
+    <td align="left">Analisi Targeted e quantificazione dei composti</td>
+    <td align="center">Marcella Bonanomi</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">16:30-17:00</td>
+    <td colspan="4" align="left"><i>Pausa caffè</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">17:00-18:00</td>
+    <td align="left">Principi di annotazione dei composti</td>
+    <td align="center">Luigi Lucini</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">20:00-21:30</td>
+    <td colspan="4" align="left"><i>Cena</i></td>
+  </tr>
+<tr>
+  <td colspan="4" align="center"><h3>28 Maggio</h3></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">09:30-10:30</td>
+  <td align="left">Lipidomica</td>
+  <td align="center">Pierluigi Caboni</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">10:30-11:30</td>
+  <td align="left">Annotazione dei composti, statistica e pratica</td>
+  <td align="center">Leilei Zhang</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">11:30-12:00</td>
+  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">12:00-13:00</td>
+  <td align="left">Chemiometria</td>
+  <td align="center">Leilei Zhang</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">13:00-14:30</td>
+  <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">14:30-15:30</td>
+  <td align="left">Approcci all’identificazione di bio-marcatori e analisi di sistemi biologici complessi</td>
+  <td align="center">Anna Calì</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">15:30-16:30</td>
+  <td align="left">Teoria e pratica della cromatografia multidimensionale</td>
+  <td align="center">Flavio A. Franchina</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">16:30-17:00</td>
+  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">17:00-18:00</td>
+  <td align="left">Volatilomica: preparazione e analisi dei metaboliti volatili</td>
+  <td align="center">Flavio A. Franchina</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">20:00-21:30</td>
+  <td colspan="4" align="left"><i>Cena</i></td>
+</tr>
+<tr>
+  <td colspan="4" align="center"><h3>29 Maggio</h3></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">09:30-10:30</td>
+  <td align="left">Multivariate modelling</td>
+  <td align="center">Leilei Zhang</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">10:30-11:30</td>
+  <td align="left">Marcature</td>
+  <td align="center">Daniela Gaglio</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">11:30-12:00</td>
+  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">12:00-13:00</td>
+  <td align="left">Marcature: pratica</td>
+  <td align="center">Daniela Gaglio</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">13:00-14:30</td>
+  <td colspan="4" align="left"><i>Pausa pranzo</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">14:30-16:30</td>
+  <td align="left">Analisi dei dati lipidomici in uno scenario di biologia dei sistemi utilizzando strumenti bioinformatici innovativi</td>
+  <td align="center">Roberto M. Pellegrino</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">16:30-17:00</td>
+  <td colspan="4" align="left"><i>Pausa caffè</i></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">17:00-19:00</td>
+  <td colspan="4" align="left">Abstract presentation, discussione e test finale per rilascio certificati</td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">20:00</td>
+  <td colspan="4" align="left"><i>Cena e Serata</i></td>
+</tr>
+<tr>
+  <td colspan="4" align="center"><h3>30 Maggio</h3></td>
+</tr>
+<tr>
+  <td height="50" width="100" align="center">09:00-11:00</td>
+  <td colspan="4" align="left">CHECK-OUT e Consegna attestati</td>
+</tr>
+</table>
+
+
+<!--
+
 
 A detailed schedule will be shared soon. Below are the topics and respective lecturers.
 
@@ -164,3 +384,69 @@ A detailed schedule will be shared soon. Below are the topics and respective lec
 - Analysis of lipidomic data in a systems biology scenario using innovative bioinformatic tools - Roberto M. Pellegrino
 - Approaches for Biomarker Identification and Complex Biological System Analysis – Anna Calì
 - Multivariate Modeling – Leilei Zhang
+
+## Programme
+
+<table border="1" width="700">
+  <tr>
+    <td colspan="4" align=center><h3>25 May</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>14:30-18:30</td>
+    <td colspan="4" height="50" align=left>CHECK-IN Villa Fenaroli e Registrazione alla scuola</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>20:00-21:30</td>
+    <td colspan="4" height="50" align=left><i>Dinner</i></td>
+  </tr>
+  <tr>
+    <td colspan="4" align=center><h3>26 May</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>09:30-09:45</td>
+    <td height="50">Benvenuto</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>09:45-10:15</td>
+    <td colspan="4" height="50" align=left>Introduzione alla metabolomica</td>
+    <td height="50" align=center>Marcella Bonanomi</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>10:15-11:15</td>
+    <td height="50">Biochimica del metabolismo</td>
+    <td height="50" align=center>Daniela Gaglio</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:15-11:45</td>
+    <td height="50">Pausa Caffè</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:45-12:45</td>
+    <td height="50">Metabolismo del lievito e fisiologia mitocondriale </td>
+    <td height="50" align=center>Clara Musicco</td>
+  </tr>
+    <td height="50" width="100" align=center>13:00-12:45</td>
+    <td height="50">Metabolismo del lievito e fisiologia mitocondriale </td>
+    <td height="50" align=center>Clara Musicco</td>
+  <tr>
+    <td height="50" width="100" align=center>10:15-11:15</td>
+    <td height="50">"Biochimica del metabolismo Daniela Gaglio"</td>
+  </tr>
+  <tr>
+    <td colspan="4" align=center><h3>12 February</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>09:30-12:30</td>
+    <td height="50" align=center>Lecture/Exercise</td>
+    <td height="50">Cell type annotation<br>Exercises</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>12:30-13:30</td>
+    <td colspan="4" height="50" align=left><i>Lunch break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>13:30-16:30</td>
+    <td height="50" align=center>Lecture/Exercise</td>
+    <td height="50">Data integration<br>Exercises</td>
+  </tr>
+-->
