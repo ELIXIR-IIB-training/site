@@ -20,26 +20,38 @@ jobs:
           echo "Extracting trainers data..."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
           
-          for file in $(find pages/training_courses pages/archive/training_courses_2024 -name '[0-9]*.md'); do
-            # Check if the file contains ### Instructors
-            if ! grep -q "### Instructors {#instructors-section}" "$file"; then
-              continue # Skip files without the required section
-            fi
+          declare -A trainers_map # Create an associative array to store trainers
 
-            echo "Processing $file..."
-            # Extract the 'Instructors' section
-            trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
-            
-            # Convert each trainer to the correct YAML format
-            while IFS= read -r line; do
-              if [[ "$line" =~ ^- ]]; then
-                name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | xargs)
-                affiliation=$(echo "$line" | cut -d',' -f2- | xargs)
-                echo "$name:" >> _data/TRAINERS.yaml
-                echo "  affiliation: $affiliation" >> _data/TRAINERS.yaml
+          # Process the most recent folder first
+          for dir in pages/training_courses pages/archive/training_courses_2024; do
+            for file in $(find "$dir" -name '[0-9]*.md'); do
+              if grep -q "### Instructors {#instructors-section}" "$file"; then
+                echo "Processing $file..."
+                # Extract the 'Instructors' section
+                trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
+                
+                # Update trainers_map with priority to the latest folder
+                while IFS= read -r line; do
+                  if [[ "$line" =~ ^- ]]; then
+                    name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | xargs)
+                    affiliation=$(echo "$line" | cut -d',' -f2- | xargs)
+                    
+                    # Add to trainers_map only if the name is not already present
+                    if [[ -z "${trainers_map[$name]}" ]]; then
+                      trainers_map["$name"]="$affiliation"
+                    fi
+                  fi
+                done <<< "$trainers"
               fi
-            done <<< "$trainers"
+            done
           done
+
+          # Write the trainers_map to TRAINERS.yaml
+          for name in "${!trainers_map[@]}"; do
+            echo "$name:" >> _data/TRAINERS.yaml
+            echo "    affiliation: ${trainers_map[$name]}" >> _data/TRAINERS.yaml
+          done
+
 
 
       - name: Commit changes
