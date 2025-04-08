@@ -1,20 +1,19 @@
-# List of contributors
-#
-# reference maintainers/contributors by their name used in contributors metadata section on the pages.
-# Extra metadata that is possible to add:
-# Full Name:
-#    git: github id
-#    email: email adress
-#    orcid: ocrid id
-#    role: the role of the contributor
-#    affiliation: affiliation
-#    image_url: absolute path to image (default image from github)
 
-Mario Rossi:
-    git: 
-    email: example@email.it
-    role:
-    tag: Structural_Bioinformatics, Homology_modeling
-    affiliation: CNR / ELIXIR-IT
-    
+- Daniela Gaglio, National Research Council – IBSBC Milan
+- Marcella Bonanomi, National Research Council – IBSBC Milan
+- Flavio A. Franchina, University of Ferrara, Ferrara
+- Luigi Lucini, Università Cattolica del Sacro Cuore, Piacenza
+- Anna Calì, Agilent Technologies
+- Leilei Zhang, Università Cattolica del Sacro Cuore, Piacenza
+- Clara Musicco, National Research Council – IBIOM, Bari
+- Pierluigi Caboni, University of Cagliari, Cagliari
+- Roberto M. Pellegrino, University of Perugia, Perugia
 
+
+- Raffaele Calogero, University of Turin, Italy  
+- Luca Alessandrì, University of Turin, Italy
+
+
+
+- Ernesto Picardi, University of Bari, Italy  
+- Adriano Fonzino, University of Bari, Italy  
