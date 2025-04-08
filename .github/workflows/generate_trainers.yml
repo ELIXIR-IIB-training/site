@@ -5,10 +5,10 @@ on:
       - main # Trigger workflow on commits to main branch
 jobs:
   update-trainers:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         
       - name: Install tools
         uses: actions/setup-node@v3
@@ -19,8 +19,9 @@ jobs:
         run: |
           echo "Extracting trainers data..."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
-          # Iterate over .md files in the repository
-          for file in $(find . -name '*.md'); do
+          
+          # Limit search to specific directories and matching files
+          for file in $(find pages/training_courses pages/archive/training_courses_2024 -name '[0-9]*.md'); do
             echo "Processing $file..."
             # Extract the 'Instructors' section
             trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
@@ -34,4 +35,5 @@ jobs:
           git add _data/TRAINERS.yaml
           git commit -m "Update TRAINERS.yaml"
           git push
+
 
