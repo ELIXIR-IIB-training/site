@@ -79,13 +79,14 @@ Notifications of acceptance will be sent by *January 10th*.
 <br>
 <br>
 
-### Instructors
+### Instructors {#instructors-section}
 
-- **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
-- **Valeria Michelacci** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Allegra Via** - Sapienza University of Rome, Italy
+- **Luca De Sabato**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Arnold Knijn**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Loredana Le Pera**, Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
+- **Valeria Michelacci**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Allegra Via**, Sapienza University of Rome, Italy
+
 <br>
 <br>
 
