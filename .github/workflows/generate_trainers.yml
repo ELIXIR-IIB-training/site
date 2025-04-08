@@ -28,8 +28,7 @@ jobs:
               if grep -q "### Instructor*" "$file"; then
                 echo "Processing $file..."
                 # Extract the 'Instructors' section
-                trainers=$(grep -A10 -E "### Instructor*" "$file" | grep -v "###")
-                
+                trainers=$(grep -A10 "### Instructor*" "$file" | grep -v "###")
                 # Populate trainers_map
                 while IFS= read -r line; do
                   if [[ "$line" =~ ^- ]]; then
