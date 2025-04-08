@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 16
 
-      - name: Extract trainers from Markdown and clean names
+      - name: Extract trainers from Markdown and sort by last name
         run: |
           echo "Extracting trainers data...."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
@@ -51,12 +51,22 @@ jobs:
           printf "%s\n" "${!trainers_map[@]}" | \
           awk '{
             n = split($0, name_parts, " ");
-            last_name = name_parts[n]; 
-            print last_name, $0
+            last_name_start = 2; # Assume first word is given name, start from the second word
+            for (i = 2; i <= n; i++) {
+              if (name_parts[i] ~ /^[A-Z][a-z]+$/ || name_parts[i] ~ /^[A-Z][a-z]+-[A-Z][a-z]+$/) {
+                last_name_start = i;
+                break;
+              }
+            }
+            last_name = "";
+            for (i = last_name_start; i <= n; i++) {
+              last_name = last_name " " name_parts[i];
+            }
+            print last_name, $0;
           }' | sort | \
           awk '{
             sub(/^[^ ]+ /, "", $0); 
-            print $0
+            print $0;
           }' | while IFS= read -r sorted_name; do
             echo "$sorted_name:" >> _data/TRAINERS.yaml
             echo "    affiliation: ${trainers_map[$sorted_name]}" >> _data/TRAINERS.yaml
