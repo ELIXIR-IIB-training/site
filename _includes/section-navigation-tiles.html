@@ -173,47 +173,7 @@
     {%- endfor %}
 </div>
 
-// Script to extract trainers
-<script type="text/javascript">
-    
-    document.addEventListener('DOMContentLoaded', () => {
-        const trainers = {};
 
-        // Parsing JSON-LD (Bioschemas)
-        const jsonLdTag = document.querySelector('script[type="application/ld+json"]');
-        if (jsonLdTag) {
-            const jsonData = JSON.parse(jsonLdTag.textContent);
-            if (jsonData.teachers) {
-                jsonData.teachers.forEach((teacher) => {
-                    const [name, affiliation] = teacher.split(', ');
-                    trainers[name.trim()] = { affiliation: affiliation ? affiliation.trim() : "Unknown" };
-                });
-            }
-        }
-
-        // Parsing body (Instructors)
-        const instructorsSection = document.querySelector('### Instructors');
-        if (instructorsSection) {
-            const instructorsList = instructorsSection.innerText.split('\n');
-            instructorsList.forEach((instructor) => {
-                if (instructor.trim()) {
-                    const [name, affiliation] = instructor.split(', ');
-                    trainers[name.trim()] = { affiliation: affiliation ? affiliation.trim() : "Unknown" };
-                }
-            });
-        }
-
-        // Convert to YAML
-        let yamlContent = '';
-        for (const [name, info] of Object.entries(trainers)) {
-            yamlContent += `${name}:\n  affiliation: ${info.affiliation}\n`;
-        }
-
-        // Log YAML content
-        console.log("TRAINERS.yaml Content:");
-        console.log(yamlContent);
-    });
-</script>
 
 <script type="text/javascript">
     /** 
