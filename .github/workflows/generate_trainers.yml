@@ -39,9 +39,10 @@ jobs:
             if [[ "$line" =~ ^- ]]; then
               # Remove asterisks (*) and clean the name
               name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | sed 's/\*//g' | xargs)
+              # Ensure affiliation extraction works correctly
               affiliation=$(echo "$line" | cut -d',' -f2- | xargs)
-              
-              # Log name and affiliation
+
+              # Log name and affiliation for debugging
               echo "Name: $name, Affiliation: $affiliation"
               
               # Add to trainers_map only if the name is not already present
@@ -63,10 +64,6 @@ jobs:
       echo "$sorted_name:" >> _data/TRAINERS.yaml
       echo "  affiliation: $affiliation" >> _data/TRAINERS.yaml
     done
-
-
-
-
 
 
       - name: Commit changes
