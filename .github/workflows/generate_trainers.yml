@@ -46,6 +46,7 @@ jobs:
             done
           done
 
+
           # Sort trainers by last name and write to TRAINERS.yaml
           for name in "${!trainers_map[@]}" | awk '{print $2,$0}' | sort | awk '{$1=""; print $0}'; do
             echo "$name:" >> _data/TRAINERS.yaml
