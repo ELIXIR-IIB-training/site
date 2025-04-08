@@ -20,23 +20,32 @@ jobs:
           echo "Extracting trainers data..."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
           
-          # Limit search to specific directories and matching files
           for file in $(find pages/training_courses pages/archive/training_courses_2024 -name '[0-9]*.md'); do
             # Check if the file contains ### Instructors
-            if grep -q "### Instructors {#instructors-section}" "$file"; then
-              echo "Processing $file..."
-              # Extract the 'Instructors' section
-              trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
-              echo "$trainers" >> _data/TRAINERS.yaml
-            else
-              echo "Skipping $file... No Instructors section found."
+            if ! grep -q "### Instructors {#instructors-section}" "$file"; then
+              continue # Skip files without the required section
             fi
+
+            echo "Processing $file..."
+            # Extract the 'Instructors' section
+            trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
+            
+            # Convert each trainer to the correct YAML format
+            while IFS= read -r line; do
+              if [[ "$line" =~ ^- ]]; then
+                name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | xargs)
+                affiliation=$(echo "$line" | cut -d',' -f2- | xargs)
+                echo "$name:" >> _data/TRAINERS.yaml
+                echo "  affiliation: $affiliation" >> _data/TRAINERS.yaml
+              fi
+            done <<< "$trainers"
           done
+
 
       - name: Commit changes
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
+          git config --global user.name 'elixir_training_bot'
+          git config --global user.email 'elixir_training_bot@github.com'
           git add _data/TRAINERS.yaml
           git commit -m "Update TRAINERS.yaml"
           git push
