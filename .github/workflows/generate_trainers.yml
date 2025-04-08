@@ -17,7 +17,7 @@ jobs:
 
       - name: Extract trainers from Markdown
         run: |
-          echo "Extracting trainers data..."
+          echo "Extracting trainers data...."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
           
           declare -A trainers_map # Create an associative array to store trainers
