@@ -23,7 +23,7 @@ jobs:
           declare -A trainers_map # Create an associative array to store trainers
 
           # Process the most recent folder first
-          for dir in pages/training_courses pages/archive/training_courses_2024; do
+          for dir in pages/training_courses; do
             for file in $(find "$dir" -name '[0-9]*.md'); do
               if grep -q "### Instructor*" "$file"; then
                 echo "Processing $file..."
