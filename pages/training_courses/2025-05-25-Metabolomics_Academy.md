@@ -65,7 +65,7 @@ Participants must cover their own travel expenses.
 <br>
 <br>
 
-### Instructors {#instructors-section}
+### Instructors
 
 - Daniela Gaglio, National Research Council – IBSBC Milan
 - Marcella Bonanomi, National Research Council – IBSBC Milan

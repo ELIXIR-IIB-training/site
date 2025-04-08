@@ -25,7 +25,7 @@ jobs:
           # Process the most recent folder first
           for dir in pages/training_courses pages/archive/training_courses_2024; do
             for file in $(find "$dir" -name '[0-9]*.md'); do
-              if grep -q "### Instructors {#instructors-section}" "$file"; then
+              if grep -q "### Instructor*" "$file"; then
                 echo "Processing $file..."
                 # Extract the 'Instructors' section
                 trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")

@@ -22,15 +22,7 @@ endDate: "2025/02/12"
 duration: P3DT7H
 inLanguage: en-EN 
 ---
-<!--
-![Banner](assets/img/BANNER_CNR.png){: height="400px" width="400px"}<br>
-![ELIXIR-IT](images/infrastructures/elixir_node_italy.svg){: height="200px" width="200px"}
-![BITS](images/2025_events/BITSLogo.jpg){: height="200px" width="200px"}
-![Elixir Single Cell Community](images/2025_events/sco.png){: height="200px" width="200px"}
-![Infolife](images/2025_events/Logo_infolife.jpg){: height="200px" width="200px"}
-![National Center for Gene Therapy and Drugs based on RNA Technology](images/2025_events/RNA_Genetherapy.png){: height="200px" width="200px"}
-![National Center for High Performance Computing, Big Data and Quantum Computing](images/2025_events/logoHPC2.svg){: height="200px" width="200px"}
--->
+
 
 ![Banner](images/2025_events/Banner_loghi_scRNA.png){: height="1200px" width="1200px"}
 ![logo_IBIOM](images/2025_events/logo_IBIOM.png){: height="100px" width="100px"}
@@ -81,7 +73,7 @@ A maximum of **20 candidates** will be selected on a **first-come- first-served 
 <br>
 <br>
 
-### Instructors {#instructors-section}
+### Instructors
 
 
 - Raffaele Calogero, University of Turin, Italy  
