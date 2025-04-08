@@ -68,15 +68,11 @@ jobs:
             sub(/^[^ ]+ /, "", $0); 
             print $0;
           }' | while IFS= read -r sorted_name; do
+            # Correctly associate the name with the original affiliation
+            affiliation="${trainers_map[$sorted_name]}"
             echo "$sorted_name:" >> _data/TRAINERS.yaml
-            echo "    affiliation: ${trainers_map[$sorted_name]}" >> _data/TRAINERS.yaml
+            echo "    affiliation: $affiliation" >> _data/TRAINERS.yaml
           done
-
-
-
-
-
-
 
       - name: Commit changes
         run: |
