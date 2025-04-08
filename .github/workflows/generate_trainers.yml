@@ -66,6 +66,7 @@ jobs:
     done
 
 
+
       - name: Commit changes
         run: |
           git config --global user.name 'elixir_training_bot'
