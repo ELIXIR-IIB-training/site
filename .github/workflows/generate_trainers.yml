@@ -17,7 +17,7 @@ jobs:
 
       - name: Extract trainers from Markdown and sort by last name
         run: |
-          echo "Extracting trainers data...."
+          echo "Extracting and sorting trainers data...."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
           
           declare -A trainers_map # Create an associative array to store trainers
@@ -48,11 +48,12 @@ jobs:
 
           # Sort trainers by last name and write to TRAINERS.yaml
           printf "%s\n" "${!trainers_map[@]}" | \
-          awk '{print $2,$0}' | sort | \
+          awk '{split($0, n, " "); if (n[2] !~ /^[A-Z]\.$/) print n[2], $0}' | sort | \
           awk '{$1=""; print $0}' | while IFS= read -r sorted_name; do
             echo "$sorted_name:" >> _data/TRAINERS.yaml
             echo "    affiliation: ${trainers_map[$sorted_name]}" >> _data/TRAINERS.yaml
           done
+
 
 
 
