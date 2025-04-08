@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 16
 
-      - name: Extract trainers from Markdown
+      - name: Extract trainers from Markdown and sort by last name
         run: |
           echo "Extracting trainers data...."
           > _data/TRAINERS.yaml # Clear existing TRAINERS.yaml
@@ -46,11 +46,14 @@ jobs:
             done
           done
 
-          # Write the trainers_map to TRAINERS.yaml
-          for name in "${!trainers_map[@]}"; do
-            echo "$name:" >> _data/TRAINERS.yaml
-            echo "    affiliation: ${trainers_map[$name]}" >> _data/TRAINERS.yaml
+          # Sort trainers by last name and write to TRAINERS.yaml
+          printf "%s\n" "${!trainers_map[@]}" | \
+          awk '{print $2,$0}' | sort | \
+          awk '{$1=""; print $0}' | while IFS= read -r sorted_name; do
+            echo "$sorted_name:" >> _data/TRAINERS.yaml
+            echo "    affiliation: ${trainers_map[$sorted_name]}" >> _data/TRAINERS.yaml
           done
+
 
 
 
