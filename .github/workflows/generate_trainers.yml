@@ -46,10 +46,16 @@ jobs:
             done
           done
 
-          # Write the trainers_map to TRAINERS.yaml
-          for name in "${!trainers_map[@]}"; do
-            echo "$name:" >> _data/TRAINERS.yaml
-            echo "    affiliation: ${trainers_map[$name]}" >> _data/TRAINERS.yaml
+
+
+          # Sort trainers by first name and write to TRAINERS.yaml
+          printf "%s\n" "${!trainers_map[@]}" | \
+          awk '{split($0, n, " "); first_name = n[1]; print first_name, $0}' | sort | \
+          awk '{$1=""; print $0}' | while IFS= read -r sorted_name; do
+            # Correctly associate the name with the original affiliation
+            affiliation="${trainers_map[$sorted_name]}"
+            echo "$sorted_name:" >> _data/TRAINERS.yaml
+            echo "  affiliation: $affiliation" >> _data/TRAINERS.yaml
           done
 
 
