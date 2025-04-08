@@ -28,7 +28,7 @@ jobs:
               if grep -q "### Instructor*" "$file"; then
                 echo "Processing $file..."
                 # Extract the 'Instructors' section
-                trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
+                trainers=$(grep -A10 -E "### Instructor*" "$file" | grep -v "###")
                 
                 # Update trainers_map with priority to the latest folder
                 while IFS= read -r line; do
@@ -51,6 +51,7 @@ jobs:
             echo "$name:" >> _data/TRAINERS.yaml
             echo "    affiliation: ${trainers_map[$name]}" >> _data/TRAINERS.yaml
           done
+
 
 
       - name: Commit changes
