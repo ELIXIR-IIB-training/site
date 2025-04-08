@@ -67,9 +67,9 @@ A maximum of 30 candidates will be selected on a **first-come- first-served basi
 <br>
 <br>
 
-### Instructor
+### Instructor {#instructors-section}
 
-- Luana Licata - University of Rome “Tor Vergata”, ELIXIR-IT, Italy
+- Luana Licata, University of Rome “Tor Vergata”, ELIXIR-IT, Italy
 
 <br>
 <br>

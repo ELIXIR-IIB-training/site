@@ -69,10 +69,11 @@ Go to the Application Form - Registration.
 <br>
 <br>
 
-### Instructors
+### Instructors {#instructors-section}
 
-- Erik Garrison - University of Tennesse Health Science Center
-- Andrea Guarracino - University of Tennesse Health Science Center
+- Erik Garrison, University of Tennesse Health Science Center
+- Andrea Guarracino, University of Tennesse Health Science Center
+
 <br>
 <br>
 

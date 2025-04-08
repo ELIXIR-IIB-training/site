@@ -56,10 +56,12 @@ Selected participants will be notified by **19th April 2024**.
 <br>
 <br>
 
-### Instructors
-- **Maria Cristina Aspromonte**- University of Padova, ELIXIR-IT, Italy
-- **Federica Quaglia** - University of Padova, ELIXIR-IT, Italy
-- **Victoria Nugnes** - University of Padova, ELIXIR-IT, Italy
+### Instructors {#instructors-section}
+
+- **Maria Cristina Aspromonte**, University of Padova, ELIXIR-IT, Italy
+- **Federica Quaglia**, University of Padova, ELIXIR-IT, Italy
+- **Victoria Nugnes**, University of Padova, ELIXIR-IT, Italy
+
 <br>
 <br>
 

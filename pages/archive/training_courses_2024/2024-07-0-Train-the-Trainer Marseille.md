@@ -60,15 +60,16 @@ Link : [https://framaforms.org/elixir-train-the-trainer-course-france-marseille-
 <br>
 
 ### Organisers
-- Lucie Khamvongsa-Charbonnier (Institut Français de Bioinformatique, CNRS)
-- Olivier Sand (Institut Français de Bioinformatique, CNRS)
-- Andreas Zanzoni (Inserm TAGC U0190, Aix-Marseille University)
+- Lucie Khamvongsa-Charbonnier, Institut Français de Bioinformatique, CNRS
+- Olivier Sand, Institut Français de Bioinformatique, CNRS
+- Andreas Zanzoni, Inserm TAGC U0190, Aix-Marseille University
 
 <br>
 
-### Instructors
-- Patricia Palagi (ELIXIR-CH Training Coordinator, SIB)
-- Allegra Via (ELIXIR-IT Training Coordinator, IBPM-CNR)
+### Instructors {#instructors-section}
+
+- Patricia Palagi, ELIXIR-CH Training Coordinator, SIB
+- Allegra Via, ELIXIR-IT Training Coordinator, IBPM-CNR
 
 <br>
 

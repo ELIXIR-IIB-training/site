@@ -49,12 +49,13 @@ This course is free of charge
 <br>
 
 ### Organisers
-- Anna Marabotti – Università di Salerno, ELIXIR-IT, Italy
+- Anna Marabotti, Università di Salerno, ELIXIR-IT, Italy
 - Teresa Colombo, Istituto di Biologia e Patologia Molecolari (IBPM - CNR), ELIXIR-IT, Italy
 
 <br>
 
-### Instructors
+### Instructors {#instructors-section}
+
 - Teresa Colombo, Istituto di Biologia e Patologia Molecolari (IBPM - CNR), ELIXIR-IT, Italy
 - Fabiola De Marco, Università di Salerno, Italy
 

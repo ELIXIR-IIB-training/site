@@ -72,9 +72,9 @@ A maximum of 15 candidates will be selected on the basis of an assessment of the
 <br>
 <br>
 
-### Instructor
+### Instructor {#instructors-section}
 
-- Dott. Raoul Bonnal, IFOM - Research Computing & Data Science Manager
+- Raoul Bonnal, IFOM - Research Computing & Data Science Manager
 
 <br>
 <br>

@@ -82,14 +82,15 @@ Acceptance and payment instructions will be notified soon after the application 
 
 <br>
 
-### Instructors
-- Adriano Fonzino (UNIBA, IT)
-- Alessandro Silvestris (UNIBA, IT)
-- Francesco Nicassio (IIT, IT)
-- Ernesto Picardi (UNIBA, IT)
-- Tommaso Leonardi (IIT, IT)
-- Camilla Ugolini (IIT, IT)
-- Logan Mulroney (IIT, IT)
+### Instructors {#instructors-section}
+
+- Adriano Fonzino, (UNIBA, IT)
+- Alessandro Silvestris, (UNIBA, IT)
+- Francesco Nicassio, (IIT, IT)
+- Ernesto Picardi, (UNIBA, IT)
+- Tommaso Leonardi, (IIT, IT)
+- Camilla Ugolini, (IIT, IT)
+- Logan Mulroney, (IIT, IT)
 
 
 <br>
