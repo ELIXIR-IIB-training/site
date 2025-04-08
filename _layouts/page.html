@@ -59,9 +59,9 @@ layout: default
         }
 
         // Parsing body (Instructors)
-        const instructorsSection = document.querySelector('### Instructors');
+        const instructorsSection = document.querySelector('#instructors-section');
         if (instructorsSection) {
-            const instructorsList = instructorsSection.innerText.split('\n');
+            const instructorsList = instructorsSection.nextElementSibling.innerText.split('\n');
             instructorsList.forEach((instructor) => {
                 if (instructor.trim()) {
                     const [name, affiliation] = instructor.split(', ');
