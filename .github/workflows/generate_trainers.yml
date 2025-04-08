@@ -33,7 +33,7 @@ jobs:
                 # Update trainers_map with priority to the latest folder
                 while IFS= read -r line; do
                   if [[ "$line" =~ ^- ]]; then
-                    name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | xargs)
+                    name=$(echo "$line" | cut -d',' -f1 | sed 's/- //g' | sed 's/\*//g' | xargs)
                     affiliation=$(echo "$line" | cut -d',' -f2- | xargs)
                     
                     # Add to trainers_map only if the name is not already present
