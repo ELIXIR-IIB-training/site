@@ -22,10 +22,15 @@ jobs:
           
           # Limit search to specific directories and matching files
           for file in $(find pages/training_courses pages/archive/training_courses_2024 -name '[0-9]*.md'); do
-            echo "Processing $file..."
-            # Extract the 'Instructors' section
-            trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
-            echo "$trainers" >> _data/TRAINERS.yaml
+            # Check if the file contains ### Instructors
+            if grep -q "### Instructors {#instructors-section}" "$file"; then
+              echo "Processing $file..."
+              # Extract the 'Instructors' section
+              trainers=$(grep -A10 -E "### Instructors {#instructors-section}" "$file" | grep -v "###")
+              echo "$trainers" >> _data/TRAINERS.yaml
+            else
+              echo "Skipping $file... No Instructors section found."
+            fi
           done
 
       - name: Commit changes
@@ -35,5 +40,6 @@ jobs:
           git add _data/TRAINERS.yaml
           git commit -m "Update TRAINERS.yaml"
           git push
+
 
 
