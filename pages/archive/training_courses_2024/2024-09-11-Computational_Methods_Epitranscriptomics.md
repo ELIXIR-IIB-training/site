@@ -74,23 +74,23 @@ Acceptance and payment instructions will be notified soon after the application 
 <br>
 
 ### Organisers
-- Ernesto Picardi (UNIBA, IT)
-- Francesca De Leo (CNR-IBIOM, IT)
-- Francesco Nicassio (IIT, IT)
-- Anna Marabotti (UNISA, IT)
-- Graziano Pesole (UNIBA, IT)
+- Ernesto Picardi, University of Bari, Italy
+- Francesca De Leo, (CNR-IBIOM, IT)
+- Francesco Nicassio, Istituto Italiano di Tecnologia (IIT), Milano - Italy
+- Anna Marabotti, University of Salerno, Italy
+- Graziano Pesole, University of Bari, Italy
 
 <br>
 
 ### Instructors {#instructors-section}
 
-- Adriano Fonzino, (UNIBA, IT)
-- Alessandro Silvestris, (UNIBA, IT)
-- Francesco Nicassio, (IIT, IT)
-- Ernesto Picardi, (UNIBA, IT)
-- Tommaso Leonardi, (IIT, IT)
-- Camilla Ugolini, (IIT, IT)
-- Logan Mulroney, (IIT, IT)
+- Adriano Fonzino, University of Bari, Italy
+- Alessandro Silvestris, University of Bari, Italy
+- Francesco Nicassio, Istituto Italiano di Tecnologia (IIT), Milano - Italy
+- Ernesto Picardi, University of Bari, Italy
+- Tommaso Leonardi, Istituto Italiano di Tecnologia (IIT), Milano - Italy
+- Camilla Ugolini, Istituto Italiano di Tecnologia (IIT), Milano - Italy
+- Logan Mulroney, Istituto Italiano di Tecnologia (IIT), Milano - Italy
 
 
 <br>
