@@ -205,11 +205,11 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" align="left">
       What is metagenomics - metabarcoding vs shotgun<br>
       Intro on sequencing technologies<br>
-      Second Generation Technologies<br>
-      Third Generation Technologies<br>
+       - Second Generation Technologies<br>
+       - Third Generation Technologies<br>
       Introduction to DNA-metabarcoding<br>
-      Historical notes<br>
-      Applications: from the gut microbiome to food traceability<br>
+       - Historical notes<br>
+       - Applications: from the gut microbiome to food traceability<br>
       Experimental design
     </td>
   </tr>
@@ -239,10 +239,10 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Hands-On</td>
     <td height="50" align="left">
       Characteristics of the raw sequencing data<br>
-      Data visualization<br>
-      Data quality: fastqc/multiqc<br>
-      Data import into qiime<br>
-      Data pre-processing
+       - Data visualization<br>
+       - Data quality: fastqc/multiqc<br>
+       - Data import into qiime<br>
+       - Data pre-processing
     </td>
   </tr>
   <tr>
@@ -261,8 +261,8 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" width="100" align="center">12:00-13:00</td>
     <td height="50">Hands-On</td>
     <td height="50" align="left">
-      Data denoising<br>
-      Taxonomic classification of data and visualization of relative abundances
+      - Data denoising<br>
+      - Taxonomic classification of data and visualization of relative abundances
     </td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" align="left">
       Theoretical notes on the concept of Diversity and Diversity measures<br>
       Data normalization for Rarefaction and CLR<br>
-      Dimensional reduction approaches (PCoA/PCA) and permANOVA tests<br>
+       - Dimensional reduction approaches (PCoA/PCA) and permANOVA tests<br>
       Statistical tests on alpha diversity and beta diversity metrics<br>
       Differential Abundance Analysis
     </td>
@@ -288,9 +288,9 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" width="100" align="center">15:30-17:00</td>
     <td height="50">Hands-On</td>
     <td height="50" align="left">
-      Rarefaction and diversity metrics<br>
-      Statistical Comparison<br>
-      Differential Abundance Analysis
+      - Rarefaction and diversity metrics<br>
+      - Statistical Comparison<br>
+      - Differential Abundance Analysis
     </td>
   </tr>
   <tr>
@@ -309,12 +309,12 @@ Participants are expected to have basic understanding of the UNIX shell.
       Introduction to Python for microbiome data analysis<br>
       Types of Machine Learning (Supervised vs Unsupervised)<br>
       Microbiome data and their specificity<br>
-      Compositional data and log-ratio transformations (clr, ilr, alr)<br>
-      Sparsity and over-dispersion problems<br>
-      Need for normalization and scaling<br>
+       - Compositional data and log-ratio transformations (clr, ilr, alr)<br>
+       - Sparsity and over-dispersion problems<br>
+       - Need for normalization and scaling<br>
       Dimensionality reduction<br>
-      PCA, t-SNE, UMAP (advantages and limitations in microbiomic analysis)<br>
-      Considerations on normalization, data balancing and cross-validation
+       - PCA, t-SNE, UMAP (advantages and limitations in microbiomic analysis)<br>
+       - Considerations on normalization, data balancing and cross-validation
     </td>
   </tr>
   <tr>
@@ -326,10 +326,10 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Exercise</td>
     <td height="50" align="left">
       Data preprocessing and preparation for ML<br>
-      Data import and visualization<br>
-      Transformations for compositional data<br>
-      Normalization and management of relative abundances<br>
-      Implementation of PCA and t-SNE to explore the structure of microbiome data
+       - Data import and visualization<br>
+       - Transformations for compositional data<br>
+       - Normalization and management of relative abundances<br>
+       - Implementation of PCA and t-SNE to explore the structure of microbiome data
     </td>
   </tr>
   <tr>
@@ -341,12 +341,16 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Lecture</td>
     <td height="50" align="left">
       Machine Learning Models and Interpretability<br>
-      Classification vs Regression<br>
-      Common algorithms: Logistic Regression, Decision Trees, Random Forest, SVM, Gradient Boosting<br>
-      Performance evaluation: Accuracy, Precision, Recall, F1-score, AUC-ROC<br>
-      Explainable AI (XAI) and model interpretability (SHAP and LIME)<br>
-      Importance of features and their role in prediction<br>
-      XAI applications in the microbiome: identification of relevant microbial markers
+      Machine Learning for the Microbiome<br>
+       - Classification vs Regression<br>
+       - Common algorithms: Logistic Regression, Decision Trees, Random Forest, SVM, Gradient Boosting<br>
+       - Performance evaluation<br>
+       - Accuracy, Precision, Recall, F1-score, AUC-ROC<br>
+       - Confusion Matrix and importance of the choice of metric<br>
+       - Explainable AI (XAI) and model interpretability <br>
+       - (SHAP and LIME) for feature interpretation<br>
+       - Importance of features and their role in prediction<br>
+       - XAI applications in the microbiome: identification of relevant microbial markers
     </td>
   </tr>
   <tr>
@@ -358,10 +362,10 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Exercise</td>
     <td height="50" align="left">
       Construction and interpretation of an ML model on metagenomic data<br>
-      Training a classification model on abundance data<br>
-      Hyperparameter optimization with cross-validation<br>
-      Interpretation of results with SHAP<br>
-      Discussion of the results and comparison with traditional methods
+       - Training a classification model on abundance data<br>
+       - Hyperparameter optimization with cross-validation<br>
+       - Interpretation of results with SHAP<br>
+       - Discussion of the results and comparison with traditional methods
     </td>
   </tr>
   <tr>
@@ -373,11 +377,13 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" align="left">
       Sequencing technologies<br>
       Brief introduction to the main analysis techniques:<br>
-      Taxonomic profiling<br>
-      Functional profiling<br>
-      Metagenome assembly and binning<br>
-      Computational tools for metagenomics (nextflow-docker)
-    </td>
+       - Taxonomic profiling<br>
+       - Functional profiling<br>
+       - Metagenome assembly and binning<br>
+      Computational tools for metagenomics<br>
+       - operating systems<br>
+       - hardware requests<br>
+       - software tools (nextflow-docker, etc)<br></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
@@ -388,43 +394,16 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Lecture</td>
     <td height="50" align="left">
       Taxonomic and functional profiling using shotgun data<br>
-      MetaPhlAn, Kraken2/Bracken<br>
+      Raw data preprocessing: read filtering and host elimination<br>
+      Taxonomic profiling:<br>
+       - MetaPhlAn<br>
+       - Kraken2/Bracken<br>
       Functional profiling: HUMANN<br>
-      Strain level profiling: StrainPhlAn
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center"><h3>Day 4 - Analysis of the taxonomic and functional composition of the microbiome through shotgun metagenomics</h3></td>
-  </tr>
-  <tr>
-    <td height="50" width="100" align="center">Time</td>
-    <td height="50">Learning Experience</td>
-    <td height="50">Topic</td>
-  </tr>
-  <tr>
-    <td height="50" width="100" align="center">09:00-10:30</td>
-    <td height="50">Lecture</td>
-    <td height="50" align="left">
-      Sequencing technologies<br>
-      Introduction to analysis techniques:<br>
-      - Taxonomic profiling<br>
-      - Functional profiling<br>
-      - Metagenome assembly and binning<br>
-      Tools overview: nextflow-docker
-    </td>
-  </tr>
-  <tr>
-    <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="4" align="left"><i>Coffee Break</i></td>
-  </tr>
-  <tr>
-    <td height="50" width="100" align="center">11:00-12:30</td>
-    <td height="50">Lecture</td>
-    <td height="50" align="left">
-      Taxonomic and functional profiling using shotgun data:<br>
-      - MetaPhlAn, Kraken2/Bracken<br>
-      - HUMANN for functional profiling<br>
-      - Strain level profiling (StrainPhlAn)
+      Taxonomic profiling beyond the species level: <br>
+      Strain level analysis<br>
+       - The species concept in bacteria<br>
+       - Genomic variability within the species: strain, genome, pangenome <br>
+       - Strain level profiling: StrainPhlAn
     </td>
   </tr>
   <tr>
@@ -435,8 +414,9 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" width="100" align="center">13:30-15:00</td>
     <td height="50">Hands-On</td>
     <td height="50" align="left">
-      Using MetaPhlAn, Kraken2/Bracken, and HUMANN 
-      Implementation of StrainPhlAn for strain-level analysis
+       - MetaPhlAn<br>
+       - Kraken2/Bracken<br>
+       - HUMANN
     </td>
   </tr>
   <tr>
@@ -446,15 +426,18 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">15:30-16:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">StrainPhlAn and functional annotation</td>
+    <td height="50">StrainPhlAn</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">16:00-17:00</td>
     <td height="50">Lecture</td>
     <td height="50" align="left">
-      Metagenome assembly and binning:<br>
-      - Binning quality measures<br>
-      - MAG dereplication and taxonomic classification<br>
+      Metagenome assembly and binning<br>
+      - Binning<br>
+      - Quality measures for MAGs<br>
+      - Dereplication of MAGS<br>
+      - Taxonomic classification of MAGs<br>
+         - Hands On kMetaShot<br>
       - Functional annotation of MAGs
     </td>
   </tr>
@@ -473,12 +456,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-10:00</td>
     <td height="50">Lecture</td>
-    <td height="50">The human microbiome and the Holobiont theory of evolution (Duccio Cavalieri)</td>
+    <td height="50">The human microbiome and the Holobiont theory of evolution<br>Duccio Cavalieri, University of Florence</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-11:00</td>
     <td height="50">Lecture</td>
-    <td height="50">The Food Microbiome (Eugenio Parente)</td>
+    <td height="50">The Food Microbiome<br> Eugenio Parente, University of Basilicata</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-11:30</td>
@@ -488,7 +471,8 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" width="100" align="center">11:30-12:30</td>
     <td height="50">Lecture</td>
     <td height="50">
-      Living with microbes: The microbiome of the built environment and its implications in human wellbeing (Antonella Bruno)
+      Living with microbes: The microbiome of the built environment and its implications in human wellbeing<br>
+      Antonella Bruno, University of Milano Bicocca
     </td>
   </tr>
 </table>
