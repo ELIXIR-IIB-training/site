@@ -1,11 +1,11 @@
 ---
-title: "Elixir-IIB course on Profiling of microbial communities using targeted and shotgun metagenomics"
+title: "Profiling of microbial communities using targeted and shotgun metagenomics"
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 30 June - 4 July 2025 <br> Bari, Italy
 
 event:
-  - name: "Elixir-IIB course on Profiling of microbial communities using targeted and shotgun metagenomics"
+  - name: "Profiling of microbial communities using targeted and shotgun metagenomics"
     organisers: G.Defazio<br> C.Donati<br> B.Fosso<br> P.Manghi<br> M.Marzano<br> P.Novielli<br> G.Pesole<br> M.Santamaria<br> S.Tangaro
     venue: Bari, Italy
     event_date: 2025/05/25-30
