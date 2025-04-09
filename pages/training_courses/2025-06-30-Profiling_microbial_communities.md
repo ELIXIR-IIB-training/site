@@ -271,7 +271,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td colspan="4" align="left">Questions and answers</td>
+    <td colspan="4" align="center">Questions and answers</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:30</td>
@@ -421,12 +421,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td colspan="4" align="left"><i>Coffee Break</i></td>
+    <td colspan="4" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-16:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">StrainPhlAn</td>
+    <td height="50" align="left">StrainPhlAn</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">16:00-17:00</td>
@@ -465,7 +465,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-11:30</td>
-    <td colspan="4" align="left"><i>Coffee Break</i></td>
+    <td colspan="4" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:30-12:30</td>
