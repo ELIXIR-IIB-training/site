@@ -188,16 +188,16 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-12:00</td>
-    <td colspan="4" align="left">Welcome and registration</td>
+    <td colspan="4" align="center">Welcome and registration</td>
 
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:00-14:00</td>
-    <td colspan="4" align="left">Welcome cocktail</td>
+    <td colspan="4" align="center">Welcome cocktail</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td colspan="4" align="left">Welcome and short intro on ELIXIR<br>Introduction to the course</td>
+    <td colspan="4" align="center">Welcome and short intro on ELIXIR<br>Introduction to the course</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-17:30</td>
