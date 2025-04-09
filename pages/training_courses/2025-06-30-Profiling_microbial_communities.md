@@ -19,11 +19,9 @@ addressLocality: Bari
 addressCountry: Italy
 startDate: "2025/06/30"
 endDate: "2025/06/4"
-duration: P5DT35H
+duration: P5DT40H
 inLanguage: it-IT   
 ---
-<br>
-<br>
 
 <!--
 ![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
@@ -34,7 +32,6 @@ inLanguage: it-IT
 ## Course Description 
 
 This training course focuses on the study of the microbiota using Next Generation Sequencing (NGS) techniques. The course will introduce DNA metabarcoding and shotgun metagenomics and illustrate the major computational tools for the analysis of metagenomic data. In addition, the course will provide an introduction to Machine Learning methods applied to the analysis of metagenomic data. The course will include both a theoretical introduction to the topics and practical sessions with real data.
-
 
 <br>
 <br>
