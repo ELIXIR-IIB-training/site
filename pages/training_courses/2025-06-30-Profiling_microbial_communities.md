@@ -187,23 +187,21 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-12:00</td>
-    <td height="50">Welcome and registration</td>
-    <td height="50">-</td>
+    <td colspan="4" align="left">Welcome and registration</td>
+
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:00-14:00</td>
-    <td height="50">Welcome cocktail</td>
-    <td height="50">-</td>
+    <td colspan="4" align="left">Welcome cocktail</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td height="50">Welcome and short intro on ELIXIR</td>
-    <td height="50">Introduction to the course</td>
+    <td colspan="4" align="left">Welcome and short intro on ELIXIR<br>Introduction to the course</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-17:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       What is metagenomics - metabarcoding vs shotgun<br>
       Intro on sequencing technologies<br>
       Second Generation Technologies<br>
@@ -217,7 +215,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">17:30-18:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">Access to virtual machines and upload/download tests of files and folders</td>
+    <td height="50" align="left">Access to virtual machines and upload/download tests of files and folders</td>
   </tr>
   <tr>
     <td colspan="4" align="center"><h3>Day 2 - Analysis of microbiome biodiversity through DNA metabarcoding</h3></td>
@@ -230,7 +228,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-09:45</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Amplicon sequencing<br>
       Variable regions vs full length
     </td>
@@ -238,7 +236,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:45-10:30</td>
     <td height="50">Hands-On</td>
-    <td height="50">
+    <td height="50" align="left">
       Characteristics of the raw sequencing data<br>
       Data visualization<br>
       Data quality: fastqc/multiqc<br>
@@ -248,13 +246,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:00</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Denoising vs OTU-clustering & Chimera removal<br>
       Taxonomic classification: Approaches based on similarity analysis vs Bayesian classifiers
     </td>
@@ -262,25 +259,23 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">12:00-13:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">
+    <td height="50" align="left">
       Data denoising<br>
       Taxonomic classification of data and visualization of relative abundances
     </td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:00-14:00</td>
-    <td height="50"><i>Lunch Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td height="50">Questions and answers</td>
-    <td height="50">-</td>
+    <td colspan="4" align="left">Questions and answers</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Theoretical notes on the concept of Diversity and Diversity measures<br>
       Data normalization for Rarefaction and CLR<br>
       Dimensional reduction approaches (PCoA/PCA) and permANOVA tests<br>
@@ -291,7 +286,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">15:30-17:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">
+    <td height="50" align="left">
       Rarefaction and diversity metrics<br>
       Statistical Comparison<br>
       Differential Abundance Analysis
@@ -308,7 +303,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Fundamentals of Machine Learning and AI<br>
       Introduction to Python for microbiome data analysis<br>
       Types of Machine Learning (Supervised vs Unsupervised)<br>
@@ -323,13 +318,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
     <td height="50">Exercise</td>
-    <td height="50">
+    <td height="50" align="left">
       Data preprocessing and preparation for ML<br>
       Data import and visualization<br>
       Transformations for compositional data<br>
@@ -339,13 +333,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
-    <td height="50"><i>Lunch Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Machine Learning Models and Interpretability<br>
       Classification vs Regression<br>
       Common algorithms: Logistic Regression, Decision Trees, Random Forest, SVM, Gradient Boosting<br>
@@ -357,13 +350,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-17:00</td>
     <td height="50">Exercise</td>
-    <td height="50">
+    <td height="50" align="left">
       Construction and interpretation of an ML model on metagenomic data<br>
       Training a classification model on abundance data<br>
       Hyperparameter optimization with cross-validation<br>
@@ -377,7 +369,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Sequencing technologies<br>
       Brief introduction to the main analysis techniques:<br>
       Taxonomic profiling<br>
@@ -388,13 +380,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Taxonomic and functional profiling using shotgun data<br>
       MetaPhlAn, Kraken2/Bracken<br>
       Functional profiling: HUMANN<br>
@@ -412,7 +403,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Sequencing technologies<br>
       Introduction to analysis techniques:<br>
       - Taxonomic profiling<br>
@@ -423,13 +414,12 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Taxonomic and functional profiling using shotgun data:<br>
       - MetaPhlAn, Kraken2/Bracken<br>
       - HUMANN for functional profiling<br>
@@ -438,21 +428,19 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
-    <td height="50"><i>Lunch Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
     <td height="50">Hands-On</td>
-    <td height="50">
-      Using MetaPhlAn, Kraken2/Bracken, and HUMANN<br>
+    <td height="50" align="left">
+      Using MetaPhlAn, Kraken2/Bracken, and HUMANN 
       Implementation of StrainPhlAn for strain-level analysis
     </td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-16:00</td>
@@ -462,7 +450,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">16:00-17:00</td>
     <td height="50">Lecture</td>
-    <td height="50">
+    <td height="50" align="left">
       Metagenome assembly and binning:<br>
       - Binning quality measures<br>
       - MAG dereplication and taxonomic classification<br>
@@ -471,7 +459,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">20:30</td>
-    <td height="50"><i>Social Dinner</i></td>
+    <td colspan="4" align="left"><i>Social Dinner</i></td>
   </tr>
   <tr>
     <td colspan="4" align="center"><h3>Day 5 - Case Studies</h3></td>
@@ -493,8 +481,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-11:30</td>
-    <td height="50"><i>Coffee Break</i></td>
-    <td height="50">-</td>
+    <td colspan="4" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:30-12:30</td>
