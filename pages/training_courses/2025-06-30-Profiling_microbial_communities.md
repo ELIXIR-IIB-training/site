@@ -197,8 +197,8 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
-    <td height="50">Learning Experience</td>
-    <td height="50">Topic</td>
+    <td height="50" width="200" align="center">Learning Experience</td>
+    <td height="50" width="500" align="center">Topic</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-09:45</td>
@@ -272,8 +272,8 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
-    <td height="50">Learning Experience</td>
-    <td height="50">Topic</td>
+    <td height="50" width="200" align="center">Learning Experience</td>
+    <td height="50" width="500" align="center">Topic</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
@@ -344,6 +344,11 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td colspan="3" align="center"><h3>Day 4 - Analysis of the taxonomic and functional composition of the microbiome through shotgun metagenomics</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">Time</td>
+    <td height="50" width="200" align="center">Learning Experience</td>
+    <td height="50" width="500" align="center">Topic</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
@@ -424,8 +429,8 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
-    <td height="50">Learning Experience</td>
-    <td height="50">Topic</td>
+    <td height="50" width="200" align="center">Learning Experience</td>
+    <td height="50" width="500" align="center">Topic</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:00</td>
