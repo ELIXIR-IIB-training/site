@@ -107,17 +107,6 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 <br>
 <br>
 
-### Objectives
-
-Gain familiarity with key metabolomics applications in fields such as environmental science, nutraceuticals, food science, and personalized medicine.
-Learn the most appropriate techniques for sample preparation and data acquisition using mass spectrometry. 
-Understand untargeted, targeted, and labeling approaches. Develop statistical analysis skills. 
-Use metabolomics data to explore biochemistry and metabolism. 
-Receive guidance on designing personalized metabolomics experiments (covering areas such as primary and secondary metabolism, lipidomics, food composition, natural products, exposome, and volatilome) based on a case study of interest.
-
-<br>
-<br>
-
 ### Aims of the workshop
 - Introduce the principles of metabarcoding and shotgun metagenomics
 - Guide participants through all steps of data analysis, from quality controls to data reduction and visualization
