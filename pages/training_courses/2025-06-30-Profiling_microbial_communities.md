@@ -153,7 +153,7 @@ Participants are expected to have basic understanding of the UNIX shell.
 
 <table border="1" width="800">
   <tr>
-    <td colspan="4" align="center"><h3>Day 1</h3></td>
+    <td colspan="3" align="center"><h3>Day 1</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
@@ -162,16 +162,16 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-12:00</td>
-    <td colspan="4" align="center">Welcome and registration</td>
+    <td colspan="3" align="center">Welcome and registration</td>
 
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:00-14:00</td>
-    <td colspan="4" align="center">Welcome cocktail</td>
+    <td colspan="3" align="center">Welcome cocktail</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td colspan="4" align="center">Welcome and short intro on ELIXIR<br>Introduction to the course</td>
+    <td colspan="3" align="center">Welcome and short intro on ELIXIR<br>Introduction to the course</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-17:30</td>
@@ -193,7 +193,7 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50" align="left">Access to virtual machines and upload/download tests of files and folders</td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>Day 2 - Analysis of microbiome biodiversity through DNA metabarcoding</h3></td>
+    <td colspan="3" align="center"><h3>Day 2 - Analysis of microbiome biodiversity through DNA metabarcoding</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
@@ -221,7 +221,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="4" align="left"><i>Coffee Break</i></td>
+    <td colspan="3" align="left"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:00</td>
@@ -241,11 +241,11 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:00-14:00</td>
-    <td colspan="4" align="center"><i>Lunch Break</i></td>
+    <td colspan="3" align="center"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:00-14:30</td>
-    <td colspan="4" align="center">Questions and answers</td>
+    <td colspan="3" align="center">Questions and answers</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:30</td>
@@ -268,7 +268,7 @@ Participants are expected to have basic understanding of the UNIX shell.
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>Day 3 - Artificial Intelligence and the Microbiome</h3></td>
+    <td colspan="3" align="center"><h3>Day 3 - Artificial Intelligence and the Microbiome</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
@@ -293,7 +293,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="4" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
@@ -308,7 +308,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
-    <td colspan="4" align="center"><i>Lunch Break</i></td>
+    <td colspan="3" align="center"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
@@ -329,7 +329,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td colspan="4" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-17:00</td>
@@ -343,7 +343,7 @@ Participants are expected to have basic understanding of the UNIX shell.
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>Day 4 - Analysis of the taxonomic and functional composition of the microbiome through shotgun metagenomics</h3></td>
+    <td colspan="3" align="center"><h3>Day 4 - Analysis of the taxonomic and functional composition of the microbiome through shotgun metagenomics</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
@@ -361,7 +361,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="4" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
@@ -382,7 +382,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
-    <td colspan="4" align="center"><i>Lunch Break</i></td>
+    <td colspan="3" align="center"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
@@ -395,7 +395,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td colspan="4" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-16:00</td>
@@ -417,10 +417,10 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">20:30</td>
-    <td colspan="4" align="center"><i>Social Dinner</i></td>
+    <td colspan="3" align="center"><i>Social Dinner</i></td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><h3>Day 5 - Case Studies</h3></td>
+    <td colspan="3" align="center"><h3>Day 5 - Case Studies</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
@@ -439,7 +439,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-11:30</td>
-    <td colspan="4" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:30-12:30</td>
