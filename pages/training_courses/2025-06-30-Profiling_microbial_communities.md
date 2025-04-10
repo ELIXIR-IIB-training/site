@@ -221,7 +221,7 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="3" align="left"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:00</td>
