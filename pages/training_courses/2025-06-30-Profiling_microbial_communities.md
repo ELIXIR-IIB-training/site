@@ -157,8 +157,8 @@ Participants are expected to have basic understanding of the UNIX shell.
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
-    <td height="50" width="300" align="center">Learning Experience</td>
-    <td height="50" width="400" align="center">Topic</td>
+    <td height="50" width="200" align="center">Learning Experience</td>
+    <td height="50" width="500" align="center">Topic</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-12:00</td>
