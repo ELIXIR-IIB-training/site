@@ -129,7 +129,7 @@ By the end of this course, the participants will be able to:
 - Use the common bioinformatics workflows for DNA-metabarcoding and shotgun metagenomics data analysis;
 - Analyse microbial communities using common ecological measures of biodiversity;
 - Apply methods of multivariate statistics and dimensionality reduction to microbiome data; 
-- Use machine learning approaches for microbiota data analysis.
+- Use machine learning approaches for microbiota data analysis.<br>
 In summary, the course provides a comprehensive overview of modern microbiota analysis techniques, from sample preparation to bioinformatics analysis and machine learning applications.
 
 <br>
