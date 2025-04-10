@@ -72,7 +72,8 @@ A maximum of 25 candidates will be selected on a first-come first-served basis. 
 
 - Duccio Cavalieri, University of Florence
 - Eugenio Parente, University of Basilicata
-- Antonella Bruno, University of Milano Bicocca
+- Antonella Bruno, University of Milan Bicocca
+- Edoardo Pasolli, University of Naples
 
 <br>
 <br>
@@ -435,23 +436,31 @@ Participants are expected to have basic understanding of the UNIX shell.
   <tr>
     <td height="50" width="100" align="center">09:00-10:00</td>
     <td height="50">Lecture</td>
-    <td height="50">The human microbiome and the Holobiont theory of evolution<br>Duccio Cavalieri, University of Florence</td>
+    <td height="50"><i>The human microbiome and the Holobiont theory of evolution</i><br>Duccio Cavalieri, University of Florence</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-11:00</td>
     <td height="50">Lecture</td>
-    <td height="50">The Food Microbiome<br> Eugenio Parente, University of Basilicata</td>
+    <td height="50"><i>The Food Microbiome</i><br> Eugenio Parente, University of Basilicata</td>
   </tr>
   <tr>
-    <td height="50" width="100" align="center">11:00-11:30</td>
+    <td height="50" width="100" align="center">11:00-11:15</td>
     <td colspan="3" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
-    <td height="50" width="100" align="center">11:30-12:30</td>
+    <td height="50" width="100" align="center">11:15-12:15</td>
     <td height="50">Lecture</td>
     <td height="50">
-      Living with microbes: The microbiome of the built environment and its implications in human wellbeing<br>
-      Antonella Bruno, University of Milano Bicocca
+      <i>Living with microbes: The microbiome of the built environment and its implications in human wellbeing</i><br>
+      Antonella Bruno, University of Milan Bicocca
+    </td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">12:15-13:15</td>
+    <td height="50">Lecture</td>
+    <td height="50">
+      <i>Strain-resolved metagenomics of the human and food microbiomes</i><br>
+      Edoardo Pasolli, University of Naples
     </td>
   </tr>
 </table>
