@@ -102,8 +102,7 @@ For all kinds of queries, please contact Claudio Donati at: [claudio.donati@fmac
 
 ### Target Audience
 
-A maximum of **25 candidates** will be selected on a first-come- first-served basis. Selected participants will be notified by **31st May 2025**.
-The workshop is open to all biological or biomedical PhD and Post-Doc research scientists. The course requires basic knowledge of Unix and the command line (bash shell). 
+A maximum of **25 candidates** will be selected on a first-come- first-served basis. The workshop is open to all biological or biomedical PhD and Post-Doc research scientists. The course requires basic knowledge of Unix and the command line (bash shell). 
 
 <br>
 <br>
