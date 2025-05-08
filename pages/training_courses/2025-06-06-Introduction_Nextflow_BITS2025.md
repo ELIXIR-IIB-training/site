@@ -76,8 +76,8 @@ A maximum of 30 participants will be selected on a first-come - first-served bas
 
 ### Instructors {#instructors-section}
 
-- Júlia Mir Pedrol, Centre for Genomic Regulation (CRG)
-- Jose Espinosa-Carrasco, Centre for Genomic Regulation (CRG)
+- Júlia Mir Pedrol, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona 08003, Spain)
+- Jose Espinosa-Carrasco, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona 08003, Spain)
 
 <br>
 <br>
@@ -93,7 +93,7 @@ A maximum of 30 participants will be selected on a first-come - first-served bas
 ## Contacts
 
 For all kinds of queries, please contact the organisers Anna Marabotti at: 
-[amarabotti@unisa.it](amarabotti@unisa.it) or Margherita Mutarelli at: [margherita.mutarelli@isasi.cnr.it](margherita.mutarelli@isasi.cnr.it) 
+[amarabotti@unisa.it](mailto:amarabotti@unisa.it) or Margherita Mutarelli at: [margherita.mutarelli@isasi.cnr.it](mailto:margherita.mutarelli@isasi.cnr.it) 
 
 <br>
 <br>
@@ -177,11 +177,11 @@ For the second day of the course, participants are expected to:
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:00-10:15</td>
-    <td colspan="3" align="center"><i>Coffee Break</i></td>
+    <td colspan="3" align="center"><i>Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:15-10:30</td>
-    <td height="50">Lecture</td>
+    <td height="50">Lecture & Hands-on</td>
     <td height="50" align="left">
       - Hello Channels (learn what channels are and how to use them)<br>
       - Hello Workflow (learn how to build a workflow)<br>

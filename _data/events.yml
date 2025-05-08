@@ -7,6 +7,12 @@
   description: "[More info here](https://elixir-iib-training.github.io/site/2025-05-25-Metabolomics_Academy)"
   location: Rezzato, Italy
 
+- name: "Introduction to Nextflow for BITS2025"
+  startDate: 2025-06-10
+  endDate: 2025-06-10
+  description: "[More info here](https://elixir-iib-training.github.io/site/2025-06-06-Introduction_Nextflow_BITS2025)"
+  location: Napoli, Italy
+
 - name: "EMBO Practical Course on Population Genomics: Background and tools"
   startDate: 2025-06-23
   endDate: 2025-06-29
