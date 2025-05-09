@@ -18,7 +18,7 @@ courseMode: onsite
 addressLocality: Bari
 addressCountry: Italy
 startDate: "2025/06/30"
-endDate: "2025/06/4"
+endDate: "2025/06/04"
 duration: P5DT40H
 inLanguage: it-IT   
 ---
