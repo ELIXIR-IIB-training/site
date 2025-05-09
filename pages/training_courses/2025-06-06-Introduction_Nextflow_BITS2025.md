@@ -76,7 +76,7 @@ A maximum of 30 participants will be selected on a first-come - first-served bas
 
 ### Instructors {#instructors-section}
 
-- Júlia Mir Pedrol, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Barcelona  Spain
+- Júlia Mir Pedrol, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Barcelona,  Spain
 - Jose Espinosa-Carrasco, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Barcelona, Spain
 
 <br>
