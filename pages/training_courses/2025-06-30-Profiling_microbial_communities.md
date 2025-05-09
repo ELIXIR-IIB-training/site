@@ -89,6 +89,8 @@ A maximum of 25 candidates will be selected on a first-come first-served basis. 
 - Graziano Pesole, University of Bari “Aldo Moro”,  ELIXIR-IT, Italy
 - Monica Santamaria, University of Bari “Aldo Moro”,  ELIXIR-IT, Italy
 - Sabina Tangaro, University of Bari “Aldo Moro”, ELIXIR-IT, Italy 
+- Veronica Morea, ELIXIR-IT Training Platform, Italy
+- Allegra Via, ELIXIR-IT Training Platform, Italy
 
 <br>
 <br>
