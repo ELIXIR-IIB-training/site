@@ -137,6 +137,8 @@ By the end of this course, the participants will be able to:
 
 ### Prerequisites
 
+Participants are required to bring their own personal laptop.
+
 For the first day of the course, participants are expected to:
 - Have a good knowledge of how to use a terminal. 
 - Have a GitHub account and be able to use Codespaces (see [GitHub Codespaces setup docs](https://training.nextflow.io/latest/envsetup/01_setup/)). [PREFERRED OPTION]
