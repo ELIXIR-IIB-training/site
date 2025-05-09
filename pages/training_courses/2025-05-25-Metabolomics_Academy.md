@@ -336,7 +336,7 @@ Participants should have basic knowledge of biology and/or biochemistry.
 </tr>
 <tr>
   <td height="50" width="100" align="center">17:00-19:00</td>
-  <td colspan="4" align="left">Abstract presentation, discussione e test finale per rilascio certificati</td>
+  <td colspan="4" align="left">Abstract presentation, discussione e test finale</td>
 </tr>
 <tr>
   <td height="50" width="100" align="center">20:00</td>
