@@ -68,7 +68,14 @@ A maximum of 25 candidates will be selected on a first-come first-served basis. 
 <br>
 <br>
 
-### (Invited) Speakers
+### Institutional speaker
+
+- Prof. Graziano Pesole,  Head of ELIXIR-IT, Italy
+
+<br>
+<br>
+
+### Invited speakers
 
 - Duccio Cavalieri, University of Florence
 - Eugenio Parente, University of Basilicata
@@ -78,17 +85,23 @@ A maximum of 25 candidates will be selected on a first-come first-served basis. 
 <br>
 <br>
 
-### Organizers and Instructors
+### Instructors {#instructors-section}
 
 - Giuseppe Defazio, University of Bari “Aldo Moro”, ELIXIR-IT, Italy 
-- Claudio Donati, Fondazione Edmund Mach, ELIXIR-IT, Italy
-- Bruno Fosso, University of Bari “Aldo Moro”, ELIXIR-IT, Italy 
 - Paolo Manghi, Fondazione Edmund Mach, ELIXIR-IT, Italy
+- Elisabetta Notario, Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, IBIOM-CNR, ELIXIR-IT, Italy
 - Marinella Marzano, Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, IBIOM-CNR, ELIXIR-IT, Italy
 - Pierfrancesco Novielli, INFN-Bari, ELIXIR-IT, Italy
-- Graziano Pesole, University of Bari “Aldo Moro”,  ELIXIR-IT, Italy
-- Monica Santamaria, University of Bari “Aldo Moro”,  ELIXIR-IT, Italy
 - Sabina Tangaro, University of Bari “Aldo Moro”, ELIXIR-IT, Italy 
+
+<br>
+<br>
+
+### Organizers 
+
+- Claudio Donati, Fondazione Edmund Mach, ELIXIR-IT, Italy
+- Bruno Fosso, University of Bari “Aldo Moro”, ELIXIR-IT, Italy 
+- Monica Santamaria, University of Bari “Aldo Moro”,  ELIXIR-IT, Italy
 - Veronica Morea, Institute of Molecular Biology and Pathology, IBPM-CNR, ELIXIR-IT Training Platform, Italy
 - Allegra Via, University of Rome “Sapienza, ”ELIXIR-IT Training Platform, Italy
 
@@ -110,6 +123,7 @@ A maximum of **25 candidates** will be selected on a first-come- first-served ba
 <br>
 
 ### Aims of the workshop
+
 - Introduce the principles of metabarcoding and shotgun metagenomics
 - Guide participants through all steps of data analysis, from quality controls to data reduction and visualization
 - Provide hands-on experience to develop practical analysis skills and enable the extraction and interpretation of biological insights from metabarcoding and metagenomic data
