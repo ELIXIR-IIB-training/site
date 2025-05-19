@@ -90,6 +90,7 @@ Participants must cover their own travel expenses.
 - Sergio Giannattasio, National Research Council – IBIOM, Bari
 - Clara Musicco, National Research Council – IBIOM, Bari
 - Pierluigi Caboni, University of Cagliari, Cagliari
+- Allegra Via, University of Rome “Sapienza, ”ELIXIR-IT Training Platform, Italy
 
 <br>
 <br>
