@@ -12,7 +12,7 @@ event:
     state: open
 
 short_description: "This training course focuses on the study of the microbiota using Next Generation Sequencing (NGS) techniques. The course will introduce DNA metabarcoding and shotgun metagenomics and illustrate the major computational tools for the analysis of metagenomic data. In addition, the course will provide an introduction to Machine Learning methods applied to the analysis of metagenomic data. The course will include both a theoretical introduction to the topics and practical sessions with real data."
-teachers: [Duccio Cavalieri, Eugenio Parente, Antonella Bruno]
+teachers: [Duccio Cavalieri, Eugenio Parente, Antonia Bruno]
 keywords: "Metagenomics, DNA metabarcoding, Next Generation Sequencing (NGS), Machine Learning, microbial, metabolomics"
 courseMode: onsite
 addressLocality: Bari
@@ -79,7 +79,7 @@ A maximum of 25 candidates will be selected on a first-come first-served basis. 
 
 - Duccio Cavalieri, University of Florence
 - Eugenio Parente, University of Basilicata
-- Antonella Bruno, University of Milan Bicocca
+- Antonia Bruno, University of Milan Bicocca
 - Edoardo Pasolli, University of Naples
 
 <br>
@@ -467,7 +467,7 @@ Participants are expected to have basic understanding of the UNIX shell.
     <td height="50">Lecture</td>
     <td height="50">
       <i>Living with microbes: The microbiome of the built environment and its implications in human wellbeing</i><br>
-      Antonella Bruno, University of Milan Bicocca
+      Antonia Bruno, University of Milan Bicocca
     </td>
   </tr>
   <tr>
