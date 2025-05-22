@@ -86,6 +86,7 @@ A maximum of 30 participants will be selected on a first-come - first-served bas
 
 - Anna Marabotti, University of Salerno and ELIXIR-IT Training Platform, Italy
 - Margherita Mutarelli, Istituto di Scienze Applicate e Sistemi Intelligenti "Eduardo Caianiello" ISASI-CNR, Italy
+- Teresa Colombo, Institute of Molecular Biology and Pathology, IBPM-CNR, ELIXIR-IT Training Platform, Italy
 
 <br>
 <br>
