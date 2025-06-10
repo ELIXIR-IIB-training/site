@@ -3,13 +3,13 @@ title: "Metabolomics Academy: Applications for One Health"
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 25-30 May 2025 <br> Rezzato, Italy
-
+state: closed
 event:
   - name: "Metabolomics Academy: Applications for One Health"
     organisers: D.Gaglio<br> F.Baldassarri<br> M.Bonanomi<br> L.Lucini<br> F.A.Franchina<br> S.Giannattasio<br> C.Musicco<br> P.Caboni
     venue: Rezzato, Italy
     event_date: 2025/05/25-30
-    state: open
+    state: closed
 
 short_description: "The school focuses on metabolomics and its applications through a 5-day program. It includes lectures in Italian by expert faculty and provides ample opportunities for idea exchange and collaboration."
 teachers: [Daniela Gaglio, Marcella Bonanomi, Flavio A. Franchina, Luigi Lucini, Anna Calì, Leilei Zhang, Clara Musicco, Pierluigi Caboni]
