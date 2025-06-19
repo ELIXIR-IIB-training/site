@@ -3,13 +3,13 @@ title: "Introduction to Nextflow for BITS2025"
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 10-11 June <br> Naples, Italy
-
+state: closed
 event:
   - name: "Introduction to Nextflow for BITS2025"
     organisers: A.Marabotti <br> M.Mutarelli
     venue: Naples, Italy
     event_date: 2025/06/10-11
-    state: open
+    state: closed
 
 short_description: "This course introduces Nextflow, teaching pipeline development from basic to advanced levels. Beginners learn core language components and pipeline design, while advanced topics cover scalability and efficiency. It also explores nf-core, an open-source community offering standardized best practices for scientific pipelines. By the end, participants can create functional, efficient workflows."
 teachers: [Júlia Mir Pedrol, Jose Espinosa-Carrasco]
