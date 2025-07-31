@@ -136,13 +136,13 @@ It is recommended the participants have a portable computer for hands-on and tut
 
 <table border="1" width="800">
   <tr>
-    <td colspan="3" align="center"><h3>Wednesday, September 17th</h3></td>
+    <td colspan="4" align="center"><h3>Wednesday, September 17th</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
     <td height="50" width="200" align="center">Type</td>
-    <td height="50" width="500" align="center">Speaker / Institution</td>
+    <td height="50" width="500" align="center">Speaker</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:00</td>
@@ -170,16 +170,16 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">18:30</td>
     <td height="50">Welcome Aperitif</td>
-    <td height="50" align="left">Social Event</td>
+    <td height="50" align="center"><i>Social Event</i></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><h3>Thursday, September 18th</h3></td>
+    <td colspan="4" align="center"><h3>Thursday, September 18th</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
     <td height="50" width="200" align="center">Type</td>
-    <td height="50" width="500" align="center">Speaker / Institution</td>
+    <td height="50" width="500" align="center">Speaker</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
@@ -189,7 +189,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="3" align="center"><i>Coffee Break</i></td>
+    <td colspan="4" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
@@ -199,7 +199,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
-    <td colspan="3" align="center"><i>Lunch Break</i></td>
+    <td colspan="4" align="center"><i>Lunch Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
@@ -209,7 +209,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
-    <td colspan="3" align="center"><i>Coffee Break</i></td>
+    <td colspan="4" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:30-17:00</td>
@@ -223,13 +223,13 @@ It is recommended the participants have a portable computer for hands-on and tut
     <td height="50" align="left">Students (Flash Talks)</td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><h3>Friday, September 19th</h3></td>
+    <td colspan="4" align="center"><h3>Friday, September 19th</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
     <td height="50" width="200" align="center">Type</td>
-    <td height="50" width="500" align="center">Speaker / Institution</td>
+    <td height="50" width="500" align="center">Speaker</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
@@ -239,7 +239,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
-    <td colspan="3" align="center"><i>Coffee Break</i></td>
+    <td colspan="4" align="center"><i>Coffee Break</i></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
