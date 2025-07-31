@@ -164,13 +164,11 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:30-18:30</td>
-    <td height="50">Flash Talk Session 1</td>
-    <td height="50" align="left"></td>
+    <td colspan="4" align="center">Students Flash Talk Session 1</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">18:30</td>
-    <td height="50">Welcome Aperitif</td>
-    <td height="50" align="center"><i>Social Event</i></td>
+    <td colspan="4" align="center">Welcome Aperitif</td>
   </tr>
   <tr>
     <td colspan="4" align="center"><h3>Thursday, September 18th</h3></td>
@@ -219,8 +217,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:00-18:30</td>
-    <td height="50">Flash Talk Session 2</td>
-    <td height="50" align="left">Students (Flash Talks)</td>
+    <td colspan="4" align="center">Students Flash Talk Session 2</td>
   </tr>
   <tr>
     <td colspan="4" align="center"><h3>Friday, September 19th</h3></td>
