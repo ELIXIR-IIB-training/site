@@ -23,7 +23,7 @@ inLanguage: en-EN
 ---
 
 
-![Banner](images/2025_events/2025_Summer_School_on_Metabolic_Modeling.jpg){: height="1200px" width="1200px"}
+![Banner](images/2025_events/2025_Summer_School_on_Metabolic_Modeling.jpg){: height="800px" width="800px"}
 
 <br>
 <br>
@@ -35,10 +35,7 @@ methods in computational systems biology, with a focus on metabolic networks. Pa
 will explore:
 - Constraint-based modeling and data integration
 - Kinetic and multiscale models of central metabolism
-- Applications of machine learning to metabolic systems
-The school is designed for PhD students, postdocs and researchers interested in learning both
-the theoretical foundations and practical tools for modeling metabolism across biological
-scales.
+- Applications of machine learning to metabolic systems 
 
 <br>
 <br>
@@ -54,7 +51,7 @@ scales.
 
 ### Venue
 
-Department of Biotechnologies and Biosciences of University of Milano <br>
+Department of Biotechnologies and Biosciences of University of Milan <br>
 Piazza della Scienza 2, Milan, Building Bios (U3), room U3-08, ground floor.<br>
 [Google Maps](https://maps.app.goo.gl/VtdEid2yde6mwE9M7)
 
@@ -97,10 +94,10 @@ A maximum of 40 candidates will be selected. Selected participants will be notif
 
 ### Organizers 
 
-- Marco Vanoni, University of Milano-Bicocca, Italy 
 - Chiara Damiani, University of Milano-Bicocca, Italy 
 - Pasquale Palumbo, University of Milano-Bicocca, Italy 
 - Valentina Pasquale, University of Milano-Bicocca, Italy 
+- Marco Vanoni, University of Milano-Bicocca, Italy 
 
 <br>
 <br>
@@ -114,7 +111,9 @@ For any inquiries, feel free to contact the organizers at the following email ad
 
 ### Target Audience
 
-The workshop is open to PhD students, postdocs and researchers interested in learning both the theoretical foundations and practical tools for modeling metabolism across biological scales. Seats are limited to 40 participants.
+The school is designed for PhD students, postdocs and researchers interested in learning both
+the theoretical foundations and practical tools for modeling metabolism across biological
+scales.
 
 <br>
 <br>
@@ -142,22 +141,26 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
-    <td height="50" width="500" align="center">Speaker / Type / Institution</td>
+    <td height="50" width="200" align="center">Type</td>
+    <td height="50" width="500" align="center">Speaker / Institution</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">14:30-15:00</td>
     <td height="50">Welcome and Opening Remarks</td>
-    <td height="50" align="left">Marco Vanoni (Intro, University of Milano-Bicocca) [cite: 2]</td>
+    <td height="50" align="center">Introduction</td>
+    <td height="50" align="left">Marco Vanoni (University of Milano-Bicocca)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-16:00</td>
     <td height="50">Metabolomics in Action: Tools, Techniques and Applications</td>
-    <td height="50" align="left">Daniela Gaglio (Intro Lecture, Italian National Research Council) [cite: 2]</td>
+    <td height="50" align="center">Intro Lecture</td>
+    <td height="50" align="left">Daniela Gaglio (Italian National Research Council)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">16:00-17:30</td>
     <td height="50">Introduction to Constraint-Based Modeling and Data Integration</td>
-    <td height="50" align="left">Chiara Damiani (Tutorial, University of Milano-Bicocca) [cite: 2]</td>
+    <td height="50" align="center">Tutorial</td>
+    <td height="50" align="left">Chiara Damiani (University of Milano-Bicocca)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:30-18:30</td>
@@ -175,12 +178,14 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
-    <td height="50" width="500" align="center">Speaker / Type / Institution</td>
+    <td height="50" width="200" align="center">Type</td>
+    <td height="50" width="500" align="center">Speaker / Institution</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
     <td height="50">Introduction to Machine Learning</td>
-    <td height="50" align="left">Annalisa Occhipinti (Tutorial, Teesside University)</td>
+    <td height="50" align="center">Tutorial</td>
+    <td height="50" align="left">Annalisa Occhipinti (Teesside University)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
@@ -189,7 +194,8 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
     <td height="50">Integration of Clinical Data into Metabolic networks</td>
-    <td height="50" align="left">Chiara Damiani (Hands-on, University of Milano-Bicocca)</td>
+    <td height="50" align="center">Hands-on</td>
+    <td height="50" align="left">Chiara Damiani (University of Milano-Bicocca)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:30</td>
@@ -198,7 +204,8 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">13:30-15:00</td>
     <td height="50">Machine Learning Meets Metabolic Modeling</td>
-    <td height="50" align="left">Claudio Angione (Lecture, Teesside University)</td>
+    <td height="50" align="center">Lecture</td>
+    <td height="50" align="left">Claudio Angione (Teesside University)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-15:30</td>
@@ -207,7 +214,8 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">15:30-17:00</td>
     <td height="50">Fundamentals of Metabolism: from Steady State to Dynamical Behaviour</td>
-    <td height="50" align="left">Bas Teusink (Lecture, Vrije Universiteit Amsterdam)</td>
+    <td height="50" align="center">Lecture</td>
+    <td height="50" align="left">Bas Teusink (Vrije Universiteit Amsterdam)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">17:00-18:30</td>
@@ -220,12 +228,14 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">Time</td>
     <td height="50" width="200" align="center">Title</td>
-    <td height="50" width="500" align="center">Speaker / Type / Institution</td>
+    <td height="50" width="200" align="center">Type</td>
+    <td height="50" width="500" align="center">Speaker / Institution</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-10:30</td>
     <td height="50">Multi-scale Modeling</td>
-    <td height="50" align="left">Pasquale Palumbo (Tutorial, University of Milano-Bicocca)</td>
+    <td height="50" align="center">Tutorial</td>
+    <td height="50" align="left">Pasquale Palumbo (University of Milano-Bicocca)</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">10:30-11:00</td>
@@ -239,6 +249,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   <tr>
     <td height="50" width="100" align="center">12:30-13:00</td>
     <td height="50">Has the Warburg effect finally been explained?</td>
-    <td height="50" align="left">Lilia Alberghina (Lectio magistralis, University of Milano-Bicocca)</td>
+    <td height="50" align="center">Lectio magistralis</td>
+    <td height="50" align="left">Lilia Alberghina (University of Milano-Bicocca)</td>
   </tr>
 </table>
