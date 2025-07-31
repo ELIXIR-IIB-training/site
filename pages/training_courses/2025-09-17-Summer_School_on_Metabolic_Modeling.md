@@ -23,7 +23,7 @@ inLanguage: en-EN
 ---
 
 
-![Banner](images/2025_events/2025_Summer_School_on_Metabolic_Modeling.jpg){: height="800px" width="800px"}
+![Banner](images/2025_events/2025_Summer_School_on_Metabolic_Modeling.png){: height="800px" width="800px"}
 
 <br>
 <br>
