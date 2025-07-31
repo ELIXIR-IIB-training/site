@@ -54,8 +54,9 @@ scales.
 
 ### Venue
 
-Department of Biotechnologies and Biosciences of University of Milano 
-Piazza della Scienza 2, Milan, Building Bios (U3), room U3-08, ground floor.
+Department of Biotechnologies and Biosciences of University of Milano <br>
+Piazza della Scienza 2, Milan, Building Bios (U3), room U3-08, ground floor.<br>
+[Google Maps](https://maps.app.goo.gl/VtdEid2yde6mwE9M7)
 
 <br>
 <br>
@@ -136,7 +137,7 @@ It is recommended the participants have a portable computer for hands-on and tut
 
 <table border="1" width="800">
   <tr>
-    <td colspan="4" align="center"><h3>Wednesday, September 17th</h3></td>
+    <td colspan="3" align="center"><h3>Wednesday, September 17th</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">Time</td>
