@@ -240,8 +240,7 @@ It is recommended the participants have a portable computer for hands-on and tut
   </tr>
   <tr>
     <td height="50" width="100" align="center">11:00-12:30</td>
-    <td height="50">Flash Talk Session 3</td>
-    <td height="50" align="left">Students (Flash Talks)</td>
+    <td colspan="4" align="center">Students Flash Talk Session 3</td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">12:30-13:00</td>
