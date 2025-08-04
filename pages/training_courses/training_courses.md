@@ -6,7 +6,7 @@ title: Training Courses
 
 {% include section-navigation-tiles.html type="training_courses" except="index.md" %}
 
-<!-- <h3>Upcoming</h3>{% include section-navigation-tiles-upc.html type="training_courses" except="index.md" %} -->
+
 
 <br>
 <h3>Completed</h3>
