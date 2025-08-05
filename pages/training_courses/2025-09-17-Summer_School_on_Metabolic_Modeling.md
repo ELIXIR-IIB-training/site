@@ -67,7 +67,7 @@ The course does not include a fee.
 
 ### Selection procedure
 
-A maximum of 40 candidates will be selected. Selected participants will be notified by the 29th of August 2025.
+A maximum of 40 candidates will be selected. Selected participants will be notified by the 29th of August 2025. Participants will be selected based on the motivation and interest to attend the course, as indicated in their application form.
 
 <br>
 <br>
