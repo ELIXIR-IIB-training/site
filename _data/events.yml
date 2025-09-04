@@ -11,7 +11,7 @@
   startDate: 2025-06-10
   endDate: 2025-06-11
   description: "[More info here](https://elixir-iib-training.github.io/site/2025-06-06-Introduction_Nextflow_BITS2025)"
-  location: Napoli, Italy
+  location: Naples, Italy
 
 - name: "EMBO Practical Course on Population Genomics: Background and tools"
   startDate: 2025-06-23
@@ -31,3 +31,8 @@
   description: "[More info here](https://elixir-iib-training.github.io/site/2025-09-17-Summer_School_on_Metabolic_Modeling)"
   location: Milan, Italy
 
+- name: "Il Ruolo dell'Intelligenza Artificiale nell'Imaging Diagnostico"
+  startDate: 2025-10-16
+  endDate: 2025-10-16
+  description: "[More info here](https://elixir-iib-training.github.io/site/2025-10-16-Save_The_Date)"
+  location: Rome, Italy
