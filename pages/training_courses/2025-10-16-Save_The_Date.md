@@ -13,6 +13,6 @@ event:
 ---
 
 
-[{% include image.html file="/2025_events/SaveTheDate2025.png" alt="SaveTheDate2025" max-width="10" %}]()
+[{% include image.html file="/2025_events/SaveTheDate2025.png" alt="SaveTheDate2025" max-width="10" %}](https://www.rometechnopole.it/il-ruolo-della-intelligenza-artificiale-nellimaging-diagnostico-2/)
 
 
