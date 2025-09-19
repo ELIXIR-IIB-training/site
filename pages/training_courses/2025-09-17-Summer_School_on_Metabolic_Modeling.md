@@ -3,12 +3,13 @@ title: "Summer School on Metabolic Modeling - From Constraints, to Kinetics and 
 event_type: "ELIXIR Summer school"
 type: training_courses
 description: 17 September - 19 September <br> Milan, Italy
+state: closed
 event:
   - name: "Summer School on Metabolic Modeling - From Constraints, to Kinetics and Machine Learning"
     organisers: C.Damiani<br> P.Palumbo<br> V.Pasquale<br> M.Vanoni
     venue: Milan, Italy
     event_date: 2025/09/17 
-    state: open
+    state: closed
 
 short_description: "The Summer School on Metabolic Modeling offers a hands-on journey through computational systems biology. Learn constraint-based and kinetic modeling, explore multiscale metabolism, and discover how machine learning is reshaping analysis in metabolic networks."
 teachers: [Lilia Alberghina, Claudio Angione, Chiara Damiani, Daniela Gaglio, Annalisa Occhipinti, Pasquale Palumbo, Bas Teusink]
