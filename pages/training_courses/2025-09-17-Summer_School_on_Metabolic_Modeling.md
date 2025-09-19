@@ -94,8 +94,10 @@ A maximum of 40 candidates will be selected. Selected participants will be notif
 
 ### Organizers 
 
-- Chiara Damiani, University of Milano-Bicocca, Italy 
+- Chiara Damiani, University of Milano-Bicocca, Italy
+- Loredana Le Pera, ISS, Rome, Italy (ELIXIR-IT Training Platform)   
 - Pasquale Palumbo, University of Milano-Bicocca, Italy 
+- Gianmarco Pascarella - CNR, Italy (ELIXIR-IT Training Platform)
 - Valentina Pasquale, University of Milano-Bicocca, Italy 
 - Marco Vanoni, University of Milano-Bicocca, Italy 
 
