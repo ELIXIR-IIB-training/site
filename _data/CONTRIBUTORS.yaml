@@ -29,21 +29,18 @@ Anna Marabotti:
     affiliation: University of Salerno
     image_url: images/people/Anna_Marabotti.jpg
 
-
-Francesca De Leo:
-    email: f.deleo@ibiom.cnr.it
-    role: Communication & Industry
-    affiliation: IBIOM-CNR
-    image_url: images/people/Francesca_DeLeo.jpeg
-
-
 Luana Licata:
     email: luana.licata@uniroma2.it
     role: Workshop Design Organization and Delivery
     affiliation: University Tor Vergata, Rome
     image_url: images/people/Luana_Licata.jpg
 
-
+Gianmarco Pascarella:
+    email: gianmarcopascarella@cnr.it
+    role: Webmaster
+    affiliation: IBIOM-CNR
+    image_url: images/people/Gianmarco_Pascarella.jpg
+    
 Teresa Colombo:
     email: teresa.colombo@cnr.it
     role: Workshop Design Organization and Delivery
@@ -56,8 +53,9 @@ Vincenza Colonna:
     affiliation: IGB-CNR, Napoli
     image_url: images/people/Vincenza_Colonna.jpg
 
-Gianmarco Pascarella:
-    email: gianmarcopascarella@cnr.it
-    role: Webmaster
+Francesca De Leo:
+    email: f.deleo@ibiom.cnr.it
+    role: Communication & Industry
     affiliation: IBIOM-CNR
-    image_url: images/people/Gianmarco_Pascarella.jpg
+    image_url: images/people/Francesca_DeLeo.jpeg
+
