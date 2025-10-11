@@ -10,19 +10,18 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
-Allegra Via:
-    email: allegra.via@uniroma1.it
-    role: Training Platform Coordinator
-    affiliation: Sapienza University, Rome
-    image_url: images/people/Allegra_Via.png
-    
 
 Loredana Le Pera:
     email: loredana.lepera@iss.it
-    role: Deputy Training Platform Coordinator
+    role: Training Platform Coordinator
     affiliation: ISS, Rome
     image_url: images/people/Loredana_LePera.jpg
 
+Allegra Via:
+    email: allegra.via@uniroma1.it
+    role: Deputy Training Platform Coordinator
+    affiliation: Sapienza University, Rome
+    image_url: images/people/Allegra_Via.png 
 
 Anna Marabotti:
     email: amarabotti@unisa.it
@@ -51,27 +50,11 @@ Teresa Colombo:
     affiliation: IBPM-CNR
     image_url: images/people/Teresa_Colombo.png
 
-
-Patrizio Di Micco:
-    email: patrizio.dimicco@gmail.com
-    role: Workshop Design Organization and Delivery
-    affiliation: IBPM-CNR
-    image_url: images/people/Patrizio_DiMicco.png
-    
-
 Vincenza Colonna:
     email: vincenza.colonna@igb.cnr.it
     role: Workshop Design Organization and Delivery
     affiliation: IGB-CNR, Napoli
     image_url: images/people/Vincenza_Colonna.jpg
-
-
-Marta Cecalupo:
-    email: marta.cecalupo88@gmail.com
-    role: Quality & Impact
-    affiliation: IBIOM-CNR
-    image_url: images/people/Marta_Cecalupo.jpg
-
 
 Gianmarco Pascarella:
     email: gianmarcopascarella@cnr.it
