@@ -1,7 +1,7 @@
 ---
 title: "Train-the-Trainer Naples"
 event_type:  "ELIXIR Training Course"
-type: training_courses
+type: training
 description: 03-04 December 2025 <br> Naples, Italy
 event:
   - name: "Train-the-Trainer Marseille"
@@ -20,7 +20,10 @@ duration: P2DT16H
 inLanguage: it-IT   
 ---
 
+
+
 ## Course Description 
+
 This course is part of the ELIXIR Train the Trainer programme. TtT courses aim to give new instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development.
 
 
