@@ -1,14 +1,15 @@
 ---
 title: "Train-the-Trainer Naples"
 event_type:  "ELIXIR Training Course"
-type: training
+type: training_course
 description: 03-04 December 2025 <br> Naples, Italy
+state: open
 event:
   - name: "Train-the-Trainer Marseille"
     organisers: A. Facchiano <br> A. Marabotti
     venue: Naples, Italy
     event_date: 2025/12/03-04
-
+    state: open
 
 short_description: "The programme objective is to give instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development."
 teachers: [Gil Poiares Oliveira, Luciana Peixoto, Allegra Via]
