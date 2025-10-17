@@ -69,7 +69,7 @@ A maximum of **15 participants** will be selected. Priority will be given to PhD
 <br>
 <br>
 
-### Instructors {#instructors-section}
+### Instructors
 
 - Raffaele Calogero, University of Turin, Italy  
 - Luca Alessandrì, University of Turin, Italy
