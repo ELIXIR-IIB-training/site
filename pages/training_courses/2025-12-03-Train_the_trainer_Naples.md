@@ -3,7 +3,6 @@ title: "Train-the-Trainer Naples"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 03-04 December 2025 <br> Naples, Italy
-state: open
 event:
   - name: "Train-the-Trainer Naples"
     organisers: A. Facchiano <br> A. Marabotti
