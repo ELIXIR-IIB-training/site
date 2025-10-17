@@ -1,7 +1,7 @@
 ---
 title: "Train-the-Trainer Naples"
 event_type:  "ELIXIR Training Course"
-type: training_course
+type: training_courses
 description: 03-04 December 2025 <br> Naples, Italy
 state: open
 event:
@@ -25,7 +25,7 @@ inLanguage: it-IT
 
 ## Course Description 
 
-This course is part of the ELIXIR Train the Trainer programme. TtT courses aim to give new instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development.
+This course is part of the [ELIXIR Train the Trainer programme](https://elixir-europe.org/platforms/training/train-the-trainer). TtT courses aim to give new instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development.
 
 
 <br>
@@ -100,42 +100,43 @@ The workshop is open to all trainers and educators in higher education.
 
 ### Aims of the workshop 
 
-- To get acquainted with learning principles and how they apply to training
-
-- To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
-
+- 	To get acquainted with learning principles and how they apply to training
+- 	To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
 - To learn how to use assessment and feedback in training
-
 - To learn about session, course, and materials design
+
 
 <br>
 <br>
 
 ### Learning Outcomes
 
-By the end of this course:
+By the end of this course learners can:
 
-- Learners can tell which learning principles a good trainer should have in mind
-- Learners can describe at least three training techniques drawing on learning principles
-- Learners can design a training session and a course
-- Learners can develop assessment questionnaires
-- Learners can tell what types of material are needed for each part of a training session
+- list learning principles a good trainer should have in mind
+- describe key phases of curriculum & course development;
+- propose training techniques drawing on learning principles
+- explain the primary role of learning outcomes
+- distinguish different types of assessment & their role in supporting learner progression towards learning outcome
 
 <br>
 <br>
 
 ### Course prerequisites
+Open to anyone involved in teaching or training and interested in improving their instructional skills and course effectiveness
 
 <br>
 <br>
 
 ## Registration
 
-[Application Form - Registration] (link to registration form)
+[Application Form - Registration](https://forms.gle/o5WZQLXeH3f7BBxx8)
 
 <br>
 <br>
 
 ## Programme
+
+To be defined
 
 
