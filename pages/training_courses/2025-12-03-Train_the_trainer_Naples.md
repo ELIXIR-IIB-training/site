@@ -66,7 +66,7 @@ Selected participants will be notified by **25th November 2025**.
 <br>
 <br>
 
-### Instructors {#instructors-section}
+### Instructors 
 
 - Gil Poiares Oliveira, ELIXIR-PT
 - Luciana Peixoto, ELIXIR-PT
