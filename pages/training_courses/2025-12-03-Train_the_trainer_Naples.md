@@ -105,7 +105,6 @@ The workshop is open to all trainers and educators in higher education.
 - To learn how to use assessment and feedback in training
 - To learn about session, course, and materials design
 
-
 <br>
 <br>
 
