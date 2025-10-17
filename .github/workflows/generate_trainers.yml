@@ -59,8 +59,13 @@ jobs:
           git config --global user.name 'elixir_training_bot'
           git config --global user.email 'elixir_training_bot@github.com'
           git add _data/TRAINERS.yaml
-          git commit -m "Update TRAINERS.yaml"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update TRAINERS.yaml"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+                
 
 
 
