@@ -58,7 +58,7 @@ The course does not include a fee, but the participants are expected to pay thei
 
 ### Selection  
 
-A maximum of 30 candidates will be selected on a first-come- first-served basis. A maximum of 10 places is reserved to participants to the conference BBCC2025: [https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue](https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue).
+A maximum of 20 candidates will be selected on a first-come- first-served basis. A maximum of 7 places is reserved to participants to the conference BBCC2025: [https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue](https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue).
 
 Selected participants will be notified by **25th November 2025**.
 
@@ -135,6 +135,46 @@ Open to anyone involved in teaching or training and interested in improving thei
 
 ## Programme
 
-To be defined
+<table border="1" width="800">
+  <tr>
+    <td colspan="2" align="center"><h3>Thursday, 3rd December, 2025</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:30-10:00</td>
+    <td height="50">Welcome coffee</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">10:30-13:30</td>
+    <td height="50">Session 1: Principles of learning and how they apply to teaching and training</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">13:30-14:30</td>
+    <td height="50">Lunch break</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">14:30-18:00</td>
+    <td height="50">Session 2: Training techniques for enhancing learner engagement and participation</td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center"><h3>Friday, 4th December, 2025</h3></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:00-09:30</td>
+    <td height="50">Welcome coffee</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">09:30-13:00</td>
+    <td height="50">Session 3: Design of engaging sessions, materials and courses</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">13:00-14:00</td>
+    <td height="50">Lunch break</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align="center">14:00-17:30</td>
+    <td height="50">Session 4: Assessment and feedback in teaching and training</td>
+  </tr>
+</table>
 
 
