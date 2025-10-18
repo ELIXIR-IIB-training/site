@@ -24,8 +24,7 @@ inLanguage: it-IT
 
 ## Course Description 
 
-This course is part of the [ELIXIR Train the Trainer programme](https://elixir-europe.org/platforms/training/train-the-trainer). TtT courses aim to give new instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development.
-
+This course is part of the [ELIXIR Train the Trainer programme](https://elixir-europe.org/platforms/training/train-the-trainer). TtT courses aim to give new instructors and teachers tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development.
 
 <br>
 <br>
@@ -35,7 +34,6 @@ This course is part of the [ELIXIR Train the Trainer programme](https://elixir-e
 - Deadline for applications: **21st November 2025**
 - Chosen participants will be notified by: **25th November 2025**
 - Course date: **3-4 December 2025**
-
 
 <br>
 <br>
@@ -51,15 +49,12 @@ University of Campania “L. Vanvitelli”, Via Luciano Armanni, 5, 80138 Napoli
 
 The course does not include a fee, but the participants are expected to pay their own travel and accommodation costs.
 
-
-
 <br>
 <br>
 
 ### Selection  
 
 A maximum of 20 candidates will be selected on a first-come- first-served basis. A maximum of 7 places is reserved to participants to the conference BBCC2025: [https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue](https://www.bbcc-meetings.it/bbcc2025/bbcc2025-program-and-venue).
-
 Selected participants will be notified by **25th November 2025**.
 
 <br>
@@ -78,6 +73,13 @@ Selected participants will be notified by **25th November 2025**.
   
 - Angelo Facchiano - Research Director at CNR-ISA, ELIXIR-IT, Italy
 - Anna Marabotti – Associate Professor at DCB, University of Salerno, ELIXIR-IT, Italy
+- Allegra Via, ELIXIR-IT
+
+<br>
+<br>
+
+### Helpers
+- Loredana Lepera - Istituto Superiore di Sanità and ELIXIR-IT
 
 <br>
 <br>
@@ -112,7 +114,7 @@ The workshop is open to all trainers and educators in higher education.
 By the end of this course learners can:
 
 - list learning principles a good trainer should have in mind
-- describe key phases of curriculum & course development;
+- describe key phases of curriculum & course development
 - propose training techniques drawing on learning principles
 - explain the primary role of learning outcomes
 - distinguish different types of assessment & their role in supporting learner progression towards learning outcome
@@ -137,7 +139,7 @@ Open to anyone involved in teaching or training and interested in improving thei
 
 <table border="1" width="800">
   <tr>
-    <td colspan="2" align="center"><h3>Thursday, 3rd December, 2025</h3></td>
+    <td colspan="2" align="center"><h3>Day 1, Thursday, 3rd December, 2025</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:30-10:00</td>
@@ -157,7 +159,7 @@ Open to anyone involved in teaching or training and interested in improving thei
   </tr>
 
   <tr>
-    <td colspan="2" align="center"><h3>Friday, 4th December, 2025</h3></td>
+    <td colspan="2" align="center"><h3>Day 2, Friday, 4th December, 2025</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-09:30</td>
