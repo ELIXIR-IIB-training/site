@@ -1,7 +1,7 @@
 ---
 title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_course
 description: 25-28 November 2025 <br> Roma, Italy
 event:
   - name: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis"
