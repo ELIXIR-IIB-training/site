@@ -36,3 +36,9 @@
   endDate: 2025-10-16
   description: "[More info here](https://elixir-iib-training.github.io/site/2025-10-16-AI_and_diagnostic_imaging)"
   location: Rome, Italy
+
+- name: "Train-the-Trainer Naples"
+  startDate: 2025-12-03
+  endDate: 2025-12-04
+  description: "[https://elixir-iib-training.github.io/site/2025-12-03-Train_the_trainer_Naples](https://elixir-iib-training.github.io/site/2025-12-03-Train_the_trainer_Naples)"
+  location: Naples, Italy
