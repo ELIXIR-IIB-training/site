@@ -32,6 +32,8 @@ inLanguage: en-EN
 ## Course Description
 
 This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control for single-cell sequence outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also offers an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed decisions during analysis. Practical, hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. The workshop is organised in collaboration with the **ELIXIR-IT Compute Platform** (Data Center ReCaS-Bari), which provides the computational infrastructure and support for the hands-on sessions.
+<br>
+The course is organised within the project “Rome Technopole Innovation Ecosystem”
 
 <br>
 <br>
