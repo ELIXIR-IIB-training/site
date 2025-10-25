@@ -38,8 +38,8 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 
 ## Important Dates
 
-- Deadline for applications: **5 Nov 2025**
-- Chosen participants will be notified by: 7 Nov 2025  
+- Deadline for applications: **15 Nov 2025**
+- Chosen participants will be notified by: 17 Nov 2025  
 - Course date: **25-28 November 2025**
 
 <br>
@@ -63,7 +63,7 @@ The course does not include any fee. Participants are expected to pay their own 
 
 ### Selection  
 
-A maximum of **15 participants** will be selected. Priority will be given to PhD students, followed by early-career researchers and, finally, professionals. Selected participants will be notified by **7 Nov 2025**.
+Participation is limited to 15 participants. Selection will follow a first-come, first-served criterion, and successful applicants will be notified progressively as the registrations are reviewed.
 
 <br>
 <br>
