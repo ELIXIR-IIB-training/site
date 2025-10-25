@@ -77,8 +77,8 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 
 ### Scientific/Organising committee
 
-- Raffaele Calogero, University of Turin, Italy]
-- Giacinto Donvito, 
+- Raffaele Calogero, University of Turin, Italy
+- Giacinto Donvito, INFN, Bari, Italy (ELIXIR-IT Compute Platform)
 - Loredana Le Pera, ISS, Rome, Italy (ELIXIR-IT Training Platform)
 - Allegra Via, Sapienza University, Rome, Italy (ELIXIR-IT Training Platform)
 
