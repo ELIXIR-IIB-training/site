@@ -163,9 +163,9 @@ Before starting the course, participants are requested to follow a brief and sim
     <td height="50">Topic</td>
   </tr>
  <tr>
-    <td height="50" width="100" align=center>13:30-16:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">QC<br>Data imputation/normalisation<br>Exercises</td>
+    <td height="50" width="100" align=center>14:30-16:30</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Welcome and introduction to the workshop<br>Lecture: Experimental overview of single-cell RNA-seq<br>Setting up the working environment</td>
   </tr>
  
  <tr>
