@@ -63,7 +63,7 @@ The course does not include any fee. Participants are expected to pay their own 
 
 ### Selection  
 
-Participation is limited to 15 participants. Selection will follow a first-come, first-served criterion, and successful applicants will be notified progressively as the registrations are reviewed.
+Participation is limited to **15 participants**. Selection will follow a first-come, first-served criterion, and successful applicants will be notified progressively as the registrations are reviewed.
 
 <br>
 <br>
