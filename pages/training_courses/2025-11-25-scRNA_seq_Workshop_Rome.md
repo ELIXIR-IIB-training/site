@@ -102,7 +102,7 @@ For all kinds of queries, please contact the Local Organisers at: [elixir.it.iib
 
 ### Target audience
 
-A maximum of 15 candidates will be selected. The workshop is suitable for life scientists who are new to single cell gene expression technology data analysis. It is open to PhD and Post-Doc research scientists, as well as team leaders and PIs. No prior knowledge of statistics or computing skills is required. However, a basic understanding of R programming is preferred. Prior knowledge of single-cell sequencing technologies is required. 
+A maximum of 15 candidates will be selected. This course is aimed at life science researchers, students, principal investigators (PIs), and professionals from industry interested in analysing single-cell RNA-seq data. No prior knowledge of statistics or advanced computing skills is required. However, **a basic understanding of R programming** and bioinformatics concepts is preferred. **Prior knowledge of single-cell sequencing technologies** is required.
 
 <br>
 <br>
