@@ -40,7 +40,7 @@ inLanguage: en-EN
 	</tr>
 	<tr>
 	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png" height="50" width="100"></a></td>
-	</tr>tr
+	</tr>
 </table>
 
 <br>
