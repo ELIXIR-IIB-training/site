@@ -33,9 +33,9 @@ inLanguage: en-EN
   </tr>	
   <tr>
 	<td><a href=""><img src="images/2025_events/sco.png" height="130"></a></td>
-    <td width="10"></td>
+    <td width="0"></td>
 	<td><a href=""><img src="images/2025_events/BITSLogo.jpg" height="130"></a></td>
-	<td width="10"></td>
+	<td width="0"></td>
     <td><a href=""><img src="images/2025_events/Logo_infolife.jpg" height="130"></a></td>
   </tr>
 </table>
