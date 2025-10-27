@@ -39,7 +39,7 @@ inLanguage: en-EN
 	<td height="10" width="10"></td>	
 	</tr>
 	<tr>
-	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png" height="100" width="200"></a></td>
+	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png"></a></td>
 	</tr>
 </table>
 
