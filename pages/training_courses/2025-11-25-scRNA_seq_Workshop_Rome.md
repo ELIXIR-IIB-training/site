@@ -27,7 +27,7 @@ inLanguage: en-EN
 
 <table border="0" align="center">
   <tr> 
-    <td><a href=""><img src="images/2025_events/Logo_ISS.png height="100"></a></td>
+    <td><a href=""><img src="images/2025_events/Logo_ISS.png" height="100"></a></td>
     <td width="10"></td>
 	<td><a href=""><img src="images/2025_events/sco.png" height="100"></a></td>
     <td width="10"></td>
