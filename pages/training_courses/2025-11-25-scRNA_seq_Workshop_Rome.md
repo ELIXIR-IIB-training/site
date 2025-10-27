@@ -24,7 +24,7 @@ inLanguage: en-EN
 
 
 
-![Banner](images/2025_events/Banner_loghi_scRNA.png){: height="1200px" width="1200px"}
+![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
 <br>
 <br>
