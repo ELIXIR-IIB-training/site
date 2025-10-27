@@ -33,7 +33,7 @@ inLanguage: en-EN
     <td width="10"></td>
 	  <td><a href=""><img src="../../images/2025_events/BITSLogo.jpg" height="80"></a></td>
 	  <td width="10"></td>
-	  <td><a href=""><img src="../../images/2025_events/img/sco.png" height="70"></a></td>
+	  <td><a href=""><img src="../../images/2025_events/sco.png" height="70"></a></td>
     <td width="10"></td>
     <td><a href=""><img src="../../images/2025_events/Logo_infolife.jpg" height="70"></a></td>
   </tr>
