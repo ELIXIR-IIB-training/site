@@ -41,17 +41,17 @@ inLanguage: en-EN
   <tr style="border: none;">
     <td style="border: none;">
       <a href="">
-        <img src="images/2025_events/sco.png" height="120" alt="SCO Logo">
+        <img src="images/2025_events/sco.png" height="80" alt="SCO Logo">
       </a>
     </td>
     <td style="border: none;">
       <a href="">
-        <img src="images/2025_events/BITSLogo.jpg" height="110" alt="BITS Logo">
+        <img src="images/2025_events/BITSLogo.jpg" height="80" alt="BITS Logo">
       </a>
     </td>
     <td style="border: none;">
       <a href="">
-        <img src="images/2025_events/Logo_infolife.jpg" height="120" alt="Infolife Logo">
+        <img src="images/2025_events/Logo_infolife.jpg" height="80" alt="Infolife Logo">
       </a>
     </td>
   </tr>
