@@ -1,10 +1,10 @@
 ---
-title: "Train-the-Trainer Naples"
+title: "ELIXIR-GOBLET Train-the-Trainer"
 event_type:  "ELIXIR Training Course"
 type: training_courses
 description: 03-04 December 2025 <br> Naples, Italy
 event:
-  - name: "Train-the-Trainer Naples"
+  - name: "ELIXIR-GOBLET Train-the-Trainer"
     organisers: A. Facchiano <br> A. Marabotti
     venue: Naples, Italy
     event_date: 2025/12/03-04
@@ -86,8 +86,7 @@ Selected participants will be notified by **25th November 2025**.
 
 ## Contact 
 
-For all kinds of queries, please contact the organiser Anna Marabotti at:[amarabotti@unisa.it](mailto:amarabotti@unisa.it)
-amarabotti@unisa.it or instructor Allegra Via at [allegra.via@uniroma1.it](mailto:allegra.via@uniroma1.it).
+For all kinds of queries, please contact the organiser Anna Marabotti at:[amarabotti@unisa.it](mailto:amarabotti@unisa.it) or instructor Allegra Via at [allegra.via@uniroma1.it](mailto:allegra.via@uniroma1.it).
 
 <br>
 <br>
