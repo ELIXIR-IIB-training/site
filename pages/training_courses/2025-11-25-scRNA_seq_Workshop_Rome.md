@@ -29,7 +29,7 @@ inLanguage: en-EN
   <tr> 
     <td><a href=""><img src="images/2025_events/Logo_ISS.png" height="80" width="80"></a></td>
     <td width="10"></td>
-	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png"></a></td>
+	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png" height="80"></a></td>
   </tr>	
 	<td><a href=""><img src="images/2025_events/sco.png" height="130" width="70"></a></td>
     <td width="10"></td>
