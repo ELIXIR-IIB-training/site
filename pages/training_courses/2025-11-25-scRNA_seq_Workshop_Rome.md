@@ -25,7 +25,7 @@ inLanguage: en-EN
 
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
-<div align="center" style="text-align:center;">
+<div style="text-align: left;">
 
   <!-- Prima riga di loghi -->
   <div style="margin-bottom: 25px;">
