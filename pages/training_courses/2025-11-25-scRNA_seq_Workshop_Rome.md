@@ -30,11 +30,11 @@ inLanguage: en-EN
   <!-- Prima riga di loghi -->
   <div style="margin-bottom: 25px;">
     <a href="">
-      <img src="images/2025_events/Logo_ISS.png" height="70" style="vertical-align: middle;" alt="ISS Logo">
+      <img src="images/2025_events/Logo_ISS.png" height="40" style="vertical-align: middle;" alt="ISS Logo">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="http://elixir-italy.org">
-      <img src="images/2025_events/IIB-ELIXIR_col.png" height="80" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
+      <img src="images/2025_events/IIB-ELIXIR_col.png" height="40" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
     </a>
   </div>
 
