@@ -30,7 +30,7 @@ This course is organised within the project “Rome Technopole Innovation Ecosys
 
 <table border="0" align="center">
   <tr> 
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
+    <td><a href="http://elixir-italy.org"><img src="../images/2025_events/IIB-ELIXIR_col.png" height="80"></a></td>
     <td width="10"></td>
     <td><a href=""><img src="../../../img/Logo_ISS.png" height="80"></a></td>
     <td width="10"></td>
