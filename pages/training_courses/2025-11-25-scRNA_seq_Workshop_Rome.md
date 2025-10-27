@@ -32,13 +32,13 @@ This course is organised within the project “Rome Technopole Innovation Ecosys
   <tr> 
     <td><a href="http://elixir-italy.org"><img src="../images/2025_events/IIB-ELIXIR_col.png" height="80"></a></td>
     <td width="10"></td>
-    <td><a href=""><img src="../../../img/Logo_ISS.png" height="80"></a></td>
+    <td><a href=""><img src="../images/2025_events/Logo_ISS.png" height="80"></a></td>
     <td width="10"></td>
-	  <td><a href=""><img src="../../../img/BITSLogo.jpg" height="80"></a></td>
+	  <td><a href=""><img src="../images/2025_events/BITSLogo.jpg" height="80"></a></td>
 	  <td width="10"></td>
-	  <td><a href=""><img src="../../../img/sco.png" height="70"></a></td>
+	  <td><a href=""><img src="../images/2025_events/img/sco.png" height="70"></a></td>
     <td width="10"></td>
-    <td><a href=""><img src="../../../img/Logo_infolife.jpg" height="70"></a></td>
+    <td><a href=""><img src="../images/2025_events/Logo_infolife.jpg" height="70"></a></td>
   </tr>
 </table>
 
