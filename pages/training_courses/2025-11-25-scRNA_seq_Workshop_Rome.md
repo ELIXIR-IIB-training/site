@@ -25,28 +25,38 @@ inLanguage: en-EN
 
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="display: flex; justify-content: center; gap: 30px;">
-    <a href="">
-      <img src="images/2025_events/Logo_ISS.png" height="40" alt="ISS Logo">
-    </a>
-    <a href="http://elixir-italy.org">
-      <img src="images/2025_events/IIB-ELIXIR_col.png" height="40" alt="ELIXIR Italy Logo">
-    </a>
-  </div>
+<table align="center" cellspacing="15" cellpadding="5" style="border: none; text-align: center;">
+  <tr> 
+    <td>
+      <a href="">
+        <img src="images/2025_events/Logo_ISS.png" width="100" alt="ISS Logo">
+      </a>
+    </td>
+    <td>
+      <a href="http://elixir-italy.org">
+        <img src="images/2025_events/IIB-ELIXIR_col.png" width="150" alt="ELIXIR Italy Logo">
+      </a>
+    </td>
+  </tr>	
+  <tr>
+    <td>
+      <a href="">
+        <img src="images/2025_events/sco.png" height="130" alt="SCO Logo">
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="images/2025_events/BITSLogo.jpg" height="130" alt="BITS Logo">
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="images/2025_events/Logo_infolife.jpg" height="130" alt="Infolife Logo">
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <div style="display: flex; justify-content: center; gap: 30px;">
-    <a href="">
-      <img src="images/2025_events/sco.png" height="130" alt="SCO Logo">
-    </a>
-    <a href="">
-      <img src="images/2025_events/BITSLogo.jpg" height="130" alt="BITS Logo">
-    </a>
-    <a href="">
-      <img src="images/2025_events/Logo_infolife.jpg" height="130" alt="Infolife Logo">
-    </a>
-  </div>
-</div>
 
 <br>
 <br>
