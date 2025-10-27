@@ -36,14 +36,12 @@ This course offers a comprehensive introduction to single-cell RNA sequencing (s
 The course is organised within the project “Rome Technopole Innovation Ecosystem”
 
 <br>
-<br>
 
 ## Important Dates
 
 - Deadline for applications: **15 Nov 2025**
 - Course date: **25-28 November 2025**
 
-<br>
 <br>
 
 ### Venue
@@ -53,20 +51,17 @@ P.le Aldo Moro, 5
 00195 Rome, Italy
 
 <br>
-<br>
 
 ### Fee 
 
 The course does not include any fee. Participants are expected to pay their own travel and accomodation costs (if any).
 
 <br>
-<br>
 
 ### Selection  
 
 A maximum of **15 participants** will be selected on a first-come, first-served basis. Selected participants will be notified progressively as registrations are processed.
 
-<br>
 <br>
 
 ### Instructors
@@ -75,7 +70,6 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 - Luca Alessandrì, University of Turin, Italy
 - Valentina Libri, ISS, Rome, Italy
 
-<br>
 <br>
 
 ### Scientific/Organising committee
@@ -86,7 +80,6 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 - Giacinto Donvito, INFN, Bari, Italy (ELIXIR-IT Compute Platform)
 - Rino Ragno, Sapienza University, Rome, Italy (ELIXIR-IT LTeC)
 
-<br>
 <br>
 
 ### Organising secretary
@@ -100,7 +93,6 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 
 For all kinds of queries, please contact the Local Organisers at: [elixir.it.iib@gmail.com](mailto:elixir.it.iib@gmail.com) 
 
-<br>
 <br>
 
 ### Target audience
@@ -117,13 +109,11 @@ A maximum of 15 candidates will be selected. This course is aimed at life scienc
 - Provide hands-on experience to develop practical analysis skills and enable the extraction and interpretation of biological insights from scRNA-seq datasets.
 
 <br>
-<br>
 
 ### Resources and tools covered
 
 rCASC package for scRNA-seq analysis ([https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC))
 
-<br>
 <br>
 
 ### Learning Outcomes
@@ -138,20 +128,17 @@ By the end of this course, participants will be able to:
 * Performe batch correction and experiment integration on scRNA-seq data.
 
 <br>
-<br>
 
 ### Course prerequisites
 
 Before starting the course, participants are requested to follow a brief and simple course on R, approximately 4 hours. The video lessons and lesson pdfs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
 
 <br>
-<br>
 
 ## Registration
 
 [Application Form]()
 
-<br>
 <br>
 
 ## Programme
