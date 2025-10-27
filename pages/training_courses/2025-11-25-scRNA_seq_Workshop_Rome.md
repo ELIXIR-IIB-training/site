@@ -167,7 +167,7 @@ Before starting the course, participants are requested to follow a brief and sim
 
 ## Registration
 
-[Application Form]()
+### [Application Form](https://forms.gle/rjqURTQumDNysC9p7)
 
 <br>
 
