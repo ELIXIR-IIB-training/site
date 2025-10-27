@@ -36,9 +36,6 @@ inLanguage: en-EN
     <td><a href=""><img src="images/2025_events/Logo_infolife.jpg" height="100"></a></td>
   </tr>
 	<tr>
-	<td height="10" width="10"></td>	
-	</tr>
-	<tr>
 	<td><a href="http://elixir-italy.org"><img src="images/2025_events/IIB-ELIXIR_col.png"></a></td>
 	</tr>
 </table>
