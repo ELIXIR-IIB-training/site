@@ -28,10 +28,10 @@ inLanguage: en-EN
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="display: flex; justify-content: center; gap: 30px;">
     <a href="">
-      <img src="images/2025_events/Logo_ISS.png" height="80" alt="ISS Logo">
+      <img src="images/2025_events/Logo_ISS.png" height="40" alt="ISS Logo">
     </a>
     <a href="http://elixir-italy.org">
-      <img src="images/2025_events/IIB-ELIXIR_col.png" height="80" alt="ELIXIR Italy Logo">
+      <img src="images/2025_events/IIB-ELIXIR_col.png" height="40" alt="ELIXIR Italy Logo">
     </a>
   </div>
 
