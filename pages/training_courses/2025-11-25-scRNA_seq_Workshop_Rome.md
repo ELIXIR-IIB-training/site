@@ -24,7 +24,23 @@ inLanguage: en-EN
 
 
 
+This course is organised within the project “Rome Technopole Innovation Ecosystem”
+
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
+
+<table border="0" align="center">
+  <tr> 
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
+    <td width="10"></td>
+    <td><a href=""><img src="../../../img/Logo_ISS.png" height="80"></a></td>
+    <td width="10"></td>
+	  <td><a href=""><img src="../../../img/BITSLogo.jpg" height="80"></a></td>
+	  <td width="10"></td>
+	  <td><a href=""><img src="../../../img/sco.png" height="70"></a></td>
+    <td width="10"></td>
+    <td><a href=""><img src="../../../img/Logo_infolife.jpg" height="70"></a></td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -32,9 +48,6 @@ inLanguage: en-EN
 ## Course Description
 
 This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control for single-cell sequence outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also offers an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed decisions during analysis. Practical, hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. The workshop is organised in collaboration with the **ELIXIR-IT Compute Platform** (Data Center ReCaS-Bari), which provides the computational infrastructure and support for the hands-on sessions.
-<br>
-The course is organised within the project “Rome Technopole Innovation Ecosystem”
-
 <br>
 
 ## Important Dates
