@@ -25,37 +25,35 @@ inLanguage: en-EN
 
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
-<table align="center" cellspacing="15" cellpadding="5" style="border-collapse: collapse; border: none; text-align: center;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="">
-        <img src="images/2025_events/Logo_ISS.png" height="70" alt="ISS Logo">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="http://elixir-italy.org">
-        <img src="images/2025_events/IIB-ELIXIR_col.png" height="80" alt="ELIXIR Italy Logo">
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="">
-        <img src="images/2025_events/sco.png" height="80" alt="SCO Logo">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="">
-        <img src="images/2025_events/BITSLogo.jpg" height="80" alt="BITS Logo">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="">
-        <img src="images/2025_events/Logo_infolife.jpg" height="80" alt="Infolife Logo">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="text-align:center;">
+
+  <!-- Prima riga di loghi -->
+  <div style="margin-bottom: 25px;">
+    <a href="">
+      <img src="images/2025_events/Logo_ISS.png" height="70" style="vertical-align: middle;" alt="ISS Logo">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="http://elixir-italy.org">
+      <img src="images/2025_events/IIB-ELIXIR_col.png" height="80" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
+    </a>
+  </div>
+
+  <!-- Seconda riga di loghi -->
+  <div>
+    <a href="">
+      <img src="images/2025_events/sco.png" height="120" style="vertical-align: middle;" alt="SCO Logo">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="">
+      <img src="images/2025_events/BITSLogo.jpg" height="110" style="vertical-align: middle;" alt="BITS Logo">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="">
+      <img src="images/2025_events/Logo_infolife.jpg" height="120" style="vertical-align: middle;" alt="Infolife Logo">
+    </a>
+  </div>
+
+</div>
 
 
 <br>
