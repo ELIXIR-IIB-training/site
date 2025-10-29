@@ -61,15 +61,15 @@ inLanguage: en-EN
 
 ## Course Description
 
-This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control for single-cell sequence outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also offers an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed decisions during analysis. Practical, hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. The workshop is organised in collaboration with the ELIXIR-IT Compute Platform (Data Center ReCaS-Bari), which provides the computational infrastructure and support for the hands-on sessions.<br>
-This course is organised within the project [“Rome Technopole Innovation Ecosystem”](https://www.rometechnopole.it/).
+This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control of single-cell sequencing outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also provides an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed methodological decisions during analysis. Hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. <br>
+This course is organised in collaboration with the ELIXIR-IT Compute Platform, which provides the computational infrastructure and support for the practical sessions through the Data Center ReCaS-Bari.<br>
+This course is organised within the framework of the [“Rome Technopole Innovation Ecosystem” project](https://www.rometechnopole.it/).
 <br>
 
 ## Important Dates
 
 - Deadline for applications: **15 Nov 2025**
 - Course date: **25-28 November 2025**
-
 <br>
 
 ### Venue
@@ -77,13 +77,11 @@ This course is organised within the project [“Rome Technopole Innovation Ecosy
 Sapienza University of Rome [google link](https://maps.app.goo.gl/MCnUBWRy8qeaQXqj9)
 P.le Aldo Moro, 5
 00195 Rome, Italy
-
 <br>
 
 ### Fee 
 
-The course does not include any fee. Participants are expected to pay their own travel and accomodation costs (if any).
-
+The course is free of charge. Participants are expected to cover their own travel and accomodation expenses (if any).
 <br>
 
 ### Selection  
@@ -96,77 +94,67 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 
 - Raffaele Calogero, University of Turin, Italy  
 - Luca Alessandrì, University of Turin, Italy
-- Valentina Libri, ISS, Rome, Italy
-
+- Valentina Libri, Istituto Superiore di Sanità (ISS) - FAST, Rome, Italy
 <br>
 
 ### Scientific/Organising committee
 
 - Raffaele Calogero, University of Turin, Italy
-- Loredana Le Pera, ISS - FAST, Rome, Italy (ELIXIR-IT Training Platform)
-- Allegra Via, Sapienza University, Rome, Italy (ELIXIR-IT Training Platform)
+- Loredana Le Pera, Istituto Superiore di Sanità (ISS) - FAST, Rome, Italy (ELIXIR-IT Training Platform)
+- Allegra Via, Sapienza University of Rome, Italy (ELIXIR-IT Training Platform)
 - Giacinto Donvito, INFN, Bari, Italy (ELIXIR-IT Compute Platform)
-- Rino Ragno, Sapienza University, Rome, Italy (ELIXIR-IT LTeC)
-
+- Rino Ragno, Sapienza University of Rome, Italy (ELIXIR-IT LTeC)
 <br>
 
 ### Organising secretary
   
 - Gianmarco Pascarella - CNR, Italy (ELIXIR-IT Training Platform)
-- Irene Artuso, ISS, Rome, Italy (ELIXIR-IT Training Platform)
-
+- Irene Artuso, Istituto Superiore di Sanità (ISS), Rome, Italy (ELIXIR-IT Training Platform)
 <br>
 
 ## Contact 
 
-For all kinds of queries, please contact the Local Organisers at: [elixir.it.iib@gmail.com](mailto:elixir.it.iib@gmail.com) 
+For any queries, please contact the Local Organisers at: [elixir.it.iib@gmail.com](mailto:elixir.it.iib@gmail.com) 
 
 <br>
 
 ### Target audience
 
-A maximum of 15 candidates will be selected. This course is aimed at life science researchers, students, principal investigators (PIs), and professionals from industry interested in analysing single-cell RNA-seq data. No prior knowledge of statistics or advanced computing skills is required. However, **a basic understanding of R programming** and bioinformatics concepts is preferred. **Prior knowledge of single-cell sequencing technologies** is required.
-
-<br>
+This course is aimed at life science researchers, students, principal investigators (PIs), and industry professionals interested in analysing single-cell RNA-seq data. No prior knowledge of statistics or advanced computing is required. However, **a basic understanding of R programming** and **bioinformatics concepts** is preferred. **Prior knowledge of single-cell sequencing technologies** is also required.
 <br>
 
 ### Aims of the workshop 
 
 - Introduce the principles and importance of designing effective scRNA-seq experiments.   
 - Guide participants through quality control, data reduction, and clustering methods for scRNA-seq data.   
-- Provide hands-on experience to develop practical analysis skills and enable the extraction and interpretation of biological insights from scRNA-seq datasets.
-
+- Provide hands-on experience to develop practical analysis skills and extract meaningful biological insights from scRNA-seq data.
 <br>
 
 ### Resources and tools covered
 
 rCASC package for scRNA-seq analysis ([https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC))
-
 <br>
 
 ### Learning Outcomes
 
 By the end of this course, participants will be able to:
-
-* Describe the importance of experimental design to ask sensible biological questions at single cell level.  
+* Describe the importance of experimental design to ask sensible biological questions at single-cell level.  
 * Assess the quality of your data.  
-* Describe limits and strength of clustering in scRNA-seq.  
-* Identify genes driving cluster formation in scRNA-seq.  
+* Describe limitations and strengths of clustering in scRNA-seq.  
+* Identify genes driving cluster formation.  
 * Annotate cell types  
-* Performe batch correction and experiment integration on scRNA-seq data.
-
+* Perform batch correction and experiment integration on scRNA-seq data.
 <br>
 
 ### Course prerequisites
 
-Before starting the course, participants are requested to follow a brief and simple course on R, approximately 4 hours. The video lessons and lesson pdfs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
-
+Before starting the course, participants are requested to complete a short introductory R programming module (~4 hours). The video lessons and PDFs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
 <br>
 
 ## Registration
 
 ### [Application Form](https://forms.gle/rjqURTQumDNysC9p7)
-
+<br>
 <br>
 
 ## Programme
