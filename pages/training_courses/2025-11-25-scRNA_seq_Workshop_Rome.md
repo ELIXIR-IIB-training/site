@@ -32,9 +32,9 @@ inLanguage: en-EN
     <a href="">
       <img src="images/2025_events/Logo_ISS.png" width="200" style="vertical-align: middle;" alt="ISS Logo">
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://elixir-italy.org">
-      <img src="images/2025_events/IIB-ELIXIR_col.png" width="300" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
+      <img src="images/2025_events/IIB-ELIXIR_col.png" height="200" width="350" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
     </a>
   </div>
 
