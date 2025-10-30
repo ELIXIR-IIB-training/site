@@ -48,7 +48,7 @@ inLanguage: en-EN
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="">
-      <img src="images/2025_events/Logo_infolife.jpg" height="100" style="vertical-align: middle;" alt="Infolife Logo">
+      <img src="images/2025_events/Logo_infolife.jpg" height="80" style="vertical-align: middle;" alt="Infolife Logo">
     </a>
   </div>
 </div>
