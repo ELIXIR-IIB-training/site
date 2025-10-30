@@ -40,15 +40,15 @@ inLanguage: en-EN
   <!-- Seconda riga di loghi -->
   <div>
     <a href="">
-      <img src="images/2025_events/sco.png" height="120" style="vertical-align: middle;" alt="SCO Logo">
+      <img src="images/2025_events/sco.png" height="100" style="vertical-align: middle;" alt="SCO Logo">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="">
-      <img src="images/2025_events/BITSLogo.jpg" height="110" style="vertical-align: middle;" alt="BITS Logo">
+      <img src="images/2025_events/BITSLogo.jpg" height="100" style="vertical-align: middle;" alt="BITS Logo">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="">
-      <img src="images/2025_events/Logo_infolife.jpg" height="80" style="vertical-align: middle;" alt="Infolife Logo">
+      <img src="images/2025_events/Logo_infolife.jpg" height="60" style="vertical-align: middle;" alt="Infolife Logo">
     </a>
   </div>
 </div>
