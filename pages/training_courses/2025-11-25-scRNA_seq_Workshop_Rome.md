@@ -37,7 +37,6 @@ inLanguage: en-EN
       <img src="images/2025_events/IIB-ELIXIR_col.png" height="200" width="350" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
     </a>
   </div>
-
   <!-- Seconda riga di loghi -->
   <div>
     <a href="">
@@ -52,9 +51,7 @@ inLanguage: en-EN
       <img src="images/2025_events/Logo_infolife.jpg" height="100" style="vertical-align: middle;" alt="Infolife Logo">
     </a>
   </div>
-
 </div>
-
 
 <br>
 <br>
