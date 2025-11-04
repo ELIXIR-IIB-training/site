@@ -79,7 +79,7 @@ Selected participants will be notified by **25th November 2025**.
 <br>
 
 ### Helpers
-- Loredana Lepera - Istituto Superiore di Sanità and ELIXIR-IT
+- Loredana Le Pera - Istituto Superiore di Sanità and ELIXIR-IT
 
 <br>
 <br>
