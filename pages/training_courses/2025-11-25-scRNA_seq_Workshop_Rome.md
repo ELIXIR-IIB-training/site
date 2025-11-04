@@ -71,7 +71,7 @@ This course is organised within the framework of the [“Rome Technopole Innovat
 
 ### Venue
 
-Sapienza University of Rome [google link](https://maps.app.goo.gl/MCnUBWRy8qeaQXqj9)
+Sapienza University of Rome [google link](https://maps.app.goo.gl/v7jWDZNZygiK6pqP7)
 P.le Aldo Moro, 5
 00195 Rome, Italy
 <br>
