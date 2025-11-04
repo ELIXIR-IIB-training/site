@@ -145,7 +145,7 @@ By the end of this course, participants will be able to:
 
 ### Course prerequisites
 
-Before starting the course, participants are requested to complete a short introductory R programming module (~4 hours). The video lessons and PDFs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
+Before starting the course, participants are requested to complete a short introductory R programming module (~4 hours). Participants are also expected to bring their own laptop for the hands-on sessions. The video lessons and PDFs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx) 
 <br>
 
 ## Registration
