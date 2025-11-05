@@ -24,9 +24,9 @@ inLanguage: en-EN
 
 
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
-![Banner](images/2025_events/Logo_ISS.png){: height="1200px" width="1200px"} ![Banner](images/2025_events/IIB-ELIXIR_col.png"){: height="1200px" width="1200px"}
+![Banner](images/2025_events/Logo_ISS.png){: height="600px" width="600px"} ![Banner](images/2025_events/IIB-ELIXIR_col.png"){: height="600px" width="600px"}
 
-![Banner](images/2025_events/sco.png){: height="1200px" width="1200px"}![Banner](images/2025_events/BITSLogo.jpg){: height="1200px" width="1200px"}![Banner](images/2025_events/Logo_infolife.jpg){: height="1200px" width="1200px"}
+![Banner](images/2025_events/sco.png){: height="400px" width="400px"}![Banner](images/2025_events/BITSLogo.jpg){: height="400px" width="400px"}![Banner](images/2025_events/Logo_infolife.jpg){: height="400px" width="400px"}
 <!--
 <div style="text-align: left;">
 
