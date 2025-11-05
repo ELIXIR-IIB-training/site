@@ -155,52 +155,106 @@ Before starting the course, participants are requested to complete a short intro
     <td height="50" align=center>Learning Experience</td>
     <td height="50">Topic</td>
   </tr>
+    <tr>
+    <td height="50" width="100" align=center>09:30-11:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Experimental design <br>Reproducibility<br>Dense and sparse matrices</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:00-11:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
   <tr>
     <td height="50" width="100" align=center>09:30-12:30</td>
     <td height="50" align=center>Lecture</td>
-    <td height="50">Experimental design <br>Reproducibility<br>Dense and sparse matrices<br>Data structure 10xgenomics, visium, curio bioscience</td>
+    <td height="50">Data structure 10xgenomics, visium, curio bioscience</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=left><i>Lunch break</i></td>
+    <td colspan="3" height="50" align=center><i>Lunch break</i></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>13:30-16:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">QC<br>Data imputation/normalisation<br>Exercises</td>
+    <td height="50" width="100" align=center>13:30-15:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">QC<br>Data imputation/normalisation</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:00-15:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:30-16:30</td>
+    <td height="50" align=center>Exercise</td>
+    <td height="50">Exercises</td>
   </tr>
   <tr>
     <td colspan="3" align=center><h3>27 November</h3></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>09:30-12:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Dimensionality reduction<br>Clustering<br>Exercises</td>
+    <td height="50" width="100" align=center>09:30-11:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Dimensionality reduction<br>Clustering</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:00-11:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:30-12:30</td>
+    <td height="50" align=center>Exercise</td>
+    <td height="50">Exercises</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=left><i>Lunch break</i></td>
+    <td colspan="3" height="50" align=center><i>Lunch break</i></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>13:30-16:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Cluster's specific genes extraction<br>Exercises</td>
+    <td height="50" width="100" align=center>13:30-15:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Cluster's specific genes extraction</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:00-15:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:30-16:30</td>
+    <td height="50" align=center>Exercise</td>
+    <td height="50">>Exercises</td>
   </tr>
   <tr>
     <td colspan="3" align=center><h3>28 November</h3></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>09:30-12:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Cell type annotation<br>Exercises</td>
+    <td height="50" width="100" align=center>09:30-11:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Cell type annotation</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:00-11:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>11:30-12:30</td>
+    <td height="50" align=center>Exercise</td>
+    <td height="50">Exercises</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center>12:30-13:30</td>
-    <td colspan="3" height="50" align=left><i>Lunch break</i></td>
+    <td colspan="3" height="50" align=center><i>Lunch break</i></td>
   </tr>
   <tr>
-    <td height="50" width="100" align=center>13:30-16:30</td>
-    <td height="50" align=center>Lecture/Exercise</td>
-    <td height="50">Data integration<br>Exercises</td>
+    <td height="50" width="100" align=center>13:30-15:00</td>
+    <td height="50" align=center>Lecture</td>
+    <td height="50">Data integration</td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:00-15:30</td>
+    <td colspan="3" height="50" align=center><i>Break</i></td>
+  </tr>
+  <tr>
+    <td height="50" width="100" align=center>15:30-16:30</td>
+    <td height="50" align=center>Exercise</td>
+    <td height="50">Exercises</td>
   </tr>
 </table>
