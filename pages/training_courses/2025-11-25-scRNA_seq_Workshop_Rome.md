@@ -27,35 +27,7 @@ inLanguage: en-EN
 ![ISS_Logo](images/2025_events/Logo_ISS.png){: height="600px" width="600px"} ![IIB-ELIXIR_Logo](images/2025_events/IIB-ELIXIR_col.png"){: height="600px" width="600px"}
 
 ![Single-Cell_Omics_Logo](images/2025_events/sco.png){: height="400px" width="400px"}![BITS_Logo](images/2025_events/BITSLogo.jpg){: height="400px" width="400px"}![Infolife](images/2025_events/Logo_infolife.jpg){: height="400px" width="400px"}
-<!--
-<div style="text-align: left;">
 
-
-  <div style="margin-bottom: 25px;">
-    <a href="">
-      <img src="images/2025_events/Logo_ISS.png" width="200" style="vertical-align: middle;" alt="ISS Logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://elixir-italy.org">
-      <img src="images/2025_events/IIB-ELIXIR_col.png" height="200" width="350" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
-    </a>
-  </div>
-
-  <div>
-    <a href="">
-      <img src="images/2025_events/sco.png" height="100" style="vertical-align: middle;" alt="SCO Logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="">
-      <img src="images/2025_events/BITSLogo.jpg" height="100" style="vertical-align: middle;" alt="BITS Logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="">
-      <img src="images/2025_events/Logo_infolife.jpg" height="60" style="vertical-align: middle;" alt="Infolife Logo">
-    </a>
-  </div>
-</div>
--->
 <br>
 <br>
 
