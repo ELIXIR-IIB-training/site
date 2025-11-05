@@ -24,10 +24,13 @@ inLanguage: en-EN
 
 
 ![Banner](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
+![Banner](images/2025_events/Logo_ISS.png){: height="1200px" width="1200px"} ![Banner](images/2025_events/IIB-ELIXIR_col.png"){: height="1200px" width="1200px"}
 
+![Banner](images/2025_events/sco.png){: height="1200px" width="1200px"}![Banner](images/2025_events/BITSLogo.jpg){: height="1200px" width="1200px"}![Banner](images/2025_events/Logo_infolife.jpg){: height="1200px" width="1200px"}
+<!--
 <div style="text-align: left;">
 
-  <!-- Prima riga di loghi -->
+
   <div style="margin-bottom: 25px;">
     <a href="">
       <img src="images/2025_events/Logo_ISS.png" width="200" style="vertical-align: middle;" alt="ISS Logo">
@@ -37,7 +40,7 @@ inLanguage: en-EN
       <img src="images/2025_events/IIB-ELIXIR_col.png" height="200" width="350" style="vertical-align: middle;" alt="ELIXIR Italy Logo">
     </a>
   </div>
-  <!-- Seconda riga di loghi -->
+
   <div>
     <a href="">
       <img src="images/2025_events/sco.png" height="100" style="vertical-align: middle;" alt="SCO Logo">
@@ -52,7 +55,7 @@ inLanguage: en-EN
     </a>
   </div>
 </div>
-
+-->
 <br>
 <br>
 
