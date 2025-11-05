@@ -24,7 +24,8 @@ inLanguage: en-EN
 
 
 ![Funding_Rome_technopole_logo](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
-![ISS_Logo](images/2025_events/Logo_ISS.png){: height="600px" width="600px"} ![IIB-ELIXIR_Logo](images/2025_events/IIB-ELIXIR_col.png"){: height="600px" width="600px"}
+
+![ISS_Logo](images/2025_events/Logo_ISS.png){: height="600px" width="600px"}![IIB-ELIXIR_Logo](images/2025_events/IIB-ELIXIR_col.png"){: height="600px" width="600px"}
 
 ![Single-Cell_Omics_Logo](images/2025_events/sco.png){: height="400px" width="400px"}![BITS_Logo](images/2025_events/BITSLogo.jpg){: height="400px" width="400px"}![Infolife](images/2025_events/Logo_infolife.jpg){: height="400px" width="400px"}
 
