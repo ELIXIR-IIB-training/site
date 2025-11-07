@@ -70,11 +70,11 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 
 ### Scientific/Organising committee
 
-- Raffaele Calogero, University of Turin, Italy
-- Loredana Le Pera, Istituto Superiore di Sanità (ISS) - FAST, Rome, Italy (ELIXIR-IT Training Platform)
+- Raffaele Calogero, University of Turin, Italy (ELIXIR-IT)
+- Loredana Le Pera, Istituto Superiore di Sanità (ISS) - FAST, Rome, Italy
 - Allegra Via, Sapienza University of Rome, Italy (ELIXIR-IT Training Platform)
-- Giacinto Donvito, INFN, Bari, Italy (ELIXIR-IT Compute Platform)
 - Rino Ragno, Sapienza University of Rome, Italy (ELIXIR-IT LTeC)
+- Giacinto Donvito, INFN, Bari, Italy (ELIXIR-IT Compute Platform)
 <br>
 
 ### Organising secretary
