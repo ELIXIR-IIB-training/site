@@ -25,7 +25,7 @@ inLanguage: en-EN
 
 ![Funding_Rome_technopole_logo](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
-![ISS_Logo](images/2025_events/Logo_ISS.png){: height="200px" width="200px"}   ![IIB_ELIXIR_LOGO](images/2025_events/IIB_ELIXIR_col.png){: height="300px" width="300px"}
+![ISS_Logo](images/2025_events/Logo_ISS.png){: height="180px" width="180px"}   ![IIB_ELIXIR_LOGO](images/2025_events/IIB_ELIXIR_col.png){: height="300px" width="300px"}
 
 <br>
 <br>
