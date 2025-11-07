@@ -39,7 +39,7 @@ This course is organised within the framework of the [“Rome Technopole Innovat
 
 ## Important Dates
 
-- Deadline for applications: **15 Nov 2025**
+- Deadline for applications: **20 Nov 2025**
 - Course date: **25-28 November 2025**
 <br>
 
@@ -259,4 +259,4 @@ Participants are also expected to bring their own laptop for the hands-on sessio
 </table>
 
 
-![Single-Cell_Omics_Logo](images/2025_events/sco.png){: height="400px" width="400px"}![BITS_Logo](images/2025_events/BITSLogo.jpg){: height="400px" width="400px"}![Infolife](images/2025_events/Logo_infolife.jpg){: height="400px" width="400px"}
+![Single-Cell_Omics_Logo](images/2025_events/sco.png){: height="200px" width="200px"}![BITS_Logo](images/2025_events/BITSLogo.jpg){: height="200px" width="200px"}![Infolife](images/2025_events/Logo_infolife.jpg){: height="200px" width="200px"}
