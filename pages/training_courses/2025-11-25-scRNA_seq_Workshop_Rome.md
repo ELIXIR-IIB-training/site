@@ -129,7 +129,7 @@ Participants are also expected to bring their own laptop for the hands-on sessio
 <br>
 <br>
 
-## Programme
+## Preliminary Programme
 
 <table border="1" width="700">
 <tr>
