@@ -25,8 +25,6 @@ inLanguage: en-EN
 
 ![Funding_Rome_technopole_logo](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
 
-![ISS_Logo](images/2025_events/Logo_ISS.png){: height="200px" width="200px"}   ![IIB_ELIXIR_LOGO](images/2025_events/IIB_ELIXIR_col.png){: height="300px" width="300px"}
-
 ![Single-Cell_Omics_Logo](images/2025_events/sco.png){: height="400px" width="400px"}![BITS_Logo](images/2025_events/BITSLogo.jpg){: height="400px" width="400px"}![Infolife](images/2025_events/Logo_infolife.jpg){: height="400px" width="400px"}
 
 <br>
@@ -259,3 +257,5 @@ Participants are also expected to bring their own laptop for the hands-on sessio
     <td height="50">Exercises</td>
   </tr>
 </table>
+
+![ISS_Logo](images/2025_events/Logo_ISS.png){: height="200px" width="200px"}   ![IIB_ELIXIR_LOGO](images/2025_events/IIB_ELIXIR_col.png){: height="300px" width="300px"}
