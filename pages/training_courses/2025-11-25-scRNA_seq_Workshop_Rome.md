@@ -226,7 +226,7 @@ At the end of the event, participants who request it will receive a certificate 
   <tr>
     <td height="50" width="100" align=center>15:30-16:30</td>
     <td height="50" align=center>Exercise</td>
-    <td height="50">>Exercises</td>
+    <td height="50">Exercises</td>
   </tr>
   <tr>
     <td colspan="3" align=center><h3>28 November</h3></td>
