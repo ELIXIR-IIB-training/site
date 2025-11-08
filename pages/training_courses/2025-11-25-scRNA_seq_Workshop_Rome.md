@@ -84,7 +84,7 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 
 ## Contact 
 
-For any queries, please contact the Local Organisers at: [elixir.it.iib@gmail.com](mailto:elixir.it.iib@gmail.com) 
+For any queries, please contact the Local Organisers at: [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com) 
 
 <br>
 
