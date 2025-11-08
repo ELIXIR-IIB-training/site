@@ -32,10 +32,11 @@ inLanguage: en-EN
 
 ## Course Description
 
-This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control of single-cell sequencing outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also provides an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed methodological decisions during analysis. Hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. <br>
-This course is organised in collaboration with the ELIXIR-IT Compute Platform, which provides the computational infrastructure and support for the practical sessions through the Data Center ReCaS-Bari.<br>
-This course is organised within the framework of the [“Rome Technopole Innovation Ecosystem” project](https://www.rometechnopole.it/).
+This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package [https://github.com/kendomaniac/rCASC](https://github.com/kendomaniac/rCASC). Participants will delve into experimental design principles, quality control of single-cell sequencing outputs, and data reduction and clustering techniques to identify cell subpopulations. The course also provides an overview of the computational theory behind scRNA-seq tools, empowering participants to make informed methodological decisions during analysis. Hands-on sessions will allow attendees to work with real datasets and integrate results to extract meaningful biological insights. 
 <br>
+This course is organised by Spoke 3 within the framework of the [“Rome Technopole Innovation Ecosystem” project](https://www.rometechnopole.it/).
+<br>
+
 
 ## Important Dates
 
