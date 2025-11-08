@@ -57,9 +57,7 @@ The course is free of charge. Participants are expected to cover their own trave
 
 ### Selection  
 
-A maximum of **15 participants** will be selected on a first-come, first-served basis. Selected participants will be notified progressively as registrations are processed.
-
-<br>
+A maximum of **15 participants** will be selected on a first-come, first-served basis, taking into account the applicant’s background and motivation as described in the application form. Selected participants will be notified progressively as applications are reviewed. If the number of applications exceeds the maximum capacity, a waiting list will be created. Only applicants who receive a confirmation email will be officially admitted to the course.<br>
 
 ### Instructors
 
@@ -122,6 +120,14 @@ By the end of this course, participants will be able to:
 Before starting the course, participants are requested to complete a short introductory R programming module (~4 hours). The video lessons and PDFs with exercises are available at [https://bit.ly/47XmDwx](https://bit.ly/47XmDwx).
 Participants are also expected to bring their own laptop for the hands-on sessions.
 <br>
+
+### Learning assessment
+
+At the end of the course, all participants will be required to complete an assessment test. Additionally, a course evaluation questionnaire will be administered to collect participants’ feedback.
+
+### Certificates
+
+At the end of the event, participants who request it will receive a certificate of attendance. A **certificate of participation**, including the total number of training hours, will be issued to participants who have attended at least 80% of the course and achieved a minimum score of 75% on the final assessment.
 
 ## Registration
 
