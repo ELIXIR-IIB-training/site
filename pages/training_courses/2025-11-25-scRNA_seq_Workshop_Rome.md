@@ -46,9 +46,9 @@ This course is organised by Spoke 3 within the framework of the [“Rome Technop
 
 ### Venue
 
-Sapienza University of Rome [google link](https://maps.app.goo.gl/v7jWDZNZygiK6pqP7)
-P.le Aldo Moro, 5
-00195 Rome, Italy
+Sapienza Università di Roma, Dep. of "Chimica e Tecnologia del Farmaco", P.le Aldo Moro, 5 - 00195 Roma 
+[google link](https://maps.app.goo.gl/v7jWDZNZygiK6pqP7)
+
 <br>
 
 ### Fee 
