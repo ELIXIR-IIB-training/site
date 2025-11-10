@@ -140,7 +140,7 @@ Open to anyone involved in teaching or training and interested in improving thei
 
 <table border="1" width="800">
   <tr>
-    <td colspan="2" align="center"><h3>Day 1, Thursday, 3rd December, 2025</h3></td>
+    <td colspan="2" align="center"><h3>Day 1, Wednesdey, 3rd December, 2025</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:30-10:00</td>
@@ -160,7 +160,7 @@ Open to anyone involved in teaching or training and interested in improving thei
   </tr>
 
   <tr>
-    <td colspan="2" align="center"><h3>Day 2, Friday, 4th December, 2025</h3></td>
+    <td colspan="2" align="center"><h3>Day 2, Thursday, 4th December, 2025</h3></td>
   </tr>
   <tr>
     <td height="50" width="100" align="center">09:00-09:30</td>
