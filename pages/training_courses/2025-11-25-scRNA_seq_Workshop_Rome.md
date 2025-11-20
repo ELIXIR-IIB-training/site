@@ -68,6 +68,11 @@ A maximum of **15 participants** will be selected on a first-come, first-served 
 - Valentina Libri, Istituto Superiore di Sanità (ISS) - FAST, Rome, Italy
 <br>
 
+## Helpers
+
+- Dario Cannella, University of Rome, Italy
+<br>
+
 ### Scientific/Organising committee
 
 - Raffaele Calogero, University of Turin, Italy (ELIXIR-IT)
