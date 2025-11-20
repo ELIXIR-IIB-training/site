@@ -47,6 +47,7 @@ This course is organised by Spoke 3 within the framework of the [“Rome Technop
 ### Venue
 
 Sapienza Università di Roma, Dep. of "Chimica e Tecnologie del Farmaco", P.le Aldo Moro, 5 - 00185 Roma <br>
+Aula D - Informatica - II Piano Edifico CU019 
 [google link](https://maps.app.goo.gl/v7jWDZNZygiK6pqP7)
 
 <br>
