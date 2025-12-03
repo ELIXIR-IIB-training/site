@@ -3,7 +3,7 @@ title: "25th Bologna Winter School"
 event_type: "Bologna Winter School"
 type: training_courses_2024
 state: closed
-description: 14-27 February 2024 <br> Bologna, Italy
+description: 14-27 February 2023 <br> Bologna, Italy
 page_id: 
 event:
   - name: "Bioinformatics and Deep learning for biodata analysis"
@@ -11,7 +11,7 @@ event:
     organisers: Univ Bologna <br> ELIXIR-IIB <br> SIB 
     teachers: []
     venue: Online
-    event_date: 2024/02/14-27
+    event_date: 2023/02/14-27
     state: closed
 ---
 
