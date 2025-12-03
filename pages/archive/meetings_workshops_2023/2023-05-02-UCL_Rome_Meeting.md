@@ -1,7 +1,7 @@
 ---
 title: "UCL-Rome Meeting"
 event_type: "UCL-Rome Meeting"
-type: training_courses_2023
+type: meetings_workshops_2023
 state: closed
 description: 02 May 2023 <br> Roma, Italy
 page_id: Bridging2023
