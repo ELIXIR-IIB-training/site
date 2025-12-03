@@ -34,7 +34,7 @@ University of Turin, Molecular Biotechnology Center (via Nizza 52, Torino, Italy
 <br>
 
 ### Fee
-The course fee is **300 euros**, covering access to computing infrastructure (for the 4-day course), as well as lunches, coffee breaks, and a social dinner.
+The course fee is **300 euro**, covering access to computing infrastructure (for the 4-day course), as well as lunches, coffee breaks, and a social dinner.
 <br>
 <br>
 
