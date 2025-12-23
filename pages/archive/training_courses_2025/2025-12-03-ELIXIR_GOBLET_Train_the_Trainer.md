@@ -1,7 +1,7 @@
 ---
 title: "ELIXIR-GOBLET Train-the-Trainer"
 event_type:  "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2025
 description: 03-04 December 2025 <br> Naples, Italy
 state: closed
 event:

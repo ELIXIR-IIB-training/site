@@ -1,7 +1,7 @@
 ---
 title: "Metabolomics Academy: Applications for One Health"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2025
 description: 25-30 May 2025 <br> Rezzato, Italy
 state: closed
 event:

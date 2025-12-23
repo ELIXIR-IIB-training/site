@@ -1,7 +1,7 @@
 ---
 title: "26th Bologna Winter School"
 event_type: "Bologna Winter School"
-type: training_courses
+type: training_courses_2025
 description: 19 February - 03 March 2025 <br> Bologna, Italy
 state: closed
 event:

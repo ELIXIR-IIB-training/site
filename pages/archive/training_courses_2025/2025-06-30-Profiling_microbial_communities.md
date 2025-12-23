@@ -1,7 +1,7 @@
 ---
 title: "Profiling of microbial communities using targeted and shotgun metagenomics"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2025
 description: 30 June - 4 July 2025 <br> Bari, Italy
 state: closed
 event:

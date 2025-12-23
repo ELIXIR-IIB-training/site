@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Nextflow for BITS2025"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2025
 description: 10-11 June <br> Naples, Italy
 state: closed
 event:

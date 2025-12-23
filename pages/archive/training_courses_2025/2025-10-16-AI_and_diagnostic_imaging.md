@@ -1,7 +1,7 @@
 ---
 title: "Il Ruolo dell'Intelligenza Artificiale nell'Imaging Diagnostico"
 event_type: "ELIXIR Training Course"
-type: training_courses
+type: training_courses_2025
 description: 16 October 2025 <br> Rome, Italy
 state: closed
 event:

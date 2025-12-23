@@ -1,7 +1,7 @@
 ---
 title: "Summer School on Metabolic Modeling - From Constraints, to Kinetics and Machine Learning"
 event_type: "ELIXIR Summer school"
-type: training_courses
+type: training_courses_2025
 description: 17 September - 19 September <br> Milan, Italy
 state: closed
 event:
