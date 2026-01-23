@@ -21,6 +21,33 @@ startDate: "2025/02/10"
 endDate: "2025/02/12"
 duration: P3DT7H
 inLanguage: en-EN 
+
+
+
+
+
+
+short_description: "Description of the course"
+teachers: [First Name1 Last Name1,First Name2 Last Name2]
+keywords: "scRNA-seq, Proteomics, Genomics, Bioinformatics"
+courseMode: onsite/online
+addressLocality: City
+addressCountry: Country
+startDate: "2025/02/10"
+endDate: "2025/02/12"
+duration: P3DT7H
+inLanguage: en-EN 
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
