@@ -15,7 +15,7 @@ event:
 
 ![BO_Winter2026](images/2026_events/BO_Winter2026.jpeg)
 
-More information can be found on the [26th Bologna Winter School](https://www.biocomp.unibo.it/~school2026/) webpage.
+More information can be found on the [27th Bologna Winter School](https://www.biocomp.unibo.it/~school2026/) webpage.
 
 
 <br>
