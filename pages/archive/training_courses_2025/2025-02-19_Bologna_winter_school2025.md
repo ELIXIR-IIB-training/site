@@ -14,7 +14,7 @@ event:
     state: closed
 ---
 
-![BG_Winter2025](images/2025_events/BG_Winter2025.jpeg)
+![BO_Winter2025](images/2025_events/BO_Winter2025.jpeg)
 
 More information can be found on the [26th Bologna Winter School](https://www.biocomp.unibo.it/~school2025/) webpage.
 
