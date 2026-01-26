@@ -1,44 +1,13 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
-
-- name: "Metabolomics Academy: Applications for One Health"
-  startDate: 2025-05-25
-  endDate: 2025-05-30
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-05-25-Metabolomics_Academy)"
-  location: Rezzato, Italy
-
-- name: "Introduction to Nextflow for BITS2025"
-  startDate: 2025-06-10
-  endDate: 2025-06-11
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-06-06-Introduction_Nextflow_BITS2025)"
-  location: Naples, Italy
+- name: "27th Bologna Winter School"
+  startDate: 2026-02-12
+  endDate: 2026-02-20
+  description: "[More info here](https://www.biocomp.unibo.it/~school2026/)"
+  location: online
 
 - name: "EMBO Practical Course on Population Genomics: Background and tools"
-  startDate: 2025-06-23
-  endDate: 2025-06-29
-  description: "[More info here](https://meetings.embo.org/event/25-pop-genomics)"
-  location: Castellammare di Stabia, Italy
-
-- name: "Profiling of microbial communities using targeted and shotgun metagenomics"
-  startDate: 2025-06-30
-  endDate: 2025-07-04
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-06-30-Profiling_microbial_communities)"
-  location: Bari, Italy
-
-- name: "Summer School on Metabolic Modeling - From Constraints, to Kinetics and Machine Learning"
-  startDate: 2025-09-17
-  endDate: 2025-09-19
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-09-17-Summer_School_on_Metabolic_Modeling)"
-  location: Milan, Italy
-
-- name: "Il Ruolo dell'Intelligenza Artificiale nell'Imaging Diagnostico"
-  startDate: 2025-10-16
-  endDate: 2025-10-16
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-10-16-AI_and_diagnostic_imaging)"
-  location: Rome, Italy
-
-- name: "ELIXIR-GOBLET Train-the-Trainer"
-  startDate: 2025-12-03
-  endDate: 2025-12-04
-  description: "[More info here](https://elixir-iib-training.github.io/site/2025-12-03-ELIXIR_GOBLET_Train_the_Trainer)"
-  location: Naples, Italy
+  startDate: 2026-06-15
+  endDate: 2025-06-22
+  description: "[More info here](https://meetings.embo.org/event/26-pop-genomics)"
+  location: To be defined, Italy
