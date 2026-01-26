@@ -1,7 +1,7 @@
 ---
 title: "27th Bologna Winter School"
 event_type: "Bologna Winter School"
-type: training_courses_2026
+type: training_courses
 description: 12-20 February<br> Bologna, Italy
 event:
   - name: "Bioinformatics and Rare Diseases"
