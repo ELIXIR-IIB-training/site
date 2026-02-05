@@ -11,7 +11,7 @@
 #    image_url: absolute path to image (default image from github)
 
 
-Loredana Le Pera:
+Loredana <br> Le Pera:
     email: loredana.lepera@iss.it
     role: Training Platform Coordinator
     affiliation: ISS, Rome
@@ -29,17 +29,17 @@ Anna Marabotti:
     affiliation: University of Salerno
     image_url: images/people/Anna_Marabotti.jpg
 
-Irene Artuso:
-    email: irene.artuso@iss.it
-    role: Workshop Design Organization and Delivery
-    affiliation: ISS, Rome
-    image_url: images/people/Irene_Artuso.jpeg  
-
 Luana Licata:
     email: luana.licata@uniroma2.it
     role: Workshop Design Organization and Delivery
     affiliation: University Tor Vergata, Rome
     image_url: images/people/Luana_Licata.jpg    
+
+Vincenza Colonna:
+    email: vincenza.colonna@igb.cnr.it
+    role: Workshop Design Organization and Delivery
+    affiliation: IGB-CNR, Napoli
+    image_url: images/people/Vincenza_Colonna.jpg
 
 Teresa Colombo:
     email: teresa.colombo@cnr.it
@@ -47,11 +47,11 @@ Teresa Colombo:
     affiliation: IBPM-CNR
     image_url: images/people/Teresa_Colombo.png
 
-Vincenza Colonna:
-    email: vincenza.colonna@igb.cnr.it
+Irene Artuso:
+    email: irene.artuso@iss.it
     role: Workshop Design Organization and Delivery
-    affiliation: IGB-CNR, Napoli
-    image_url: images/people/Vincenza_Colonna.jpg
+    affiliation: ISS, Rome
+    image_url: images/people/Irene_Artuso.jpeg  
 
 Gianmarco Pascarella:
     email: gianmarcopascarella@cnr.it
