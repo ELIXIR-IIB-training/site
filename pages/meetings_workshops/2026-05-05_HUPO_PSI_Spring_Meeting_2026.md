@@ -16,15 +16,16 @@ event:
 
 
 ### Meeting description
-The HUPO-PSI Spring Scientific Committee is pleased to announce that this year, in collaboration with ELIXIR-Italy, the HUPO-PSI Spring Meeting will take place from May 5 until May 8, 2026 at the CNR, Italian National Research Council, in Rome, Italy.
+The HUPO-PSI Spring Scientific Committee is pleased to announce that this year, in collaboration with ELIXIR-Italy, the HUPO-PSI Spring Meeting will take place **from May 5 until May 8 2026 at the CNR, Italian National Research Council, in Rome, Italy**.
 
 The HUPO-PSI Spring Meeting is an annual event organized by the HUPO Proteomics Standards Initiative, aiming to advance data standardization efforts. This meeting brings together scientists from various areas of proteomics to collaborate on the development of standardized data formats, which are crucial for the field’s continued growth.
 
 
 ## Key Information
-Application Deadline:  *April 15th, 2026*.
+Application Deadline:  **April 15th, 2026**.
 <br>
-Seats Available: Limited to *90* participants  
+
+Seats Available: Limited to **90** participants  
  
 
 ## Application
