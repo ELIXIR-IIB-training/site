@@ -1,5 +1,5 @@
 ---
-title: "ELIXIR IIB Higher-level training course"
+title: "HUPO-PSI Spring Meeting 2026"
 event_type: "ELIXIR Meetings and workshops"
 type: meetings_workshops
 
