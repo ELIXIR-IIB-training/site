@@ -23,6 +23,7 @@ The HUPO-PSI Spring Meeting is an annual event organized by the HUPO Proteomics 
 
 ## Key Information
 Application Deadline:  *April 15th, 2026*.
+<br>
 Seats Available: Limited to *90* participants  
  
 
