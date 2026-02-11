@@ -21,14 +21,14 @@ The HUPO-PSI Spring Scientific Committee is pleased to announce that this year, 
 The HUPO-PSI Spring Meeting is an annual event organized by the HUPO Proteomics Standards Initiative, aiming to advance data standardization efforts. This meeting brings together scientists from various areas of proteomics to collaborate on the development of standardized data formats, which are crucial for the field’s continued growth.
 
 
-## Key Information
+### Key Information
 Application Deadline:  **April 15th, 2026**.
 <br>
 
 Seats Available: Limited to **90** participants  
  
 
-## Application
+### Application
 [Application Form](https://docs.google.com/forms/d/1M1GOIanzgf5jQl9RslWmfVsBgSY0NWv9Sco2Z8zCJig/edit?ts=696a526d)
 
 
@@ -36,5 +36,5 @@ Seats Available: Limited to **90** participants
 [HUPO-PSI Spring Meeting 2026](https://www.psidev.info/hupo-psi-meeting-2026)
 
 
-## Contacts
+### Contacts
 For any questions, please contact: [luana.licata@uniroma2.it](mailto:luana.licata@uniroma2.it)
