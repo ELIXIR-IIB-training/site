@@ -6,7 +6,7 @@ title: Training Courses
 
 {% include section-navigation-tiles.html type="training_courses" except="index.md" %}
 
-<!-- 
+{% comment %}
 
 <h3>Upcoming</h3>{% include section-navigation-tiles-upc.html type="training_courses" except="index.md" %} 
 
@@ -17,6 +17,6 @@ title: Training Courses
 {% include section-navigation-tiles-clo.html type="training_courses" except="index.md" %}
 
 
--->
+{% endcomment %}
 
 
