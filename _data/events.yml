@@ -1,12 +1,21 @@
 # If there are no upcoming events this panel is not shown in the homepage
 
 - name: "27th Bologna Winter School"
+eventID: 2026001
   startDate: 2026-02-12
   endDate: 2026-02-20
   description: "[More info here](https://www.biocomp.unibo.it/~school2026/)"
   location: online
 
+- name: "HUPO-PSI Spring Meeting 2026"
+eventID: 2026002
+  startDate: 2026-05-05
+  endDate: 2026-05-08
+  description: "[More info here](https://www.psidev.info/hupo-psi-meeting-2026)"
+  location: Rome, Italy
+  
 - name: "EMBO Practical Course on Population Genomics: Background and tools"
+eventID: 2026003
   startDate: 2026-06-15
   endDate: 2026-06-22
   description: "[More info here](https://meetings.embo.org/event/26-pop-genomics)"
