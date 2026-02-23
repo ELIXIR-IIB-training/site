@@ -2,7 +2,6 @@
 title: "Young Minds at Work: Blending Human Genetics and Bioinformatics"
 event_type: "ELIXIR Meetings and workshops"
 type: meetings_workshops
-
 description: 18-19 March 2026 <br> online
 page_id: 
 event:

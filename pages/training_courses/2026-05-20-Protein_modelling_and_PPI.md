@@ -1,10 +1,10 @@
 ---
-title: "Proteine 2026. Structural and functional characterization of proteins and their modulation."
+title: "Proteine 2026. Structural and functional characterization of proteins and their modulation"
 event_type: "ELIXIR Training Course"
 type: training_courses
 description: 20 May 2026 <br> Salerno, Italy
 event:
-  - name: "Proteine 2026. Structural and functional characterization of proteins and their modulation."
+  - name: "Proteine 2026. Structural and functional characterization of proteins and their modulation"
     organisers: [A. Marabotti]
     teachers: [L. Licata]
     venue: [online]
