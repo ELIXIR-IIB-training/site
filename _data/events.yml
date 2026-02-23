@@ -21,7 +21,7 @@
   description: "[More info here](https://www.psidev.info/hupo-psi-meeting-2026)"
   location: Rome, Italy
   
-  - name: "Proteine 2026. Structural and functional characterization of proteins and their modulation"
+- name: "Biological networks: topological analysis and visualization using Cytoscape software"
   eventID: 2026005
   startDate: 2026-05-20
   endDate: 2026-05-20

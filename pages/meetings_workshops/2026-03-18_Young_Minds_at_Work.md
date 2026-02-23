@@ -15,8 +15,8 @@ event:
 
 
 ### Meeting description
-Since 2020, young groups from the Italian Bioinformatics Society (BITS) and several Biomedical Societies have been collaborating to organize a series of workshops for youngsters.
-The workshops aim to encourage dialogue and create a network of young researchers with skills in wet sciences and bioinformatics, blending computational biology with biology, biochemistry and others.
+Since 2020, young groups from the Italian Bioinformatics Society (BITS) and several Biomedical Societies have been collaborating to organize a series of workshops for youngsters.<br>
+The workshops aim to encourage dialogue and create a network of young researchers with skills in wet sciences and bioinformatics, blending computational biology with biology, biochemistry and others.<br>
 The events will offer young researchers the opportunity to submit contributions and participate in training sessions in computational biology.
 
 
@@ -35,4 +35,4 @@ Notification of acceptance is scheduled for **March 11th**.
 
 
 ### Contacts
-For any questions, please contact: [info@blendingbb.it](mailto:info@blendingbb.it), [scientific.committee@blendingbb.it](mailto:scientific.committee@blendingbb.it and [organization.committee@blendingbb.it](mailto:organization.committee@blendingbb.it)
+For any questions, please contact: [info@blendingbb.it](mailto:info@blendingbb.it), [scientific.committee@blendingbb.it](mailto:scientific.committee@blendingbb.it) and [organization.committee@blendingbb.it](mailto:organization.committee@blendingbb.it)

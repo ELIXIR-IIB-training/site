@@ -1,10 +1,10 @@
 ---
-title: "Proteine 2026. Structural and functional characterization of proteins and their modulation"
+title: "Biological networks: topological analysis and visualization using Cytoscape software"
 event_type: "ELIXIR Training Course"
 type: training_courses
-description: 20 May 2026 <br> Salerno, Italy
+description: 20 May 2026 <br> Fisciano, Italy
 event:
-  - name: "Proteine 2026. Structural and functional characterization of proteins and their modulation"
+  - name: "Biological networks: topological analysis and visualization using Cytoscape software"
     organisers: [A. Marabotti]
     teachers: [L. Licata]
     venue: [online]
@@ -15,7 +15,7 @@ short_description: "This course explores the interactome, mapping protein-protei
 teachers: [Luana Licata]
 keywords: "Interactome, Protein-Protein Interactions, Cytoscape, Network Visualization, Functional Enrichment Analysis, Bioinformatics."
 courseMode: onsite
-addressLocality: Salerno
+addressLocality: Fisciano
 addressCountry: Italy
 startDate: "2026/05/20"
 endDate: "2026/05/20"
@@ -78,7 +78,6 @@ A maximum of 30 candidates will be selected on a **first-come- first-served basi
 ### Helpers
 
 - Alessia Pinto, PhD student, University of Rome “Tor Vergata”, ELIXIR-IT, Italy
-- Francesco Gregoris, PhD student, University of Padua
 <br>
 <br>
 
@@ -129,10 +128,10 @@ The course is for people participating to the meeting ["Proteine 2026"](https://
 
 By the end of this course, the participants will be able to:
 
-• Identify and access public data resources and tools to study protein-protein interactions 
-• Interpret the information given in different molecular interaction databases
-• Represent networks using Cytoscape
-• Perform network and functional analysis
+- Identify and access public data resources and tools to study protein-protein interactions 
+- Interpret the information given in different molecular interaction databases
+- Represent networks using Cytoscape
+- Perform network and functional analysis
 
 <br>
 <br>
