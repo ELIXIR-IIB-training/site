@@ -22,7 +22,7 @@ The events will offer young researchers the opportunity to submit contributions 
 
 ### Key Information
 Registration Deadline:  **March 15th, 2026**.
-Abstract submission deadline: **March 1st**.
+**NEW Abstract submission deadline: March 7th**.
 Notification of acceptance is scheduled for **March 11th**.
 
 
