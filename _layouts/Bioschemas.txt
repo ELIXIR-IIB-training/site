@@ -19,3 +19,12 @@ instructors:                   # Lista dei nomi dei docenti
   - "Luana Licata"
 registration_url: "https://link-iscrizione.it" #opzionale
 inLanguage: it-IT 
+
+
+# Tag obbligatori per i corsi vecchi
+title: (Dovrebbe già esserci).
+short_description: Puoi anche copiare le prime due righe della descrizione esistente.
+startDate: Fondamentale. TeSS deve sapere che è un evento passato.
+venue: Anche solo "Online" o "Italy".
+addressCountry: "Italy": Per farli apparire sotto il nodo italiano.
+courseMode: onsite o online.
