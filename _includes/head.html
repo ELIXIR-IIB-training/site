@@ -131,6 +131,72 @@
       }
     }
     </script>
+
+   <!-- Bioschemas for TeSS ELIXIR - IIB Italy -->
+    {%- if page.layout == 'training-event' or page.layout == 'workshop-event' -%}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Course",
+          "@id": "{{ page.url | absolute_url }}",
+          "name": {{ page.title | jsonify }},
+          "description": {{ page.short_description | default: page.description | strip_html | jsonify }},
+          "keywords": {{ page.keywords | join: ', ' | jsonify }},
+          "audience": {{ page.target_audience | jsonify }},
+          "abstract": {{ page.learning_objectives | join: ' ' | jsonify }},
+          "provider": {
+            "@type": "Organization",
+            "name": "ELIXIR-IT",
+            "url": "https://elixir-iib-training.github.io/site"
+          }
+        },
+        {
+          "@type": "CourseInstance",
+          "courseMode": "{% if page.venue contains 'Online' or page.venue contains 'online' %}online{% else %}onsite{% endif %}",
+          "startDate": "{{ page.date | date: '%Y-%m-%d' }}",
+          {% if page.end_date %}
+          "endDate": "{{ page.end_date | date: '%Y-%m-%d' }}",
+          {% else %}
+          "endDate": "{{ page.date | date: '%Y-%m-%d' }}",
+          {% endif %}
+          "location": {
+            "@type": "Place",
+            "name": {{ page.venue | jsonify }},
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": {{ page.city | jsonify }},
+              "addressCountry": {{ page.country | jsonify }}
+            }
+          },
+          "instructor": [
+            {% for teacher in page.instructors %}
+            {
+              "@type": "Person",
+              "name": {{ teacher | jsonify }}
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ],
+          "isCourseInstanceOf": {
+            "@id": "{{ page.url | absolute_url }}"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "category": "Free"
+          }
+        }
+      ]
+    }
+    </script>
+    {%- endif -%}
+
+
+
+
+
+
     {%- if site.gtag and jekyll.environment == "production"%}
     <!-- Google analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
