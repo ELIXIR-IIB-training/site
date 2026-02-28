@@ -136,64 +136,60 @@
     {%- if page.layout == 'training-event' or page.layout == 'workshop-event' -%}
     <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@graph": [
+    "@context": "https://schema.org",
+    "@graph": [
         {
-          "@type": "Course",
-          "@id": "{{ page.url | absolute_url }}",
-          "name": {{ page.title | jsonify }},
-          "description": {{ page.short_description | default: page.description | strip_html | jsonify }},
-          "keywords": {{ page.keywords | join: ', ' | jsonify }},
-          "audience": {{ page.target_audience | jsonify }},
-          "abstract": {{ page.learning_objectives | join: ' ' | jsonify }},
-          "provider": {
+        "@type": "Course",
+        "@id": "{{ page.url | absolute_url }}",
+        "name": {{ page.title | jsonify }},
+        "description": {{ page.short_description | default: page.description | strip_html | jsonify }},
+        "provider": {
             "@type": "Organization",
             "name": "ELIXIR-IT",
-            "url": "https://elixir-iib-training.github.io/site"
-          }
+            "url": "https://elixir-iib-training.github.io/site/
+        }
+        {%- if page.scientific_topic -%},"keywords": {{ page.scientific_topic | join: ', ' | jsonify }}{%- endif -%}
+        {%- if page.inLanguage -%},"inLanguage": "{{ page.inLanguage }}"{%- endif -%}
+        {%- if page.target_audience -%},"audience": {{ page.target_audience | jsonify }}{%- endif -%}
+        {%- if page.learning_outcomes -%},"abstract": {{ page.learning_outcomes | join: ' ' | jsonify }}{%- endif -%}
+        {%- if page.competency_level -%},"educationalLevel": {{ page.competency_level | jsonify }}{%- endif -%}
         },
         {
-          "@type": "CourseInstance",
-          "courseMode": "{% if page.venue contains 'Online' or page.venue contains 'online' %}online{% else %}onsite{% endif %}",
-          "startDate": "{{ page.date | date: '%Y-%m-%d' }}",
-          {% if page.end_date %}
-          "endDate": "{{ page.end_date | date: '%Y-%m-%d' }}",
-          {% else %}
-          "endDate": "{{ page.date | date: '%Y-%m-%d' }}",
-          {% endif %}
-          "location": {
+        "@type": "CourseInstance",
+        "courseMode": "{{ page.courseMode | default: 'onsite' }}",
+        "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+        {%- if page.endDate or page.startDate -%}
+        "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+        {%- endif -%}
+        "location": {
             "@type": "Place",
-            "name": {{ page.venue | jsonify }},
+            "name": {{ page.venue | default: "Italy" | jsonify }},
             "address": {
-              "@type": "PostalAddress",
-              "addressLocality": {{ page.city | jsonify }},
-              "addressCountry": {{ page.country | jsonify }}
+            "@type": "PostalAddress",
+            "addressLocality": {{ page.addressLocality | default: "Italy" | jsonify }},
+            "addressCountry": {{ page.addressCountry | default: "IT" | jsonify }}
             }
-          },
-          "instructor": [
-            {% for teacher in page.instructors %}
-            {
-              "@type": "Person",
-              "name": {{ teacher | jsonify }}
-            }{% unless forloop.last %},{% endunless %}
-            {% endfor %}
-          ],
-          "isCourseInstanceOf": {
-            "@id": "{{ page.url | absolute_url }}"
-          },
-          "offers": {
+        }
+        {%- if page.instructors -%},
+        "instructor": [
+            {%- for teacher in page.instructors -%}
+            { "@type": "Person", "name": {{ teacher | jsonify }} }{%- unless forloop.last -%},{%- endunless -%}
+            {%- endfor -%}
+        ]
+        {%- endif -%}
+        {%- if page.registration_url -%},
+        "offers": {
             "@type": "Offer",
+            "url": {{ page.registration_url | jsonify }},
             "price": "0",
             "category": "Free"
-          }
         }
-      ]
+        {%- endif -%}
+        }
+    ]
     }
     </script>
     {%- endif -%}
-
-
-
 
 
 

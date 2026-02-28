@@ -1,0 +1,21 @@
+short_description: "Una frase concisa che riassume il corso (max 200 caratteri)."
+startDate: "2026-05-20"
+endDate: "2026-05-20"
+courseMode: "onsite"           # Valori ammessi: "online" o "onsite"
+venue: "University of Salerno" # Nome del posto o "Zoom/Online"
+addressLocality: "Fisciano"    # Città opzionale, la città può andare in venue
+addressCountry: "Italy"        # Nazione
+competency_level: "Beginner"   #opzionale
+scientific_topic:              # Almeno uno preso da EDAM (es. Proteomics, Network analysis)
+  - "Proteomics"
+  - "Molecular interactions, pathways and networks"
+target_audience:               #opzionale
+  - "Graduate students"
+  - "Researchers"
+learning_outcomes:             #opzionale
+  - "Understand PPI networks"
+  - "Master Cytoscape basics"
+instructors:                   # Lista dei nomi dei docenti
+  - "Luana Licata"
+registration_url: "https://link-iscrizione.it" #opzionale
+inLanguage: it-IT 

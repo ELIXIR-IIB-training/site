@@ -11,15 +11,24 @@ event:
     event_date: 2026/05/20
     state: open
 
-short_description: "This course explores the interactome, mapping protein-protein interactions to understand cell organization and disease disruptions. Using Cytoscape, participants will extract data, build and visualize networks, detect topological properties, identify clusters, and perform functional enrichment analysis. \n"
-teachers: [Luana Licata]
-keywords: "Interactome, Protein-Protein Interactions, Cytoscape, Network Visualization, Functional Enrichment Analysis, Bioinformatics."
-courseMode: onsite
-addressLocality: Fisciano
-addressCountry: Italy
-startDate: "2026/05/20"
-endDate: "2026/05/20"
-duration: P1DT7H
+
+short_description: "Study the interactome to map cell organization and disease. Using Cytoscape, extract PPI data, build networks, analyze topology, cluster, and perform functional network enrichment analysis."
+startDate: "2026-05-20"
+endDate: "2026-05-20"
+courseMode: "onsite"           
+venue: "University of Salerno" 
+addressLocality: "Fisciano"    
+addressCountry: "Italy"         
+scientific_topic:              
+  - "Proteomics"
+  - "Protein-Protein interaction"
+  - "Cytoscape"
+learning_outcomes:             
+  - "Understand PPI networks"
+  - "Master Cytoscape basics"
+instructors:                   
+  - "Luana Licata"
+registration_url: "https://www.mediacongress.it/congressi-in-corso/fisciano-proteins.html"
 inLanguage: it-IT 
 ---
 
