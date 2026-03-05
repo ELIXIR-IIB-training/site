@@ -64,7 +64,7 @@ University of Salerno Fisciano campus, Via Giovanni Paolo II, 132, 84084 Fiscian
 
 ### Fee 
 
-The course does not include a fee
+The course does not include a fee.
 
 <br>
 <br>
