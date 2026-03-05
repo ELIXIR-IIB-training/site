@@ -170,11 +170,11 @@
             {
             "@type": "CourseInstance",
             "courseMode": "{{ page.courseMode | default: 'onsite' }}",
-            "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}"
             {%- if page.endDate or page.startDate -%}
-            "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            ,"endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}"
             {%- endif -%}
-            "location": {
+            ,"location": {
                 "@type": "Place",
                 "name": "{{ page.addressLocality | default: page.venue | default: 'Italy' | escape }}",
                 "address": {
