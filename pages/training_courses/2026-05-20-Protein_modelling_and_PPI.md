@@ -11,7 +11,6 @@ event:
     event_date: 2026/05/20
     state: open
 
-
 short_description: "Study the interactome to map cell organization and disease. Using Cytoscape, extract PPI data, build networks, analyze topology, cluster, and perform functional network enrichment analysis."
 startDate: "2026-05-20"
 endDate: "2026-05-20"
