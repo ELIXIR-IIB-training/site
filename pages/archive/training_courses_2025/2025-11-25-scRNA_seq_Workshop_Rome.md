@@ -12,16 +12,28 @@ event:
     state: closed
     
 
+schema_type: "Course"  
 short_description: "This course offers a comprehensive introduction to single-cell RNA sequencing (scRNA-seq) data analysis using open-source tools, with a focus on the rCASC package."
-teachers: [Luca Alessandrì, Raffaele Calogero]
-keywords: "scRNA-seq, rCASC package, clustering methods, Genomics, Bioinformatics"
-courseMode: onsite
-addressLocality: Rome
-addressCountry: Italy
-startDate: "2025/11/25"
-endDate: "2025/11/28"
-duration: P3DT7H
-inLanguage: en-EN 
+startDate: "2025-11-25"
+endDate: "2025-11-28"
+courseMode: "onsite"
+addressLocality: "Rome"
+addressCountry: "Italy"
+organizer:
+  - "ELIXIR-IT"
+  - "Istituto Superiore di Sanità"
+
+scientific_topic:
+  - "RNA-seq"                      
+  - "Transcriptomics"               
+  - "Bioinformatics"                
+
+instructors:
+  - "Luca Alessandrì"
+  - "Raffaele Calogero"
+
+registration_url: "https://elixir-iib-training.github.io/site/2025-11-25-scRNA_seq_Workshop_Rome"               
+inLanguage: "en-GB"
 ---
 
 
