@@ -135,16 +135,18 @@
 
     <!-- Bioschemas for TeSS ELIXIR - IIB Italy -->
     {%- assign is_training_data = false -%}
-    {%- if page.type == 'training_courses' or page.type == 'meetings_workshops' or page.url contains '/archive/' -%}
+    {%- assign p = page.path | downcase -%}
+
+    {%- if p contains 'training_courses' or p contains 'meetings_workshops' or p contains 'archive' -%}
         {%- if page.title -%}
             {%- assign is_training_data = true -%}
-            
-            {%- assign default_schema = "Course" -%}
-            {%- if page.type == 'meetings_workshops' -%}
-                {%- assign default_schema = "Event" -%}
+            {%- assign schema_type = "Course" -%}
+            {%- if p contains 'meetings_workshops' -%}
+                {%- assign schema_type = "Event" -%}
             {%- endif -%}
-            {%- assign schema_type = page.schema_type | default: default_schema -%}
-            
+            {%- if page.schema_type -%}
+                {%- assign schema_type = page.schema_type -%}
+            {%- endif -%}
         {%- endif -%}
     {%- endif -%}
 
@@ -152,14 +154,14 @@
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "{{ schema_type }}",
-        "@id": "{{ page.url | absolute_url }}",
-        "url": "{{ page.url | absolute_url }}",
-        "name": "{{ page.title | escape }}",
-        "description": "{{ page.short_description | default: page.description | strip_html | strip_newlines | escape }}",
+        "@type": {{ schema_type | jsonify }},
+        "@id": {{ page.url | absolute_url | jsonify }},
+        "url": {{ page.url | absolute_url | jsonify }},
+        "name": {{ page.title | jsonify }},
+        "description": {{ page.short_description | default: page.description | strip_html | strip_newlines | jsonify }},
         "organizer": [
             {%- if page.organizer -%}
-                {%- if page.organizer.first -%}
+                {%- if page.organizer[0] -%}
                     {%- for org in page.organizer -%}
                     { "@type": "Organization", "name": {{ org | jsonify }} }{%- unless forloop.last -%},{%- endunless -%}
                     {%- endfor -%}
@@ -170,64 +172,65 @@
                 { "@type": "Organization", "name": "ELIXIR-IT" }
             {%- endif -%}
         ]
-
         {%- if schema_type == "Event" -%}
-        ,"startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}"
+        ,"startDate": {{ page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
         {%- if page.endDate or page.startDate -%}
-        ,"endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}"
+        ,"endDate": {{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
         {%- endif -%}
         ,"location": {
             "@type": "Place",
-            "name": "{{ page.venue | default: page.addressLocality | default: 'Italy' | escape }}",
+            "name": {{ page.venue | default: page.addressLocality | default: 'Italy' | jsonify }},
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
-                "addressCountry": "{{ page.addressCountry | default: 'IT' | escape }}"
+                "addressLocality": {{ page.addressLocality | default: 'Italy' | jsonify }},
+                "addressCountry": {{ page.addressCountry | default: 'IT' | jsonify }}
                 {%- if page.postalCode -%}
-                ,"postalCode": "{{ page.postalCode | escape }}"
+                ,"postalCode": {{ page.postalCode | jsonify }}
                 {%- endif -%}
             }
         }
         {%- else -%}
         {%- if page.inLanguage -%}
-        ,"inLanguage": "{{ page.inLanguage }}"
+        ,"inLanguage": {{ page.inLanguage | jsonify }}
         {%- endif -%}
         {%- if page.target_audience -%}
-        ,"audience": "{{ page.target_audience | join: ', ' | escape }}"
+        ,"audience": {
+            "@type": "Audience",
+            "audienceType": {{ page.target_audience | join: ', ' | jsonify }}
+        }
         {%- endif -%}
         ,"hasCourseInstance": {
             "@type": "CourseInstance",
             "@id": "{{ page.url | absolute_url }}#instance",
-            "url": "{{ page.url | absolute_url }}",
-            "courseMode": "{{ page.courseMode | default: 'onsite' }}",
-            "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            "url": {{ page.url | absolute_url | jsonify }},
+            "courseMode": {{ page.courseMode | default: 'onsite' | jsonify }},
+            "startDate": {{ page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
             {%- if page.endDate or page.startDate -%}
-            "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            ,"endDate": {{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
             {%- endif -%}
-            "location": {
+            ,"location": {
                 "@type": "Place",
-                "name": "{{ page.venue | default: page.courseMode | capitalize | jsonify }}",
+                "name": {{ page.venue | default: page.courseMode | capitalize | jsonify }},
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "{{ page.addressLocality | default: page.courseMode | capitalize | jsonify }}",
-                    "addressCountry": "{{ page.addressCountry | default: 'IT' }}"
+                    "addressLocality": {{ page.addressLocality | default: page.courseMode | capitalize | jsonify }},
+                    "addressCountry": {{ page.addressCountry | default: 'IT' | jsonify }}
                     {%- if page.postalCode -%}
-                    ,"postalCode": "{{ page.postalCode | escape }}"
+                    ,"postalCode": {{ page.postalCode | jsonify }}
                     {%- endif -%}
                 }
             }
             {%- if page.instructors -%}
             ,"instructor": [
                 {%- for teacher in page.instructors -%}
-                { "@type": "Person", "name": "{{ teacher | escape }}" }{%- unless forloop.last -%},{%- endunless -%}
+                { "@type": "Person", "name": {{ teacher | jsonify }} }{%- unless forloop.last -%},{%- endunless -%}
                 {%- endfor -%}
             ]
             {%- endif -%}
         }
         {%- endif -%}
-        
         {%- if page.scientific_topic -%}
-        ,"keywords": "{{ page.scientific_topic | join: ', ' | escape }}"
+        ,"keywords": {{ page.scientific_topic | join: ', ' | jsonify }}
         {%- endif -%}
     }
     </script>
