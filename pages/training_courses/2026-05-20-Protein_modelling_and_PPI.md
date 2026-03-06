@@ -38,7 +38,7 @@ instructors:
   - "Luana Licata"
 
 registration_url: "https://www.mediacongress.it/congressi-in-corso/fisciano-proteins.html"
-inLanguage: "it-IT"
+inLanguage: "en-GB"
 ---
 
 ![Logo_PPI](images/2026_events/PPI_2026.png)
