@@ -12,14 +12,22 @@ event:
     event_date: 2024/10/23
     state: closed
 
-short_description: "The course aims to provide an updated overview of the state of the art, explore the prospects of AI in various image acquisition and processing workflows, and highlight its contribution to the diagnostic process and therapeutic follow-up."
-teachers: []
-keywords: "AI, diagnostic imaging , course, bioinformatics."
-courseMode: online
-startDate: "2024/10/23"
-endDate: "2024/10/23"
-duration: PT07H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Updated overview of AI in image acquisition and processing workflows, focusing on its contribution to the diagnostic process and therapeutic follow-up."
+startDate: "2024-10-23"
+endDate: "2024-10-23"
+courseMode: "online"
+
+organizer:
+  - "ELIXIR-IT"
+  - "ISS"
+
+scientific_topic:
+  - "Imaging"                         # topic_3384
+  - "Machine learning"                 # topic_3474
+  - "Health informatics"               # topic_3063
+
+inLanguage: "en-GB" 
 ---
 
 

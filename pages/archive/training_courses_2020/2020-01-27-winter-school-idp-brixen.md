@@ -11,11 +11,45 @@ event:
     venue: Bressanone-Brixen, Italy
     event_date: 2020/01/27-31
     state: closed
+
+schema_type: "Course"
+short_description: "Winter school providing an overview of IDP biological mechanisms in pathogenic phenotypes, exploring concepts of folding and misfolding through lectures and bioinformatics practicals."
+startDate: "2020-01-27"
+endDate: "2020-01-31"
+courseMode: "onsite"
+venue: "University of Padua - Casa della Gioventù, Via Rio Bianco 12"
+addressLocality: "Bressanone-Brixen"
+postalCode: "39042"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "MSCA-RISE IDPfun"
+  - "University of Padua"
+
+scientific_topic:
+  - "Proteins"                        # topic_0078
+  - "Bioinformatics"                   # topic_0091
+  - "Pathology"                        # topic_0634
+
+learning_outcomes:
+  - "Understand IDP biological mechanisms related to pathogenic phenotypes"
+  - "Explore concepts of protein folding, unfolding, and misfolding"
+  - "Acquire basic skills in using bioinformatic tools to solve complex IDP problems"
+  - "Gain knowledge on ELIXIR interoperability services for the IDP community"
+
+target_audience:
+  - "PhD students"
+  - "Early-stage researchers"
+
+instructors: []
+registration_url: "https://elixir-iib-training.github.io/site/2020-01-27-winter-school-idp-brixen"
+inLanguage: "en-GB"
 ---
 
-{% include image.html file="/2022_and_older/Logo_IDPfun.png" alt="Logo_IDPfun" max-width="10" %}
-{% include image.html file="/2022_and_older/logo_uni_padova.png" alt="logo_uni_padova" max-width="10" %}
-{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}
+{% include image.html file="/2022_and_older/Logo_IDPfun.png" alt="Logo_IDPfun" max-width="5" %}
+{% include image.html file="/2022_and_older/logo_uni_padova.png" alt="logo_uni_padova" max-width="5" %}
+{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="5" %}
 
 
 <br>

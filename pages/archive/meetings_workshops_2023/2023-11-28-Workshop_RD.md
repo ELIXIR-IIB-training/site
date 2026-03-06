@@ -12,6 +12,29 @@ event:
     venue: Roma, Italy
     event_date: 2023/11/28-29
     state: closed
+schema_type: "Event"
+short_description: "A workshop focused on the integration of clinical and bioinformatic approaches to characterize rare diseases, facilitating knowledge exchange between biomedical communities and experts in sequence analysis."
+startDate: "2023-11-28"
+endDate: "2023-11-29"
+courseMode: "onsite"
+venue: "National Research Council of Italy (CNR), Sala Lettura (Biblioteca) A, Piazzale Aldo Moro 7"
+addressLocality: "Rome"
+postalCode: "00185"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Bologna"
+  - "University of Rome Tor Vergata"
+  - "National Institute of Health (ISS)"
+
+scientific_topic:
+  - "Rare diseases"                  # topic_3325
+  - "Bioinformatics"                 # topic_0091
+  - "Data management"                # topic_3071
+
+registration_url: "https://elixir-iib-training.github.io/site/2023-11-28-Workshop_RD"
+inLanguage: "en-GB"
 ---
 
 ### Important Dates

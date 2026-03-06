@@ -12,6 +12,31 @@ event:
     venue: Roma, Italy
     event_date: 2023/11/28-29
     state: closed
+schema_type: "Event"
+short_description: "An informal interactive workshop focused on open discussions about technical and practical problems in Proteomics, covering both experimental and computational aspects."
+startDate: "2023-11-28"
+endDate: "2023-11-29"
+courseMode: "onsite"
+venue: "Aula ex-Biblioteca, Building CU027, Sapienza University of Rome, P.le Aldo Moro 5"
+addressLocality: "Rome"
+postalCode: "00185"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "ISPA-CNR"
+  - "ITB-CNR"
+  - "Ospedale Gaslini"
+  - "IFC-CNR"
+  - "ISA-CNR"
+
+scientific_topic:
+  - "Proteomics"                      # topic_0121
+  - "Mass spectrometry"               # topic_3520
+  - "Data analysis"                   # topic_3506
+
+registration_url: "https://elixir-iib-training.github.io/site/2023-11-28-ProteomiX"
+inLanguage: "en-GB"
 ---
 
 {% include image.html file="/2023_events/proteomix_2023.jpg" alt="ProteomiX2023" max-width="10" %}

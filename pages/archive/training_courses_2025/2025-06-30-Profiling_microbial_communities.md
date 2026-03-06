@@ -11,21 +11,49 @@ event:
     event_date: 2025/05/30 
     state: closed
 
-short_description: "This training course focuses on the study of the microbiota using Next Generation Sequencing (NGS) techniques. The course will introduce DNA metabarcoding and shotgun metagenomics and illustrate the major computational tools for the analysis of metagenomic data. In addition, the course will provide an introduction to Machine Learning methods applied to the analysis of metagenomic data. The course will include both a theoretical introduction to the topics and practical sessions with real data."
-teachers: [Duccio Cavalieri, Eugenio Parente, Antonia Bruno]
-keywords: "Metagenomics, DNA metabarcoding, Next Generation Sequencing (NGS), Machine Learning, microbial, metabolomics"
-courseMode: onsite
-addressLocality: Bari
-addressCountry: Italy
-startDate: "2025/06/30"
-endDate: "2025/06/04"
-duration: P5DT40H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Training on microbiota study using NGS, covering metabarcoding, shotgun metagenomics, computational tools, and machine learning methods for metagenomic data analysis."
+startDate: "2025-06-30"
+endDate: "2025-07-04"
+courseMode: "onsite"
+venue: "University of Bari Aldo Moro, Aula 4, Vecchi Istituti Biologici, Via Orabona 4"
+addressLocality: "Bari"
+postalCode: "70126"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Bari Aldo Moro"
+  - "Fondazione Edmund Mach"
+
+scientific_topic:
+  - "Metagenomics"                 # topic_3174
+  - "Machine learning"             # topic_3474
+  - "Bioinformatics"                # topic_0091
+  - "Statistics and probability"   # topic_2269
+
+learning_outcomes:
+  - "Use bioinformatics workflows for DNA-metabarcoding and shotgun metagenomics"
+  - "Analyse microbial communities using ecological measures of biodiversity"
+  - "Apply multivariate statistics and dimensionality reduction to microbiome data"
+  - "Use machine learning approaches for microbiota data analysis"
+
+target_audience:
+  - "PhD Students"
+  - "Post-Doc research scientists"
+
+instructors:
+  - "Giuseppe Defazio"
+  - "Paolo Manghi"
+  - "Elisabetta Notario"
+  - "Marinella Marzano"
+  - "Pierfrancesco Novielli"
+  - "Sabina Tangaro"
+
+registration_url: "https://elixir-iib-training.github.io/site/2025-06-30-Profiling_microbial_communities"
+inLanguage: "en-GB"
 ---
 
-<!--
-![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}
--->
 <br>
 <br>
 

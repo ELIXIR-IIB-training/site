@@ -11,16 +11,50 @@ event:
     event_date: 2025/05/25-30
     state: closed
 
-short_description: "The school focuses on metabolomics and its applications through a 5-day program. It includes lectures in Italian by expert faculty and provides ample opportunities for idea exchange and collaboration."
-teachers: [Daniela Gaglio, Marcella Bonanomi, Flavio A. Franchina, Luigi Lucini, Anna Calì, Leilei Zhang, Clara Musicco, Pierluigi Caboni]
-keywords: "Metabolomics, School, Mass-spectometry, Environment, Oone-health, Nutraceutical, Food, Medicine."
-courseMode: onsite
-addressLocality: Rezzato
-addressCountry: Italy
-startDate: "2025/05/25"
-endDate: "2025/05/30"
-duration: P5DT35H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "A 5-day school on metabolomics applications in environmental science, nutraceuticals, and medicine, covering sample prep, mass spectrometry, and statistical data analysis."
+startDate: "2025-05-25"
+endDate: "2025-05-30"
+courseMode: "onsite"
+venue: "Villa Fenaroli Palace Hotel, Via Giuseppe Mazzini, 14"
+addressLocality: "Rezzato"
+postalCode: "25086"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "National Research Council – IBSBC Milan"
+  - "Università Cattolica del Sacro Cuore"
+
+scientific_topic:
+  - "Metabolomics"                 # topic_3172
+  - "Mass spectrometry"            # topic_3520
+  - "Lipidomics"                   # topic_3377
+  - "Statistics and probability"   # topic_2269
+
+learning_outcomes:
+  - "Gain familiarity with key metabolomics applications in One Health"
+  - "Learn sample preparation and data acquisition using mass spectrometry"
+  - "Develop statistical analysis skills for metabolomics data"
+
+target_audience:
+  - "Undergraduate students"
+  - "PhD students"
+  - "Researchers and R&D professionals"
+
+instructors:
+  - "Daniela Gaglio"
+  - "Marcella Bonanomi"
+  - "Flavio A. Franchina"
+  - "Luigi Lucini"
+  - "Anna Calì"
+  - "Leilei Zhang"
+  - "Clara Musicco"
+  - "Pierluigi Caboni"
+  - "Roberto M. Pellegrino"
+
+registration_url: "https://elixir-iib-training.github.io/site/2025-05-25-Metabolomics_Academy"
+inLanguage: "it-IT"  
 ---
 <br>
 <br>

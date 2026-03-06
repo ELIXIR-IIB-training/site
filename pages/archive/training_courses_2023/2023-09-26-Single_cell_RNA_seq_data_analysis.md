@@ -12,6 +12,37 @@ event:
     venue: Torino, Italy
     event_date: 2023/09/26-29
     state: closed
+
+schema_type: "Course"
+short_description: "Hands-on course on scRNA-seq bioinformatics analysis using open-source tools like rCASC, covering theoretical and practical knowledge for gene expression technology."
+startDate: "2023-09-26"
+endDate: "2023-09-29"
+courseMode: "onsite"
+venue: "Molecular Biotechnology Center, University of Turin, Via Nizza 52"
+addressLocality: "Turin"
+postalCode: "10126"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Turin"
+
+scientific_topic:
+  - "RNA-seq"                      # topic_3170
+  - "Transcriptomics"               # topic_3308
+  - "Bioinformatics"                # topic_0091
+
+learning_outcomes:
+  - "Perform bioinformatics analyses of scRNA-seq data"
+  - "Utilize rCASC and other open-source software solutions"
+  - "Interpret single-cell gene expression results"
+
+
+instructors:
+  - "Raffaele Calogero"
+
+registration_url: "https://elixir-iib-training.github.io/site/2023-09-26-Single_cell_RNA_seq_data_analysis"
+inLanguage: "en-GB"
 ---
 
 

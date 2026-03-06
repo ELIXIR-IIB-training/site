@@ -11,16 +11,49 @@ event:
     event_date: 2024/09/11-13
     state: closed
 
-short_description: "This training course will provide a foundation on the experimental planning, analytical strategies, and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications."
-teachers: [Adriano Fonzino, Alessandro Silvestris, Francesco Nicassio, Ernesto Picardi, Tommaso Leonardi, Camilla Ugolini, Logan Mulroney]
-keywords: "Bioinformatics, Epitranscriptomics, REDItools, REDIportal"
-courseMode: onsite
-addressLocality: Bari
-addressCountry: Italy
-startDate: "2024/09/11"
-endDate: "2024/09/13"
-duration: P3DT19H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Course on Nanopore direct RNA sequencing and Illumina RNA-seq for profiling RNA modifications and editing, covering experimental planning and computational workflows."
+startDate: "2024-09-11"
+endDate: "2024-09-13"
+courseMode: "onsite"
+venue: "University of Bari, Campus E. Quagliariello, Aula 4, Vecchi Istituti Biologici, Via Orabona 4"
+addressLocality: "Bari"
+postalCode: "70125"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Bari"
+  - "CNR-IBIOM"
+  - "Istituto Italiano di Tecnologia (IIT)"
+
+scientific_topic:
+  - "RNA-seq"                      # topic_3170
+  - "Transcriptomics"               # topic_3308
+  - "Bioinformatics"                # topic_0091
+  - "Sequencing"                    # topic_3168
+
+learning_outcomes:
+  - "Acquire theoretical knowledge about methods to profile RNA modifications"
+  - "Use bioinformatics tools to analyze Nanopore reads"
+  - "Use bioinformatics tools to pre-process RNAseq data"
+  - "Use command-line tools (REDItools) for calling, annotating, and filtering RNA variants"
+
+target_audience:
+  - "Early/mid-career stage researchers"
+  - "PhD students"
+
+instructors:
+  - "Adriano Fonzino"
+  - "Alessandro Silvestris"
+  - "Francesco Nicassio"
+  - "Ernesto Picardi"
+  - "Tommaso Leonardi"
+  - "Camilla Ugolini"
+  - "Logan Mulroney"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-09-11-Computational_Methods_Epitranscriptomics"
+inLanguage: "en-GB"
 ---
 
 ![epitrascriptomics_bari](images/2024_events/epitrascriptomics_bari.png)

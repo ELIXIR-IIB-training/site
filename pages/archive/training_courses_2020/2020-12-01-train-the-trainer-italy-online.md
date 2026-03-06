@@ -11,6 +11,40 @@ event:
     venue: Online
     event_date: 2020/12/01-04
     state: closed
+
+schema_type: "Course"
+short_description: "An online course on pedagogical principles and practical techniques for designing and delivering effective training sessions in life sciences and bioinformatics."
+startDate: "2020-12-01"
+endDate: "2020-12-04"
+courseMode: "online"
+
+organizer:
+  - "ELIXIR-IT"
+  - "ELIXIR Training Platform"
+
+scientific_topic:
+  - "Bioinformatics"                 # topic_0091
+  - "Professional science"           # topic_3473
+  - "Education"                      # topic_3470
+
+learning_outcomes:
+  - "Name learning principles that a good teacher/instructor should have in mind"
+  - "Describe at least three training techniques drawing on learning principles"
+  - "Design a training session and a course"
+  - "Develop assessment questionnaires"
+  - "Enumerate types of materials needed for each part of a training session or course"
+
+target_audience:
+  - "Prospective and current teachers/instructors"
+
+instructors:
+  - "Loredana Le Pera"
+  - "Jessica Lindvall"
+  - "Patricia Palagi"
+  - "Allegra Via"
+
+registration_url: "https://elixir-iib-training.github.io/site/2020-12-01-train-the-trainer-italy-online"
+inLanguage: "en-GB"
 ---
 
 {% include image.html file="/infrastructures/logo_iib.png" caption="logo_iib.png" alt="logo_iib" max-width="10" %}

@@ -11,16 +11,42 @@ event:
     event_date: 2025/06/10-11
     state: closed
 
-short_description: "This course introduces Nextflow, teaching pipeline development from basic to advanced levels. Beginners learn core language components and pipeline design, while advanced topics cover scalability and efficiency. It also explores nf-core, an open-source community offering standardized best practices for scientific pipelines. By the end, participants can create functional, efficient workflows."
-teachers: [Júlia Mir Pedrol, Jose Espinosa-Carrasco]
-keywords: "Nextflow, nf-core, Beginners, write pipeline, bioinformatics, Codespaces"
-courseMode: onsite
-addressLocality: Naples
-addressCountry: Italy
-startDate: "2025/06/10"
-endDate: "2025/06/11"
-duration: P1DT0H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Comprehensive course on Nextflow language and nf-core, covering core components, pipeline design, and advanced features for building scalable, data-intensive scientific workflows."
+startDate: "2025-06-10"
+endDate: "2025-06-11"
+courseMode: "onsite"
+venue: "University Federico II, Facoltà di Biotecnologie, Via Tommaso De Amicis, 95"
+addressLocality: "Naples"
+postalCode: "80131"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "BITS"
+  - "University Federico II"
+
+scientific_topic:
+  - "Bioinformatics"                # topic_0091
+  - "Workflows"                     # topic_0769
+  - "Data architecture, analysis and design" # topic_3365
+
+learning_outcomes:
+  - "Write their own Nextflow pipelines"
+  - "Contribute to nf-core"
+  - "Write efficient and scalable pipelines"
+
+target_audience:
+  - "Researchers"
+  - "Bioinformaticians"
+  - "PhD Students"
+
+instructors:
+  - "Júlia Mir Pedrol"
+  - "Jose Espinosa-Carrasco"
+
+registration_url: "https://elixir-iib-training.github.io/site/2025-06-06-Introduction_Nextflow_BITS2025"
+inLanguage: "en-GB"
 ---
 
 <br>

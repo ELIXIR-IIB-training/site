@@ -12,14 +12,36 @@ event:
     event_date: 2024/12/10
     state: closed
 
-short_description: "This course explores the interactome, mapping protein-protein interactions to understand cell organization and disease disruptions. Using Cytoscape, participants will extract data, build and visualize networks, detect topological properties, identify clusters, and perform functional enrichment analysis. \n"
-teachers: [Luana Licata]
-keywords: "Interactome, Protein-Protein Interactions, Cytoscape, Network Visualization, Functional Enrichment Analysis, Bioinformatics."
-courseMode: online
-startDate: "2024/12/10"
-endDate: "2024/12/10"
-duration: P1DT7H
-inLanguage: it-IT 
+schema_type: "Course"
+short_description: "Practical course on using Cytoscape to extract, build, and analyze protein-protein interaction networks to identify topological properties and perform enrichment analysis."
+startDate: "2024-12-10"
+endDate: "2024-12-10"
+courseMode: "online"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Rome Tor Vergata"
+  - "University of Salerno"
+
+scientific_topic:
+  - "Protein-protein interaction"    # topic_0128
+  - "Systems biology"                # topic_2259
+  - "Bioinformatics"                 # topic_0091
+
+learning_outcomes:
+  - "Identify and access public data resources to study protein-protein interactions"
+  - "Represent networks using Cytoscape"
+  - "Perform network and functional analysis"
+
+target_audience:
+  - "Participants of the Young Minds at Work workshop"
+  - "Researchers"
+
+instructors:
+  - "Luana Licata"
+
+registration_url: "https://www.blendingbb.it/ymw2024/"
+inLanguage: "en-GB"
 ---
 
 ![Logo_PPI](images/2024_events/PPI_2024.png)

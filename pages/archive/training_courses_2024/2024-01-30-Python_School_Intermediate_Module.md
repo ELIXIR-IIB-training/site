@@ -4,23 +4,49 @@ event_type:  "ELIXIR Training Course"
 type: training_courses_2024
 description: 30 January - 2 February 2024 <br> Roma, Italy
 state: closed
-
-short_description: "The “Python for Genomics School” provides Python skills for analyzing Escherichia coli genomic data, identifying common traits and virulence.\n"
-teachers: [Luca De Sabato, Arnold Knijn, Loredana Le Pera, Valeria Michelacci, Allegra Via]
-keywords: "python, Next-Generation Sequencing, Whole Genome Sequencing, genomics, bioinformatics."
-courseMode: onsite
-addressLocality: Rome
-addressCountry: Italy
-startDate: "2024/01/30"
-endDate: "2024/02/02"
-duration: P4DT7H
-inLanguage: it-IT  
-
 event:
   - name: "School of Python for genomics Massimiliano Orsini. Intermediate module: Analysing your genomic data with Python"
     organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
     event_date: 2024/01/30
     state: closed
+
+schema_type: "Course"
+short_description: "Intermediate course focused on developing a Python pipeline to analyze Whole Genome Sequencing (WGS) data, specifically characterizing Escherichia coli strain populations."
+startDate: "2024-01-30"
+endDate: "2024-02-02"
+courseMode: "onsite"
+venue: "Sapienza University of Rome, Piazzale Aldo Moro 5"
+addressLocality: "Rome"
+postalCode: "00185"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "SIDiLV"
+  - "Sapienza University of Rome"
+  - "National Institute of Health (ISS)"
+
+scientific_topic:
+  - "Genomics"                      # topic_0622
+  - "Bioinformatics"                 # topic_0091
+  - "Public health and epidemiology" # topic_3305
+
+learning_outcomes:
+  - "Critically assess the quality of NGS data"
+  - "Develop a complete Python pipeline for genomic analysis from raw data to final results"
+
+target_audience:
+  - "Research scientists using genomic data"
+
+instructors:
+  - "Luca De Sabato"
+  - "Arnold Knijn"
+  - "Loredana Le Pera"
+  - "Valeria Michelacci"
+  - "Allegra Via"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-01-30-Python_School_Intermediate_Module"
+inLanguage: "en-GB"
 ---
 
 <br>

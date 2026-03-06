@@ -11,16 +11,41 @@ event:
     event_date: 2024/05/30-31
     state: closed
 
-short_description: "Metabolomics studies metabolites, impacting medical and environmental sciences, and integrates with the One Health approach, exploring practical applications and current research frontiers."
-teachers: [Anna Calì, Marcella Bonanomi, Duccio Cavalieri, Flavio A. Franchina, Pascual Garcia-Perez, Maria Klapa, Luigi Lucini, Fabrizio Mastrorocco, Claire O’Donovan, Valentina Pasquale, Francesca Scolari, Davide Seveso, Leilei Zhang, Marco Vanoni, Lilia Alberghina, Michael Zimmerman]
-keywords: "Metabolomics, experimental design, Workshop, bioinformatics."
-courseMode: onsite
-addressLocality: Milan
-addressCountry: Italy
-startDate: "2024/05/30"
-endDate: "2024/05/31"
-duration: P2DT18H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Workshop on metabolomics applications for One Health, focusing on experimental planning, analytical strategies, and data interpretation for environmental and health sciences."
+startDate: "2024-05-30"
+endDate: "2024-05-31"
+courseMode: "onsite"
+venue: "University of Milano-Bicocca, Department of Biotechnology and Bioscience, room U3-04, Piazza della Scienza 2"
+addressLocality: "Milan"
+postalCode: "20126"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "National Research Council (CNR)"
+  - "University of Milano-Bicocca"
+
+scientific_topic:
+  - "Metabolomics"                 # topic_3172
+  - "Personalised medicine"        # topic_3577
+  - "Agricultural science"         # topic_3810
+
+learning_outcomes:
+  - "Understand the principles of metabolomics in the context of One Health"
+  - "Gain knowledge on experimental design and sample preparation"
+  - "Learn about mass spectrometry-based data acquisition and processing"
+  - "Explore data analysis and biological interpretation of metabolomics results"
+
+target_audience:
+  - "Undergraduate students"
+  - "PhD students"
+  - "Academic researchers"
+  - "Industry professionals"
+
+instructors: []
+registration_url: "https://elixir-iib-training.github.io/site/2024-05-30-Metabolomics_Course"
+inLanguage: "en-GB"
 ---
 
 ![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}

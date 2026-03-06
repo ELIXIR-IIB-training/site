@@ -12,6 +12,45 @@ event:
     venue: Roma, Italy
     event_date: 2022/11/22-25
     state: closed
+
+schema_type: "Course"
+short_description: "Introductory course providing the basics of Python programming applied to genomics problems, including fundamental skills for working with the Linux shell command-line interface."
+startDate: "2022-11-22"
+endDate: "2022-11-25"
+courseMode: "onsite"
+venue: "Italian National Institute of Health (ISS), Viale Regina Elena 299"
+addressLocality: "Rome"
+postalCode: "00161"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "SIDiLV"
+  - "National Institute of Health (ISS)"
+
+scientific_topic:
+  - "Bioinformatics"                 # topic_0091
+  - "Genomics"                       # topic_0622
+  - "Computer science"               # topic_3316
+
+learning_outcomes:
+  - "Understand the basics of the Python programming language"
+  - "Apply Python programming to solve genomics problems"
+  - "Utilize the Linux shell through a command-line interface"
+  - "Use Biopython for genomics applications and pipelines"
+
+target_audience:
+  - "Research scientists"
+
+instructors:
+  - "Luca De Sabato"
+  - "Arnold Knijn"
+  - "Loredana Le Pera"
+  - "Massimiliano Orsini"
+  - "Allegra Via"
+
+registration_url: "https://elixir-iib-training.github.io/site/2022-11-22-School_Python_genomics_Basic_module"
+inLanguage: "en-GB"
 ---
 
 [{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/)

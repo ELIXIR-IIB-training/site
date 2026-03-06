@@ -12,6 +12,45 @@ event:
     venue: Roma, Italy
     event_date: 2023/05/03-04
     state: closed
+
+schema_type: "Course"
+short_description: "Course on Gene Ontology (GO) and molecular interaction resources, featuring tools for high-throughput and network analysis of large proteomic and transcriptomic datasets."
+startDate: "2023-05-03"
+endDate: "2023-05-04"
+courseMode: "onsite"
+venue: "University of Rome Tor Vergata, Department of Biology, Via della Ricerca Scientifica"
+addressLocality: "Rome"
+postalCode: "00133"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Rome Tor Vergata"
+  - "University College of London (UCL)"
+
+scientific_topic:
+  - "Ontology and terminology"        # topic_0089
+  - "Proteomics"                      # topic_0121
+  - "Transcriptomics"                 # topic_3308
+  - "Molecular interactions, pathways and networks" # topic_0602
+
+learning_outcomes:
+  - "Identify and access public data resources for functional and network analysis"
+  - "Exploit Gene Ontology (GO) to identify key cellular processes in datasets"
+  - "Interpret molecular interaction and signaling databases"
+  - "Represent and analyze networks using Cytoscape"
+
+target_audience:
+  - "PhD students"
+  - "Post-Doc research scientists"
+  - "Team leaders and PIs"
+
+instructors:
+  - "Ruth Lovering"
+  - "Luana Licata"
+
+registration_url: "https://elixir-iib-training.github.io/site/2023-05-05-Gene_Ontology_TorVergata"
+inLanguage: "en-GB"
 ---
 
 {% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}

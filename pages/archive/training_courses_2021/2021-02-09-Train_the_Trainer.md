@@ -1,13 +1,12 @@
 ---
 title: "Train the Trainer"
 event_type:  "ELIXIR IIB Training Course"
-type: meetings_workshops_2021
+type: training_courses_2021
 state: closed
 description: 09-12 February 2021 <br> Online
 page_id: 
 event:
   - name: "Train the Trainer"
-    url: https://training.vib.be/all-trainings/train-trainer
     organisers: ELIXIR ELIXIR-CZ
     teachers: []
     venue: Online

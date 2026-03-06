@@ -11,16 +11,43 @@ event:
     event_date: 2024/06/19-21
     state: closed
 
-short_description: "Participants will learn about pangenome concepts and gain practical <br>experience building and analyzing pangenome graphs. They will apply these methods to complex <br>research questions that require understanding the relationships between multiple genomes or <br>accounting for variability when analyzing new genomes. By the end of the practical course / <br>workshop, participants will have a strong understanding of pangenome methods based on whole <br>genome assemblies."
-teachers: [Vincenza Colonna, Erik Garrison, Andrea Guarracino, Luana Licata, Flavia Villani]
-keywords: "Pangenomics, Genome, Whole Genome Assemblies, bioinformatics."
-courseMode: onsite
-addressLocality: Rome
-addressCountry: Italy
-startDate: "2024/06/19"
-endDate: "2024/06/21"
-duration: P3DT19H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "Course on pangenome concepts and pangenome graph construction from whole-genome assemblies, using tools like PGGB and ODGI to analyze genomic variability."
+startDate: "2024-06-19"
+endDate: "2024-06-21"
+courseMode: "onsite"
+venue: "Sapienza University of Rome, Building CU010, Piazzale Aldo Moro 5"
+addressLocality: "Rome"
+postalCode: "00185"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Tennessee Health Science Center"
+  - "Sapienza University of Rome"
+
+scientific_topic:
+  - "Genomics"                      # topic_0622
+  - "Bioinformatics"                 # topic_0091
+  - "Sequencing"                    # topic_3168
+
+learning_outcomes:
+  - "Understand concepts of pangenomics and genome variability"
+  - "Apply pangenome methods to complex research questions"
+  - "Build pangenome graphs from whole-genome assemblies"
+  - "Analyze and interpret pangenome graphs using PGGB and ODGI"
+
+target_audience:
+  - "PhD students"
+  - "Post-docs"
+  - "Researchers"
+
+instructors:
+  - "Erik Garrison"
+  - "Andrea Guarracino"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-06-19-Pangenomics"
+inLanguage: "en-GB"  
 ---
 
 ![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}

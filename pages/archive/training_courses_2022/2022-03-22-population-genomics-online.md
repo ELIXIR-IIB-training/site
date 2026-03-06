@@ -12,6 +12,34 @@ event:
     venue: Online
     event_date: 2022/03/22-30
     state: closed
+
+schema_type: "Course"
+short_description: "Advanced course on reconstructing demographic history and inferring natural selection using classic and machine learning techniques, with a focus on programming skills for population genomics."
+startDate: "2022-03-22"
+endDate: "2022-03-30"
+courseMode: "online"
+
+organizer:
+  - "EMBO"
+  - "ELIXIR-IT"
+  - "AGI"
+  - "SIBE"
+  - "SIGA"
+
+scientific_topic:
+  - "Genomics"                      # topic_0622
+  - "Evolutionary biology"          # topic_3299
+  - "Machine learning"              # topic_3474
+  - "Bioinformatics"                 # topic_0091
+
+learning_outcomes:
+  - "Reconstruct the demographic history of populations"
+  - "Infer natural selection using classic and machine learning techniques"
+  - "Develop essential and advanced programming skills for genomic analysis"
+  - "Run population genomics analyses independently"
+
+registration_url: "https://meetings.embo.org/event/22-pop-genomics"
+inLanguage: "en-GB"
 ---
 
 

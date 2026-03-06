@@ -12,16 +12,42 @@ event:
     event_date: 2024/11/26
     state: closed
 
-short_description: "The teaching methods include theoretical sessions with practical examples, hands-on exercises with Conda, Docker, and Jupyter Notebooks, case studies on collaborative research projects, and interactive Q&A workshops to address specific challenges.\n"
-teachers: [Raoul Bonnal]
-keywords: "Biocontainer, Conda, Docker, Jupyter Notebooks, Bioinformatics."
-courseMode: onsite
-addressLocality: Naples
-addressCountry: Italy
-startDate: "2024/11/26"
-endDate: "2024/11/26"
-duration: P1DT7H
-inLanguage: it-IT 
+schema_type: "Course"
+short_description: "Foundational course on managing computational workflows using Conda environments, Docker containers, and Jupyter Notebooks to ensure reproducibility and efficiency in bioinformatics."
+startDate: "2024-11-26"
+endDate: "2024-11-26"
+courseMode: "onsite"
+venue: "CNR - Consiglio Nazionale delle Ricerche, Via Pietro Castellino 111"
+addressLocality: "Naples"
+postalCode: "80131"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "CNR-ISA"
+  - "University of Salerno"
+  - "Sapienza University of Rome"
+
+scientific_topic:
+  - "Bioinformatics"                # topic_0091
+  - "Workflows"                     # topic_0769
+  - "Software engineering"           # topic_3372
+
+learning_outcomes:
+  - "Set up and manage isolated software environments using Conda"
+  - "Build, deploy, and use containers (Docker)"
+  - "Create and share reproducible analyses using Jupyter Notebooks"
+  - "Understand tools for collaborative and reproducible research"
+
+target_audience:
+  - "Computational biologists"
+  - "Bioinformaticians"
+
+instructors:
+  - "Raoul Bonnal"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-11-26-Biocontainer"
+inLanguage: "en-GB"
 ---
 
 ![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}

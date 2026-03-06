@@ -13,6 +13,21 @@ event:
     venue: Online
     event_date: 2021/09/28
     state: closed
+
+schema_type: "Event"
+short_description: "Webinar presenting the Italian COVID-19 Data Portal, illustrating available services for data production, analysis, and management, and providing guidelines for submission to public repositories."
+startDate: "2021-04-28"
+endDate: "2021-04-28"
+courseMode: "online"
+
+organizer:
+  - "CNR"
+  - "ELIXIR-IT"
+  - "Istituto Superiore di Sanità (ISS)"
+
+
+registration_url: "https://www.cnr.it/it/evento/17404"
+inLanguage: "en-GB"
 ---
 
 [ELIXIR IIB Dissemination-Outreach Webinar](https://www.cnr.it/it/evento/17404)

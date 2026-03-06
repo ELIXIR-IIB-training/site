@@ -11,14 +11,38 @@ event:
     event_date: 2024/09/09-11
     state: closed
 
-short_description: "This is an R literacy course for people who are not experts in programming. <br> The course will introduce participants to the basic concepts of programming in R and how to perform simple descriptive statistics analysis using R."
-teachers: [Teresa Colombo, Fabiola De Marco]
-keywords: "R, programming, basic concepts, bioinformatics."
-courseMode: online
-startDate: "2024/09/09"
-endDate: "2024/09/11"
-duration: P3DT19H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "An R literacy course introducing basic programming concepts, data manipulation, and descriptive statistics for researchers with no prior coding experience."
+startDate: "2024-09-09"
+endDate: "2024-09-11"
+courseMode: "online"
+
+organizer:
+  - "ELIXIR-IT"
+  - "University of Salerno"
+  - "IBPM-CNR"
+
+scientific_topic:
+  - "Bioinformatics"                # topic_0091
+  - "Statistics and probability"   # topic_2269
+  - "Data administration and collection" # topic_3061
+
+learning_outcomes:
+  - "Know the R programming language, its uses and strengths"
+  - "Code and perform basic operations like importing data and plotting"
+  - "Inspect and graphically represent basic statistical indicators"
+  - "Gain foundational knowledge of R for further learning"
+
+target_audience:
+  - "Young researchers"
+  - "Members of the Italian Society of Biochemistry and Molecular Biology (SIB)"
+
+instructors:
+  - "Teresa Colombo"
+  - "Fabiola De Marco"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-09-09-Introduzione_alla_statistica_con_R"
+inLanguage: "en-GB"
 ---
 
 ![Banner](images/funders/Banner_CNR.png){: height="1200px" width="1200px"}

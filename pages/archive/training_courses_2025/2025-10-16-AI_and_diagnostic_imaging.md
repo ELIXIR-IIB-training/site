@@ -11,6 +11,44 @@ event:
     venue: Rome, Italy
     event_date: 2024/10/16
     state: closed 
+
+schema_type: "Course"
+short_description: "A course providing instructors with tools and tips for enriching learning experiences, covering learning principles, training techniques, and course material development."
+startDate: "2025-12-03"
+endDate: "2025-12-04"
+courseMode: "onsite"
+venue: "University of Campania L. Vanvitelli, Via Luciano Armanni, 5"
+addressLocality: "Naples"
+postalCode: "80138"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "GOBLET"
+  - "University of Campania L. Vanvitelli"
+
+scientific_topic:
+  - "Bioinformatics"                # topic_0091
+  - "Software engineering"           # topic_3372 (for curriculum/material design context)
+
+learning_outcomes:
+  - "List learning principles a good trainer should have in mind"
+  - "Describe key phases of curriculum and course development"
+  - "Propose training techniques drawing on learning principles"
+  - "Explain the primary role of learning outcomes"
+  - "Distinguish different types of assessment and their role in learner progression"
+
+target_audience:
+  - "Trainers"
+  - "Educators in higher education"
+
+instructors:
+  - "Gil Poiares Oliveira"
+  - "Luciana Peixoto"
+  - "Allegra Via"
+
+registration_url: "https://elixir-iib-training.github.io/site/2025-12-03-ELIXIR_GOBLET_Train_the_Trainer"
+inLanguage: "en-GB"
 ---
 
 

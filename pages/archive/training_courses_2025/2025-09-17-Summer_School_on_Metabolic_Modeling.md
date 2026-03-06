@@ -11,16 +11,28 @@ event:
     event_date: 2025/09/17 
     state: closed
 
-short_description: "The Summer School on Metabolic Modeling offers a hands-on journey through computational systems biology. Learn constraint-based and kinetic modeling, explore multiscale metabolism, and discover how machine learning is reshaping analysis in metabolic networks."
-teachers: [Lilia Alberghina, Claudio Angione, Chiara Damiani, Daniela Gaglio, Annalisa Occhipinti, Pasquale Palumbo, Bas Teusink]
-keywords: "Metabolic, Kinetic Modeling, Constraint-based Modeling, Machine Learning, Computational Systems Biology, Metabolic Networks"
-courseMode: onsite
-addressLocality: Milan
-addressCountry: Italy
-startDate: "2025/09/17"
-endDate: "2025/09/19"
-duration: P2DT4H30M
-inLanguage: en-EN
+schema_type: "Course"
+short_description: "The Summer School on Metabolic Modeling offers a hands-on journey through computational systems biology. Learn constraint-based and kinetic modeling, explore mu"
+startDate: "2025-09-17"
+endDate: "2025-09-19"
+courseMode: "onsite"
+addressLocality: "Milan"
+addressCountry: "Italy"
+organizer:
+  - "ELIXIR-IT"
+  - "University of Milano-Bicocca"
+scientific_topic:
+  - "Bioinformatics"
+  - "Mass spectrometry"
+instructors:
+  - "Lilia Alberghina"
+  - "Claudio Angione"
+  - "Chiara Damiani"
+  - "Daniela Gaglio"
+  - "Annalisa Occhipinti"
+  - "Pasquale Palumbo"
+  - "Bas Teusink"
+inLanguage: "en-EN"
 ---
 
 

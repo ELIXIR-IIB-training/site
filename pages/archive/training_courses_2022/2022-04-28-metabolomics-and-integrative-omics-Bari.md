@@ -11,10 +11,53 @@ event:
     venue: Bari, Italy
     event_date: 2022/04/28-29
     state: closed
+
+schema_type: "Course"
+short_description: "Introduction to metabolomics challenges, covering analytical workflows, sample preparation, data production/interpretation, and integration with other omics data."
+startDate: "2022-04-28"
+endDate: "2022-04-29"
+courseMode: "onsite"
+venue: "CNR Research Area of Bari, Via Amendola 122/O"
+addressLocality: "Bari"
+postalCode: "70126"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+  - "National Research Council (CNR) – IBIOM"
+  - "SIB"
+
+scientific_topic:
+  - "Metabolomics"                 # topic_3172
+  - "Omics"                        # topic_3391
+  - "Analytical chemistry"         # topic_3370
+
+learning_outcomes:
+  - "Understand analytical theory and workflows of liquid chromatography-mass spectrometry"
+  - "Learn biological sample preparation for different metabolomics applications"
+  - "Perform metabolomics data production and metabolite identification"
+  - "Integrate metabolomics data with genomics and proteomics datasets"
+
+target_audience:
+  - "Research scientists"
+
+instructors:
+  - "Duccio Cavalieri"
+  - "Lars Ove Dragsted"
+  - "Igor Fochi"
+  - "Veronica Ghini"
+  - "Danilo Porro"
+  - "Christoph Steinbeck"
+  - "Leonardo Tenori"
+  - "Anna Maria Timperio"
+  - "Stefania Savoi"
+
+registration_url: "https://elixir-iib-training.github.io/site/2022-04-28-metabolomics-and-integrative-omics-Bari"
+inLanguage: "en-GB"
 ---
 
-{% include image.html file="/2022_and_older/banner_metabolomics2022.png" alt="banner_metabolomics2022" max-width="10" %}
-{% include image.html file="/2022_and_older/logo_SIB.jpeg" alt="logo_SIB" max-width="10" %}
+{% include image.html file="/2022_and_older/banner_metabolomics2022.png" alt="banner_metabolomics2022" max-width="6" %}
+{% include image.html file="/2022_and_older/logo_SIB.jpeg" alt="logo_SIB" max-width="6" %}
 
 <br>
 

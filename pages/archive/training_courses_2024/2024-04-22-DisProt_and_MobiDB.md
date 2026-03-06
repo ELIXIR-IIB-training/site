@@ -4,22 +4,45 @@ event_type:  "ELIXIR Training Course"
 type: training_courses_2024
 description: 22 April 2024 <br> Online
 state: closed
-
-short_description: "The BioComputing UP group – University of Padova, in collaboration with ELIXIR-IT, is excited to present a specialized training course on Intrinsically Disordered Proteins (IDP). This course is designed to facilitate the dissemination of two major resources about the disordered protein, DisProt and MobiDB, both part of ELIXIR infrastructure, within the scientific community.\n"
-teachers: [Maria Cristina Aspromonte, Federica Quaglia, Victoria Nugnes]
-keywords: "Intrinsically Disordered Proteins (IDP), DisProt, MobiDB, proteins, bioinformatics."
-courseMode: online
-startDate: "2024/04/22"
-endDate: "2024/04/22"
-duration: PT3H
-inLanguage: it-IT  
-
 event:
   - name: "DisProt and MobiDB: Exploring Intrinsically Disordered Proteins and functional information"
     organisers: BioComputing UP group 
     venue: Online
     event_date: 2024/04/22
     state: closed
+
+schema_type: "Course"
+short_description: "Training on Intrinsically Disordered Proteins (IDP) using DisProt and MobiDB resources, covering data interpretation, biocuration basics, and biological mechanisms."
+startDate: "2024-04-22"
+endDate: "2024-04-22"
+courseMode: "online"
+
+organizer:
+  - "ELIXIR-IT"
+  - "BioComputing UP group - University of Padova"
+
+scientific_topic:
+  - "Proteins"                        # topic_0078
+  - "Data curation"                    # topic_3572
+  - "Bioinformatics"                   # topic_0091
+
+learning_outcomes:
+  - "Access, navigate, and explore DisProt and MobiDB data"
+  - "Understand the importance of curation"
+  - "Gain basics on how to curate disordered proteins or regions in DisProt"
+
+target_audience:
+  - "PhD students"
+  - "Post-Doc research scientists"
+  - "Team leaders and PIs"
+
+instructors:
+  - "Maria Cristina Aspromonte"
+  - "Federica Quaglia"
+  - "Victoria Nugnes"
+
+registration_url: "https://elixir-iib-training.github.io/site/2024-04-22-DisProt_and_MobiDB"
+inLanguage: "en-GB"
 ---
 
 <br>
