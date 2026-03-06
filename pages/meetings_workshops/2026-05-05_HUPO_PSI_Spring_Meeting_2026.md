@@ -19,7 +19,10 @@ endDate: "2026-05-08"
 courseMode: "onsite"
 venue: "CNR, Italian National Research Council"
 addressLocality: "Rome"
+postalCode: "00185"
 addressCountry: "Italy"
+organizer: "HUPO & ELIXIR-IT"
+schema_type: "Event"
 
 scientific_topic:
   - "Proteomics"
@@ -27,7 +30,7 @@ scientific_topic:
   - "Ontology and terminology"
 
 registration_url: "https://www.psidev.info/hupo-psi-meeting-2026"
-inLanguage: "en-US"
+inLanguage: "en-GB"
 ---
 
 
