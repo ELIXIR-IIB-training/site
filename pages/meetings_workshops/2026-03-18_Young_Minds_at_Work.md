@@ -17,8 +17,6 @@ short_description: "A workshop to encourage dialogue and create a network of you
 startDate: "2026-03-18"
 endDate: "2026-03-19"
 courseMode: "online"
-venue: "Online"
-addressLocality: "Online"
 
 organizer:
   - "CNR-ITB"
