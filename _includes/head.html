@@ -111,7 +111,28 @@
       }
     }
     </script>
-
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "ELIXIR-IT Training Platform",
+      "url": "https://elixir-iib-training.github.io/site/",
+      "description": "The official training platform for the Italian Node of ELIXIR, providing courses and workshops in bioinformatics and life sciences.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "ELIXIR-IT",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://elixir-iib-training.github.io/site/assets/images/logo.png" 
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://elixir-iib-training.github.io/site/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     <!-- Bioschemas for TeSS ELIXIR - IIB Italy -->
     {%- assign is_training_data = false -%}
     {%- assign p = page.path | downcase -%}
