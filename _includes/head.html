@@ -178,12 +178,12 @@
         },
         "organizer": {
             "@type": "Organization",
-            "name": "{{ page.organizer | default: 'ELIXIR-IT' | escape }}"
+            "name": "{{ page.organizer | default: 'ELIXIR-IT' | jsonify }}"
         }
         {%- else -%}
         "provider": {
             "@type": "Organization",
-            "name": "{{ page.provider | default: page.organizer | default: 'ELIXIR-IT' | escape }}"
+            "name": "{{ page.provider | default: page.organizer | default: 'ELIXIR-IT' | jsonify }}"
         },
         {%- if page.inLanguage -%}
         "inLanguage": "{{ page.inLanguage }}",
