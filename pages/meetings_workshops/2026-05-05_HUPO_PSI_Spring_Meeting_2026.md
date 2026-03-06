@@ -2,7 +2,6 @@
 title: "HUPO-PSI Spring Meeting 2026"
 event_type: "ELIXIR Meetings and workshops"
 type: meetings_workshops
-
 description: 05-08 May 2026 <br> Roma, Italy
 page_id: 
 event:
@@ -13,6 +12,8 @@ event:
     event_date: 2026/05/05 <br> - <br> 2026/05/08
     state: open
 
+
+schema_type: "Event"
 short_description: "Annual event by the HUPO Proteomics Standards Initiative and ELIXIR-Italy to advance data standardization efforts and develop standardized data formats for the proteomics community."
 startDate: "2026-05-05"
 endDate: "2026-05-08"
@@ -21,8 +22,9 @@ venue: "CNR, Italian National Research Council"
 addressLocality: "Rome"
 postalCode: "00185"
 addressCountry: "Italy"
-organizer: "HUPO & ELIXIR-IT"
-schema_type: "Event"
+organizer:
+  - "ELIXIR-IT"
+  - "HUPO"
 
 scientific_topic:
   - "Proteomics"

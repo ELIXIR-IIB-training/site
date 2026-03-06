@@ -11,6 +11,27 @@ event:
     venue: online
     event_date: 2026/03/18 <br> - <br> 2026/03/19
     state: open
+
+schema_type: "Event"
+short_description: "A workshop to encourage dialogue and create a network of young researchers blending human genetics, wet sciences, and computational biology."
+startDate: "2026-03-18"
+endDate: "2026-03-19"
+courseMode: "online"
+venue: "Online"
+addressLocality: "Online"
+
+organizer:
+  - "CNR-ITB"
+  - "BITS"
+  - "ELIXIR-IT"
+
+scientific_topic:
+  - "Human Genetics"
+  - "Bioinformatics"
+  - "Computational biology"
+
+registration_url: "https://www.blendingbb.it/registration/"
+inLanguage: "en-GB"
 ---
 
 
