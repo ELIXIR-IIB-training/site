@@ -15,7 +15,7 @@ short_description: "Study the interactome to map cell organization and disease. 
 startDate: "2026-05-20"
 endDate: "2026-05-20"
 courseMode: "onsite"           
-venue: "University of Salerno" 
+venue: "University of Salerno Fisciano campus, Via Giovanni Paolo II, 132, 84084 Fisciano SA" 
 addressLocality: "Fisciano"    
 addressCountry: "Italy"         
 scientific_topic:              
