@@ -98,37 +98,20 @@
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "url": "{{ site.url }}",
-      "name": "{{ site.title }}",
-      "description": "{{ site.description }}",
-      "publisher": {
-        "@type": "Organization",
-        "name": "{{ site.author }}"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "//{{site.github.url | remove: 'https://' | remove: 'http://'}}/assets/img/apple-touch-icon.png"
-      }
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
       "name": "ELIXIR-IT Training Platform",
-      "url": "https://elixir-iib-training.github.io/site/",
-      "description": "The official training platform for the Italian Node of ELIXIR, providing courses and workshops in bioinformatics and life sciences.",
+      "description": "{{ site.description | default: 'The official training platform for the Italian Node of ELIXIR.' }}",
       "publisher": {
         "@type": "Organization",
         "name": "ELIXIR-IT",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://elixir-iib-training.github.io/site/assets/images/logo.png" 
+          "url": "{{ '/assets/images/logo.png' | absolute_url }}"
         }
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://elixir-iib-training.github.io/site/search?q={search_term_string}",
+        "target": "{{ site.url }}{{ site.baseurl }}/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
