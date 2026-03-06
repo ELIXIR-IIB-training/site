@@ -69,30 +69,9 @@
     <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/search.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/clipboard.min.js' | relative_url }}"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-    <script>
-        window.addEventListener("load", function(){
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#efefef",
-                        "text": "#404040"
-                    },
-                    "button": {
-                        "background": "#8ec760",
-                        "text": "#ffffff"
-                    }
-                },
-                "theme": "classic",
-                "content": {
-                    "message": "Questo sito utilizza i cookie per migliorare la tua esperienza.",
-                    "dismiss": "Accetto",
-                    "link": "Maggiori informazioni",
-                    "href": "/privacy-policy" 
-                }
-            });
-        });
-    </script>
+    <!-- Cookie Consent by Orest Bida (v3) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css">
+    <script defer src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js"></script>
     {%- if page.datatable == true %}
     <!-- Include the standard DataTables bits -->
     <link rel="stylesheet" type="text/css" href="{{ 'assets/css/dataTables.bootstrap5.min.css' | relative_url }}">
@@ -240,8 +219,8 @@
 
     {%- if site.gtag and jekyll.environment == "production"%}
     <!-- Google analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
-    <script>
+    <script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
+    <script type="text/plain" data-category="analytics">
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -250,11 +229,11 @@
     {%- endif %}
     {%- if site.plausible and jekyll.environment == "production"%}
     <!-- Plausible -->
-    <script defer data-domain="{{site.plausible}}" src="{{site.plausible_src | default: 'https://plausible.io/js/plausible.js'}}"></script>
+    <script type="text/plain" data-category="analytics" defer data-domain="{{site.plausible}}" src="{{site.plausible_src | default: 'https://plausible.io/js/plausible.js'}}"></script>
     {%- endif %}
     {%- if site.matomo and jekyll.environment == "production"%}
     <!-- Matomo -->
-    <script>
+    <script type="text/plain" data-category="analytics">
         var _paq = window._paq = window._paq || [];
         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
         _paq.push(['trackPageView']);

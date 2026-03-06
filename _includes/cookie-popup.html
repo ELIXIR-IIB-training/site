@@ -1,23 +1,90 @@
-{%- if site.gtag %}
-<!-- START Bootstrap-Cookie-Alert -->
-<div class="alert text-center cookiealert rounded-0" role="alert">
-    <p>
-        We use cookies to ensure you get the best experience on our website. Read our
-        <a class="fw-bold" href="{{ site.theme_variables.privacy_statement_url | default: '/privacy' | relative_url}}">privacy policy</a> to find out more.
-    </p>
-    <div class="d-flex justify-content-center">
-        <button type="button" id="acceptcookies" class="btn btn-primary">
-            Got it!
-        </button>
-    </div>
-</div>
+<!-- Cookie Consent initialization -->
 <script>
-    /*
-     * Bootstrap Cookie Alert by Wruczek
-     * https://github.com/Wruczek/Bootstrap-Cookie-Alert
-     * Released under MIT license
-     */
-    !function () { "use strict"; var n = document.querySelector(".cookiealert"), e = document.querySelector("#acceptcookies"); n && (n.offsetHeight, function (e) { for (var t = e + "=", o = decodeURIComponent(document.cookie).split(";"), c = 0; c < o.length; c++) { for (var n = o[c]; " " === n.charAt(0);)n = n.substring(1); if (0 === n.indexOf(t)) return n.substring(t.length, n.length) } return "" }("acceptCookies") || n.classList.add("show"), e.addEventListener("click", function () { var e, t, o, c; e = "acceptCookies", t = !0, o = 365, (c = new Date).setTime(c.getTime() + 24 * o * 60 * 60 * 1e3), c = "expires=" + c.toUTCString(), document.cookie = e + "=" + t + ";" + c + ";path=/", n.classList.remove("show"), window.dispatchEvent(new Event("cookieAlertAccept")) })) }();
+    CookieConsent.run({
+        guiOptions: {
+            consentModal: {
+                layout: 'box',
+                position: 'bottom right',
+                equalWeightButtons: false,
+                flipButtons: false
+            },
+            preferencesModal: {
+                layout: 'box',
+                equalWeightButtons: true,
+                flipButtons: false
+            }
+        },
+        categories: {
+            necessary: {
+                readOnly: true
+            },
+            analytics: {}
+        },
+        language: {
+            default: 'it',
+            autoDetect: 'browser',
+            translations: {
+                it: {
+                    consentModal: {
+                        title: 'Questo sito utilizza i cookie',
+                        description: 'Utilizziamo cookie tecnici necessari e, con il tuo consenso, cookie analitici per migliorare la tua esperienza. Puoi modificare le tue preferenze in qualsiasi momento.',
+                        acceptAllBtn: 'Accetta tutti',
+                        acceptNecessaryBtn: 'Solo necessari',
+                        showPreferencesBtn: 'Gestisci preferenze',
+                        footer: '<a href="{{ site.theme_variables.privacy_statement_url | default: "/privacy-policy" | relative_url }}">Privacy Policy</a>'
+                    },
+                    preferencesModal: {
+                        title: 'Preferenze cookie',
+                        acceptAllBtn: 'Accetta tutti',
+                        acceptNecessaryBtn: 'Solo necessari',
+                        savePreferencesBtn: 'Salva preferenze',
+                        closeIconLabel: 'Chiudi',
+                        serviceCounterLabel: 'Servizi',
+                        sections: [
+                            {
+                                title: 'Cookie necessari',
+                                description: 'Essenziali per il funzionamento del sito. Non richiedono consenso.',
+                                linkedCategory: 'necessary'
+                            },
+                            {
+                                title: 'Cookie analitici',
+                                description: 'Ci aiutano a capire come viene utilizzato il sito, in forma anonima.',
+                                linkedCategory: 'analytics'
+                            }
+                        ]
+                    }
+                },
+                en: {
+                    consentModal: {
+                        title: 'This site uses cookies',
+                        description: 'We use strictly necessary cookies and, with your consent, analytics cookies to improve your experience. You can change your preferences at any time.',
+                        acceptAllBtn: 'Accept all',
+                        acceptNecessaryBtn: 'Necessary only',
+                        showPreferencesBtn: 'Manage preferences',
+                        footer: '<a href="{{ site.theme_variables.privacy_statement_url | default: "/privacy-policy" | relative_url }}">Privacy Policy</a>'
+                    },
+                    preferencesModal: {
+                        title: 'Cookie preferences',
+                        acceptAllBtn: 'Accept all',
+                        acceptNecessaryBtn: 'Necessary only',
+                        savePreferencesBtn: 'Save preferences',
+                        closeIconLabel: 'Close',
+                        serviceCounterLabel: 'Services',
+                        sections: [
+                            {
+                                title: 'Necessary cookies',
+                                description: 'Essential for the site to work. No consent required.',
+                                linkedCategory: 'necessary'
+                            },
+                            {
+                                title: 'Analytics cookies',
+                                description: 'Help us understand how the site is used, anonymously.',
+                                linkedCategory: 'analytics'
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    });
 </script>
-<!-- END Bootstrap-Cookie-Alert -->
-{%- endif %}
