@@ -11,16 +11,25 @@ event:
     event_date: 2025/12/03-04
     state: closed
 
-short_description: "The programme objective is to give instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include best-practice guidance on course and training material development."
-teachers: [Gil Poiares Oliveira, Luciana Peixoto, Allegra Via]
-keywords: "Training, Train-the-Trainer, design courses, bioinformatics."
-courseMode: onsite
-addressLocality: Naples
-addressCountry: Italy
-startDate: "2025/12/03"
-endDate: "2025/12/04"
-duration: P2DT16H
-inLanguage: it-IT   
+schema_type: "Course"
+short_description: "The programme objective is to give instructors tools and tips for providing an enriching learning experience to trainees, irrespective of topic, and to include "
+startDate: "2025-12-03"
+endDate: "2025-12-04"
+courseMode: "onsite"
+addressLocality: "Naples"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+scientific_topic:
+  - "training"
+  - "ELIXIR-GOBLET" 
+  - "Train the Trainer"
+instructors:
+  - "Gil Poiares Oliveira"
+  - "Luciana Peixoto"
+  - "Allegra Via"
+inLanguage: "en-GB" 
 ---
 
 
