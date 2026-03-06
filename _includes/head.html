@@ -206,11 +206,11 @@
             {%- endif -%}
             "location": {
                 "@type": "Place",
-                "name": "{{ page.venue | default: page.addressLocality | default: 'Italy' | escape }}",
+                "name": "{{ page.venue | default: page.courseMode | capitalize | jsonify }}",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
-                    "addressCountry": "{{ page.addressCountry | default: 'IT' | escape }}"
+                    "addressLocality": "{{ page.addressLocality | default: page.courseMode | capitalize | jsonify }}",
+                    "addressCountry": "{{ page.addressCountry | default: 'IT' }}"
                     {%- if page.postalCode -%}
                     ,"postalCode": "{{ page.postalCode | escape }}"
                     {%- endif -%}
