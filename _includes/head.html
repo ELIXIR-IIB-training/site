@@ -183,7 +183,7 @@
            {%- endif -%}
            "location": {
                "@type": "Place",
-               "name": "{{ page.addressLocality | default: page.venue | default: 'Italy' | escape }}",
+               "name": "{{ page.venue | default: page.addressLocality | default: 'Italy' | escape }}",
                "address": {
                "@type": "PostalAddress",
                "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
