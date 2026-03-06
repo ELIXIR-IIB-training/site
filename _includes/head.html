@@ -137,74 +137,102 @@
    <!-- Bioschemas for TeSS ELIXIR - IIB Italy -->
     {%- assign is_training_data = false -%}
     {%- if page.type == 'training_courses' or page.type == 'meetings_workshops' or page.url contains '/archive/' -%}
-       {%- if page.title -%}
-           {%- assign is_training_data = true -%}
-       {%- endif -%}
-   {%- endif -%}
+        {%- if page.title -%}
+            {%- assign is_training_data = true -%}
+        {%- endif -%}
+    {%- endif -%}
 
-   {%- if is_training_data -%}
-   <script type="application/ld+json">
-   {
-       "@context": "https://schema.org",
-       "@graph": [
-           {
-           "@type": "Course",
-           "@id": "{{ page.url | absolute_url }}",
-           "name": "{{ page.title | escape }}",
-           "description": "{{ page.short_description | default: page.description | strip_html | strip_newlines | escape }}",
-           "provider": {
-               "@type": "Organization",
-               "name": "ELIXIR-IT",
-               "url": "{{ site.url }}{{ site.baseurl }}/"
-           }
-           {%- if page.scientific_topic -%}
-           ,"keywords": "{{ page.scientific_topic | join: ', ' | escape }}"
-           {%- endif -%}
-           {%- if page.inLanguage -%}
-           ,"inLanguage": "{{ page.inLanguage }}"
-           {%- endif -%}
-           {%- if page.target_audience -%}
-           ,"audience": {
-               "@type": "Audience",
-               "audienceType": "{{ page.target_audience | join: ', ' | escape }}"
-           }
-           {%- endif -%}
-           ,"hasCourseInstance": {"@id": "{{ page.url | absolute_url }}#instance"}
-           },
-           {
-           "@type": "CourseInstance",
-           "@id": "{{ page.url | absolute_url }}#instance",
-           "url": "{{ page.url | absolute_url }}",
-           "name": "{{ page.title | escape }}",
-           "courseMode": "{{ page.courseMode | default: 'onsite' }}",
-           "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
-           {%- if page.endDate or page.startDate -%}
-           "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
-           {%- endif -%}
-           "location": {
-               "@type": "Place",
-               "name": "{{ page.venue | default: page.addressLocality | default: 'Italy' | escape }}",
-               "address": {
-               "@type": "PostalAddress",
-               "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
-               "addressCountry": "{{ page.addressCountry | default: 'IT' | escape }}"
-               }
-           }
-           {%- if page.instructors -%}
-           ,"instructor": [
-               {%- for teacher in page.instructors -%}
-               { 
-               "@type": "Person", 
-               "name": "{{ teacher | escape }}" 
-               }{%- unless forloop.last -%},{%- endunless -%}
-               {%- endfor -%}
-           ]
-           {%- endif -%}
-           }
-       ]
-   }
-   </script>
-   {%- endif -%}
+    {%- if is_training_data -%}
+    <script type="application/ld+json">
+    {%- if page.type == 'meetings_workshops' -%}
+    {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "@id": "{{ page.url | absolute_url }}",
+        "url": "{{ page.url | absolute_url }}",
+        "name": "{{ page.title | escape }}",
+        "description": "{{ page.short_description | default: page.description | strip_html | strip_newlines | escape }}",
+        "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+        {%- if page.endDate or page.startDate -%}
+        "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+        {%- endif -%}
+        "location": {
+            "@type": "Place",
+            "name": "{{ page.addressLocality | default: page.venue | default: 'Italy' | escape }}",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
+                "addressCountry": "{{ page.addressCountry | default: 'IT' | escape }}"
+            }
+        },
+        "organizer": {
+            "@type": "Organization",
+            "name": "ELIXIR-IT",
+            "url": "{{ site.url }}{{ site.baseurl }}/"
+        }
+        {%- if page.scientific_topic -%}
+        ,"keywords": "{{ page.scientific_topic | join: ', ' | escape }}"
+        {%- endif -%}
+    }
+    {%- else -%}
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+            "@type": "Course",
+            "@id": "{{ page.url | absolute_url }}",
+            "name": "{{ page.title | escape }}",
+            "description": "{{ page.short_description | default: page.description | strip_html | strip_newlines | escape }}",
+            "provider": {
+                "@type": "Organization",
+                "name": "ELIXIR-IIB Italy",
+                "url": "{{ site.url }}{{ site.baseurl }}/"
+            }
+            {%- if page.scientific_topic -%}
+            ,"keywords": "{{ page.scientific_topic | join: ', ' | escape }}"
+            {%- endif -%}
+            {%- if page.inLanguage -%}
+            ,"inLanguage": "{{ page.inLanguage }}"
+            {%- endif -%}
+            {%- if page.target_audience -%}
+            ,"audience": "{{ page.target_audience | join: ', ' | escape }}"
+            {%- endif -%}
+            },
+            {
+            "@type": "CourseInstance",
+            "@id": "{{ page.url | absolute_url }}#instance",
+            "url": "{{ page.url | absolute_url }}",
+            "name": "{{ page.title | escape }}",
+            "courseMode": "{{ page.courseMode | default: 'onsite' }}",
+            "startDate": "{{ page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            {%- if page.endDate or page.startDate -%}
+            "endDate": "{{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' }}",
+            {%- endif -%}
+            "location": {
+                "@type": "Place",
+                "name": "{{ page.addressLocality | default: page.venue | default: 'Italy' | escape }}",
+                "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "{{ page.addressLocality | default: 'Italy' | escape }}",
+                "addressCountry": "{{ page.addressCountry | default: 'IT' | escape }}"
+                }
+            }
+            {%- if page.instructors -%}
+            ,"instructor": [
+                {%- for teacher in page.instructors -%}
+                { 
+                "@type": "Person", 
+                "name": "{{ teacher | escape }}" 
+                }{%- unless forloop.last -%},{%- endunless -%}
+                {%- endfor -%}
+            ]
+            {%- endif -%}
+            }
+        ]
+    }
+    {%- endif -%}
+    </script>
+    {%- endif -%}
 
 
 
