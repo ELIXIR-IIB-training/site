@@ -12,6 +12,22 @@ event:
     venue: Roma, Italy
     event_date: 2026/05/05 <br> - <br> 2026/05/08
     state: open
+
+short_description: "Annual event by the HUPO Proteomics Standards Initiative and ELIXIR-Italy to advance data standardization efforts and develop standardized data formats for the proteomics community."
+startDate: "2026-05-05"
+endDate: "2026-05-08"
+courseMode: "onsite"
+venue: "CNR, Italian National Research Council"
+addressLocality: "Rome"
+addressCountry: "Italy"
+
+scientific_topic:
+  - "Proteomics"
+  - "Data architecture, analysis and design"
+  - "Ontology and terminology"
+
+registration_url: "https://www.psidev.info/hupo-psi-meeting-2026"
+inLanguage: "en-US"
 ---
 
 
