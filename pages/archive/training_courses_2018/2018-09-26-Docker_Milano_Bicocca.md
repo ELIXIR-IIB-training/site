@@ -11,6 +11,7 @@ event:
     venue: Milano, Italy
     event_date: 2018/09/26-27
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}

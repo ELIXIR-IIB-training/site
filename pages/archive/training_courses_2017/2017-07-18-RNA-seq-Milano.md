@@ -11,6 +11,7 @@ event:
     venue: Milano, Italy
     event_date: 2017/07/18-20
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
 {% include image.html file="/2022_and_older/Logo_unimilano.jpg" alt="Logo_unimilano" max-width="10" %}

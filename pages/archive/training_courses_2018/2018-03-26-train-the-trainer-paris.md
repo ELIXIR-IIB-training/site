@@ -11,6 +11,7 @@ event:
     venue: Paris, France
     event_date: 2018/03/26-27
     state: closed
+no_bioschemas: true
 ---
 
 

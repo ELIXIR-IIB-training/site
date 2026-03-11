@@ -12,6 +12,7 @@ event:
     venue: Online
     event_date: 2021/02/09-19
     state: closed
+no_bioschemas: true
 ---
 
 [Winter School](http://www.biocomp.unibo.it/~school2021/)

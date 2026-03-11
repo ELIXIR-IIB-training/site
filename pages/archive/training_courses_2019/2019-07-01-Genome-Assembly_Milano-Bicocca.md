@@ -11,6 +11,7 @@ event:
     venue: Milano, Italy
     event_date: 2019/07/01-05
     state: closed
+no_bioschemas: true
 ---
 
 

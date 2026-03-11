@@ -11,6 +11,7 @@ event:
     venue: Roma, Italy
     event_date: 2018/09/27-28
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}

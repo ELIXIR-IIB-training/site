@@ -11,6 +11,7 @@ event:
     venue: Roma, Italy
     event_date: 2017/12/05-07
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
 {% include image.html file="/2022_and_older/Logo_uni_torvergata.png" alt="Logo_uni_torvergata" max-width="10" %}

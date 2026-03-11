@@ -12,6 +12,7 @@ event:
     venue: Online
     event_date: 2024/02/19 <br> - <br> 2025/03/03
     state: closed
+no_bioschemas: true
 ---
 
 ![BO_Winter2025](images/2025_events/BO_Winter2025.jpeg)

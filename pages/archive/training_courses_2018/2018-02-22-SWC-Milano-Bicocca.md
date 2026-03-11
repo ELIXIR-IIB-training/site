@@ -11,6 +11,7 @@ event:
     venue: Milano, Italy
     event_date: 2018/02/22-23
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/Logo_SWC_Elixir.png" alt="Logo_SWC_Elixir" max-width="10" %}
 

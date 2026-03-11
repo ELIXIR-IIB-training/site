@@ -11,6 +11,7 @@ event:
     venue: Cagliari, Italy
     event_date: 2017/07/03-05
     state: closed
+no_bioschemas: true
 ---
 
 

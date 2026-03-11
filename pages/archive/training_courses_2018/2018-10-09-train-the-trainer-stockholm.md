@@ -11,6 +11,7 @@ event:
     venue: Stockholm, Sweden
     event_date: 2018/10/09-11
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/Logo_Excelerate_EU-flag-acknowledgement.png" alt="Logo_Excelerate_EU-flag-acknowledgement" max-width="10" %}

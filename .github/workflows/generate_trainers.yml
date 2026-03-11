@@ -22,8 +22,8 @@ jobs:
           
           declare -A trainers_map # Create an associative array to store trainers
 
-          # Process the most recent folder first
-          for dir in pages/training_courses pages/archive/training_courses_2024; do
+          # Process all training and event folders (recursive find handles all subfolders)
+          for dir in pages/training_courses pages/meetings_workshops pages/archive; do
             for file in $(find "$dir" -name '[0-9]*.md'); do
               if grep -q "{#instructors-section}" "$file"; then
                 echo "Processing $file..."

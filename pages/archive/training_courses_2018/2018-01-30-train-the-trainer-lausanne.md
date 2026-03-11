@@ -11,6 +11,7 @@ event:
     venue: Lausanne, Switzerland
     event_date: 2018/01/30-31
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/Logo_elixir_switzerland.png" alt="Logo_elixir_switzerland" max-width="10" %}

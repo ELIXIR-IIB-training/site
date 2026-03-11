@@ -11,6 +11,7 @@ event:
     venue: Padova, Italy
     event_date: 2017/04/10-13
     state: closed
+no_bioschemas: true
 ---
 
 

@@ -11,6 +11,7 @@ event:
     venue: Salerno, Italy
     event_date: 2017/09/27-29
     state: closed
+no_bioschemas: true
 ---
 
 

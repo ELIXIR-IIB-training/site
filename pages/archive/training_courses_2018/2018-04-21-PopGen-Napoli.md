@@ -11,6 +11,7 @@ event:
     venue: Napoli, Italy
     event_date: 2018/04/21-27
     state: closed
+no_bioschemas: true
 ---
 
 

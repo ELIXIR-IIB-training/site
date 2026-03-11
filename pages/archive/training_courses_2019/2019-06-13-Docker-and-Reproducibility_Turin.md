@@ -11,6 +11,7 @@ event:
     venue: Torino, Italy
     event_date: 2019/06/13-14
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}

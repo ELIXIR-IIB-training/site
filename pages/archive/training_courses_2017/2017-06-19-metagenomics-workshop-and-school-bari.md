@@ -11,6 +11,7 @@ event:
     venue: Bari, Italy
     event_date: 2017/06/19-23
     state: closed
+no_bioschemas: true
 ---
 
 For any tweet use <font color="#FF9633"><b>#BariSchool2017</b></font> <br> 

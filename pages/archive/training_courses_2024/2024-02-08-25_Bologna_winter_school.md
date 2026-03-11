@@ -13,6 +13,7 @@ event:
     venue: Online
     event_date: 2024/02/08-22
     state: closed
+no_bioschemas: true
 ---
 
 [25th Bologna Winter School](https://www.biocomp.unibo.it/~school2024/)

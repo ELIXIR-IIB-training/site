@@ -11,6 +11,7 @@ event:
     venue: Pozzuoli (Napoli), Italy
     event_date: 2019/05/07-09
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}

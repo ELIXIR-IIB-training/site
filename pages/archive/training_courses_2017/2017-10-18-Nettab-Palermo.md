@@ -11,6 +11,7 @@ event:
     venue: Palermo, Italy
     event_date: 2017/10/18-19
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/logo_elixir_italy.jpg" alt="logo_elixir_italy" max-width="10" %}
 {% include image.html file="/2022_and_older/Logo_nettab.jpg" alt="Logo_nettab" max-width="10" %}

@@ -11,6 +11,7 @@ event:
     venue: Padova, Italy
     event_date: 2019/05/30-31
     state: closed
+no_bioschemas: true
 ---
 
 {% include image.html file="/2022_and_older/Logo_excelerate_whitebackground.png" alt="Logo_excelerate_whitebackground" max-width="10" %}

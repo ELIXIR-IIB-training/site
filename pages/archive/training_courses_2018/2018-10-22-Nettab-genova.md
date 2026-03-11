@@ -11,6 +11,7 @@ event:
     venue: Genova, Italy 
     event_date: 2018/10/22-24
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/Logo_nettab2018.jpg" alt="Logo_nettab2018" max-width="10" %}
 {% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="10" %}

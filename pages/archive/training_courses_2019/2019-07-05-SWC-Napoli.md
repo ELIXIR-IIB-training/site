@@ -11,6 +11,7 @@ event:
     venue: Napoli, Italy 
     event_date: 2019/07/03-05
     state: closed
+no_bioschemas: true
 ---
 {% include image.html file="/2022_and_older/Logo_SWC_Elixir.png" alt="Logo_SWC_Elixir" max-width="10" %}
 

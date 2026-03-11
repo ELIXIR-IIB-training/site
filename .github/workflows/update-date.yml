@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'pages/**'
+      - '_data/**'
+      - 'images/**'
+      - 'index.html'
 
 jobs:
   update-date:
