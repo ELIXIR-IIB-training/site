@@ -121,7 +121,7 @@
     {%- assign p = page.path | downcase -%}
 
     {%- if p contains 'training_courses' or p contains 'meetings_workshops' or p contains 'archive' -%}
-        {%- if page.title -%}
+        {%- if page.title and page.no_bioschemas != true -%}
             {%- assign is_training_data = true -%}
             {%- assign schema_type = "Course" -%}
             {%- if p contains 'meetings_workshops' -%}
