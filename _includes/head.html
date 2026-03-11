@@ -160,6 +160,14 @@
         {%- if page.endDate or page.startDate -%}
         ,"endDate": {{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
         {%- endif -%}
+        {%- assign _venue_lc = page.venue | downcase -%}
+        {%- assign _mode_lc = page.courseMode | downcase -%}
+        {%- if _venue_lc == 'online' or _mode_lc == 'online' -%}
+        ,"location": {
+            "@type": "VirtualLocation",
+            "url": {{ page.url | absolute_url | jsonify }}
+        }
+        {%- else -%}
         ,"location": {
             "@type": "Place",
             "name": {{ page.venue | default: page.addressLocality | default: 'Italy' | jsonify }},
@@ -172,6 +180,7 @@
                 {%- endif -%}
             }
         }
+        {%- endif -%}
         {%- else -%}
         {%- if page.inLanguage -%}
         ,"inLanguage": {{ page.inLanguage | jsonify }}
@@ -191,6 +200,13 @@
             {%- if page.endDate or page.startDate -%}
             ,"endDate": {{ page.endDate | default: page.startDate | default: page.date | date: '%Y-%m-%d' | jsonify }}
             {%- endif -%}
+            {%- assign _cm_lc = page.courseMode | downcase -%}
+            {%- if _cm_lc == 'online' -%}
+            ,"location": {
+                "@type": "VirtualLocation",
+                "url": {{ page.url | absolute_url | jsonify }}
+            }
+            {%- else -%}
             ,"location": {
                 "@type": "Place",
                 "name": {{ page.venue | default: page.courseMode | capitalize | jsonify }},
@@ -203,6 +219,7 @@
                     {%- endif -%}
                 }
             }
+            {%- endif -%}
             {%- if page.instructors -%}
             ,"instructor": [
                 {%- for teacher in page.instructors -%}
