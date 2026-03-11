@@ -2,6 +2,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Preconnect hints for external CDN -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    {%- if site.gtag %}
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    {%- endif %}
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     {%- capture keywords %}
     {%- if page.related_pages %}
@@ -174,7 +181,7 @@
             "address": {
                 "@type": "PostalAddress",
                 "addressLocality": {{ page.addressLocality | default: 'Italy' | jsonify }},
-                "addressCountry": {{ page.addressCountry | default: 'IT' | jsonify }}
+                "addressCountry": {{ page.addressCountry | default: 'Italy' | jsonify }}
                 {%- if page.postalCode -%}
                 ,"postalCode": {{ page.postalCode | jsonify }}
                 {%- endif -%}
@@ -213,7 +220,7 @@
                 "address": {
                     "@type": "PostalAddress",
                     "addressLocality": {{ page.addressLocality | default: page.courseMode | capitalize | jsonify }},
-                    "addressCountry": {{ page.addressCountry | default: 'IT' | jsonify }}
+                    "addressCountry": {{ page.addressCountry | default: 'Italy' | jsonify }}
                     {%- if page.postalCode -%}
                     ,"postalCode": {{ page.postalCode | jsonify }}
                     {%- endif -%}
