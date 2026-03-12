@@ -1,0 +1,95 @@
+<div class="row justify-content-center mt-4 mb-5">
+  <div class="col-12 col-md-8 col-lg-6">
+
+    <!-- Messaggio di conferma (nascosto di default) -->
+    <div id="contact-success" class="alert alert-success d-none" role="alert">
+      ✅ Message sent successfully! We will get back to you as soon as possible.
+    </div>
+
+    <form
+      action="https://docs.google.com/forms/d/e/1FAIpQLSdMbCoz7GbZHbGf4r4Esj3k0zg8-NDHzuZV1pJC76MyDhhoVw/formResponse"
+      method="POST"
+      target="hidden_iframe"
+      onsubmit="showContactConfirmation()">
+
+      <!-- Name -->
+      <div class="mb-3">
+        abel for="contact-name" class="form-label fw-semibold">
+          Name <span class="text-danger">*</span>
+        </label>
+        <input
+          type="text"
+          class="form-control"
+          id="contact-name"
+          name="entry.714285374"
+          placeholder="Your full name"
+          required>
+      </div>
+
+      <!-- Institution -->
+      <div class="mb-3">
+        abel for="contact-institution" class="form-label fw-semibold">
+          Institution <span class="text-danger">*</span>
+        </label>
+        <input
+          type="text"
+          class="form-control"
+          id="contact-institution"
+          name="entry.937048278"
+          placeholder="Your university or research institute"
+          required>
+      </div>
+
+      <!-- Email -->
+      <div class="mb-3">
+        abel for="contact-email" class="form-label fw-semibold">
+          Email <span class="text-danger">*</span>
+        </label>
+        <input
+          type="email"
+          class="form-control"
+          id="contact-email"
+          name="entry.1197606594"
+          placeholder="your@email.com"
+          required>
+      </div>
+
+      <!-- Message -->
+      <div class="mb-4">
+        abel for="contact-message" class="form-label fw-semibold">
+          Message <span class="text-danger">*</span>
+        </label>
+        <textarea
+          class="form-control"
+          id="contact-message"
+          name="entry.1567308959"
+          rows="5"
+          placeholder="Write your message here..."
+          required></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary w-100">
+        Send Message
+      </button>
+
+    </form>
+
+    <!-- iframe nascosto: evita il redirect alla pagina di Google dopo l'invio -->
+    <iframe name="hidden_iframe" style="display:none;"></iframe>
+
+  </div>
+</div>
+
+<script>
+  function showContactConfirmation() {
+    setTimeout(function () {
+      var successBox = document.getElementById('contact-success');
+      var form = document.querySelector('form[target="hidden_iframe"]');
+      if (successBox) {
+        successBox.classList.remove('d-none');
+        successBox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+      if (form) { form.reset(); }
+    }, 600);
+  }
+</script>
