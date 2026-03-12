@@ -1,5 +1,9 @@
 /*-----General styling-----*/
 
+html, body {
+    overflow-x: hidden;
+}
+
 main {
     h1 {
         margin-bottom: 0.5em;
@@ -247,7 +251,7 @@ nav .navbar-brand {
     &::after {
         content: ' ';
         position: absolute;
-        top: -10;
+        top: 0;
         left: 50%;
         transform: translate(-50%);
         height: 100%;
