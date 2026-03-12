@@ -1,6 +1,6 @@
 ---
 title: Contact us
-
+no_bioschemas: true
 ---
 
 <br>

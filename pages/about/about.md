@@ -1,5 +1,6 @@
 ---
 title: About
+no_bioschemas: true
 ---
 
 {% include image.html file="infrastructures/elixir_node_italy.svg" alt="ELIXIR logo" max-width="12em" %}

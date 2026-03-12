@@ -1,5 +1,6 @@
 ---
 title: Training Courses
+no_bioschemas: true
 ---
 
 <br>

@@ -1,5 +1,6 @@
 ---
 title: Search Engine Optimization
+no_bioschemas: true
 ---
 
 ## Metadata in head

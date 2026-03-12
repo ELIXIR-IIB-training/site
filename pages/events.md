@@ -1,6 +1,7 @@
 ---
 title: Events
 datatable: true
+no_bioschemas: true
 ---
 
 

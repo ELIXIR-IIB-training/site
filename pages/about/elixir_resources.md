@@ -1,5 +1,6 @@
 ---
 title: Links with other ELIXIR resources
+no_bioschemas: true
 ---
 
 This theme is created within an ELIXIR context and has therefore multiple levels where one can link towards ELIXIR resources. An overview is given here:
