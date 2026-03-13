@@ -1,6 +1,7 @@
 ---
 title: People
 custom_editme: _data/CONTRIBUTORS.yaml
+no_bioschemas: true
 ---
 ### ELIXIR-IT Training Team (ETT)
 <br>

@@ -1,6 +1,6 @@
 ---
 title: Meetings and Workshops
-
+no_bioschemas: true
 ---
 
 {% include section-navigation-tiles.html type="meetings_workshops" except="index.md" %}
