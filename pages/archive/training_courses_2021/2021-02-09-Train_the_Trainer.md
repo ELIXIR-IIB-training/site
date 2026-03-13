@@ -12,6 +12,7 @@ event:
     venue: Online
     event_date: 2021/02/09-12
     state: closed
+no_bioschemas: true
 ---
 
 [ELIXIR Training Course](https://web.vscht.cz/~spiwokv/trt/)
