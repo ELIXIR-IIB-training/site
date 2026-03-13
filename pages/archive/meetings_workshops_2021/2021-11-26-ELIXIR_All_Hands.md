@@ -13,6 +13,7 @@ event:
     venue: Online
     event_date: 2021/11/26
     state: closed
+no_bioschemas: true
 ---
 
 [ELIXIR-IT Workshop](https://elixir-europe.org/events/elixir-it-workshop)

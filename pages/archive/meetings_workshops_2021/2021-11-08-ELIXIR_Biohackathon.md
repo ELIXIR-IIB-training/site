@@ -13,6 +13,7 @@ event:
     venue: hybrid
     event_date: 2021/11/08-12
     state: closed
+no_bioschemas: true
 ---
 
 [Biohackathon 2021](https://www.biohackathon-europe.org/index.html)

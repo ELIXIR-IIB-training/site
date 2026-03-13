@@ -13,6 +13,7 @@ event:
     venue: Les Berges de Seine, France hybrid
     event_date: 2022/11/07-11
     state: closed
+no_bioschemas: true
 ---
 
 [ELIXIR Biohackathon 2022](https://www.biohackathon-europe.org/index.html)
