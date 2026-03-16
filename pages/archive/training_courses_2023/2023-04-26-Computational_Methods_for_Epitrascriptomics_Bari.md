@@ -12,46 +12,7 @@ event:
     event_date: 2023/04/26-28
     state: closed
 
-schema_type: "Course"
-short_description: "Foundation course on experimental planning and computational approaches for profiling RNA modifications using Nanopore direct RNA sequencing and Illumina RNA-seq data."
-startDate: "2023-04-26"
-endDate: "2023-04-28"
-courseMode: "onsite"
-venue: "Area della Ricerca del CNR di Bari, Via Amendola 122/o"
-addressLocality: "Bari"
-postalCode: "70126"
-addressCountry: "Italy"
-
-organizer:
-  - "ELIXIR-IT"
-  - "University of Bari"
-  - "CNR-IBIOM"
-  - "IIT"
-
-scientific_topic:
-  - "RNA-seq"                      # topic_3170
-  - "Transcriptomics"               # topic_3308
-  - "Sequencing"                    # topic_3168
-
-learning_outcomes:
-  - "Acquire theoretical knowledge about methods to profile RNA modifications"
-  - "Use bioinformatics tools to analyze Nanopore reads"
-  - "Use bioinformatics tools to pre-process RNAseq data"
-  - "Use command-line tools (REDItools) for calling, annotating, and filtering RNA variants"
-
-
-instructors:
-  - "Adriano Fonzino"
-  - "Claudio Lo Giudice"
-  - "Alessandro Silvestris"
-  - "Francesco Nicassio"
-  - "Ernesto Picardi"
-  - "Tommaso Leonardi"
-  - "Camilla Ugolini"
-  - "Logan Mulroney"
-
-registration_url: "https://elixir-iib-training.github.io/site/2023-04-26-Computational_Methods_for_Epitrascriptomics_Bari"
-inLanguage: "en-GB"
+no_bioschemas: true
 ---
 
 

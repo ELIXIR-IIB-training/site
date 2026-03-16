@@ -13,21 +13,27 @@ event:
     state: closed
 
 schema_type: "Course"
-short_description: "Updated overview of AI in image acquisition and processing workflows, focusing on its contribution to the diagnostic process and therapeutic follow-up."
+short_description: "A course on the state of the art and future perspectives of AI in image acquisition and processing, focusing on its contribution to diagnostic pathways and therapeutic follow-up."
 startDate: "2024-10-23"
 endDate: "2024-10-23"
-courseMode: "online"
+courseMode: "onsite"
+venue: "Aula Marotta, Istituto Superiore di Sanità (ISS), Via del Castro Laurenziano 10"
+addressLocality: "Rome"
+postalCode: "00161"
+addressCountry: "Italy"
 
 organizer:
+  - "Rome Technopole"
+  - "Istituto Superiore di Sanità (ISS)"
   - "ELIXIR-IT"
-  - "ISS"
 
 scientific_topic:
   - "Imaging"                         # topic_3384
-  - "Machine learning"                 # topic_3474
-  - "Health informatics"               # topic_3063
+  - "Machine learning"                # topic_3474
+  - "Health informatics"              # topic_3063
 
-inLanguage: "en-GB" 
+registration_url: "https://www.rometechnopole.it/news/il-ruolo-della-intelligenza-artificiale-nellimaging-diagnostico/"
+inLanguage: "en-GB"
 ---
 
 

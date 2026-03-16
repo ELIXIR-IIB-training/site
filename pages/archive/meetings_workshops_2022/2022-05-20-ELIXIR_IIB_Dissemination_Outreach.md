@@ -12,6 +12,22 @@ event:
     venue: Firenze, Italy
     event_date: 2022/05/20
     state: closed
+schema_type: "Event"
+short_description: "A meeting focused on the dissemination of ELIXIR-IT activities and outreach strategies for the bioinformatics community."
+startDate: "2022-05-20"
+endDate: "2022-05-20"
+courseMode: "onsite"
+venue: "Florence"
+addressCountry: "Italy"
+
+organizer:
+  - "ELIXIR-IT"
+
+scientific_topic:
+  - "Bioinformatics"                 # topic_0091
+
+registration_url: "https://elixir-iib-training.github.io/site/2022-05-20-ELIXIR_IIB_Dissemination_Outreach"
+inLanguage: "en-GB"
 ---
 
 [ELIXIR IIB Dissemination-Outreach](https://www.cnr.it/it/evento/17852)

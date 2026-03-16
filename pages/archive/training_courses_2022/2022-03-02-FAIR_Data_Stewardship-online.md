@@ -11,48 +11,7 @@ event:
     venue: Online
     event_date: 2022/03/02-11
     state: closed
-
-schema_type: "Course"
-short_description: "Course providing skills and tools to embed Open Science in research workflows, covering RDM, FAIR principles, Open Access, and the creation of Data Management Plans."
-startDate: "2022-03-02"
-endDate: "2022-03-11"
-courseMode: "online"
-
-organizer:
-  - "ELIXIR-IT"
-  - "ICDI Competence Centre"
-  - "EOSC-Pillar Project"
-  - "EOSC-Life"
-  - "ELIXIR-NL"
-
-scientific_topic:
-  - "Data management"                # topic_3071
-  - "Bioinformatics"                 # topic_0091
-  - "Biomedical science"             # topic_3344
-
-learning_outcomes:
-  - "Apply Open Science and FAIR principles within the research workflow"
-  - "Understand Open Access publishing and Research Data Management (RDM)"
-  - "Identify legal aspects and data accessibility requirements"
-  - "Retrieve elements to produce a comprehensive Data Management Plan (DMP)"
-
-target_audience:
-  - "Life-science researchers"
-  - "Technicians"
-  - "Data stewards"
-  - "Data managers"
-
-instructors:
-  - "Claudio Carta"
-  - "Matteo Chiara"
-  - "Mijke Jetten"
-  - "Celia van Gelder"
-  - "Emma Lazzeri"
-  - "Gina Pavone"
-  - "Federica Quaglia"
-
-registration_url: "https://elixir-iib-training.github.io/site/2022-03-02-FAIR_Data_Stewardship-online"
-inLanguage: "en-GB"
+no_bioschemas: true
 ---
 
 [{% include image.html file="/2022_and_older/logo_iib.png" alt="logo_iib" max-width="5" %}](https://elixir-iib-training.github.io/site/)

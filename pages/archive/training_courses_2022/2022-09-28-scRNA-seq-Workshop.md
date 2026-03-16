@@ -13,41 +13,7 @@ event:
     event_date: 2022/09/28-30
     state: closed
 
-schema_type: "Course"
-short_description: "Introductory course on scRNA-seq bioinformatics analysis using open-source tools like rCASC, covering experimental design, data quality, and biological knowledge extraction."
-startDate: "2022-09-28"
-endDate: "2022-09-30"
-courseMode: "onsite"
-venue: "Molecular Biotechnology Center, University of Turin, Via Nizza 52"
-addressLocality: "Turin"
-postalCode: "10126"
-addressCountry: "Italy"
-
-organizer:
-  - "ELIXIR-IT"
-  - "University of Turin"
-
-scientific_topic:
-  - "RNA-seq"                      # topic_3170
-  - "Transcriptomics"               # topic_3308
-  - "Bioinformatics"                # topic_0091
-
-learning_outcomes:
-  - "Explain the importance of experimental design at single cell level"
-  - "Assess the quality of data and identify genes driving cluster formation"
-  - "Describe limits and strength of data reduction and clustering in scRNA-seq"
-  - "Extract biological knowledge from cluster-specific biomarkers"
-
-target_audience:
-  - "Biologists"
-
-instructors:
-  - "Marco Beccuti"
-  - "Raffaele Calogero"
-  - "Francesca Cordero"
-
-registration_url: "https://elixir-iib-training.github.io/site/2022-09-28-scRNA-seq-Workshop"
-inLanguage: "en-GB"
+no_bioschemas: true
 ---
 
 

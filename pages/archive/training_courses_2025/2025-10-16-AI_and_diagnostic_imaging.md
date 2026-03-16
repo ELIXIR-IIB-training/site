@@ -13,41 +13,29 @@ event:
     state: closed 
 
 schema_type: "Course"
-short_description: "A course providing instructors with tools and tips for enriching learning experiences, covering learning principles, training techniques, and course material development."
-startDate: "2025-12-03"
-endDate: "2025-12-04"
+short_description: "A specialized training course focused on the integration of AI in diagnostic imaging, covering clinical applications, ethics, and the development of digital health ecosystems."
+startDate: "2024-10-16"
+endDate: "2024-10-16"
 courseMode: "onsite"
-venue: "University of Campania L. Vanvitelli, Via Luciano Armanni, 5"
-addressLocality: "Naples"
-postalCode: "80138"
+venue: "Tecnopolo di Roma - Sede Tiburtina, Via Giacomo Peroni 442/444"
+addressLocality: "Rome"
+postalCode: "00131"
 addressCountry: "Italy"
 
 organizer:
+  - "Rome Technopole"
+  - "Fondazione Policlinico Universitario Agostino Gemelli IRCCS"
+  - "CNR-IASI"
   - "ELIXIR-IT"
-  - "GOBLET"
-  - "University of Campania L. Vanvitelli"
 
 scientific_topic:
-  - "Bioinformatics"                # topic_0091
-  - "Software engineering"           # topic_3372 (for curriculum/material design context)
+  - "Imaging"                         # topic_3384
+  - "Machine learning"                # topic_3474
+  - "Medical informatics"             # topic_3063
+  - "Public health and epidemiology" # topic_3305
 
-learning_outcomes:
-  - "List learning principles a good trainer should have in mind"
-  - "Describe key phases of curriculum and course development"
-  - "Propose training techniques drawing on learning principles"
-  - "Explain the primary role of learning outcomes"
-  - "Distinguish different types of assessment and their role in learner progression"
 
-target_audience:
-  - "Trainers"
-  - "Educators in higher education"
-
-instructors:
-  - "Gil Poiares Oliveira"
-  - "Luciana Peixoto"
-  - "Allegra Via"
-
-registration_url: "https://elixir-iib-training.github.io/site/2025-12-03-ELIXIR_GOBLET_Train_the_Trainer"
+registration_url: "https://www.rometechnopole.it/il-ruolo-della-intelligenza-artificiale-nellimaging-diagnostico-2/"
 inLanguage: "en-GB"
 ---
 
