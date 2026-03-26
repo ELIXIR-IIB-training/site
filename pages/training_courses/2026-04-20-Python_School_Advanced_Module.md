@@ -184,7 +184,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 <tr>
    <td height="50" width="150">16:00 - 17:30</td>
-   <td height="50">Dataset Evaluation 1 (Hands-on)</td>
+   <td height="50"> Evaluation Dataset 1 (Hands-on)</td>
 </tr>
 
 <tr>
@@ -196,7 +196,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 <tr>
    <td height="50" width="150">09:30 - 11:00</td>
-   <td height="50">Dataset Evaluation 2 (Hands-on)</td>
+   <td height="50"> Evaluation Dataset 2 (Hands-on)</td>
 </tr>
 <tr>
    <td height="50" width="150">11:00 - 11:30</td>
