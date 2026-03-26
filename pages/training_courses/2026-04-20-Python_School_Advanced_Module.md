@@ -87,6 +87,17 @@ Participants are expected to cover their own travel and accommodation costs.
 <br>
 <br>
 
+### Instructors {#instructors-section}
+
+- **Luca De Sabato**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Arnold Knijn**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Loredana Le Pera**, Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
+- **Valeria Michelacci**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Damiano Parrone**, Sapienza University of Rome, Italy
+- **Allegra Via**, Sapienza University of Rome, Italy
+<br>
+<br>
+
 ## Registration 
 
 [Application Form](https://forms.gle/XVpyk4CMMJWdQQjx8)
