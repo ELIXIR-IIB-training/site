@@ -160,172 +160,27 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 <tr>
    <td colspan="4" align="center"><h3>Day 1 - Introduction to Machine Learning and Dataset Exploration</h3></td>
 </tr>
-<tr>
-   <td height="50" width="150">13:30 - 14:00</td>
-   <td colspan="4" align="left">Welcome</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:00 - 14:20</td>
-   <td colspan="4" align="left">Introducing the topic: E.coli</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:20 - 15:00</td>
-   <td height="50">ML Introduction 1</td> 
-   <td height="50">AI, ML, and Data Science key points (Lecture) [<a href="https://docs.google.com/presentation/d/1ai4xRn8BR7-Unv0AxLnuO-jEYZDCvHcSIWnJC0uG14k/edit?usp=drive_link">Slides</a>]</td>
-</tr>
-<tr>
-   <td height="50" width="150">15:00 - 15:40</td>
-   <td height="50">ML Introduction 2</td> 
-   <td height="50">Supervised, Unsupervised, and Reinforcement Learning (Lecture) [<a href="https://docs.google.com/presentation/d/1kx-bN53-qfWfSI00jFVdqxSrEZDJpiPH7bJeBWR7oHE/edit?usp=sharing">Slides</a>]</td>
-</tr>
-<tr>
-   <td height="50" width="150">15:40 - 16:00</td>
-   <td colspan="4" align="center">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">16:00 - 17:30</td>
-   <td height="50"> Evaluation Dataset 1 (Hands-on)</td>
-</tr>
+
 
 <tr>
    <td colspan="4" align="center"><h3>Day 2 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
 </tr>
-<tr>
-   <td height="50" width="150">09:00 - 09:30</td>
-   <td height="50">Warm Up</td>
-</tr>
-<tr>
-   <td height="50" width="150">09:30 - 11:00</td>
-   <td height="50"> Evaluation Dataset 2 (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">11:00 - 11:30</td>
-   <td colspan="1">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">11:30 - 12:30</td>
-   <td height="50">Data Pre-processing and Cleaning (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">12:30 - 14:00</td>
-   <td colspan="1">Lunch</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:00 - 15:30</td>
-   <td height="50">Dimensionality Reduction Techniques (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">15:30 - 16:00</td>
-   <td colspan="1">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">16:00 - 17:00</td>
-   <td height="50">Advanced Pre-processing (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">17:00 - 17:30</td>
-   <td colspan="1">Wrap-up</td>
-</tr>
+
 
 <tr>
    <td colspan="4" align="center"><h3>Day 3 - Building a  Machine Learning pipeline</h3></td>
 </tr>
-<tr>
-   <td height="50" width="150">09:00 - 09:30</td>
-   <td height="50">Warm-up</td>
-</tr>
-<tr>
-   <td height="50" width="150">09:30 - 10:30</td>
-   <td height="50">Building a Machine Learning Pipeline (Lecture + Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">10:30 - 11:00</td>
-   <td colspan="1">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">11:00 - 12:30</td>
-   <td height="50">Implementing ML Algorithms in Python (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">12:30 - 14:00</td>
-   <td colspan="1">Lunch</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:00 - 14:30</td>
-   <td height="50">Advanced Pipeline Concepts (Lecture)</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:30 - 15:30</td>
-   <td height="50">Refining the Model (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">15:30 - 16:00</td>
-   <td colspan="1">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">16:00 - 17:00</td>
-   <td height="50">Model Testing and Initial Metrics (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">17:00 - 17:30</td>
-   <td colspan="1">Wrap-up</td>
-</tr>
+
 
 <tr>
    <td colspan="4" align="center"><h3>Day 4 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
 </tr>
-<tr>
-   <td height="50" width="150">09:00 - 09:30</td>
-   <td height="50">Warm-up</td>
-</tr>
-<tr>
-   <td height="50" width="150">09:30 - 10:30</td>
-   <td height="50">Model Validation and Hyperparameter Tuning (Lecture + Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">10:30 - 11:00</td>
-   <td colspan="1">Break</td>
-</tr>
-<tr>
-   <td height="50" width="150">11:00 - 12:30</td>
-   <td height="50">Optimization Techniques (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">12:30 - 13:30</td>
-   <td colspan="1">Lunch</td>
-</tr>
-<tr>
-   <td height="50" width="150">13:30 - 15:00</td>
-   <td height="50">Model Interpretation and Performance Evaluation (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">15:00 - 17:00</td>
-   <td height="50">Case Study: Pathogen Circulation Analysis</td>
-</tr>
-<tr>
-   <td height="50" width="150">17:00 - 17:30</td>
-   <td colspan="1">Daily Wrap-up</td>
-</tr>
+
 
 <tr>
    <td colspan="4" align="center"><h3>Day 5 - ML results Interpretation and Ddiscussion</h3></td>
 </tr>
-<tr>
-   <td height="50" width="150">09:00 - 09:30</td>
-   <td height="50">Warm-up</td>
-</tr>
-<tr>
-   <td height="50" width="150">09:30 - 13:00</td>
-   <td height="50">Interpretation and Discussion of ML results (Hands-on)</td>
-</tr>
-<tr>
-   <td height="50" width="150">13:00 - 14:00</td>
-   <td colspan="1">Lunch</td>
-</tr>
-<tr>
-   <td height="50" width="150">14:00 - 16:00</td>
-   <td height="50">Final Presentation, Discussion, and Feedback Questionnaire</td>
-</tr>
+
 </table>
 
 
