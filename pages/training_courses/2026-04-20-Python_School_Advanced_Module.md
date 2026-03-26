@@ -158,15 +158,15 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 
 <table border="1" width="700">
 <tr>
-   <td colspan="2"><h3>Day 1 - Introduction to Machine Learning and Dataset Exploration</h3></td>
+   <td colspan="4" align="center"><h3>Day 1 - Introduction to Machine Learning and Dataset Exploration</h3></td>
 </tr>
 <tr>
    <td height="50" width="150">13:30 - 14:00</td>
-   <td height="50">Welcome</td>
+   <td colspan="4" align="left">Welcome</td>
 </tr>
 <tr>
    <td height="50" width="150">14:00 - 14:20</td>
-   <td height="50">Introducing the topic: E.coli</td>
+   <td colspan="4" align="left">Introducing the topic: E.coli</td>
 </tr>
 <tr>
    <td height="50" width="150">14:20 - 15:00</td>
@@ -180,7 +180,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 <tr>
    <td height="50" width="150">15:40 - 16:00</td>
-   <td colspan="1">Break</td>
+   <td colspan="4" align="center">Break</td>
 </tr>
 <tr>
    <td height="50" width="150">16:00 - 17:30</td>
@@ -188,7 +188,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 
 <tr>
-   <td colspan="2"><h3>Day 2 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
+   <td colspan="4" align="center"><h3>Day 2 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
 </tr>
 <tr>
    <td height="50" width="150">09:00 - 09:30</td>
@@ -228,7 +228,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 
 <tr>
-   <td colspan="2"><h3>Day 3 - Building a  Machine Learning pipeline</h3></td>
+   <td colspan="4" align="center"><h3>Day 3 - Building a  Machine Learning pipeline</h3></td>
 </tr>
 <tr>
    <td height="50" width="150">09:00 - 09:30</td>
@@ -272,7 +272,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 
 <tr>
-   <td colspan="2"><h3>Day 4 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
+   <td colspan="4" align="center"><h3>Day 4 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
 </tr>
 <tr>
    <td height="50" width="150">09:00 - 09:30</td>
@@ -308,7 +308,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 
 <tr>
-   <td colspan="2"><h3>Day 5 - ML results Interpretation and Ddiscussion</h3></td>
+   <td colspan="4" align="center"><h3>Day 5 - ML results Interpretation and Ddiscussion</h3></td>
 </tr>
 <tr>
    <td height="50" width="150">09:00 - 09:30</td>
