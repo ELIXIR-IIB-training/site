@@ -170,11 +170,13 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 </tr>
 <tr>
    <td height="50" width="150">14:20 - 15:00</td>
-   <td height="50">ML Introduction 1: AI, ML, and Data Science key points (Lecture) [<a href="https://docs.google.com/presentation/d/1ai4xRn8BR7-Unv0AxLnuO-jEYZDCvHcSIWnJC0uG14k/edit?usp=drive_link">Slides</a>]</td>
+   <td height="50">ML Introduction 1</td> 
+   <td height="50">AI, ML, and Data Science key points (Lecture) [<a href="https://docs.google.com/presentation/d/1ai4xRn8BR7-Unv0AxLnuO-jEYZDCvHcSIWnJC0uG14k/edit?usp=drive_link">Slides</a>]</td>
 </tr>
 <tr>
    <td height="50" width="150">15:00 - 15:40</td>
-   <td height="50">ML Introduction 2: Supervised, Unsupervised, and Reinforcement Learning (Lecture) [<a href="https://docs.google.com/presentation/d/1kx-bN53-qfWfSI00jFVdqxSrEZDJpiPH7bJeBWR7oHE/edit?usp=sharing">Slides</a>]</td>
+   <td height="50">ML Introduction 2</td> 
+   <td height="50">Supervised, Unsupervised, and Reinforcement Learning (Lecture) [<a href="https://docs.google.com/presentation/d/1kx-bN53-qfWfSI00jFVdqxSrEZDJpiPH7bJeBWR7oHE/edit?usp=sharing">Slides</a>]</td>
 </tr>
 <tr>
    <td height="50" width="150">15:40 - 16:00</td>
