@@ -158,27 +158,27 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 
 <table border="1" width="700">
 <tr>
-   <td colspan="4" align="center"><h3>Day 1 - Introduction to Machine Learning and Dataset Exploration</h3></td>
+   <td colspan="4" align="center"><h3>Day 1 - 14:00 -17:30 - Introduction to Machine Learning and Dataset Exploration</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 2 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
+   <td colspan="4" align="center"><h3>Day 2 - 9:00 - 13:00 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 3 - Building a  Machine Learning pipeline</h3></td>
+   <td colspan="4" align="center"><h3>Day 3 - 9:00 - 13:00 - Building a  Machine Learning pipeline</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 4 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
+   <td colspan="4" align="center"><h3>Day 4 - 9:00 - 13:00 and 14:00 - 17:30 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 5 - ML results Interpretation and Ddiscussion</h3></td>
+   <td colspan="4" align="center"><h3>Day 5 - 9:00 - 13:00 and 14:00 - 16:00 - ML results Interpretation and Ddiscussion</h3></td>
 </tr>
 
 </table>
