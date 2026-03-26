@@ -155,9 +155,9 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 ## Programme
 
 <br>
-|Day 1 - - 14:00 -17:30 Introduction to machine learning concepts and initial exploration of the dataset|
-| Titolo | Tabella | Prova |
-|13:30 - 14:00|Welcome|||
+|Day 1 - - 14:00 -17:30 Introduction to machine learning concepts and initial exploration of the dataset| <br>
+| Titolo | Tabella | Prova | <br>
+|13:30 - 14:00|Welcome| <br>
 
 
 
