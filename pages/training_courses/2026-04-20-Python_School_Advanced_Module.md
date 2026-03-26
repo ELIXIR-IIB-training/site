@@ -40,8 +40,8 @@ target_audience:
   - "Research scientists and health professionals using genomic data"
 
 instructors:
-  - "Loredana Le Pera"
-  - "Valeria Michelacci"
+  - "Luca De Sabato"
+  - "Damiano Parrone"
   - "Stefano Morabito"
   - "Allegra Via"
 
