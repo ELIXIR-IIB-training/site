@@ -152,7 +152,7 @@ For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.tra
 
 
 
-## Programme
+## Preliminary Programme
 
 <br>
 
