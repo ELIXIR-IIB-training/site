@@ -145,7 +145,7 @@ At the end of the course, the student will be able to:
 <br>
 
 ## Contact
-For queries, contact us at [elixir.ita.training@gmail.com](mailto:elixir.ita.training@gmail.com)
+For queries, contact us {% include contact_us.html %}
 <br>
 <br>
 
