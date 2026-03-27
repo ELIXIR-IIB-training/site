@@ -145,7 +145,7 @@ At the end of the course, the student will be able to:
 <br>
 
 ## Contact
-For queries, contact us {% include contact_us.html %}
+For all kinds of queries, contact us at [valeria.michelacci@iss.it](mailto:valeria.michelacci@iss.it)
 <br>
 <br>
 
@@ -158,22 +158,22 @@ For queries, contact us {% include contact_us.html %}
 
 <table border="1" width="700">
 <tr>
-   <td colspan="4" align="center"><h3>Day 1 - 14:00 -17:30 - Introduction to Machine Learning and Dataset Exploration</h3></td>
+   <td colspan="4" align="center"><h3>Day 1 - 14:00 -17:00 - Introduction to Machine Learning and Dataset Exploration</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 2 - 9:00 - 13:00 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
+   <td colspan="4" align="center"><h3>Day 2 - 9:00 - 13:00 and 14:00 - 17:00 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 3 - 9:00 - 13:00 - Building a  Machine Learning pipeline</h3></td>
+   <td colspan="4" align="center"><h3>Day 3 - 9:00 - 13:00 and 14:00 - 17:00 - Building a  Machine Learning pipeline</h3></td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 4 - 9:00 - 13:00 and 14:00 - 17:30 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
+   <td colspan="4" align="center"><h3>Day 4 - 9:00 - 13:00 and 14:00 - 17:00 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
 </tr>
 
 
