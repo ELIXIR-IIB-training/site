@@ -68,6 +68,7 @@ Machine Learning (ML) is increasingly central to scientific research and finds i
 ## Important Dates 
 
 - Deadline for applications: **8 April, 2026**
+- Chosen participants will be notified by: **10 April, 2026**
 - School date: **20-24 April, 2026** 
 <br>
 <br>
