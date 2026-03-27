@@ -167,27 +167,27 @@ For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it]
 
 <table border="1" width="700">
 <tr>
-   <td colspan="4" align="center"><h3>Day 1 - 14:00 -17:00 - Introduction to Machine Learning and Dataset Exploration</h3></td>
+   <td colspan="4" align="center">Day 1 - 14:00 -17:00 - Introduction to Machine Learning and Dataset Exploration</td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 2 - 9:00 - 13:00 and 14:00 - 17:00 - Data pre-processing, cleaning and dimensionality reduction techniques</h3></td>
+   <td colspan="4" align="center">Day 2 - 9:00 - 13:00 and 14:00 - 17:00 - Data pre-processing, cleaning and dimensionality reduction techniques</td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 3 - 9:00 - 13:00 and 14:00 - 17:00 - Building a  Machine Learning pipeline</h3></td>
+   <td colspan="4" align="center">Day 3 - 9:00 - 13:00 and 14:00 - 17:00 - Building a  Machine Learning pipeline</td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 4 - 9:00 - 13:00 and 14:00 - 17:00 - Model Validation, Hyperparameter Tuning and Model Interpretation</h3></td>
+   <td colspan="4" align="center">Day 4 - 9:00 - 13:00 and 14:00 - 17:00 - Model Validation, Hyperparameter Tuning and Model Interpretation</td>
 </tr>
 
 
 <tr>
-   <td colspan="4" align="center"><h3>Day 5 - 9:00 - 13:00 and 14:00 - 16:00 - ML results Interpretation and Ddiscussion</h3></td>
+   <td colspan="4" align="center">Day 5 - 9:00 - 13:00 and 14:00 - 16:00 - ML results Interpretation and Discussion</td>
 </tr>
 
 </table>
