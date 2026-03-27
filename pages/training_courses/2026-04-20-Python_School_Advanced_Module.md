@@ -30,11 +30,16 @@ scientific_topic:
   - "Public health and epidemiology" # topic_3305
 
 learning_outcomes:
-  - "Describe fundamental ML concepts and distinguish between main learning paradigms"
-  - "Illustrate the ML workflow phases, from data collection to model evaluation"
+  - "Describe the fundamental concepts of ML and distinguish between the main learning paradigms"
+  - "Illustrate the phases of the ML workflow, from data collection and pre-processing to model evaluation"
+  - "Explore the structure of a dataset and visualize its characteristics using plotting techniques"
+  - "Perform dataset pre-processing"
+  - "Apply dimensionality reduction techniques (PCA) and clustering"
   - "Implement ML algorithms in Python using standard libraries"
-  - "Apply dimensionality reduction (PCA) and hierarchical clustering techniques"
-  - "Critically interpret model results and contextualize them within biological problems"
+  - "Evaluate model performance using metrics appropriate to the task"
+  - "Select the most suitable algorithm based on the specific problem"
+  - "Recognize and manage the main ML issues (overfitting, data leakage, class imbalance)"
+  - "Critically interpret model results and contextualize them with respect to the biological problem of interest"
 
 target_audience:
   - "Research scientists and health professionals using genomic data"
@@ -120,17 +125,20 @@ This Advanced Module is a follow-up to the previous modules of the School. It as
 Research scientists, veterinarians, and health professionals at any stage of their career who are applying (or planning to apply) Machine Learning to genomic data.
 <br> 
 <br> 
-<br>
 
 ### Learning Outcomes
 
-At the end of the course, the student will be able to:
-- Describe fundamental ML concepts and distinguish between learning paradigms.
-- Execute data pre-processing and exploratory analysis using plotting techniques.
-- Apply dimensionality reduction (PCA) and clustering algorithms.
-- Implement and evaluate ML models in Python using standard libraries (e.g., Scikit-learn).
-- Manage common ML issues such as overfitting, data leakage, and class imbalance.
-- Critically interpret model outputs in a biological and Public Health context.
+At the end of the course, participants will be able to:
+- Describe the fundamental concepts of ML and distinguish between the main learning paradigms
+- Illustrate the phases of the ML workflow, from data collection and pre-processing to model evaluation
+- Explore the structure of a dataset and visualize its characteristics using plotting techniques
+- Perform dataset pre-processing
+- Apply dimensionality reduction techniques (PCA) and clustering
+- Implement ML algorithms in Python using standard libraries
+- Evaluate model performance using metrics appropriate to the task
+- Select the most suitable algorithm based on the specific problem
+- Recognize and manage the main ML issues (overfitting, data leakage, class imbalance)
+- Critically interpret model results and contextualize them with respect to the biological problem of interest
 <br> 
 <br>
 
@@ -146,7 +154,7 @@ At the end of the course, the student will be able to:
 <br>
 
 ## Contact
-For all kinds of queries, contact us at [valeria.michelacci@iss.it](mailto:valeria.michelacci@iss.it)
+For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it](mailto:valeria.michelacci@iss.it)
 <br>
 <br>
 
