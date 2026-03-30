@@ -1,6 +1,6 @@
 ---
 title: "School of Python Advanced module"
-type: training_course
+type: training_courses
 description: 20-24 April 2026 <br> Rome, Italy
 event:
   - name: "School of Python for genomics Massimiliano Orsini. Advanced Module: Applying Machine Learning to Genomics Data"

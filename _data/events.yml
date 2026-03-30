@@ -21,6 +21,13 @@
   description: "[More info here](https://www.psidev.info/hupo-psi-meeting-2026)"
   location: Rome, Italy
   
+- name: "School of Python Advanced module"
+  eventID: 2026006
+  startDate: 2026-04-20
+  endDate: 2026-04-24
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-04-20-Python_School_Advanced_Module)"
+  location: Rome, Italy
+  
 - name: "Biological networks: topological analysis and visualization using Cytoscape software"
   eventID: 2026005
   startDate: 2026-05-20
