@@ -46,8 +46,10 @@ target_audience:
 
 instructors:
   - "Luca De Sabato"
+  - "Arnold Knijn"
+  - "Loredana Le Pera"
+  - "Valeria Michelacci"
   - "Damiano Parrone"
-  - "Stefano Morabito"
   - "Allegra Via"
 
 registration_url: "https://elixir-iib-training.github.io/site/2026-04-20-Python_School_Advanced_Module"
