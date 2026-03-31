@@ -1,5 +1,5 @@
 ---
-title: "School of Python Advanced module"
+title: "School of Python for genomics Massimiliano Orsini. Advanced Module: Applying Machine Learning to Genomics Data"
 type: training_courses
 description: 20-24 April 2026 <br> Rome, Italy
 event:
@@ -152,6 +152,14 @@ At the end of the course, participants will be able to:
 - **Valeria Michelacci** - SIDiLV/National Institute of Health (ISS), Italy 
 - **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institute of Health (ISS), Italy
 - **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome, Italy
+<br>
+<br>
+
+### Helpers
+
+- **Irene Artuso**, Istituto Superiore di Sanità (ISS), Rome, Italy (ELIXIR-IT Training Platform)
+- **Arnold Knijn**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Gianmarco Pascarella** - CNR, Italy (ELIXIR-IT Training Platform)
 <br>
 <br>
 
