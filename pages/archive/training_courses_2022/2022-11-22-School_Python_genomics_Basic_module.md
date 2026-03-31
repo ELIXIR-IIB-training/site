@@ -53,7 +53,7 @@ registration_url: "https://elixir-iib-training.github.io/site/2022-11-22-School_
 inLanguage: "en-GB"
 ---
 
-[{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}](https://bioinfo.medils.hr/)
+{% include image.html file="/2022_and_older/elixir_banner_22novembre_blu.png" alt="elixir_banner_22novembre_blu" max-width="10" %}
 
 <br>
 <br>
