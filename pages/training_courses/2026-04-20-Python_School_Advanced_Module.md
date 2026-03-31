@@ -56,6 +56,10 @@ registration_url: "https://elixir-iib-training.github.io/site/2026-04-20-Python_
 inLanguage: "it-IT"
 ---
 
+![Funding_Rome_technopole_logo](images/2025_events/barra_loghi_rome_technopole_Bianco.jpg){: height="1200px" width="1200px"}
+
+![ISS_Logo](images/2025_events/Logo_ISS.png){: height="150px" width="150px"}   ![IIB_ELIXIR_LOGO](images/2025_events/IIB_ELIXIR_col.png){: height="300px" width="300px"}
+
 <br>
 
 ## Course Description
@@ -204,5 +208,3 @@ For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it]
 
 
 
-<br>
-{% include image.html file="/infrastructures/logo_iib.png" alt="Logo_IIB" max-width="10" %}{% include image.html file="/2022_and_older/Logo_SIDILV.png" alt="Logo_SIDILV" max-width="5" %}
