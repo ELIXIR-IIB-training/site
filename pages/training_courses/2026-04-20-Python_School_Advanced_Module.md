@@ -46,7 +46,6 @@ target_audience:
 
 instructors:
   - "Luca De Sabato"
-  - "Arnold Knijn"
   - "Loredana Le Pera"
   - "Valeria Michelacci"
   - "Damiano Parrone"
@@ -161,9 +160,10 @@ At the end of the course, participants will be able to:
 
 ### Helpers
 
-- **Irene Artuso**, Istituto Superiore di Sanità (ISS), Rome, Italy (ELIXIR-IT Training Platform)
+- **Andrea Cacioppo**, National Institute of Health (ISS), Italy
+- **Donald Baku**, Institute of Molecular Biology and Pathology -  CNR, Italy
 - **Arnold Knijn**, Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Gianmarco Pascarella** - CNR, Italy (ELIXIR-IT Training Platform)
+- **Gianmarco Pascarella**, ELIXIR Italy (Training Platform)/CNR, Italy
 <br>
 <br>
 
