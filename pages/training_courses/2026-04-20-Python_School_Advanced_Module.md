@@ -178,7 +178,7 @@ For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it]
 ## Preliminary Programme
 
 <br>
-
+<!--
 <table border="1" width="700">
 <tr>
    <td colspan="4" align="center">20 April - 14:00 -17:00 - Introduction to Machine Learning and Dataset Exploration</td>
@@ -205,6 +205,251 @@ For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it]
 </tr>
 
 </table>
+-->
 
+<table border="1" width="100%">
+   <tr>
+       <th>Time</th>
+       <th>Objective</th>
+       <th>Activity</th>
+       <th>Instructor</th>
+   </tr>
+
+   <tr>
+       <td colspan="4"><h3>Day 1 - Monday 20/04/2026</h3></td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00</td>
+       <td colspan="3" height="50">Welcome</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00 - 14:45</td>
+       <td colspan="3" height="50">Participant Introductions</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:45 - 15:00</td>
+       <td height="50">Course Introduction - School History</td>
+       <td height="50">Presentation</td>
+       <td height="50">Massimiliano Orsini, Stefano Morabito</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:00 - 15:15</td>
+       <td height="50">SIDILV Society and ELIXIR Research Infrastructure Presentation</td>
+       <td height="50">Presentation</td>
+       <td height="50">Valeria Michelacci, Loredana Le Pera</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:15 - 15:45</td>
+       <td height="50">Review of Previous Modules</td>
+       <td height="50">Presentation</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:45 - 16:15</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">16:15 - 16:40</td>
+       <td colspan="3" height="50">Setting</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">16:40 - 17:25</td>
+       <td height="50">Introduction to Machine Learning</td>
+       <td height="50">Presentation</td>
+       <td height="50">Allegra Via</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">17:25 - 17:30</td>
+       <td colspan="3" height="50">Wrap-up</td>
+   </tr>
+
+   <tr>
+       <td colspan="4"><h3>Day 2 - Tuesday 21/04/2026</h3></td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:00 - 09:30</td>
+       <td colspan="3" height="50">Warm-up</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:30 - 09:45</td>
+       <td colspan="3" height="50">Previous Day Recap and Q&A</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:45 - 10:15</td>
+       <td height="50">Machine Learning Pipeline and Artificial Dataset Presentation</td>
+       <td height="50">Presentation</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">10:15 - 11:00</td>
+       <td height="50">Data Import and Preprocessing (Artificial Dataset)</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:00 - 11:30</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:30 - 13:00</td>
+       <td height="50">Data Preprocessing and Feature Encoding</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">13:00 - 14:00</td>
+       <td colspan="3" height="50">Lunch</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00 - 15:30</td>
+       <td height="50">Model Generation (K-Nearest Neighbors) and Hyperparameter Tuning</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:30 - 16:00</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">16:00 - 17:30</td>
+       <td height="50">Model Generation (Decision Trees) and Hyperparameter Tuning</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+
+   <tr>
+       <td colspan="4"><h3>Day 3 - Wednesday 22/04/2026</h3></td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:00 - 09:30</td>
+       <td colspan="3" height="50">Previous Day Recap and Q&A</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:30 - 11:00</td>
+       <td height="50">Cross-Validation (Single Model)</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:00 - 11:30</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:30 - 13:00</td>
+       <td height="50">Best Model Selection</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">13:00 - 14:00</td>
+       <td colspan="3" height="50">Lunch</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00 - 14:15</td>
+       <td height="50">Real Dataset Presentation</td>
+       <td height="50">-</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:15 - 15:30</td>
+       <td height="50">Data Import and Preprocessing (Real Dataset)</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:30 - 16:00</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">16:00 - 17:30</td>
+       <td height="50">Data Preprocessing and Feature Encoding</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+
+   <tr>
+       <td colspan="4"><h3>Day 4 - Thursday 23/04/2026</h3></td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:00 - 09:30</td>
+       <td colspan="3" height="50">Previous Day Recap and Q&A</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:30 - 11:00</td>
+       <td height="50">Model Generation (K-Nearest Neighbors) and Hyperparameter Tuning</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:00 - 11:30</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:30 - 13:00</td>
+       <td height="50">Model Generation (Decision Trees) and Hyperparameter Tuning</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">13:00 - 14:00</td>
+       <td colspan="3" height="50">Lunch</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00 - 15:30</td>
+       <td height="50">Cross-Validation (Single Model)</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:30 - 16:00</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">16:00 - 17:30</td>
+       <td height="50">Best Model Selection</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+
+   <tr>
+       <td colspan="4"><h3>Day 5 - Friday 24/04/2026</h3></td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:00 - 09:30</td>
+       <td colspan="3" height="50">Previous Day Recap and Q&A</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">09:30 - 11:00</td>
+       <td height="50">Feature Importance Analysis</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:00 - 11:30</td>
+       <td colspan="3" height="50">Break</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">11:30 - 13:00</td>
+       <td height="50">Model Packaging and Deployment</td>
+       <td height="50">Hands-on</td>
+       <td height="50">Luca De Sabato</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">13:00 - 14:00</td>
+       <td colspan="3" height="50">Lunch</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">14:00 - 15:30</td>
+       <td height="50">Dimensionality Reduction</td>
+       <td height="50">Presentation</td>
+       <td height="50">Damiano Parrone</td>
+   </tr>
+   <tr>
+       <td height="50" width="120">15:30 - 16:00</td>
+       <td height="50">Final Discussion and Closing Remarks</td>
+       <td height="50">-</td>
+       <td height="50">Stefano Morabito</td>
+   </tr>
+</table>
 
 
