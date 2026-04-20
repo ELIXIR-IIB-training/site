@@ -178,34 +178,7 @@ For any type of inquiry, please feel free to contact [valeria.michelacci@iss.it]
 ## Preliminary Programme
 
 <br>
-<!--
-<table border="1" width="700">
-<tr>
-   <td colspan="4" align="center">20 April - 14:00 -17:00 - Introduction to Machine Learning and Dataset Exploration</td>
-</tr>
 
-
-<tr>
-   <td colspan="4" align="center">21 April - 9:00 - 13:00 and 14:00 - 17:00 - Data pre-processing, cleaning and dimensionality reduction techniques</td>
-</tr>
-
-
-<tr>
-   <td colspan="4" align="center">22 April - 9:00 - 13:00 and 14:00 - 17:00 - Building a  Machine Learning pipeline</td>
-</tr>
-
-
-<tr>
-   <td colspan="4" align="center">23 April - 9:00 - 13:00 and 14:00 - 17:00 - Model Validation, Hyperparameter Tuning and Model Interpretation</td>
-</tr>
-
-
-<tr>
-   <td colspan="4" align="center">24 April - 9:00 - 13:00 and 14:00 - 16:00 - ML results Interpretation and Discussion</td>
-</tr>
-
-</table>
--->
 
 <table border="1" width="100%">
    <tr>
