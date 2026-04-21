@@ -75,8 +75,8 @@ This training course focuses on the study of the microbiota using Next Generatio
 
 ### Venue
 
-University of Bari “Aldo Moro”
-Aula 4, [“Vecchi Istituti Biologici”](https://maps.app.goo.gl/8vMErM9DugHk55QGA), Campus Ernesto Quagliarello, via  Orabona 4, 70126, Bari.
+University of Bari “Aldo Moro” <br>
+Aula 4, [“Vecchi Istituti Biologici”](https://maps.app.goo.gl/8vMErM9DugHk55QGA), Campus Ernesto Quagliarello, via  Orabona 4, 70126, Bari. <br>
 The closest Campus entrance is on Via Giovanni Amendola 165/A
 
 <br>
