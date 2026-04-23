@@ -14,18 +14,18 @@
   description: "[More info here](https://elixir-iib-training.github.io/site/2026-03-18_Young_Minds_at_Work)"
   location: online
   
-- name: "HUPO-PSI Spring Meeting 2026"
-  eventID: 2026002
-  startDate: 2026-05-05
-  endDate: 2026-05-08
-  description: "[More info here](https://www.psidev.info/hupo-psi-meeting-2026)"
-  location: Rome, Italy
-  
 - name: "School of Python for genomics Massimiliano Orsini. Advanced Module: Applying Machine Learning to Genomics Data"
   eventID: 2026006
   startDate: 2026-04-20
   endDate: 2026-04-24
   description: "[More info here](https://elixir-iib-training.github.io/site/2026-04-20-Python_School_Advanced_Module)"
+  location: Rome, Italy
+  
+- name: "HUPO-PSI Spring Meeting 2026"
+  eventID: 2026002
+  startDate: 2026-05-05
+  endDate: 2026-05-08
+  description: "[More info here](https://www.psidev.info/hupo-psi-meeting-2026)"
   location: Rome, Italy
   
 - name: "Biological networks: topological analysis and visualization using Cytoscape software"
@@ -41,3 +41,10 @@
   endDate: 2026-06-22
   description: "[More info here](https://meetings.embo.org/event/26-pop-genomics)"
   location: Torre del Greco, Italy
+  
+- name: "Profiling of microbial communities using targeted and shotgun metagenomics"
+  eventID: 2026007
+  startDate: 2026-06-29
+  endDate: 2026-07-03
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-06-29-Profiling_microbial_communities)"
+  location: Bari, Italy
