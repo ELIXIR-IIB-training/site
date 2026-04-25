@@ -2,11 +2,12 @@
 title: "School of Python for genomics Massimiliano Orsini. Advanced Module: Applying Machine Learning to Genomics Data"
 type: training_courses
 description: 20-24 April 2026 <br> Rome, Italy
+state: closed
 event:
   - name: "School of Python for genomics Massimiliano Orsini. Advanced Module: Applying Machine Learning to Genomics Data"
     organisers: L. Le Pera <br> S. Morabito <br> A. Via <br> SIDiLV <br> ELIXIR-IT 
     event_date: 2026/04/20
-    state: open
+    state: closed
 schema_type: "Course"
 short_description: "Advanced course focused on utilizing Python to apply Machine Learning models to genomic characterization data, specifically for pathogen population analysis in Public Health."
 startDate: "2026-04-20"
