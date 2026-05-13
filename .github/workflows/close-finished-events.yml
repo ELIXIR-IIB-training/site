@@ -1,0 +1,31 @@
+name: Close finished events
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  close-finished-events:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Close finished courses and meetings
+        run: python scripts/close_finished_events.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'elixir_training_bot'
+          git config --global user.email 'elixir_training_bot@github.com'
+          git add pages/training_courses pages/meetings_workshops
+          if ! git diff --cached --quiet; then
+            git commit -m "Close finished events"
+            git push
+          else
+            echo "No changes to commit."
+          fi
