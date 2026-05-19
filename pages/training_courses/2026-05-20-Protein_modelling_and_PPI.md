@@ -95,7 +95,10 @@ A maximum of 30 candidates will be selected on a **first-come- first-served basi
 
 ### Helpers
 
+- Simone Bonora, PhD student, University of Salerno, ELIXIR-IT, Italy
+- Domenico Palladino, PhD student, University of Salerno, ELIXIR-IT, Italy
 - Alessia Pinto, PhD student, University of Rome “Tor Vergata”, ELIXIR-IT, Italy
+
 <br>
 <br>
 
