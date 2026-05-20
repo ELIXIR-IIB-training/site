@@ -60,8 +60,8 @@ This training course focuses on the study of the microbiota using Next Generatio
 
 ## Important Dates
 
-- Deadline for applications: **20th May 2026** 
-- Chosen participants will be notified by: **31st May 2026** 
+- Deadline for applications: **31th May 2026** 
+- Chosen participants will be notified by: **8th June 2026** 
 - Course date: **29 June - 3 July 2026** 
 
 <br>
