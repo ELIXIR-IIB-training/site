@@ -2,6 +2,7 @@
 title: "Biological networks: topological analysis and visualization using Cytoscape software"
 event_type: "ELIXIR Training Course"
 type: training_courses
+state: closed
 description: 20 May 2026 <br> Fisciano, Italy
 event:
   - name: "Biological networks: topological analysis and visualization using Cytoscape software"
@@ -9,7 +10,7 @@ event:
     teachers: [L. Licata]
     venue: [online]
     event_date: 2026/05/20
-    state: open
+    state: closed
 
 schema_type: "Course"
 short_description: "Study the interactome to map cell organization and disease. Using Cytoscape, extract PPI data, build networks, analyze topology, cluster, and perform functional network enrichment analysis."
