@@ -21,20 +21,16 @@ venue: "Tecnopolo di Roma - Sede Tiburtina, Via Giacomo Peroni 442/444"
 addressLocality: "Rome"
 postalCode: "00131"
 addressCountry: "Italy"
-
 organizer:
   - "Rome Technopole"
   - "Fondazione Policlinico Universitario Agostino Gemelli IRCCS"
   - "CNR-IASI"
   - "ELIXIR-IT"
-
 scientific_topic:
   - "Imaging"                         # topic_3384
   - "Machine learning"                # topic_3474
   - "Medical informatics"             # topic_3063
   - "Public health and epidemiology" # topic_3305
-
-
 registration_url: "https://www.rometechnopole.it/il-ruolo-della-intelligenza-artificiale-nellimaging-diagnostico-2/"
 inLanguage: "en-GB"
 ---
