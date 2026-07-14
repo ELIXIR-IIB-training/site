@@ -2,8 +2,8 @@
 title: "Profiling of microbial communities using targeted and shotgun metagenomics"
 event_type: "ELIXIR Training Course"
 type: training_courses
-state: closed
 description: 29 June - 3 July 2026 <br> Bari, Italy
+state: closed
 event:
   - name: "Profiling of microbial communities using targeted and shotgun metagenomics"
     organisers: G.Defazio<br> C.Donati<br> B.Fosso<br> M.Santamaria
