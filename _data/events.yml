@@ -48,3 +48,10 @@
   endDate: 2026-07-03
   description: "[More info here](https://elixir-iib-training.github.io/site/2026-06-29-Profiling_microbial_communities)"
   location: Bari, Italy
+  
+ - name: "21st International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics" 
+  eventID: 2026008
+  startDate: 2026-09-02
+  endDate: 2026-09-04 
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-02_CIBB2026)
+  location: Rome, Italy
