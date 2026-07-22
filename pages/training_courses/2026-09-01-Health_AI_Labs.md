@@ -37,11 +37,6 @@ learning_outcomes:
   - "Build, test, and debug a functional prototype with support from technical and clinical mentors"
   - "Present the developed prototype and communicate its intended healthcare application"
 
-target_audience:
-  - "PhD students"
-  - "Master's Students"
-  - "Post-Doc research scientists"
-
 instructors:
   - "Nikolaos Petsas"
   - "Piergiacomo M. Cacciamani Fanelli"
@@ -108,13 +103,6 @@ Seats are limited and attendance is managed through a waiting list. Submission o
 ## Contacts
 
 For conference-related queries, please contact: [cibb2026@uniroma1.it](mailto:cibb2026@uniroma1.it)
-
-<br>
-<br>
-
-### Target Audience
-
-The tutorial is designed for PhD students, early-career researchers, Master's students, researchers, and practitioners working in statistics, biostatistics, bioinformatics, computational biology, or related quantitative disciplines. No previous experience with single-cell data is required.
 
 <br>
 <br>

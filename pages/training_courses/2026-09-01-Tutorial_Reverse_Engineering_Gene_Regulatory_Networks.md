@@ -17,6 +17,7 @@ endDate: "2026-09-01"
 courseMode: "onsite"
 venue: "Sapienza University of Rome"
 addressLocality: "Rome"
+postalCode: "00185"
 addressCountry: "Italy"
 
 organizer:
@@ -113,11 +114,9 @@ Seats are limited.
 
 ### Target Audience
 
-The tutorial is designed for:
-
-- PhD students and early-career researchers in bioinformatics, systems biology, computational biology, or related fields
-- Researchers approaching gene regulatory network inference for the first time
-- Participants of CIBB 2026 wishing to deepen their understanding of network inference methods before the main conference
+- PhD students
+- Master's Students
+- Post-Doc research scientists
 
 <br>
 <br>
