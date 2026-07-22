@@ -122,9 +122,6 @@ By the end of the lab, participants will be able to:
 
 ### Resources and tools covered
 
-- Replit
-- Codex Flow
-- Antigravity
 - [Labs Essential Toolkit](https://github.com/petsas/Labs-Essential-Toolkit)
 
 <br>
@@ -132,7 +129,7 @@ By the end of the lab, participants will be able to:
 
 ### Prerequisites
 
-Participants must bring their own laptop and are expected to take part interactively throughout the complete afternoon development sprint.
+Participants must bring their own laptop.
 
 <br>
 <br>
