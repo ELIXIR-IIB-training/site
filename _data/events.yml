@@ -53,21 +53,21 @@
   eventID: 2026009
   startDate: 2026-09-01
   endDate: 2026-09-01 
-  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-02_CIBB2026)"
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-01-Health_AI_Labs)"
   location: Rome, Italy
 
 - name: "Tutorial on Reverse Engineering of Gene Regulatory Networks" 
   eventID: 2026010
   startDate: 2026-09-01
   endDate: 2026-09-01 
-  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-02_CIBB2026)"
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-01-Tutorial_Reverse_Engineering_Gene_Regulatory_Networks)"
   location: Rome, Italy
 
 - name: "Tutorial on Single-Cell Data Analysis" 
   eventID: 2026011
   startDate: 2026-09-01
   endDate: 2026-09-01 
-  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-02_CIBB2026)"
+  description: "[More info here](https://elixir-iib-training.github.io/site/2026-09-01-Tutorial_Single_Cell_Data_Analysis)"
   location: Rome, Italy
   
 - name: "21st International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics" 
