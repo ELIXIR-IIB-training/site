@@ -115,9 +115,9 @@ For conference-related queries, please contact: [cibb2026@uniroma1.it](mailto:ci
 
 ### Target Audience
 
-- "PhD students"
-- "Master's Students"
-- "Post-Doc research scientists"
+- PhD students
+- Master's Students
+- Post-Doc research scientists
 
 <br>
 <br>
@@ -158,7 +158,7 @@ Familiarity with R and basic statistical concepts is recommended. Participants m
 
 ## Registration form
 
-[Register Here](https://cibb2026.teralab.ai/satellite-events/statistical-principles-and-practice-of-single-cell-data-analysis/form//)
+[Register Here](https://cibb2026.teralab.ai/satellite-events/statistical-principles-and-practice-of-single-cell-data-analysis/form/)
 
 <br>
 <br>
