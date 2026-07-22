@@ -86,7 +86,7 @@ Seats are limited and attendance is managed through a waiting list. Submission o
 
 - Nikolaos Petsas, Clinical Neuroscientist and Health Statistics Specialist, Department of Human Neurosciences, Sapienza University of Rome, Italy
 - Piergiacomo M. Cacciamani Fanelli, Biomedical Engineer and Medical Doctor, CEO and Founder of Integra Engineering Solutions S.r.l., Italy
-- Enrico Armiento, Pediatric Resident, Bambino Gesù Children's Hospital, Rome, Italy
+- Enrico Armiento, Pediatric Resident, Bambino Gesù Hospital, Rome, Italy
 - Bamdad Kianmehr, Data Engineer and Research Collaborator, Department of Human Neurosciences, Sapienza University of Rome, Italy
 
 <br>
