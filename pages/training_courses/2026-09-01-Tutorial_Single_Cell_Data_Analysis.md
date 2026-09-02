@@ -2,13 +2,14 @@
 title: "Tutorial on Single-Cell Data Analysis"
 event_type: "CIBB 2026 Tutorial"
 type: training_courses
+state: closed
 description: 1 September 2026 <br> Rome, Italy
 event:
   - name: "Tutorial on Single-Cell Data Analysis"
     organisers: young-SIS<br>CIBB2026
     venue: Rome, Italy
     event_date: 2026/09/01
-    state: open
+    state: closed
 
 schema_type: "Course"
 short_description: "A hands-on introduction to the statistical foundations and practical workflow of single-cell data analysis in R."

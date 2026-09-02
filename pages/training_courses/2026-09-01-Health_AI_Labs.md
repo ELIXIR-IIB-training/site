@@ -2,13 +2,14 @@
 title: "Health AI Labs"
 event_type: "CIBB 2026 Lab"
 type: training_courses
+state: closed
 description: 1 September 2026 <br> Rome, Italy
 event:
   - name: "Health AI Labs"
     organisers: SIIAM<br>CIBB2026
     venue: Rome, Italy
     event_date: 2026/09/01
-    state: open
+    state: closed
 
 schema_type: "Course"
 short_description: "Artificial Intelligence in medicine and healthcare becomes a practical tool in the hands of those who live clinical work and research every day."

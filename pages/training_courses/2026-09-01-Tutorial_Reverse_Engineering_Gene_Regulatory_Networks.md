@@ -2,13 +2,14 @@
 title: "Tutorial on Reverse Engineering of Gene Regulatory Networks"
 event_type: "CIBB 2026 Tutorial"
 type: training_courses
+state: closed
 description: 1 September 2026 <br> Rome, Italy
 event:
   - name: "Tutorial on Reverse Engineering of Gene Regulatory Networks"
     organisers: Young InfoLife<br>CIBB2026
     venue: Rome, Italy
     event_date: 2026/09/01
-    state: open
+    state: closed
 
 schema_type: "Course"
 short_description: "A hands-on tutorial on inferring gene regulatory networks from transcriptomic data, covering the full analytical workflow from data preprocessing to network evaluation."
