@@ -64,6 +64,9 @@ This problem is particularly relevant but also complex: transcriptomic datasets 
 
 This tutorial is designed to guide participants through a complete reverse-engineering workflow, from data preparation to network evaluation, with an introductory and practical approach accessible even to those without prior experience in biological network inference.
 
+This is a satellite event organised by 21st International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB) [link](https://cibb2026.teralab.ai/)
+
+
 <br>
 <br>
 

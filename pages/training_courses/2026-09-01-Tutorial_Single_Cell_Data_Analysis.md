@@ -59,6 +59,8 @@ inLanguage: "en-GB"
 
 The course introduces the statistical foundations of single-cell data analysis, providing a general framework for understanding the main characteristics of single-cell datasets and the methodological challenges they pose. As such, it is also suitable for participants approaching this type of data analysis for the first time.
 
+This is a satellite event organised by 21st International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB) [link](https://cibb2026.teralab.ai/)
+
 <br>
 <br>
 

@@ -57,6 +57,8 @@ inLanguage: "en-GB"
 Artificial Intelligence in medicine and healthcare has been a conference topic for too long. It is time for it to become a tool in the hands of those who live clinical practice and research every day. Bring your laptop, your curiosity, and a willingness to get your hands dirty.
 Due to its condensed format as an intensive hacking session, this event requires dedicated interactive participation with the implicit promise to stay until the conclusion of the evening sprint. A waiting list will be set up to manage attendance restrictions.
 
+This is a satellite event organised by 21st International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB) [link](https://cibb2026.teralab.ai/)
+
 <br>
 <br>
 
