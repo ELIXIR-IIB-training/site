@@ -15,7 +15,7 @@ event:
 no_bioschemas: true
 ---
 
-[ELIXIR Training Course](https://web.vscht.cz/~spiwokv/trt/)
+[ELIXIR Training Course](https://training.vib.be/all-trainings/train-trainer)
 
 
 <br>
